@@ -6,7 +6,7 @@ theurl <- "http://www.cfbdatawarehouse.com/data/div_ia_team_index.php"
 doc = htmlParse(theurl)
 tableNodes <- getNodeSet(doc, "//table//tr//td[position()=1]//a")
 
-tableNodes1 <- tableNodes[15:134]
+tableNodes1 <- tableNodes[17:138]
 
 schools <- sapply(X = tableNodes1, FUN = xmlValue)
 
@@ -14,12 +14,12 @@ schools <- sapply(X = tableNodes1, FUN = xmlValue)
 teamAddr <- unlist(sapply(X = tableNodes1, FUN = xmlGetAttr, "href"))
 teamAddr <- paste("http://www.cfbdatawarehouse.com/data/", teamAddr, sep = "")
 
-tempFinal <- vector("list", length(teamAddr))
+#tempFinal <- vector("list", length(teamAddr))
 for(j in 1:length(teamAddr)){
  doc <- htmlParse(teamAddr[j])
  tableNodes <- getNodeSet(doc, "//table//tr//td[position()=1]//a")
- lenTB <- length(tableNodes)-2
- tableNodes1 <- tableNodes[15:lenTB]
+ lenTB <- length(tableNodes)-1
+ tableNodes1 <- tableNodes[17:lenTB]
 
  years <- sapply(X = tableNodes1, FUN = xmlValue)
 
@@ -28,24 +28,29 @@ for(j in 1:length(teamAddr)){
  yearAddr1 <- gsub("index.php", "", teamAddr[j])
  yearAddr <- paste(yearAddr1, yearAddr, sep="")
 
- setwd("/home/lobo/Desktop/football")
+ #setwd("/home/lobo/Desktop/cfbFootball")
 
-
+setwd("/home/lobo/Desktop/cfbFootball/Data/ybyD1")
 tbFinal <- vector("list", length(yearAddr))
 for(t in 1:length(yearAddr)) {
    doc <- htmlParse(yearAddr[t])
    Nodes <- getNodeSet(doc, "//table//table")
 
-   source("YearByYear.R")
+   source("/home/lobo/Desktop/cfbFootball/YearByYear.R")
    tbFinal[[t]] <- tbF
   }
  temp <- do.call("rbind",tbFinal)
  temp$school <- schools[j]
- tempFinal[[j]] <- temp
+ write.table(temp, file = paste(schools[j], "txt", sep = "."), row.names = FALSE)
+}
+
+tempFinal <- vector("list", length(schools))
+for(i in 1:length(schools)){
+  tempFinal[[i]] <- read.table(paste(schools[i], "txt", sep = "."), header = TRUE)
 }
 
 YearByYear <- do.call("rbind", tempFinal)
-write.table(YearByYear, file="/home/lobo/Desktop/football/Data/Final/YearByYear.txt", row.names=FALSE)
+write.table(YearByYear, file="/home/lobo/Desktop/cfbFootball/Data/Final/YearByYear.txt", row.names=FALSE)
 
 
 setwd("/home/lobo/Desktop/football/Data/Final")

@@ -1,0 +1,2 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"W" "01-01-1934" 7 "Stanford (CA)" 0 "Rose Bowl" 1 1 1 1934 "Columbia (NY)"

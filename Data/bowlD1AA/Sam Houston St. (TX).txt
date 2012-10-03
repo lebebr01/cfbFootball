@@ -1,0 +1,6 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"W" "12-27-1952" 41 "Northeastern St. (OK)" 20 "Shrimp Bowl" 1 12 27 1952 "Sam Houston St. (TX)"
+"W" "12-06-1953" 14 "College of Idaho" 12 "Refrigerator Bowl" 1 12 6 1953 "Sam Houston St. (TX)"
+"W" "12-01-1956" 27 "Middle Tennessee St." 13 "Refrigerator Bowl" 1 12 1 1956 "Sam Houston St. (TX)"
+"L" "12-06-1958" 11 "Northwestern St. (LA)" 18 "Christmas Festival Bowl" 1 12 6 1958 "Sam Houston St. (TX)"
+"T" "12-02-1964" 7 "Concordia-Moorhead (MN)" 7 "Championship Bowl - NAIA Championship Game" 1 12 2 1964 "Sam Houston St. (TX)"

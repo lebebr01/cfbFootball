@@ -1,0 +1,5 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "12-12-1964" 13 "East Carolina (NC)" 14 "Tangerine Bowl" 1 12 12 1964 "Massachusetts"
+"W" "12-09-1972" 35 "California-Davis" 14 "Boardwalk Bowl" 1 12 9 1972 "Massachusetts"
+"L" "12-16-1978" 28 "Florida A&M" 35 "Pioneer Bowl (1) - Division I-AA Championship Game" 1 12 16 1978 "Massachusetts"
+"W" "10-09-1993" 36 "Rhode Island" 14 "Wild Geese Classic" 1 10 9 1993 "Massachusetts"

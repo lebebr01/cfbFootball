@@ -1,0 +1,2 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"W" "12-30-1960" 27 "Tennessee Tech" 0 "Tangerine Bowl" 1 12 30 1960 "Citadel (SC)"

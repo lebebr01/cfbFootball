@@ -1,0 +1,4 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "12-04-1948" 20 "Emporia St. (KS)" 34 "Missouri-Kansas Bowl" 1 12 4 1948 "Missouri St."
+"L" "11-30-1963" 14 "Northern Illinois" 21 "Mineral Water Bowl" 1 11 30 1963 "Missouri St."
+"L" "11-26-1966" 8 "Adams St. (CO)" 14 "Mineral Water Bowl" 1 11 26 1966 "Missouri St."

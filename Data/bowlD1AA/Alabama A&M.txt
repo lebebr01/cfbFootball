@@ -1,0 +1,3 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "12-03-1966" 26 "Florida A&M" 43 "Orange Blossom Classic" 1 12 3 1966 "Alabama A&M"
+"L" "12-04-1971" 21 "Jackson St. (MS)" 40 "Azalea Classic" 1 12 4 1971 "Alabama A&M"

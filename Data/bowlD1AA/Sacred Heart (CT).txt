@@ -1,0 +1,2 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"W" "12-01-2001" 31 "Duquesne (PA)" 15 "Eastern College Athletic Conference Bowl" 1 12 1 2001 "Sacred Heart (CT)"

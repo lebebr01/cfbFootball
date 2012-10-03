@@ -1,0 +1,4 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"W" "11-23-2002" 24 "Duquesne (PA)" 0 "Eastern College Athletic Conference Bowl" 1 11 23 2002 "SUNY-Albany (NY)"
+"L" "12-01-2007" 21 "Dayton (OH)" 42 "Gridiron Classic" 1 12 1 2007 "SUNY-Albany (NY)"
+"W" "12-06-2008" 28 "Jacksonville (FL)" 0 "Gridiron Classic" 1 12 6 2008 "SUNY-Albany (NY)"

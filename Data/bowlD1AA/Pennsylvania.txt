@@ -1,0 +1,2 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "01-01-1917" 0 "Oregon" 14 "Tournament of Roses Game" 1 1 1 1917 "Pennsylvania"

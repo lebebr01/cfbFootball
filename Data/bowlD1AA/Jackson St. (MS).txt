@@ -1,0 +1,4 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "12-09-1961" 8 "Florida A&M" 14 "Orange Blossom Classic" 1 12 9 1961 "Jackson St. (MS)"
+"W" "12-08-1962" 22 "Florida A&M" 6 "Orange Blossom Classic" 1 12 8 1962 "Jackson St. (MS)"
+"W" "12-04-1971" 40 "Alabama A&M" 21 "Azalea Classic" 1 12 4 1971 "Jackson St. (MS)"

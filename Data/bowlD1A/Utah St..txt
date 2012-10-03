@@ -1,0 +1,8 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "01-01-1947" 0 "San Jose St. (CA)" 20 "Raisin Bowl" 0 1 1 1947 "Utah St."
+"L" "12-31-1960" 13 "New Mexico St." 20 "Sun Bowl" 0 12 31 1960 "Utah St."
+"L" "12-09-1961" 9 "Baylor (TX)" 24 "Gotham Bowl" 0 12 9 1961 "Utah St."
+"W" "12-17-1993" 42 "Ball St. (IN)" 33 "Las Vegas Bowl" 0 12 17 1993 "Utah St."
+"L" "12-29-1997" 19 "Cincinnati (OH)" 35 "Humanitarian Bowl" 0 12 29 1997 "Utah St."
+"L" "12-17-2011" 23 "Ohio" 24 "Idaho Potato Bowl" 0 12 17 2011 "Utah St."
+"L" "12-13-1947" 21 "Pacific (CA)" 35 "Grape Bowl" 1 12 13 1947 "Utah St."

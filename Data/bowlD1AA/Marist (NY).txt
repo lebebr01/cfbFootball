@@ -1,0 +1,3 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "11-28-1970" 20 "Saint John's (NY)" 30 "Metropolitan Bowl - Club Football Game" 1 11 28 1970 "Marist (NY)"
+"L" "11-25-1972" 18 "Seton Hall (NJ)" 20 "Metropolitan Bowl - Club Football Game" 1 11 25 1972 "Marist (NY)"

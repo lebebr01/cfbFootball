@@ -1,0 +1,4 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "12-13-1969" 3 "North Dakota St." 30 "Camellia Bowl (2)" 1 12 13 1969 "Montana"
+"L" "12-12-1970" 16 "North Dakota St." 31 "Camellia Bowl (2)" 1 12 12 1970 "Montana"
+"L" "11-17-1984" 31 "Army (NY)" 45 "Mirage Bowl" 1 11 17 1984 "Montana"

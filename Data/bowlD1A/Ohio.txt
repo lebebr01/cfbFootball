@@ -1,0 +1,7 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "12-31-1962" 14 "West Texas A&M" 15 "Sun Bowl" 1 12 31 1962 "Ohio"
+"L" "12-27-1968" 42 "Richmond (VA)" 49 "Tangerine Bowl" 1 12 27 1968 "Ohio"
+"L" "01-07-2007" 7 "Southern Mississippi" 28 "GMAC Bowl" 1 1 7 2007 "Ohio"
+"L" "12-26-2009" 17 "Marshall (WV)" 21 "Little Caesars Pizza Bowl" 1 12 26 2009 "Ohio"
+"L" "12-18-2010" 21 "Troy (AL)" 48 "New Orleans Bowl" 1 12 18 2010 "Ohio"
+"W" "12-17-2011" 24 "Utah St." 23 "Idaho Potato Bowl" 1 12 17 2011 "Ohio"

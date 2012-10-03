@@ -1,0 +1,5 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"W" "12-15-1984" 30 "Toledo (OH)" 13 "California Bowl - Nevada-Las Vegas Forfeits? (No Record Change)" 0 12 15 1984 "Nevada-Las Vegas"
+"W" "12-15-1994" 52 "Central Michigan" 24 "Las Vegas Bowl" 0 12 15 1994 "Nevada-Las Vegas"
+"W" "12-21-2000" 31 "Arkansas" 14 "Las Vegas Bowl" 0 12 21 2000 "Nevada-Las Vegas"
+"L" "12-07-1974" 11 "Delaware" 49 "Grantland Rice Bowl - Division II Semifinal Playoff Game" 1 12 7 1974 "Nevada-Las Vegas"

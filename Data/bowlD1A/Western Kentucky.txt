@@ -1,0 +1,7 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"W" "12-07-1952" 34 "Arkansas St." 19 "Refrigerator Bowl" 1 12 7 1952 "Western Kentucky"
+"W" "12-28-1963" 27 "Coast Guard (CT)" 0 "Tangerine Bowl" 1 12 28 1963 "Western Kentucky"
+"W" "12-08-1973" 28 "Grambling St. (LA)" 20 "Grantland Rice Bowl - Division II Semifinal Playoff Game" 1 12 8 1973 "Western Kentucky"
+"L" "12-15-1973" 0 "Louisiana Tech" 34 "Camellia Bowl (2) - Division II Championship Game" 1 12 15 1973 "Western Kentucky"
+"W" "12-06-1975" 14 "New Hampshire" 3 "Grantland Rice Bowl - Division II Semifinal Playoff Game" 1 12 6 1975 "Western Kentucky"
+"L" "12-13-1975" 14 "Northern Michigan" 16 "Camellia Bowl (2) - Division II Championship Game" 1 12 13 1975 "Western Kentucky"

@@ -1,0 +1,2 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "12-06-2008" 0 "SUNY-Albany (NY)" 28 "Gridiron Classic" 1 12 6 2008 "Jacksonville (FL)"

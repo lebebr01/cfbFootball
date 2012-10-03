@@ -1,0 +1,6 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "01-01-1955" 6 "Nebraska-Omaha" 7 "Tangerine Bowl" 1 1 1 1955 "Eastern Kentucky"
+"W" "12-09-1967" 27 "Ball St. (IN)" 13 "Grantland Rice Bowl" 1 12 9 1967 "Eastern Kentucky"
+"L" "12-20-1980" 29 "Boise St. (ID)" 31 "Camellia Bowl (2) - Division I-AA Championship Game" 1 12 20 1980 "Eastern Kentucky"
+"L" "12-19-1981" 23 "Idaho St." 34 "Pioneer Bowl (1) - Division I-AA Championship Game" 1 12 19 1981 "Eastern Kentucky"
+"W" "12-18-1982" 17 "Delaware" 14 "Pioneer Bowl (1) - Division I-AA Championship Game" 1 12 18 1982 "Eastern Kentucky"

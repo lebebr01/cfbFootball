@@ -1,0 +1,6 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "12-09-1961" 12 "New Mexico" 28 "Aviation Bowl" 1 12 9 1961 "Western Michigan"
+"L" "12-10-1988" 30 "Fresno St. (CA)" 35 "California Bowl" 1 12 10 1988 "Western Michigan"
+"L" "01-06-2007" 24 "Cincinnati (OH)" 27 "International Bowl" 1 1 6 2007 "Western Michigan"
+"L" "12-30-2008" 14 "Rice (TX)" 38 "Texas Bowl" 1 12 30 2008 "Western Michigan"
+"L" "12-27-2011" 32 "Purdue (IN)" 37 "Little Caesars Pizza Bowl" 1 12 27 2011 "Western Michigan"

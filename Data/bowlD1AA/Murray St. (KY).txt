@@ -1,0 +1,2 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"T" "01-01-1949" 21 "Sul Ross St. (TX)" 21 "Tangerine Bowl" 1 1 1 1949 "Murray St. (KY)"

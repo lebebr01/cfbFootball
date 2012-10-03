@@ -1,0 +1,4 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"W" "11-27-1965" 37 "Northern Illinois" 20 "Mineral Water Bowl" 1 11 27 1965 "North Dakota"
+"W" "12-10-1966" 42 "Parsons (IA)" 24 "Pecan Bowl (2)" 1 12 10 1966 "North Dakota"
+"W" "12-10-1972" 38 "Cal Poly-San Luis Obispo" 21 "Camellia Bowl (2)" 1 12 10 1972 "North Dakota"

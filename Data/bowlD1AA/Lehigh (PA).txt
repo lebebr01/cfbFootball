@@ -1,0 +1,3 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"W" "12-03-1977" 39 "California-Davis" 30 "Knute Rockne Bowl - Division II Semifinal Playoff Game" 1 12 3 1977 "Lehigh (PA)"
+"W" "12-10-1977" 33 "Jacksonville St. (AL)" 0 "Pioneer Bowl (1) - Division II Championship Game" 1 12 10 1977 "Lehigh (PA)"

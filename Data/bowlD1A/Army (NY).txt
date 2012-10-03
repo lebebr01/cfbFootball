@@ -1,0 +1,8 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"W" "12-22-1984" 10 "Michigan St." 6 "Cherry Bowl (1)" 0 12 22 1984 "Army (NY)"
+"W" "12-31-1985" 31 "Illinois" 29 "Peach Bowl" 0 12 31 1985 "Army (NY)"
+"L" "12-24-1988" 28 "Alabama" 29 "Sun Bowl" 0 12 24 1988 "Army (NY)"
+"L" "12-31-1996" 29 "Auburn (AL)" 32 "Independence Bowl" 0 12 31 1996 "Army (NY)"
+"W" "12-30-2010" 16 "Southern Methodist (TX)" 14 "Armed Forces Bowl" 0 12 30 2010 "Army (NY)"
+"W" "11-17-1984" 45 "Montana" 31 "Mirage Bowl" 1 11 17 1984 "Army (NY)"
+"L" "11-19-1988" 24 "Boston College (MA)" 38 "Emerald Isle Classic" 1 11 19 1988 "Army (NY)"

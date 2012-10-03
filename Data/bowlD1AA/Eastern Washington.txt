@@ -1,0 +1,2 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "12-09-1967" 21 "Fairmont St. (WV)" 28 "Championship Bowl - NAIA Championship Game" 1 12 9 1967 "Eastern Washington"

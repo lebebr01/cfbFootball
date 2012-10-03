@@ -1,0 +1,7 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "12-31-2005" 0 "North Carolina St." 14 "Meineke Car Care Bowl" 1 12 31 2005 "South Florida"
+"W" "12-23-2006" 24 "East Carolina (NC)" 7 "Papajohns.com Bowl" 1 12 23 2006 "South Florida"
+"L" "12-31-2007" 21 "Oregon" 56 "Sun Bowl" 1 12 31 2007 "South Florida"
+"W" "12-20-2008" 41 "Memphis (TN)" 14 "Saint Petersburg Bowl" 1 12 20 2008 "South Florida"
+"W" "01-02-2010" 27 "Northern Illinois" 3 "International Bowl" 1 1 2 2010 "South Florida"
+"W" "12-31-2010" 31 "Clemson (SC)" 26 "Meineke Car Care Bowl" 1 12 31 2010 "South Florida"

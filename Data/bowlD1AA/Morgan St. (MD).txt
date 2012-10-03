@@ -1,0 +1,6 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "12-14-1963" 7 "Florida A&M" 30 "Orange Blossom Classic" 1 12 14 1963 "Morgan St. (MD)"
+"W" "12-04-1965" 38 "Florida A&M" 7 "Orange Blossom Classic" 1 12 4 1965 "Morgan St. (MD)"
+"W" "12-10-1966" 14 "West Chester (PA)" 6 "Tangerine Bowl" 1 12 10 1966 "Morgan St. (MD)"
+"L" "12-12-1970" 23 "Delaware" 38 "Boardwalk Bowl" 1 12 12 1970 "Morgan St. (MD)"
+"L" "09-04-1976" 16 "Grambling St. (LA)" 42 "Mirage Bowl" 1 9 4 1976 "Morgan St. (MD)"

@@ -1,0 +1,2 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"W" "01-01-1920" 7 "Oregon" 6 "Tournament of Roses Game" 1 1 1 1920 "Harvard (MA)"

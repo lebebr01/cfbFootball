@@ -1,0 +1,4 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "12-04-1955" 10 "Jacksonville St. (AL)" 12 "Refrigerator Bowl" 1 12 4 1955 "Rhode Island"
+"W" "11-22-1973" 34 "Air Force Team" 6 "Turkey Bowl (2)" 1 11 22 1973 "Rhode Island"
+"L" "10-09-1993" 14 "Massachusetts" 36 "Wild Geese Classic" 1 10 9 1993 "Rhode Island"

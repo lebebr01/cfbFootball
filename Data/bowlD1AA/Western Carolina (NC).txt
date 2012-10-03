@@ -1,0 +1,2 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "11-24-1949" 0 "West Liberty St. (WV)" 20 "Smoky Mountain Bowl" 1 11 24 1949 "Western Carolina (NC)"

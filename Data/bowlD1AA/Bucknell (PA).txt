@@ -1,0 +1,2 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"W" "01-01-1935" 26 "Miami (FL)" 0 "Orange Bowl" 1 1 1 1935 "Bucknell (PA)"

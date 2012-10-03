@@ -1,0 +1,4 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "01-01-1941" 12 "Texas A&M" 13 "Cotton Bowl" 0 1 1 1941 "Fordham (NY)"
+"W" "01-01-1942" 2 "Missouri" 0 "Sugar Bowl" 0 1 1 1942 "Fordham (NY)"
+"L" "11-16-1991" 19 "Holy Cross (MA)" 24 "Wild Geese Classic" 1 11 16 1991 "Fordham (NY)"

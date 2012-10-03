@@ -1,0 +1,6 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"W" "12-27-2004" 39 "Toledo (OH)" 10 "Motor City Bowl" 1 12 27 2004 "Connecticut"
+"L" "12-29-2007" 10 "Wake Forest (NC)" 24 "Meineke Car Care Bowl" 1 12 29 2007 "Connecticut"
+"W" "01-03-2009" 38 "Buffalo (NY)" 20 "International Bowl" 1 1 3 2009 "Connecticut"
+"W" "01-02-2010" 20 "South Carolina" 7 "Papajohns.com Bowl" 1 1 2 2010 "Connecticut"
+"L" "01-01-2011" 20 "Oklahoma" 48 "Fiesta Bowl" 1 1 1 2011 "Connecticut"

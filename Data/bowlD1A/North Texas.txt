@@ -1,0 +1,8 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "01-01-1948" 6 "Nevada" 13 "Salad Bowl" 0 1 1 1948 "North Texas"
+"L" "12-31-1959" 8 "New Mexico St." 28 "Sun Bowl" 0 12 31 1959 "North Texas"
+"L" "12-18-2001" 20 "Colorado St." 45 "New Orleans Bowl" 0 12 18 2001 "North Texas"
+"W" "12-17-2002" 24 "Cincinnati (OH)" 19 "New Orleans Bowl" 0 12 17 2002 "North Texas"
+"L" "12-16-2003" 17 "Memphis (TN)" 27 "New Orleans Bowl" 0 12 16 2003 "North Texas"
+"L" "12-14-2004" 10 "Southern Mississippi" 31 "New Orleans Bowl" 0 12 14 2004 "North Texas"
+"W" "12-21-1946" 14 "Pacific (CA)" 13 "Optimist Bowl (2)" 1 12 21 1946 "North Texas"

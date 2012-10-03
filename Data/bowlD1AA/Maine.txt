@@ -1,0 +1,2 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "12-11-1965" 0 "East Carolina (NC)" 31 "Tangerine Bowl" 1 12 11 1965 "Maine"

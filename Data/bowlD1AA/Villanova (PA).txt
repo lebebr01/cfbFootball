@@ -1,0 +1,6 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"T" "01-01-1937" 7 "Auburn (AL)" 7 "Bacardi Bowl" 1 1 1 1937 "Villanova (PA)"
+"L" "12-06-1947" 14 "Kentucky" 24 "Great Lakes Bowl" 1 12 6 1947 "Villanova (PA)"
+"W" "01-01-1949" 27 "Nevada" 7 "Harbor Bowl" 1 1 1 1949 "Villanova (PA)"
+"W" "12-30-1961" 17 "Wichita St. (KS)" 9 "Sun Bowl" 1 12 30 1961 "Villanova (PA)"
+"L" "12-15-1962" 0 "Oregon St." 6 "Liberty Bowl" 1 12 15 1962 "Villanova (PA)"

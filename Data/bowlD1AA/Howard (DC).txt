@@ -1,0 +1,4 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "12-02-1933" 6 "Florida A&M" 9 "Orange Blossom Classic" 1 12 2 1933 "Howard (DC)"
+"L" "12-07-1974" 13 "Florida A&M" 17 "Orange Blossom Classic" 1 12 7 1974 "Howard (DC)"
+"W" "12-31-1996" 27 "Southern (LA)" 24 "Heritage Bowl" 1 12 31 1996 "Howard (DC)"

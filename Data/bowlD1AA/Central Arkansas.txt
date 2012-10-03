@@ -1,0 +1,7 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "12-25-1937" 26 "Fresno St. (CA)" 27 "Charity Bowl" 1 12 25 1937 "Central Arkansas"
+"L" "12-05-1947" 20 "Midwestern St. (TX)" 39 "Kickapoo Bowl" 1 12 5 1947 "Central Arkansas"
+"L" "12-11-1976" 0 "Texas A&M-Kingsville" 26 "Championship Bowl - NAIA Division I Championship Game" 1 12 11 1976 "Central Arkansas"
+"T" "12-15-1984" 19 "Carson-Newman (TN)" 19 "Championship Bowl - NAIA Division I Championship Game" 1 12 15 1984 "Central Arkansas"
+"T" "12-21-1985" 10 "Hillsdale (MI)" 10 "Championship Bowl - NAIA Division I Championship Game" 1 12 21 1985 "Central Arkansas"
+"W" "12-14-1991" 19 "Central St. (OH)" 16 "Championship Bowl - NAIA Division I Championship Game" 1 12 14 1991 "Central Arkansas"

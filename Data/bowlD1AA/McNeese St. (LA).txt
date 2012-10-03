@@ -1,0 +1,7 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"W" "12-13-1976" 20 "Tulsa (OK)" 16 "Independence Bowl" 0 12 13 1976 "McNeese St. (LA)"
+"L" "12-15-1979" 7 "Syracuse (NY)" 31 "Independence Bowl" 0 12 15 1979 "McNeese St. (LA)"
+"L" "12-13-1980" 14 "Southern Mississippi" 16 "Independence Bowl" 0 12 13 1980 "McNeese St. (LA)"
+"W" "12-01-1951" 13 "Louisiana College" 6 "Cosmopolitan Bowl" 1 12 1 1951 "McNeese St. (LA)"
+"W" "12-01-1962" 21 "Samford (AL)" 14 "Golden Isles Bowl" 1 12 1 1962 "McNeese St. (LA)"
+"L" "12-11-1971" 23 "Tennessee St." 26 "Grantland Rice Bowl" 1 12 11 1971 "McNeese St. (LA)"

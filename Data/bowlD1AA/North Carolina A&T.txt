@@ -1,0 +1,8 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"W" "01-01-1943" 14 "Southern (LA)" 12 "Flower Bowl" 1 1 1 1943 "North Carolina A&T"
+"L" "01-01-1945" 0 "Tyler JC (TX)" 18 "Flower Bowl" 1 1 1 1945 "North Carolina A&T"
+"L" "01-01-1949" 13 "Kentucky St." 23 "Vulcan Bowl" 1 1 1 1949 "North Carolina A&T"
+"W" "12-10-1949" 20 "Florida A&M" 14 "Orange Blossom Classic" 1 12 10 1949 "North Carolina A&T"
+"L" "12-02-1978" 6 "Virginia Union" 21 "Gold Bowl" 1 12 2 1978 "North Carolina A&T"
+"W" "12-06-1980" 37 "North Carolina Central" 0 "Gold Bowl" 1 12 6 1980 "North Carolina A&T"
+"L" "12-21-1991" 13 "Alabama St." 36 "Heritage Bowl" 1 12 21 1991 "North Carolina A&T"

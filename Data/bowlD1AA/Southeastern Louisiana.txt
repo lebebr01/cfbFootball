@@ -1,0 +1,2 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"W" "11-28-1946" 21 "Milligan (TN)" 13 "Burley Bowl" 1 11 28 1946 "Southeastern Louisiana"

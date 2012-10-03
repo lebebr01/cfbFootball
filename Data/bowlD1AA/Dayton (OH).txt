@@ -1,0 +1,8 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "01-01-1952" 21 "Houston (TX)" 26 "Salad Bowl" 0 1 1 1952 "Dayton (OH)"
+"W" "12-06-1980" 63 "Ithaca (NY)" 0 "Amos Alonzo Stagg Bowl - Division III Championship Game" 1 12 6 1980 "Dayton (OH)"
+"L" "12-05-1981" 10 "Widener (PA)" 17 "Amos Alonzo Stagg Bowl - Division III Championship Game" 1 12 5 1981 "Dayton (OH)"
+"L" "12-12-1987" 3 "Wagner (NY)" 19 "Amos Alonzo Stagg Bowl - Division III Championship Game" 1 12 12 1987 "Dayton (OH)"
+"W" "12-09-1989" 17 "Union (NY)" 7 "Amos Alonzo Stagg Bowl - Division III Championship Game" 1 12 9 1989 "Dayton (OH)"
+"L" "12-14-1991" 20 "Ithaca (NY)" 34 "Amos Alonzo Stagg Bowl - Division III Championship Game" 1 12 14 1991 "Dayton (OH)"
+"W" "12-01-2007" 42 "SUNY-Albany (NY)" 21 "Gridiron Classic" 1 12 1 2007 "Dayton (OH)"

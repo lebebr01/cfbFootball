@@ -1,0 +1,3 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "11-22-2003" 10 "Duquesne (PA)" 12 "Eastern College Athletic Conference Bowl" 1 11 22 2003 "Monmouth (NJ)"
+"L" "12-02-2006" 7 "San Diego (CA)" 27 "Gridiron Classic" 1 12 2 2006 "Monmouth (NJ)"

@@ -1,0 +1,4 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"T" "01-01-1936" 14 "Hardin-Simmons (TX)" 14 "Sun Bowl" 1 1 1 1936 "New Mexico St."
+"W" "12-31-1959" 28 "North Texas" 8 "Sun Bowl" 1 12 31 1959 "New Mexico St."
+"W" "12-31-1960" 20 "Utah St." 13 "Sun Bowl" 1 12 31 1960 "New Mexico St."

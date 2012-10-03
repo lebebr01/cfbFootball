@@ -1,0 +1,2 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "11-23-1950" 6 "Missouri-Rolla" 7 "Corn Bowl" 1 11 23 1950 "Illinois St."

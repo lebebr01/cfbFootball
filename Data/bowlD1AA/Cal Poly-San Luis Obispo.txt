@@ -1,0 +1,3 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "12-10-1972" 21 "North Dakota" 38 "Camellia Bowl (2)" 1 12 10 1972 "Cal Poly-San Luis Obispo"
+"W" "12-13-1980" 21 "Eastern Illinois" 13 "Zia Bowl - Division II Championship Game" 1 12 13 1980 "Cal Poly-San Luis Obispo"

@@ -1,0 +1,5 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "12-24-2005" 48 "Nevada" 49 "Hawaii Bowl" 1 12 24 2005 "Central Florida"
+"L" "12-29-2007" 3 "Mississippi St." 10 "Liberty Bowl" 1 12 29 2007 "Central Florida"
+"L" "12-19-2009" 24 "Rutgers (NJ)" 45 "Saint Petersburg Bowl" 1 12 19 2009 "Central Florida"
+"W" "12-31-2010" 10 "Georgia" 6 "Liberty Bowl" 1 12 31 2010 "Central Florida"

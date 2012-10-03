@@ -1,0 +1,5 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"W" "12-05-1959" 52 "Gordon (GA)" 20 "Textile Bowl" 1 12 5 1959 "Samford (AL)"
+"L" "12-01-1962" 14 "McNeese St. (LA)" 21 "Golden Isles Bowl" 1 12 1 1962 "Samford (AL)"
+"W" "12-09-1967" 20 "Arkansas-Monticello" 7 "Space City Bowl" 1 12 9 1967 "Samford (AL)"
+"W" "11-25-1971" 20 "Ohio Wesleyan" 10 "Amos Alonzo Stagg Bowl - Samford Forfeits?" 1 11 25 1971 "Samford (AL)"

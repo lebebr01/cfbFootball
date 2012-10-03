@@ -1,0 +1,3 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "1968" 7 "Grambling St. (LA)" 34 "Pasadena Bowl" 0 1968 12 12 "Cal St.-Sacramento"
+"L" "12-12-1964" 7 "Montana St." 28 "Camellia Bowl (2)" 1 1964 NA NA "Cal St.-Sacramento"

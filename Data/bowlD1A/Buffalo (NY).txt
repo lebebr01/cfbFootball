@@ -1,0 +1,2 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "01-03-2009" 20 "Connecticut" 38 "International Bowl" 1 1 3 2009 "Buffalo (NY)"

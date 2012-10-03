@@ -1,0 +1,2 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"W" "12-08-1973" 31 "Gardner-Webb (NC)" 10 "Poultry Bowl" 1 12 8 1973 "Stephen F. Austin (TX)"

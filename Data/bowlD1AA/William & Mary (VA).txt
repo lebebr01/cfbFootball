@@ -1,0 +1,6 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "01-01-1948" 19 "Arkansas" 21 "Dixie Bowl" 0 1 1 1948 "William & Mary (VA)"
+"W" "01-01-1949" 20 "Oklahoma St." 0 "Delta Bowl" 0 1 1 1949 "William & Mary (VA)"
+"L" "12-28-1970" 12 "Toledo (OH)" 40 "Tangerine Bowl" 0 12 28 1970 "William & Mary (VA)"
+"W" "01-08-1989" 73 "Japan All-Stars" 3 "Epson Ivy Bowl - Yokohama Stadium" 1 1 8 1989 "William & Mary (VA)"
+"W" "1992" 35 "Nihon University (Japan)" 19 "Epson Ivy Bowl" 1 1992 NA NA "William & Mary (VA)"

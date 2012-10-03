@@ -1,0 +1,5 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "12-26-2005" 31 "Memphis (TN)" 38 "Motor City Bowl" 0 12 26 2005 "Akron (OH)"
+"L" "12-13-1968" 13 "Louisiana Tech" 33 "Grantland Rice Bowl" 1 12 13 1968 "Akron (OH)"
+"W" "12-04-1976" 29 "Northern Michigan" 26 "Knute Rockne Bowl - Division II Semifinal Playoff Game" 1 12 4 1976 "Akron (OH)"
+"L" "12-11-1976" 13 "Montana St." 24 "Pioneer Bowl (1) - Division II Championship Game" 1 12 11 1976 "Akron (OH)"

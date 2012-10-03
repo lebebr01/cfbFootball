@@ -1,0 +1,4 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "12-21-1974" 14 "Tuskegee (AL)" 15 "Gate City Bowl" 1 12 21 1974 "Norfolk St. (VA)"
+"L" "12-11-1976" 10 "South Carolina St." 26 "Bicentennial Bowl" 1 12 11 1976 "Norfolk St. (VA)"
+"L" "12-01-1979" 7 "South Carolina St." 39 "Gold Bowl" 1 12 1 1979 "Norfolk St. (VA)"

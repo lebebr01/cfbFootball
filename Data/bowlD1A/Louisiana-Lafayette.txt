@@ -1,0 +1,4 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"W" "12-17-2011" 32 "San Diego St. (CA)" 30 "New Orleans Bowl" 0 12 17 2011 "Louisiana-Lafayette"
+"W" "01-01-1944" 24 "Arkansas-Monticello" 7 "Oil Bowl" 1 1 1 1944 "Louisiana-Lafayette"
+"L" "12-12-1970" 25 "Tennessee St." 26 "Grantland Rice Bowl" 1 12 12 1970 "Louisiana-Lafayette"

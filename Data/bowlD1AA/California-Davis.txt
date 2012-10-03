@@ -1,0 +1,6 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "11-24-1949" 15 "Pacific (OR)" 33 "Pear Bowl" 1 11 24 1949 "California-Davis"
+"L" "11-24-1951" 7 "Pacific (OR)" 25 "Pear Bowl" 1 11 24 1951 "California-Davis"
+"L" "12-09-1972" 14 "Massachusetts" 35 "Boardwalk Bowl" 1 12 9 1972 "California-Davis"
+"L" "12-03-1977" 30 "Lehigh (PA)" 39 "Knute Rockne Bowl - Division II Semifinal Playoff Game" 1 12 3 1977 "California-Davis"
+"L" "12-11-1982" 9 "Texas St." 34 "Palm Bowl - Division II Championship Game" 1 12 11 1982 "California-Davis"

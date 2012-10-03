@@ -1,0 +1,3 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"W" "11-26-1949" 41 "Indiana St." 14 "Shrine Bowl (1)" 0 11 26 1949 "Southern Illinois"
+"W" "11-27-1947" 21 "North Central (IL)" 0 "Corn Bowl" 1 11 27 1947 "Southern Illinois"

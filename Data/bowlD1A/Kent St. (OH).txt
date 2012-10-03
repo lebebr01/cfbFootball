@@ -1,0 +1,3 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "12-29-1972" 18 "Tampa (FL)" 21 "Tangerine Bowl" 0 12 29 1972 "Kent St. (OH)"
+"L" "12-05-1954" 7 "Delaware" 19 "Refrigerator Bowl" 1 12 5 1954 "Kent St. (OH)"

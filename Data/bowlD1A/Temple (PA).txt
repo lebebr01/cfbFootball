@@ -1,0 +1,7 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "01-01-1935" 14 "Tulane (LA)" 20 "Sugar Bowl" 0 1 1 1935 "Temple (PA)"
+"W" "12-15-1979" 28 "California" 17 "Garden State Bowl" 0 12 15 1979 "Temple (PA)"
+"L" "12-29-2009" 21 "UCLA" 30 "EagleBank Bowl" 0 12 29 2009 "Temple (PA)"
+"W" "12-17-2011" 37 "Wyoming" 15 "New Mexico Bowl" 0 12 17 2011 "Temple (PA)"
+"L" "12-11-1977" 32 "Grambling St. (LA)" 35 "Mirage Bowl" 1 12 11 1977 "Temple (PA)"
+"W" "12-10-1978" 28 "Boston College (MA)" 24 "Mirage Bowl" 1 12 10 1978 "Temple (PA)"

@@ -1,0 +1,4 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "01-01-1953" 0 "Texas A&M-Commerce" 33 "Tangerine Bowl" 1 1 1 1953 "Tennessee Tech"
+"L" "12-30-1960" 0 "Citadel (SC)" 27 "Tangerine Bowl" 1 12 30 1960 "Tennessee Tech"
+"L" "12-10-1972" 0 "Louisiana Tech" 35 "Grantland Rice Bowl" 1 12 10 1972 "Tennessee Tech"

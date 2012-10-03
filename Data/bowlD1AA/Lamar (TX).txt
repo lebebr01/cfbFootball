@@ -1,0 +1,3 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"W" "12-29-1961" 21 "Middle Tennessee St." 14 "Tangerine Bowl" 1 12 29 1961 "Lamar (TX)"
+"L" "12-12-1964" 17 "Northern Iowa" 19 "Pecan Bowl (2)" 1 12 12 1964 "Lamar (TX)"

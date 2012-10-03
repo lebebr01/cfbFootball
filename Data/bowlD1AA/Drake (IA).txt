@@ -1,0 +1,6 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"W" "01-01-1946" 13 "Fresno St. (CA)" 12 "Raisin Bowl" 0 1 1 1946 "Drake (IA)"
+"W" "01-01-1949" 14 "Arizona" 13 "Salad Bowl" 0 1 1 1949 "Drake (IA)"
+"L" "01-01-1958" 20 "Louisville (KY)" 34 "Sun Bowl" 0 1 1 1958 "Drake (IA)"
+"L" "12-13-1969" 21 "Arkansas St." 29 "Pecan Bowl (2)" 1 12 13 1969 "Drake (IA)"
+"L" "12-10-1972" 7 "Tennessee St." 29 "Pioneer Bowl (1)" 1 12 10 1972 "Drake (IA)"

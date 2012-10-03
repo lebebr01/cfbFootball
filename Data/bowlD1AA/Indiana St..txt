@@ -1,0 +1,2 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "11-26-1949" 14 "Southern Illinois" 41 "Shrine Bowl (1)" 1 11 26 1949 "Indiana St."

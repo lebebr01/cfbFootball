@@ -1,0 +1,8 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "12-26-2006" 14 "Central Michigan" 31 "Motor City Bowl" 0 12 26 2006 "Middle Tennessee St."
+"W" "12-20-2009" 42 "Southern Mississippi" 32 "New Orleans Bowl" 0 12 20 2009 "Middle Tennessee St."
+"L" "01-06-2011" 21 "Miami (OH)" 35 "GoDaddy.com Bowl" 0 1 6 2011 "Middle Tennessee St."
+"L" "12-01-1956" 13 "Sam Houston St. (TX)" 27 "Refrigerator Bowl" 1 12 1 1956 "Middle Tennessee St."
+"W" "01-01-1960" 21 "Presbyterian (SC)" 12 "Tangerine Bowl" 1 1 1 1960 "Middle Tennessee St."
+"L" "12-29-1961" 14 "Lamar (TX)" 21 "Tangerine Bowl" 1 12 29 1961 "Middle Tennessee St."
+"W" "12-12-1964" 20 "Muskingum (OH)" 0 "Grantland Rice Bowl" 1 12 12 1964 "Middle Tennessee St."

@@ -1,0 +1,2 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "12-05-2009" 23 "Butler (IN)" 28 "Gridiron Classic" 1 12 5 2009 "Central Connecticut St."

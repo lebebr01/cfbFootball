@@ -1,0 +1,2 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "12-26-1969" 33 "Toledo (OH)" 56 "Tangerine Bowl" 1 12 26 1969 "Davidson (NC)"

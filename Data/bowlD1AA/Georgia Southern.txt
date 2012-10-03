@@ -1,0 +1,3 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"W" "12-21-1985" 44 "Furman (SC)" 42 "Diamond Bowl - Division I-AA Championship Game" 1 12 21 1985 "Georgia Southern"
+"W" "12-20-1986" 48 "Arkansas St." 21 "Diamond Bowl - Division I-AA Championship Game" 1 12 20 1986 "Georgia Southern"

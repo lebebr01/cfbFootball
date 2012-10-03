@@ -1,0 +1,6 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"W" "12-31-1955" 25 "Auburn (AL)" 13 "Gator Bowl" 1 12 31 1955 "Vanderbilt (TN)"
+"T" "12-28-1974" 6 "Texas Tech" 6 "Peach Bowl" 1 12 28 1974 "Vanderbilt (TN)"
+"L" "12-31-1982" 28 "Air Force (CO)" 36 "Hall of Fame Classic" 1 12 31 1982 "Vanderbilt (TN)"
+"W" "12-31-2008" 16 "Boston College (MA)" 14 "Music City Bowl" 1 12 31 2008 "Vanderbilt (TN)"
+"L" "12-31-2011" 24 "Cincinnati (OH)" 31 "Liberty Bowl" 1 12 31 2011 "Vanderbilt (TN)"

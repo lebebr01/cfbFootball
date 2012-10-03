@@ -1,0 +1,5 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "12-08-1973" 14 "Abilene Christian (TX)" 42 "Championship Bowl - NAIA Division I Championship Game" 1 12 8 1973 "Elon (NC)"
+"L" "12-16-1978" 14 "Angelo St. (TX)" 24 "Palm Bowl - NAIA Division I Championship Game" 1 12 16 1978 "Elon (NC)"
+"W" "12-20-1980" 17 "Northeastern St. (OK)" 10 "Championship Bowl - NAIA Division I Championship Game" 1 12 20 1980 "Elon (NC)"
+"W" "12-19-1981" 3 "Pittsburg St. (KS)" 0 "Championship Bowl - NAIA Division I Championship Game" 1 12 19 1981 "Elon (NC)"

@@ -1,0 +1,2 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "12-04-1976" 28 "Saint John's (MN)" 31 "Amos Alonzo Stagg Bowl - Division III Championship Game" 1 12 4 1976 "Towson (MD)"

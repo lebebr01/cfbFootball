@@ -1,0 +1,4 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "12-08-1973" 10 "Stephen F. Austin (TX)" 31 "Poultry Bowl" 1 12 8 1973 "Gardner-Webb (NC)"
+"L" "12-12-1992" 16 "Central St. (OH)" 19 "Championship Bowl - NAIA Division I Championship Game" 1 12 12 1992 "Gardner-Webb (NC)"
+"W" "11-17-2001" 54 "Trinity International (IL)" 14 "Victory Bowl - NCCAA Championship Game" 1 11 17 2001 "Gardner-Webb (NC)"

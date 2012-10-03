@@ -1,0 +1,4 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "12-18-1951" 0 "Morris Brown (GA)" 21 "Tropical Bowl" 1 12 18 1951 "Alcorn St. (MS)"
+"L" "1952" 13 "Grambling St. (LA)" 27 "Lions Bowl (LA)" 1 1952 12 7 "Alcorn St. (MS)"
+"W" "12-07-1968" 36 "Florida A&M" 9 "Orange Blossom Classic" 1 1968 NA NA "Alcorn St. (MS)"

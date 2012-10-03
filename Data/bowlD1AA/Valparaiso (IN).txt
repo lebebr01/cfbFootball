@@ -1,0 +1,2 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "01-01-1951" 14 "Wisconsin-La Crosse" 47 "Cigar Bowl (1)" 1 1 1 1951 "Valparaiso (IN)"

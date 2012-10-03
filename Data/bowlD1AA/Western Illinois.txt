@@ -1,0 +1,4 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"W" "11-24-1949" 13 "Wheaton (IL)" 0 "Corn Bowl" 1 11 24 1949 "Western Illinois"
+"W" "11-26-1953" 32 "Iowa Wesleyan" 0 "Corn Bowl" 1 11 26 1953 "Western Illinois"
+"L" "11-24-1955" 20 "Luther (IA)" 24 "Corn Bowl" 1 11 24 1955 "Western Illinois"

@@ -1,0 +1,2 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "11-23-1950" 6 "Doane (NE)" 14 "Bean Bowl" 1 11 23 1950 "Northern Colorado"

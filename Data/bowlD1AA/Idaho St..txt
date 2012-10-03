@@ -1,0 +1,3 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"W" "11-24-1949" 20 "Chadron St. (NE)" 2 "Bean Bowl" 1 11 24 1949 "Idaho St."
+"W" "12-19-1981" 34 "Eastern Kentucky" 23 "Pioneer Bowl (1) - Division I-AA Championship Game" 1 12 19 1981 "Idaho St."

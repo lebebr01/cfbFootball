@@ -1,0 +1,7 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"T" "01-01-1947" 13 "New Mexico" 13 "Harbor Bowl" 0 1 1 1947 "Montana St."
+"T" "12-22-1956" 0 "Saint Joseph's (IN)" 0 "Aluminum Bowl - NAIA Championship Game" 1 12 22 1956 "Montana St."
+"W" "12-12-1964" 28 "Cal St.-Sacramento" 7 "Camellia Bowl (2)" 1 12 12 1964 "Montana St."
+"L" "12-10-1966" 7 "San Diego St. (CA)" 28 "Hughes Stadium - Camellia Bowl (2)" 1 12 10 1966 "Montana St."
+"W" "12-04-1976" 10 "North Dakota St." 3 "Grantland Rice Bowl - Division II Semifinal Playoff Game" 1 12 4 1976 "Montana St."
+"W" "12-11-1976" 24 "Akron (OH)" 13 "Pioneer Bowl (1) - Division II Championship Game" 1 12 11 1976 "Montana St."

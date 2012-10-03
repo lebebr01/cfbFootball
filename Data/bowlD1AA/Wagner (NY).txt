@@ -1,0 +1,5 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"W" "12-12-1987" 19 "Dayton (OH)" 3 "Amos Alonzo Stagg Bowl - Division III Championship Game" 1 12 12 1987 "Wagner (NY)"
+"W" "11-20-1993" 32 "Iona (NY)" 0 "Eastern College Athletic Conference Bowl" 1 11 20 1993 "Wagner (NY)"
+"L" "11-19-1994" 14 "Saint John's (NY)" 34 "Eastern College Athletic Conference Bowl" 1 11 19 1994 "Wagner (NY)"
+"L" "11-18-1995" 20 "Duquesne (PA)" 44 "Eastern College Athletic Conference Bowl" 1 11 18 1995 "Wagner (NY)"

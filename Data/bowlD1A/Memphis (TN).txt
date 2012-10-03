@@ -1,0 +1,8 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"W" "12-18-1971" 28 "San Jose St. (CA)" 9 "Pasadena Bowl" 0 12 18 1971 "Memphis (TN)"
+"W" "12-16-2003" 27 "North Texas" 17 "New Orleans Bowl" 0 12 16 2003 "Memphis (TN)"
+"L" "12-22-2004" 35 "Bowling Green (OH)" 52 "GMAC Bowl" 0 12 22 2004 "Memphis (TN)"
+"W" "12-26-2005" 38 "Akron (OH)" 31 "Motor City Bowl" 0 12 26 2005 "Memphis (TN)"
+"L" "12-21-2007" 27 "Florida Atlantic" 44 "New Orleans Bowl" 0 12 21 2007 "Memphis (TN)"
+"L" "12-20-2008" 14 "South Florida" 41 "Saint Petersburg Bowl" 0 12 20 2008 "Memphis (TN)"
+"W" "11-17-1956" 32 "East Tennessee St." 12 "Burley Bowl" 1 11 17 1956 "Memphis (TN)"

@@ -1,0 +1,3 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"W" "12-30-1998" 42 "Southern Mississippi" 35 "Humanitarian Bowl" 1 12 30 1998 "Idaho"
+"W" "12-30-2009" 43 "Bowling Green (OH)" 42 "Humanitarian Bowl" 1 12 30 2009 "Idaho"

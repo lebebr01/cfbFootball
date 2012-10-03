@@ -1,0 +1,2 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"W" "12-09-1967" 25 "West Chester (PA)" 8 "Tangerine Bowl" 1 12 9 1967 "Tennessee-Martin"

@@ -1,0 +1,4 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "01-02-1950" 6 "Florida St." 19 "Cigar Bowl (1)" 1 1 2 1950 "Wofford (SC)"
+"L" "12-12-1970" 7 "Texas A&M-Kingsville" 38 "Championship Bowl - NAIA Division I Championship Game" 1 12 12 1970 "Wofford (SC)"
+"W" "11-30-1974" 20 "South Carolina St." 0 "Textile Bowl" 1 11 30 1974 "Wofford (SC)"

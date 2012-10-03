@@ -1,0 +1,7 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "12-06-1941" 6 "Morris Brown (GA)" 7 "Peach Blossom Classic" 1 12 6 1941 "North Carolina Central"
+"L" "12-01-1951" 0 "Florida A&M" 67 "Orange Blossom Classic" 1 12 1 1951 "North Carolina Central"
+"W" "12-04-1954" 19 "Tennessee St." 6 "National Classic" 1 12 4 1954 "North Carolina Central"
+"L" "12-13-1969" 13 "Delaware" 31 "Boardwalk Bowl" 1 12 13 1969 "North Carolina Central"
+"L" "12-02-1972" 6 "Grambling St. (LA)" 56 "Pelican Bowl" 1 12 2 1972 "North Carolina Central"
+"L" "12-06-1980" 0 "North Carolina A&T" 37 "Gold Bowl" 1 12 6 1980 "North Carolina Central"

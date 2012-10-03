@@ -1,0 +1,6 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "12-09-1937" 20 "Florida A&M" 25 "Orange Blossom Classic" 1 12 9 1937 "Hampton (VA)"
+"W" "12-04-1943" 39 "Florida A&M" 0 "Orange Blossom Classic" 1 12 4 1943 "Hampton (VA)"
+"L" "12-06-1947" 0 "Florida A&M" 7 "Orange Blossom Classic" 1 12 6 1947 "Hampton (VA)"
+"W" "12-05-1948" 20 "Central St. (OH)" 19 "Fish Bowl (VA)" 1 12 5 1948 "Hampton (VA)"
+"W" "12-18-1999" 24 "Southern (LA)" 3 "Heritage Bowl" 1 12 18 1999 "Hampton (VA)"

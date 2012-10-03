@@ -1,0 +1,2 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "01-01-1960" 12 "Middle Tennessee St." 21 "Tangerine Bowl" 1 1 1 1960 "Presbyterian (SC)"

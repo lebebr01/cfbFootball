@@ -1,0 +1,4 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "01-01-1941" 7 "Mississippi St." 14 "Orange Bowl" 0 1 1 1941 "Georgetown (DC)"
+"L" "01-02-1950" 20 "Texas-El Paso" 33 "Sun Bowl" 0 1 2 1950 "Georgetown (DC)"
+"L" "11-22-1997" 13 "Robert Morris (PA)" 35 "Eastern College Athletic Conference Bowl" 1 11 22 1997 "Georgetown (DC)"

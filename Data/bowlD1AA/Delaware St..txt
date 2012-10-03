@@ -1,0 +1,3 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"W" "01-01-1947" 7 "Florida N&I" 6 "Flower Bowl" 1 1 1 1947 "Delaware St."
+"L" "12-03-1977" 15 "Florida A&M" 37 "Orange Blossom Classic" 1 12 3 1977 "Delaware St."

@@ -1,0 +1,2 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"L" "12-21-1985" 42 "Georgia Southern" 44 "Diamond Bowl - Division I-AA Championship Game" 1 12 21 1985 "Furman (SC)"

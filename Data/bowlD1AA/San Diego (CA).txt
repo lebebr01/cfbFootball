@@ -1,0 +1,2 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"W" "12-02-2006" 27 "Monmouth (NJ)" 7 "Gridiron Classic" 1 12 2 2006 "San Diego (CA)"

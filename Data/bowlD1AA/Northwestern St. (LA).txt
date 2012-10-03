@@ -1,0 +1,2 @@
+"W/L" "Date" "PF" "Opponent" "PA" "Bowl" "Other" "Month" "Day" "Year" "Team"
+"W" "12-06-1958" 18 "Sam Houston St. (TX)" 11 "Christmas Festival Bowl" 1 12 6 1958 "Northwestern St. (LA)"

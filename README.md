@@ -10,7 +10,7 @@ A set of R scripts that scrape college football data from cfbdatawarehouse.com a
 
 # Final Data - Nov 3rd, 2012
 
-Current version of the final data can be found within the directory: *Data/Final/cfbData.Rdata*.  This can be loaded with *load("cfbData.Rdata")* from within the directory.  The data is stored in the object *cfbData* or you can use the command *ls()* to see all the objects currently loaded within *R*.
+Current version of the final data can be found within the directory: **Data/Final/cfbData.Rdata**.  This can be loaded with *load("cfbData.Rdata")* from within the directory.  The data is stored in the object **cfbData** or you can use the command *ls()* to see all the objects currently loaded within *R*.
 
 # Analysis Plan
 

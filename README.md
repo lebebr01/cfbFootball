@@ -9,3 +9,5 @@ A set of R scripts that scrape college football data from cfbdatawarehouse.com a
 * Current coaches coaching and playing background
 
 # Analysis Plan
+
+tba

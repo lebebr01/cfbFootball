@@ -36,4 +36,4 @@ for(m in 1:12){
   
 }
 
-write.csv(y, file = "C:/Users/e520062/Desktop/cfbFootball/Data/rivals.csv")
+write.table(y, file = "C:/Users/e520062/Desktop/cfbFootball/Data/Final/rivals.txt", row.names = FALSE)

@@ -61,3 +61,20 @@ cfbData <- rbind(combd1A, combd1AA)
 #Saving cfbData to .Rdata file
 save(cfbData, file = "/home/lobo/Desktop/cfbFootball/Data/Final/cfbDataFinal.Rdata")
 
+##adding Rivals data
+load("cfbDataFinal.Rdata")
+
+cfbData$SchoolRival <- cfbData$school
+cfbData$SchoolRival <- gsub("\\(.+\\)$", "", cfbData$SchoolRival)
+cfbData$SchoolRival <- gsub("^\\s+|\\s+$", "", cfbData$SchoolRival)
+cfbData$SchoolRival <- gsub("St.$", "State", cfbData$SchoolRival)
+
+rivals <- read.table("rivals.txt", header = TRUE)
+setnames(rivals, "School", "SchoolRival")
+rivals$Year <- as.numeric(rivals$Year)
+rivals$SchoolRival <- as.character(rivals$SchoolRival)
+
+cfbData <- join(cfbData, rivals, by = c("SchoolRival", "Year"))
+
+save(cfbData, file = "C:/Users/e520062/Desktop/cfbFootball/Data/Final/cfbDataFinal-Feb2013.Rdata")
+

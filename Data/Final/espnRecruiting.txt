@@ -1,0 +1,1280 @@
+"Rank1" "espnNames" "conference" "signed" "espn150" "five" "four" "three" "off" "def" "specTeams" "athletes" "year" "espn300" "Score"
+1 "Air Force" "Mountain West" 39 0 2 2 17 18 17 0 4 2011 NA 69
+1 "Air Force" "Mountain West" 46 0 2 2 25 18 22 1 4 2012 NA 93
+1 "Georgia" "SEC" 33 5 2 23 6 12 18 0 3 2013 14 120
+1 "Kansas State" "Big 12" 37 1 1 1 1 17 20 0 0 2006 NA 12
+1 "Mississippi State" "SEC" 35 0 1 1 1 15 19 1 0 2007 NA 12
+1 "Syracuse" "Big East" 33 0 2 2 2 16 14 1 2 2010 NA 24
+1 "Troy" "Sun Belt" 36 0 1 1 1 14 20 0 2 2008 NA 12
+1 "Troy" "Sun Belt" 39 0 2 2 2 19 19 0 1 2009 NA 24
+1 "Wofford" "NCAA Division I-AA" 1 0 1 1 1 1 0 0 0 2006 NA 12
+1 "Georgia Southern" "NCAA Division I-AA" 36 0 1 1 1 19 15 0 2 2008 NA 12
+1 "Western Kentucky" "Sun Belt" 5 0 1 1 1 2 3 0 0 2007 NA 12
+1 "Massachusetts" "Mid-American" 26 0 2 2 20 14 11 0 1 2012 NA 78
+1 "Bethune-Cookman" "NCAA Division I-AA" 28 0 2 2 3 8 15 1 4 2011 NA 27
+1 "Eastern Washington" "NCAA Division I-AA" 32 0 2 2 2 0 0 0 0 2009 NA 24
+1 "Lafayette" "NCAA Division I-AA" 32 0 2 2 2 16 14 0 2 2010 NA 24
+1 "Old Dominion" "NCAA Division I-AA" 34 0 2 2 16 15 16 1 0 2013 0 66
+10 "Alabama" "SEC" 28 8 2 2 2 11 13 2 2 2010 NA 24
+10 "Auburn" "SEC" 28 2 1 1 1 13 14 0 1 2008 NA 12
+10 "Baylor" "Big 12" 29 1 2 2 2 17 9 0 3 2009 NA 24
+10 "Fresno State" "Mountain West" 28 1 2 3 22 14 12 1 1 2013 1 88
+10 "Louisville" "Big East" 30 2 1 1 1 17 12 1 0 2006 NA 12
+10 "Toledo" "Mid-American" 31 0 2 2 8 19 9 2 1 2012 NA 42
+10 "UCF" "Conference USA" 29 1 1 1 1 18 10 1 0 2007 NA 12
+10 "USC" "Pac-12" 31 10 3 5 6 13 12 2 4 2011 NA 53
+10 "Appalachian State" "NCAA Division I-AA" 1 0 1 1 1 0 1 0 0 2007 NA 12
+10 "McNeese State" "NCAA Division I-AA" 10 0 2 2 3 7 3 0 0 2013 0 27
+10 "Eastern Kentucky" "NCAA Division I-AA" 19 0 1 1 1 13 5 1 0 2008 NA 12
+10 "North Dakota State" "NCAA Division I-AA" 18 0 2 2 16 8 10 0 0 2012 NA 66
+10 "South Dakota State" "NCAA Division I-AA" 21 0 2 2 2 12 7 2 0 2010 NA 24
+10 "Villanova" "NCAA Division I-AA" 19 0 2 2 17 8 11 0 0 2011 NA 69
+10 "William & Mary" "NCAA Division I-AA" 10 0 2 2 2 0 0 0 0 2009 NA 24
+100 "Boise State" "Mountain West" 19 0 1 1 1 9 9 1 0 2006 NA 12
+100 "Colorado" "Pac-12" 19 0 2 2 2 10 8 1 0 2009 NA 24
+100 "Duke" "ACC" 20 0 2 3 7 10 8 1 1 2011 NA 43
+100 "Georgia" "SEC" 19 6 2 14 5 7 8 2 2 2012 NA 81
+100 "Oregon" "Pac-12" 19 1 2 15 4 11 2 1 5 2013 5 82
+100 "Toledo" "Mid-American" 19 0 1 1 1 14 4 1 0 2007 NA 12
+100 "USC" "Pac-12" 19 10 2 2 2 10 4 0 5 2010 NA 24
+100 "Virginia" "ACC" 18 0 1 1 1 10 6 1 1 2008 NA 12
+101 "California" "Pac-12" 19 2 2 2 2 11 7 0 1 2010 NA 24
+101 "East Carolina" "Conference USA" 19 0 2 2 2 8 10 0 1 2009 NA 24
+101 "North Carolina State" "ACC" 20 0 2 3 21 6 8 2 4 2011 NA 85
+101 "North Texas" "Sun Belt" 19 0 1 1 1 6 13 0 0 2006 NA 12
+101 "Oregon State" "Pac-12" 18 0 1 1 1 11 6 0 1 2008 NA 12
+101 "Purdue" "Big Ten" 19 0 1 1 1 8 11 0 0 2007 NA 12
+101 "Texas A&M" "SEC" 19 5 2 13 5 7 12 0 0 2012 NA 77
+101 "UCF" "Conference USA" 19 0 2 3 7 6 11 0 1 2013 0 43
+102 "California" "Pac-12" 19 2 2 10 7 10 7 1 1 2012 NA 71
+102 "Florida" "SEC" 19 7 3 4 19 8 6 1 4 2011 NA 88
+102 "Hawaii" "Mountain West" 18 0 1 1 1 10 7 0 1 2008 NA 12
+102 "Indiana" "Big Ten" 19 0 2 2 2 11 5 1 2 2009 NA 24
+102 "Northern Illinois" "Mid-American" 19 0 1 1 1 11 8 0 0 2007 NA 12
+102 "Northwestern" "Big Ten" 19 0 2 9 9 9 4 1 2 2013 1 73
+102 "Ohio State" "Big Ten" 19 4 2 2 2 8 8 1 2 2010 NA 24
+102 "TCU" "Big 12" 18 0 1 1 1 12 6 0 0 2006 NA 12
+103 "Iowa" "Big Ten" 19 1 2 2 2 15 4 0 0 2009 NA 24
+103 "Miami (OH)" "Mid-American" 18 0 1 1 1 11 6 1 0 2008 NA 12
+103 "Notre Dame" "IA Independents" 18 10 1 1 1 11 6 1 0 2007 NA 12
+103 "Oklahoma" "Big 12" 19 6 2 16 4 10 8 0 1 2011 NA 86
+103 "Penn State" "Big Ten" 19 0 2 3 9 9 8 0 2 2012 NA 49
+103 "Southern Methodist" "Conference USA" 18 0 1 1 1 7 10 1 0 2006 NA 12
+103 "Syracuse" "Big East" 19 0 2 2 9 9 9 0 0 2013 0 45
+103 "West Virginia" "Big 12" 19 1 2 2 2 8 6 0 5 2010 NA 24
+104 "Boston College" "ACC" 18 0 1 1 1 11 5 1 1 2007 NA 12
+104 "Bowling Green" "Mid-American" 18 0 1 1 1 9 7 2 0 2006 NA 12
+104 "Kansas" "Big 12" 19 0 2 2 2 8 9 0 2 2010 NA 24
+104 "Michigan State" "Big Ten" 18 0 2 13 4 6 9 1 1 2013 2 74
+104 "San Jose State" "WAC" 18 0 1 1 1 7 8 1 2 2008 NA 12
+104 "Stanford" "Pac-12" 19 2 2 11 8 8 10 0 1 2011 NA 78
+104 "Washington" "Pac-12" 19 0 2 2 2 3 12 1 3 2009 NA 24
+104 "Ole Miss" "SEC" 19 2 2 10 5 10 7 1 1 2012 NA 65
+105 "Central Michigan" "Mid-American" 19 0 2 2 2 7 11 1 0 2010 NA 24
+105 "Louisiana Tech" "WAC" 19 0 2 2 21 12 5 0 2 2012 NA 81
+105 "Louisiana-Lafayette" "Sun Belt" 18 0 1 1 1 9 8 0 1 2007 NA 12
+105 "Louisville" "Big East" 18 1 2 13 4 8 9 0 1 2013 3 74
+105 "Michigan" "Big Ten" 19 0 2 11 7 6 10 1 2 2011 NA 75
+105 "New Mexico State" "WAC" 18 0 1 1 1 10 7 1 0 2008 NA 12
+105 "New Mexico State" "WAC" 18 0 1 1 1 10 8 0 0 2006 NA 12
+105 "USC" "Pac-12" 18 9 2 2 2 5 9 1 3 2009 NA 24
+106 "Bowling Green" "Mid-American" 18 0 1 1 1 7 8 1 2 2007 NA 12
+106 "Northwestern" "Big Ten" 17 0 1 1 1 10 6 1 0 2006 NA 12
+106 "Notre Dame" "IA Independents" 18 7 2 2 2 7 5 2 4 2009 NA 24
+106 "TCU" "Big 12" 18 0 2 2 2 5 8 0 5 2010 NA 24
+106 "Utah" "Pac-12" 19 0 2 3 5 12 7 0 0 2011 NA 37
+106 "UTEP" "Conference USA" 18 0 2 2 14 7 8 0 2 2013 0 60
+106 "Wake Forest" "ACC" 17 0 1 1 1 9 7 0 1 2008 NA 12
+106 "Wake Forest" "ACC" 19 0 2 2 12 10 7 0 2 2012 NA 54
+107 "Arizona" "Pac-12" 17 2 1 1 1 7 9 1 0 2007 NA 12
+107 "California" "Pac-12" 18 1 2 2 2 8 9 1 0 2009 NA 24
+107 "Duke" "ACC" 17 0 1 1 1 9 5 1 2 2008 NA 12
+107 "Georgia Tech" "ACC" 18 0 2 2 2 5 10 1 2 2010 NA 24
+107 "Illinois" "Big Ten" 19 0 2 2 9 6 10 1 2 2012 NA 45
+107 "Minnesota" "Big Ten" 18 0 2 2 11 5 9 1 2 2013 0 51
+107 "Rice" "Conference USA" 19 0 2 2 18 8 9 0 2 2011 NA 72
+107 "Stanford" "Pac-12" 17 0 1 1 1 10 7 0 0 2006 NA 12
+108 "Boston College" "ACC" 18 0 2 2 2 9 8 1 0 2009 NA 24
+108 "Brigham Young" "IA Independents" 19 0 2 2 19 7 11 1 0 2011 NA 75
+108 "Memphis" "Conference USA" 17 0 1 1 1 6 10 1 0 2006 NA 12
+108 "Nevada" "Mountain West" 17 0 1 1 1 8 9 0 0 2007 NA 12
+108 "New Mexico" "Mountain West" 18 0 2 2 2 9 8 0 1 2010 NA 24
+108 "Ohio" "Mid-American" 19 0 2 2 21 9 10 0 0 2012 NA 81
+108 "Rice" "Conference USA" 18 0 2 3 19 8 7 0 0 2013 0 79
+108 "TCU" "Big 12" 17 1 1 1 1 10 4 1 2 2008 NA 12
+109 "Florida Atlantic" "Sun Belt" 16 0 1 1 1 11 4 1 0 2007 NA 12
+109 "Florida International" "Sun Belt" 18 0 2 2 14 9 9 0 0 2013 0 60
+109 "Fresno State" "Mountain West" 17 0 1 1 1 6 10 1 0 2006 NA 12
+109 "Miami (FL)" "ACC" 18 3 2 11 4 4 11 2 1 2011 NA 66
+109 "Northwestern" "Big Ten" 18 0 2 2 2 8 9 1 0 2009 NA 24
+109 "Notre Dame" "IA Independents" 18 6 2 14 4 9 6 0 2 2012 NA 78
+109 "Rice" "Conference USA" 17 0 1 1 1 10 4 1 2 2008 NA 12
+109 "Virginia" "ACC" 17 0 2 2 2 11 5 0 1 2010 NA 24
+11 "Arizona State" "Pac-12" 28 1 1 1 1 11 13 0 4 2008 NA 12
+11 "Connecticut" "Big East" 29 0 1 1 1 15 13 1 0 2007 NA 12
+11 "LSU" "SEC" 27 7 2 22 20 10 10 0 4 2013 15 158
+11 "Miami (FL)" "ACC" 28 4 2 2 2 16 11 0 1 2010 NA 24
+11 "South Carolina" "SEC" 28 6 2 2 2 11 15 0 2 2009 NA 24
+11 "South Florida" "Big East" 30 0 1 1 1 12 17 1 0 2006 NA 12
+11 "Texas Tech" "Big 12" 31 0 2 10 11 14 15 0 2 2011 NA 83
+11 "Virginia Tech" "ACC" 30 1 2 9 27 12 13 1 4 2012 NA 127
+11 "Montana" "NCAA Division I-AA" 20 0 2 2 2 11 9 0 0 2010 NA 24
+11 "Wofford" "NCAA Division I-AA" 17 0 2 2 14 7 9 0 1 2012 NA 60
+11 "Wofford" "NCAA Division I-AA" 19 0 2 2 2 9 10 0 0 2011 NA 24
+11 "Georgia Southern" "NCAA Division I-AA" 1 0 1 1 1 1 0 0 0 2007 NA 12
+11 "South Carolina State" "NCAA Division I-AA" 9 0 2 2 14 4 5 0 0 2013 0 60
+11 "North Dakota State" "NCAA Division I-AA" 8 0 2 2 2 5 3 0 0 2009 NA 24
+11 "Youngstown State" "NCAA Division I-AA" 17 0 1 1 1 8 9 0 0 2008 NA 12
+110 "Arizona State" "Pac-12" 18 0 2 2 4 8 6 1 3 2011 NA 30
+110 "Buffalo" "Mid-American" 17 0 1 1 1 7 9 0 1 2008 NA 12
+110 "Central Michigan" "Mid-American" 16 0 1 1 1 9 7 0 0 2007 NA 12
+110 "Louisiana-Lafayette" "Sun Belt" 18 0 2 2 2 9 7 0 2 2009 NA 24
+110 "Northern Illinois" "Mid-American" 17 0 1 1 1 12 5 0 0 2006 NA 12
+110 "Northwestern" "Big Ten" 17 0 2 2 2 7 7 0 3 2010 NA 24
+110 "USC" "Pac-12" 18 7 2 16 18 8 9 0 1 2012 NA 128
+110 "Western Michigan" "Mid-American" 18 0 2 2 16 9 6 1 2 2013 0 66
+111 "Akron" "Mid-American" 18 0 2 2 14 8 8 0 2 2013 0 60
+111 "Brigham Young" "IA Independents" 18 0 2 3 8 7 10 0 1 2012 NA 46
+111 "Fresno State" "Mountain West" 18 0 2 2 14 7 11 0 0 2011 NA 60
+111 "Nevada" "Mountain West" 18 0 2 2 2 9 8 1 0 2009 NA 24
+111 "Ohio State" "Big Ten" 15 2 1 1 1 7 8 0 0 2007 NA 12
+111 "Oregon State" "Pac-12" 17 0 2 2 2 6 10 1 0 2010 NA 24
+111 "Utah" "Pac-12" 16 0 1 1 1 10 4 0 2 2008 NA 12
+111 "West Virginia" "Big 12" 16 0 1 1 1 7 9 0 0 2006 NA 12
+112 "Buffalo" "Mid-American" 18 0 2 2 2 5 11 0 1 2013 0 24
+112 "Florida" "SEC" 17 8 2 2 2 10 6 0 1 2009 NA 24
+112 "Louisville" "Big East" 15 0 1 1 1 10 5 0 0 2007 NA 12
+112 "Miami (OH)" "Mid-American" 18 0 2 2 14 10 7 0 1 2011 NA 60
+112 "Nebraska" "Big Ten" 17 1 2 9 6 6 9 0 2 2012 NA 64
+112 "New Mexico State" "WAC" 17 0 2 2 2 9 7 1 0 2010 NA 24
+112 "Wake Forest" "ACC" 16 1 1 1 1 8 7 1 0 2006 NA 12
+112 "Western Kentucky" "Sun Belt" 16 0 1 1 1 6 9 0 1 2008 NA 12
+113 "Bowling Green" "Mid-American" 16 0 1 1 1 7 7 1 1 2008 NA 12
+113 "Georgia Tech" "ACC" 17 0 2 9 7 3 8 1 5 2012 NA 67
+113 "Kent State" "Mid-American" 16 0 1 1 1 10 5 1 0 2006 NA 12
+113 "Kent State" "Mid-American" 18 0 2 2 3 9 6 0 3 2011 NA 27
+113 "North Carolina" "ACC" 17 1 2 19 19 8 6 0 2 2013 5 143
+113 "Ohio" "Mid-American" 17 0 2 2 2 7 8 0 2 2010 NA 24
+113 "Vanderbilt" "SEC" 15 0 1 1 1 9 6 0 0 2007 NA 12
+113 "Vanderbilt" "SEC" 17 0 2 2 2 11 6 0 0 2009 NA 24
+114 "Boston College" "ACC" 17 0 2 2 6 9 6 0 2 2012 NA 36
+114 "Fresno State" "Mountain West" 17 0 2 2 2 3 13 0 1 2009 NA 24
+114 "Georgia Tech" "ACC" 15 0 1 1 1 8 7 0 0 2006 NA 12
+114 "Texas Tech" "Big 12" 15 0 1 1 1 5 8 1 1 2008 NA 12
+114 "Wake Forest" "ACC" 17 0 2 2 5 5 7 2 3 2011 NA 33
+114 "Wisconsin" "Big Ten" 17 1 2 12 4 6 8 0 1 2013 1 70
+114 "FIU" "Sun Belt" 14 0 1 1 1 9 5 0 0 2007 NA 12
+114 "Western Kentucky" "Sun Belt" 16 0 2 2 2 9 7 0 0 2010 NA 24
+115 "Northwestern" "Big Ten" 17 1 2 3 8 11 6 0 0 2011 NA 46
+115 "Penn State" "Big Ten" 14 1 1 1 1 6 8 0 0 2008 NA 12
+115 "Penn State" "Big Ten" 17 2 2 13 21 8 8 0 1 2013 3 125
+115 "Rice" "Conference USA" 14 0 1 1 1 10 4 0 0 2006 NA 12
+115 "Rice" "Conference USA" 16 0 2 2 2 6 7 0 3 2010 NA 24
+115 "San Jose State" "WAC" 13 0 1 1 1 7 6 0 0 2007 NA 12
+115 "Syracuse" "Big East" 17 0 2 2 2 6 10 1 0 2009 NA 24
+115 "Tulane" "Conference USA" 17 0 2 3 4 12 3 0 2 2012 NA 34
+116 "Boston College" "ACC" 17 0 2 2 22 6 7 0 3 2013 0 84
+116 "Florida Atlantic" "Sun Belt" 12 0 2 2 2 6 6 0 0 2010 NA 24
+116 "Middle Tennessee State" "Sun Belt" 13 0 1 1 1 6 6 1 0 2006 NA 12
+116 "Northern Illinois" "Mid-American" 13 0 1 1 1 6 6 0 1 2008 NA 12
+116 "Pittsburgh" "Big East" 16 1 2 10 5 6 7 0 3 2012 NA 65
+116 "San Jose State" "WAC" 17 0 2 2 2 9 7 1 0 2009 NA 24
+116 "UCLA" "Pac-12" 17 1 2 9 20 10 6 0 1 2011 NA 106
+116 "UCLA" "Pac-12" 11 2 1 1 1 4 7 0 0 2007 NA 12
+117 "Air Force" "Mountain West" 1 0 1 1 1 1 0 0 0 2007 NA 12
+117 "Air Force" "Mountain West" 2 0 1 1 1 1 1 0 0 2006 NA 12
+117 "Boise State" "Mountain West" 10 0 2 2 2 4 5 0 1 2010 NA 24
+117 "Clemson" "ACC" 12 4 2 2 2 7 5 0 0 2009 NA 24
+117 "Florida Atlantic" "Sun Belt" 6 0 1 1 1 4 2 0 0 2008 NA 12
+117 "Fresno State" "Mountain West" 15 0 2 2 18 10 5 0 0 2012 NA 72
+117 "Louisiana-Monroe" "Sun Belt" 16 0 2 2 14 8 7 0 0 2013 0 60
+117 "Purdue" "Big Ten" 17 0 2 2 21 8 6 0 3 2011 NA 81
+118 "Army" "IA Independents" 1 0 1 1 1 1 0 0 0 2006 NA 12
+118 "Missouri" "SEC" 17 0 2 2 21 7 10 0 0 2011 NA 81
+118 "Texas" "Big 12" 15 5 2 19 17 8 5 0 2 2013 8 137
+118 "Western Kentucky" "Sun Belt" 15 0 2 2 21 8 6 1 0 2012 NA 81
+118 "Navy" "IA Independents" 1 0 2 2 2 1 0 0 0 2010 NA 24
+12 "Arkansas State" "Sun Belt" 30 0 2 2 6 16 13 0 1 2012 NA 36
+12 "Illinois" "Big Ten" 28 1 1 1 1 16 11 0 1 2008 NA 12
+12 "Memphis" "Conference USA" 28 0 2 2 2 13 11 0 4 2010 NA 24
+12 "Michigan" "Big Ten" 27 10 2 8 22 14 8 0 3 2013 15 108
+12 "North Carolina" "ACC" 28 4 2 2 2 11 12 1 4 2009 NA 24
+12 "Oklahoma State" "Big 12" 29 2 1 1 1 13 16 0 0 2006 NA 12
+12 "Oregon State" "Pac-12" 31 0 2 2 10 13 16 1 1 2011 NA 48
+12 "West Virginia" "Big 12" 28 1 1 1 1 12 15 0 1 2007 NA 12
+12 "Weber State" "NCAA Division I-AA" 18 0 2 2 14 9 8 0 1 2011 NA 60
+12 "Wofford" "NCAA Division I-AA" 17 0 1 1 1 9 8 0 0 2008 NA 12
+12 "Georgia Southern" "NCAA Division I-AA" 2 0 2 2 2 0 0 0 0 2009 NA 24
+12 "Stephen F. Austin" "NCAA Division I-AA" 1 0 1 1 1 1 0 0 0 2007 NA 12
+12 "James Madison" "NCAA Division I-AA" 15 0 2 2 18 4 8 0 3 2012 NA 72
+12 "Prairie View A&M" "SWAC" 20 0 2 2 2 7 9 1 3 2010 NA 24
+12 "Lehigh" "NCAA Division I-AA" 9 0 2 2 3 4 4 0 0 2013 0 27
+13 "Boston College" "ACC" 28 0 1 1 1 13 11 1 3 2008 NA 12
+13 "Colorado" "Pac-12" 29 1 2 3 25 14 14 0 1 2012 NA 97
+13 "Kansas State" "Big 12" 28 0 2 2 2 13 13 0 2 2010 NA 24
+13 "Louisiana-Lafayette" "Sun Belt" 31 0 2 2 14 15 13 1 2 2011 NA 60
+13 "Nebraska" "Big Ten" 28 0 1 1 1 12 15 1 0 2007 NA 12
+13 "North Carolina" "ACC" 29 1 1 1 1 17 12 0 0 2006 NA 12
+13 "Southern Miss" "Conference USA" 27 0 2 3 19 13 11 1 2 2013 0 79
+13 "Texas A&M" "SEC" 28 1 2 2 2 8 15 1 4 2009 NA 24
+13 "Jacksonville State" "NCAA Division I-AA" 16 0 2 2 14 7 7 0 2 2011 NA 60
+13 "McNeese State" "NCAA Division I-AA" 1 0 1 1 1 1 0 0 0 2007 NA 12
+13 "James Madison" "NCAA Division I-AA" 19 0 2 2 2 7 8 1 3 2010 NA 24
+13 "Maine" "NCAA Division I-AA" 14 0 2 2 16 6 7 1 0 2012 NA 66
+13 "Richmond" "NCAA Division I-AA" 9 0 2 2 14 5 3 0 1 2013 0 60
+13 "Villanova" "NCAA Division I-AA" 16 0 1 1 1 0 0 0 0 2008 NA 12
+13 "Idaho State" "NCAA Division I-AA" 1 0 2 2 2 0 0 0 0 2009 NA 24
+14 "Idaho" "WAC" 27 0 2 2 2 11 11 1 3 2013 0 24
+14 "Iowa State" "Big 12" 28 0 2 2 2 13 11 1 3 2010 NA 24
+14 "Kentucky" "SEC" 28 1 1 1 1 14 13 1 0 2007 NA 12
+14 "Kentucky" "SEC" 28 1 2 2 2 13 14 0 1 2009 NA 24
+14 "Louisiana Tech" "WAC" 29 0 1 1 1 12 17 0 0 2006 NA 12
+14 "Southern Methodist" "Conference USA" 28 0 1 1 1 20 8 0 0 2008 NA 12
+14 "UAB" "Conference USA" 29 0 2 2 6 16 11 0 2 2012 NA 36
+14 "Utah State" "WAC" 30 0 2 2 3 10 18 1 1 2011 NA 27
+14 "Samford" "NCAA Division I-AA" 1 0 2 2 2 0 1 0 0 2009 NA 24
+14 "South Carolina State" "NCAA Division I-AA" 1 0 1 1 1 1 0 0 0 2007 NA 12
+14 "Delaware" "NCAA Division I-AA" 9 0 2 2 3 2 6 0 1 2013 0 27
+14 "Elon" "NCAA Division I-AA" 16 0 2 2 3 8 7 0 1 2011 NA 27
+14 "North Dakota State" "NCAA Division I-AA" 16 0 1 1 1 7 8 1 0 2008 NA 12
+14 "Western Carolina" "NCAA Division I-AA" 19 0 2 2 2 10 8 0 1 2010 NA 24
+14 "Dartmouth" "NCAA Division I-AA" 14 0 2 2 18 7 6 0 1 2012 NA 72
+15 "Akron" "Mid-American" 29 0 2 2 21 15 14 0 0 2012 NA 81
+15 "Colorado" "Pac-12" 28 2 1 1 1 18 10 0 0 2007 NA 12
+15 "Florida State" "ACC" 29 12 3 8 20 14 13 0 2 2011 NA 107
+15 "Nebraska" "Big Ten" 27 1 1 1 1 13 10 0 4 2008 NA 12
+15 "North Carolina State" "ACC" 28 0 2 2 2 9 15 1 3 2009 NA 24
+15 "San Diego State" "Mountain West" 28 0 2 2 2 13 9 1 5 2010 NA 24
+15 "Troy" "Sun Belt" 29 0 1 1 1 11 17 1 0 2006 NA 12
+15 "Vanderbilt" "SEC" 26 1 2 5 7 11 10 1 1 2013 5 51
+15 "Eastern Illinois" "NCAA Division I-AA" 19 0 2 2 2 7 9 1 2 2010 NA 24
+15 "Jacksonville State" "NCAA Division I-AA" 1 0 1 1 1 1 0 0 0 2007 NA 12
+15 "Southern Illinois" "NCAA Division I-AA" 8 0 2 2 14 3 4 0 0 2013 0 60
+15 "Cal Poly" "NCAA Division I-AA" 16 0 1 1 1 14 1 0 1 2008 NA 12
+15 "New Hampshire" "NCAA Division I-AA" 13 0 2 2 3 7 6 0 0 2012 NA 27
+15 "Bethune-Cookman" "NCAA Division I-AA" 1 0 2 2 2 0 1 0 0 2009 NA 24
+15 "Illinois State" "NCAA Division I-AA" 16 0 2 2 2 7 6 0 3 2011 NA 24
+16 "Clemson" "ACC" 29 7 4 14 10 16 11 1 1 2011 NA 106
+16 "North Carolina State" "ACC" 27 2 1 1 1 9 14 0 4 2008 NA 12
+16 "Notre Dame" "IA Independents" 28 10 1 1 1 17 10 1 0 2006 NA 12
+16 "Southern Methodist" "Conference USA" 28 0 2 2 2 12 13 1 2 2009 NA 24
+16 "Texas Tech" "Big 12" 28 0 1 1 1 17 10 1 0 2007 NA 12
+16 "UAB" "Conference USA" 28 0 2 2 2 15 11 0 2 2010 NA 24
+16 "West Virginia" "Big 12" 26 0 2 15 10 11 11 1 2 2013 2 100
+16 "Western Michigan" "Mid-American" 29 0 2 2 4 15 13 1 0 2012 NA 30
+16 "Liberty" "NCAA Division I-AA" 16 0 1 1 1 7 8 1 0 2008 NA 12
+16 "Delaware" "NCAA Division I-AA" 19 0 2 2 2 10 9 0 0 2010 NA 24
+16 "Delaware" "NCAA Division I-AA" 12 0 2 2 16 7 3 1 1 2012 NA 66
+16 "Northern Iowa" "NCAA Division I-AA" 15 0 2 2 3 7 7 1 0 2011 NA 27
+16 "Villanova" "NCAA Division I-AA" 8 0 2 2 2 3 5 0 0 2013 0 24
+16 "Georgetown" "NCAA Division I-AA" 1 0 2 2 2 0 1 0 0 2009 NA 24
+17 "Georgia" "SEC" 28 12 1 1 1 16 12 0 0 2006 NA 12
+17 "Illinois" "Big Ten" 29 1 2 10 12 12 11 1 5 2011 NA 86
+17 "Nebraska" "Big Ten" 26 0 2 4 8 9 11 0 3 2013 2 50
+17 "Temple" "Big East" 28 0 1 1 1 12 16 0 0 2007 NA 12
+17 "Temple" "Big East" 28 0 2 2 2 11 15 1 1 2009 NA 24
+17 "Texas" "Big 12" 28 12 2 18 4 8 16 1 3 2012 NA 94
+17 "Utah State" "WAC" 28 0 2 2 2 17 8 1 2 2010 NA 24
+17 "West Virginia" "Big 12" 27 0 1 1 1 11 13 1 2 2008 NA 12
+17 "Harvard" "NCAA Division I-AA" 11 0 2 2 14 8 3 0 0 2012 NA 60
+17 "Jacksonville State" "NCAA Division I-AA" 1 0 2 2 2 1 0 0 0 2009 NA 24
+17 "Liberty" "NCAA Division I-AA" 19 0 2 2 2 9 9 0 1 2010 NA 24
+17 "Massachusetts" "Mid-American" 16 0 1 1 1 7 9 0 0 2008 NA 12
+17 "William & Mary" "NCAA Division I-AA" 15 0 2 2 3 8 6 0 1 2011 NA 27
+17 "Illinois State" "NCAA Division I-AA" 7 0 2 2 3 5 2 0 0 2013 0 27
+18 "Arizona State" "Pac-12" 26 0 2 9 23 8 14 1 2 2013 0 115
+18 "Florida" "SEC" 27 14 1 1 1 11 15 1 0 2007 NA 12
+18 "Memphis" "Conference USA" 29 0 2 2 17 12 13 0 4 2011 NA 69
+18 "Mississippi State" "SEC" 27 2 2 2 2 12 8 2 5 2009 NA 24
+18 "Nevada" "Mountain West" 28 0 1 1 1 15 13 0 0 2006 NA 12
+18 "Oklahoma State" "Big 12" 27 1 1 1 1 13 13 1 0 2008 NA 12
+18 "Utah" "Pac-12" 28 0 2 3 11 14 13 0 1 2012 NA 55
+18 "UTEP" "Conference USA" 28 0 2 2 2 14 12 1 1 2010 NA 24
+18 "Appalachian State" "NCAA Division I-AA" 15 0 1 1 1 3 9 1 2 2008 NA 12
+18 "Harvard" "NCAA Division I-AA" 15 0 2 2 16 7 6 2 0 2011 NA 66
+18 "Jacksonville State" "NCAA Division I-AA" 19 0 2 2 2 12 5 1 1 2010 NA 24
+18 "Yale" "NCAA Division I-AA" 10 0 2 2 19 8 2 0 0 2012 NA 75
+18 "Alabama State" "SWAC" 1 0 2 2 2 1 0 0 0 2009 NA 24
+18 "Indiana State" "NCAA Division I-AA" 7 0 2 2 2 4 3 0 0 2013 0 24
+19 "Arizona" "Pac-12" 26 0 2 11 23 11 8 0 4 2013 1 123
+19 "Baylor" "Big 12" 28 0 1 1 1 16 12 0 0 2006 NA 12
+19 "Duke" "ACC" 27 0 2 2 2 10 13 0 4 2009 NA 24
+19 "Florida" "SEC" 27 17 2 2 2 8 15 0 4 2010 NA 24
+19 "LSU" "SEC" 27 7 1 1 1 14 11 2 0 2007 NA 12
+19 "Mississippi State" "SEC" 27 1 1 1 1 9 14 1 3 2008 NA 12
+19 "Mississippi State" "SEC" 28 1 2 10 15 10 12 1 5 2012 NA 95
+19 "Troy" "Sun Belt" 29 0 2 2 16 15 12 1 1 2011 NA 66
+19 "Delaware" "NCAA Division I-AA" 15 0 2 2 2 8 6 0 1 2011 NA 24
+19 "Elon" "NCAA Division I-AA" 14 0 1 1 1 8 5 1 0 2008 NA 12
+19 "Richmond" "NCAA Division I-AA" 19 0 2 2 2 9 7 0 3 2010 NA 24
+19 "Western Carolina" "NCAA Division I-AA" 1 0 2 2 2 0 1 0 0 2009 NA 24
+19 "Brown" "NCAA Division I-AA" 10 0 2 2 3 5 2 1 2 2012 NA 27
+19 "Albany" "NCAA Division I-AA" 6 0 2 2 3 4 2 0 0 2013 0 27
+2 "Auburn" "SEC" 32 7 2 2 2 12 11 2 7 2010 NA 24
+2 "Kansas State" "Big 12" 33 0 1 1 1 14 15 1 3 2008 NA 12
+2 "Marshall" "Conference USA" 34 0 2 10 9 18 11 0 5 2011 NA 77
+2 "Mississippi" "SEC" 37 3 2 2 2 16 16 2 3 2009 NA 24
+2 "Oregon State" "Pac-12" 35 0 1 1 1 16 19 0 0 2007 NA 12
+2 "Texas Tech" "Big 12" 35 0 1 1 1 16 19 0 0 2006 NA 12
+2 "Troy" "Sun Belt" 38 0 2 2 5 12 21 2 3 2012 NA 33
+2 "Montana" "NCAA Division I-AA" 25 0 2 2 17 12 11 1 1 2012 NA 69
+2 "Montana" "NCAA Division I-AA" 31 0 1 1 1 16 13 2 0 2008 NA 12
+2 "Princeton" "NCAA Division I-AA" 1 0 1 1 1 0 1 0 0 2006 NA 12
+2 "Hampton" "NCAA Division I-AA" 2 0 1 1 1 1 0 0 1 2007 NA 12
+2 "Stephen F. Austin" "NCAA Division I-AA" 24 0 2 2 2 0 0 0 0 2009 NA 24
+2 "Stephen F. Austin" "NCAA Division I-AA" 27 0 2 2 17 11 13 1 2 2011 NA 69
+2 "Western Kentucky" "Sun Belt" 33 0 2 3 19 15 17 1 0 2013 0 79
+2 "Northwestern State" "NCAA Division I-AA" 31 0 2 2 2 13 12 0 6 2010 NA 24
+2 "Southern University" "SWAC" 27 0 2 3 2 7 14 0 5 2013 1 28
+20 "Akron" "Mid-American" 28 0 1 1 1 13 14 1 0 2006 NA 12
+20 "California" "Pac-12" 27 0 1 1 1 14 12 1 0 2007 NA 12
+20 "Houston" "Conference USA" 26 0 2 2 23 10 11 1 2 2013 0 87
+20 "Louisiana-Monroe" "Sun Belt" 27 0 2 2 2 15 10 0 2 2009 NA 24
+20 "Oklahoma State" "Big 12" 27 1 2 2 2 8 16 0 3 2010 NA 24
+20 "Temple" "Big East" 27 0 1 1 1 11 12 0 4 2008 NA 12
+20 "West Virginia" "Big 12" 28 1 2 3 24 11 12 1 4 2012 NA 94
+20 "New Hampshire" "NCAA Division I-AA" 14 0 1 1 1 10 4 0 0 2008 NA 12
+20 "New Hampshire" "NCAA Division I-AA" 15 0 2 2 2 4 10 0 1 2011 NA 24
+20 "New Hampshire" "NCAA Division I-AA" 17 0 2 2 2 8 7 0 2 2010 NA 24
+20 "Northeastern" "CAA" 0 0 2 2 2 0 0 0 0 2009 NA 24
+20 "Richmond" "NCAA Division I-AA" 10 0 2 2 17 5 3 0 2 2012 NA 69
+20 "Ole Miss" "SEC" 28 1 2 11 9 14 12 0 2 2011 NA 81
+20 "Bryant University" "NCAA Division I-AA" 4 0 2 2 2 0 4 0 0 2013 0 24
+21 "Florida" "SEC" 27 14 1 1 1 13 14 0 0 2006 NA 12
+21 "Illinois" "Big Ten" 26 0 2 10 12 10 13 0 3 2013 1 86
+21 "Kentucky" "SEC" 28 0 2 3 24 9 14 1 4 2012 NA 94
+21 "Marshall" "Conference USA" 27 0 2 2 2 10 11 1 5 2010 NA 24
+21 "Maryland" "ACC" 27 1 1 1 1 18 8 1 0 2007 NA 12
+21 "Ohio State" "Big Ten" 26 7 2 2 2 14 10 0 2 2009 NA 24
+21 "Oklahoma State" "Big 12" 28 1 2 10 10 7 16 1 4 2011 NA 80
+21 "Tulsa" "Conference USA" 27 0 1 1 1 13 13 1 0 2008 NA 12
+21 "James Madison" "NCAA Division I-AA" 14 0 2 2 3 7 6 0 1 2011 NA 27
+21 "Massachusetts" "Mid-American" 17 0 2 2 2 10 6 0 1 2010 NA 24
+21 "Richmond" "NCAA Division I-AA" 12 0 1 1 1 7 5 0 0 2008 NA 12
+21 "Stony Brook" "NCAA Division I-AA" 0 0 2 2 2 0 1 0 0 2009 NA 24
+21 "Murray State" "NCAA Division I-AA" 2 0 2 2 2 1 1 0 0 2013 0 24
+21 "Cornell" "NCAA Division I-AA" 9 0 2 2 3 8 1 0 0 2012 NA 27
+22 "Alabama" "SEC" 25 14 3 21 17 11 9 0 3 2013 18 150
+22 "Kansas" "Big 12" 28 0 2 9 13 13 13 1 1 2011 NA 85
+22 "Kentucky" "SEC" 27 0 2 2 2 8 16 1 2 2010 NA 24
+22 "LSU" "SEC" 26 4 1 1 1 14 11 0 1 2008 NA 12
+22 "Missouri" "SEC" 27 1 1 1 1 11 15 1 0 2007 NA 12
+22 "Oklahoma" "Big 12" 27 6 1 1 1 15 12 0 0 2006 NA 12
+22 "Penn State" "Big Ten" 26 1 2 2 2 11 10 1 4 2009 NA 24
+22 "Washington State" "Pac-12" 28 0 2 3 11 14 11 1 2 2012 NA 55
+22 "Grambling State" "SWAC" 2 0 2 2 2 0 2 0 0 2013 0 24
+22 "James Madison" "NCAA Division I-AA" 12 0 1 1 1 7 5 0 0 2008 NA 12
+22 "Portland State" "NCAA Division I-AA" 9 0 2 2 3 6 2 0 1 2012 NA 27
+22 "Richmond" "NCAA Division I-AA" 14 0 2 2 3 6 6 0 2 2011 NA 27
+22 "Eastern Washington" "NCAA Division I-AA" 16 0 2 2 2 13 2 0 1 2010 NA 24
+23 "Arkansas" "SEC" 26 3 1 1 1 15 7 0 4 2008 NA 12
+23 "Arkansas" "SEC" 27 0 1 1 1 14 11 1 1 2007 NA 12
+23 "California" "Pac-12" 25 0 2 14 10 10 11 1 2 2013 1 96
+23 "Louisiana-Lafayette" "Sun Belt" 28 0 2 2 5 10 16 0 2 2012 NA 33
+23 "LSU" "SEC" 27 6 1 1 1 14 13 0 0 2006 NA 12
+23 "Oklahoma State" "Big 12" 26 1 2 2 2 10 14 0 2 2009 NA 24
+23 "Southern Methodist" "Conference USA" 28 0 2 2 5 11 14 0 3 2011 NA 33
+23 "Southern Miss" "Conference USA" 27 0 2 2 2 17 8 1 1 2010 NA 24
+23 "Appalachian State" "NCAA Division I-AA" 15 0 2 2 2 10 5 0 0 2010 NA 24
+23 "Delaware" "NCAA Division I-AA" 5 0 1 1 1 4 1 0 0 2008 NA 12
+23 "Towson" "NCAA Division I-AA" 8 0 2 2 3 5 2 0 1 2012 NA 27
+23 "Northwestern State" "NCAA Division I-AA" 13 0 2 2 14 7 3 1 2 2011 NA 60
+23 "Tennessee State" "NCAA Division I-AA" 1 0 2 2 3 1 0 0 0 2013 0 27
+24 "Alabama" "SEC" 27 2 1 1 1 14 13 0 0 2006 NA 12
+24 "Brigham Young" "IA Independents" 27 0 2 2 2 11 13 0 3 2010 NA 24
+24 "Maryland" "ACC" 26 1 2 2 2 10 14 1 1 2009 NA 24
+24 "Oklahoma" "Big 12" 27 5 2 15 6 17 7 0 3 2012 NA 88
+24 "Oregon State" "Pac-12" 25 0 2 11 13 7 15 0 3 2013 1 93
+24 "Tennessee" "SEC" 27 6 2 16 6 12 11 0 4 2011 NA 92
+24 "Washington" "Pac-12" 26 1 1 1 1 17 8 0 1 2008 NA 12
+24 "Washington" "Pac-12" 27 0 1 1 1 13 12 2 0 2007 NA 12
+24 "Grambling State" "SWAC" 12 0 2 2 2 6 6 0 0 2011 NA 24
+24 "Grambling State" "SWAC" 7 0 2 2 3 6 1 0 0 2012 NA 27
+24 "Montana State" "NCAA Division I-AA" 1 0 1 1 1 0 0 0 0 2008 NA 12
+24 "Villanova" "NCAA Division I-AA" 15 0 2 2 2 8 6 0 1 2010 NA 24
+24 "Bethune-Cookman" "NCAA Division I-AA" 1 0 2 2 3 0 1 0 0 2013 0 27
+25 "Houston" "Conference USA" 27 0 1 1 1 14 12 0 1 2007 NA 12
+25 "Kansas" "Big 12" 25 0 2 3 15 9 14 1 0 2013 0 67
+25 "Kentucky" "SEC" 27 0 2 3 10 14 10 0 3 2011 NA 52
+25 "Marshall" "Conference USA" 26 0 2 2 2 11 12 0 3 2009 NA 24
+25 "Minnesota" "Big Ten" 27 0 2 2 2 11 14 0 2 2010 NA 24
+25 "Pittsburgh" "Big East" 27 2 1 1 1 9 17 1 0 2006 NA 12
+25 "Purdue" "Big Ten" 26 0 1 1 1 11 14 1 0 2008 NA 12
+25 "UCLA" "Pac-12" 27 4 2 13 12 13 10 1 3 2012 NA 98
+25 "Jacksonville State" "NCAA Division I-AA" 1 0 2 2 3 0 1 0 0 2013 0 27
+25 "McNeese State" "NCAA Division I-AA" 15 0 2 2 2 7 6 1 1 2010 NA 24
+25 "Columbia" "NCAA Division I-AA" 7 0 2 2 18 3 4 0 0 2012 NA 72
+25 "Winston-Salem" "NCAA Football" 1 0 1 1 1 0 1 0 0 2008 NA 12
+25 "Texas State" "WAC" 11 0 2 2 17 6 4 1 0 2011 NA 69
+26 "Houston" "Conference USA" 27 0 2 2 2 12 12 1 2 2010 NA 24
+26 "Iowa" "Big Ten" 26 0 1 1 1 14 11 1 0 2008 NA 12
+26 "Kent State" "Mid-American" 27 0 1 1 1 11 16 0 0 2007 NA 12
+26 "Louisville" "Big East" 26 0 2 2 2 9 16 0 1 2009 NA 24
+26 "Minnesota" "Big Ten" 27 0 2 3 22 14 12 1 0 2011 NA 88
+26 "Southern Miss" "Conference USA" 27 1 2 3 8 12 13 0 2 2012 NA 46
+26 "Utah" "Pac-12" 27 0 1 1 1 14 13 0 0 2006 NA 12
+26 "Wake Forest" "ACC" 25 0 2 3 13 9 14 1 0 2013 0 61
+26 "Appalachian State" "NCAA Division I-AA" 10 0 2 2 2 4 5 0 1 2011 NA 24
+26 "Prairie View A&M" "SWAC" 1 0 1 1 1 1 0 0 0 2008 NA 12
+26 "Stony Brook" "NCAA Division I-AA" 1 0 2 2 3 0 1 0 0 2013 0 27
+26 "Texas State" "WAC" 14 0 2 2 2 9 5 0 0 2010 NA 24
+26 "Pennsylvania" "NCAA Division I-AA" 7 0 2 2 17 4 3 0 0 2012 NA 69
+27 "Akron" "Mid-American" 26 1 1 1 1 12 13 0 1 2008 NA 12
+27 "Arkansas State" "Sun Belt" 27 0 2 2 2 10 12 2 3 2010 NA 24
+27 "Cincinnati" "Big East" 26 0 2 2 2 10 11 1 4 2009 NA 24
+27 "East Carolina" "Conference USA" 26 0 1 1 1 16 10 0 0 2007 NA 12
+27 "Iowa State" "Big 12" 25 0 2 3 28 12 9 0 2 2013 0 106
+27 "Minnesota" "Big Ten" 27 1 2 10 6 12 13 0 2 2012 NA 68
+27 "Mississippi State" "SEC" 27 2 1 1 1 15 12 0 0 2006 NA 12
+27 "Syracuse" "Big East" 27 0 2 2 7 14 9 1 3 2011 NA 39
+27 "Liberty" "NCAA Division I-AA" 10 0 2 2 3 5 4 0 1 2011 NA 27
+27 "Arkansas-Pine Bluff" "SWAC" 1 0 1 1 1 0 0 0 1 2008 NA 12
+27 "Elon" "NCAA Division I-AA" 14 0 2 2 2 5 9 0 0 2010 NA 24
+27 "Youngstown State" "NCAA Division I-AA" 1 0 2 2 3 1 0 0 0 2013 0 27
+27 "South Dakota" "NCAA Division I-AA" 7 0 2 2 3 4 3 0 0 2012 NA 27
+28 "Florida Atlantic" "Sun Belt" 26 0 2 2 2 11 13 1 1 2009 NA 24
+28 "Hawaii" "Mountain West" 25 0 2 9 19 13 11 0 0 2013 2 103
+28 "Louisiana-Monroe" "Sun Belt" 26 0 1 1 1 9 11 1 5 2007 NA 12
+28 "Memphis" "Conference USA" 27 0 2 2 4 15 11 0 1 2012 NA 30
+28 "Rutgers" "Big East" 27 0 1 1 1 14 13 0 0 2006 NA 12
+28 "Syracuse" "Big East" 26 0 1 1 1 14 11 1 0 2008 NA 12
+28 "Toledo" "Mid-American" 27 0 2 2 2 10 14 0 3 2010 NA 24
+28 "Samford" "NCAA Division I-AA" 1 0 2 2 3 1 0 0 0 2013 0 27
+28 "Western Kentucky" "Sun Belt" 27 0 2 2 21 15 11 0 1 2011 NA 81
+28 "Yale" "NCAA Division I-AA" 1 0 1 1 1 0 1 0 0 2008 NA 12
+28 "William & Mary" "NCAA Division I-AA" 14 0 2 2 2 8 5 1 0 2010 NA 24
+28 "Bryant University" "NCAA Division I-AA" 7 0 2 2 3 3 3 0 1 2012 NA 27
+28 "Tennessee State" "NCAA Division I-AA" 8 0 2 2 14 4 3 0 1 2011 NA 60
+29 "Alabama" "SEC" 26 13 2 18 21 9 14 1 2 2012 NA 145
+29 "Florida International" "Sun Belt" 27 0 2 2 18 13 11 0 3 2011 NA 72
+29 "Marshall" "Conference USA" 26 0 1 1 1 15 11 0 0 2007 NA 12
+29 "North Carolina State" "ACC" 25 0 2 3 12 14 9 0 2 2013 0 58
+29 "San Jose State" "WAC" 27 0 2 2 2 15 10 0 2 2010 NA 24
+29 "Tulane" "Conference USA" 26 0 2 2 2 12 12 1 1 2009 NA 24
+29 "UTEP" "Conference USA" 27 0 1 1 1 20 5 2 0 2006 NA 12
+29 "Washington State" "Pac-12" 26 0 1 1 1 14 10 0 2 2008 NA 12
+29 "Hampton" "NCAA Division I-AA" 7 0 2 2 2 2 3 0 2 2012 NA 24
+29 "Alabama A&M" "SWAC" 1 0 1 1 1 1 0 0 0 2008 NA 12
+29 "Alabama State" "SWAC" 2 0 2 2 2 1 1 0 0 2010 NA 24
+29 "Pennsylvania" "NCAA Division I-AA" 8 0 2 2 16 4 3 1 0 2011 NA 66
+29 "Tennessee Tech" "NCAA Division I-AA" 1 0 2 2 2 0 0 0 1 2013 0 24
+3 "Alabama" "SEC" 32 7 1 1 1 12 16 1 3 2008 NA 12
+3 "Arkansas" "SEC" 33 1 2 2 2 15 14 1 3 2009 NA 24
+3 "Florida State" "ACC" 34 7 1 1 1 16 18 0 0 2006 NA 12
+3 "Kansas State" "Big 12" 34 0 2 3 22 14 15 1 4 2011 NA 88
+3 "Temple" "Big East" 37 0 2 2 15 15 17 0 5 2012 NA 63
+3 "Texas A&M" "SEC" 32 5 2 8 8 11 18 0 1 2013 10 66
+3 "Troy" "Sun Belt" 34 0 1 1 1 16 16 2 0 2007 NA 12
+3 "Washington" "Pac-12" 31 1 2 2 2 14 15 0 2 2010 NA 24
+3 "Grambling State" "SWAC" 1 0 1 1 1 1 0 0 0 2006 NA 12
+3 "Georgia Southern" "NCAA Division I-AA" 23 0 2 2 21 13 7 0 3 2012 NA 81
+3 "Georgia Southern" "NCAA Division I-AA" 26 0 2 2 14 13 8 0 5 2011 NA 60
+3 "Harvard" "NCAA Division I-AA" 30 0 2 2 2 14 12 1 3 2010 NA 24
+3 "Southern Illinois" "NCAA Division I-AA" 1 0 1 1 1 0 1 0 0 2007 NA 12
+3 "Delaware" "NCAA Division I-AA" 21 0 2 2 2 0 0 0 0 2009 NA 24
+3 "Delaware State" "NCAA Division I-AA" 26 0 1 1 1 13 13 0 0 2008 NA 12
+3 "Georgia State" "NCAA Division I-AA" 27 0 2 2 14 12 14 0 1 2013 0 60
+30 "Brigham Young" "IA Independents" 25 0 2 3 4 14 10 0 0 2013 0 34
+30 "Brigham Young" "IA Independents" 26 0 1 1 1 18 8 0 0 2007 NA 12
+30 "Duke" "ACC" 27 0 1 1 1 14 12 1 0 2006 NA 12
+30 "East Carolina" "Conference USA" 27 0 2 2 19 13 13 0 1 2011 NA 75
+30 "Louisiana Tech" "WAC" 26 0 2 2 2 14 11 1 0 2009 NA 24
+30 "LSU" "SEC" 26 7 2 2 2 13 9 1 3 2010 NA 24
+30 "Texas Tech" "Big 12" 26 3 2 11 7 11 13 0 2 2012 NA 75
+30 "UTEP" "Conference USA" 26 0 1 1 1 10 16 0 0 2008 NA 12
+30 "Princeton" "NCAA Division I-AA" 7 0 2 2 2 5 1 1 0 2012 NA 24
+30 "Portland State" "NCAA Division I-AA" 1 0 1 1 1 0 1 0 0 2008 NA 12
+30 "Youngstown State" "NCAA Division I-AA" 8 0 2 2 2 4 2 1 1 2011 NA 24
+30 "Nicholls State" "NCAA Division I-AA" 2 0 2 2 2 2 0 0 0 2010 NA 24
+30 "South Dakota" "NCAA Division I-AA" 1 0 2 2 2 0 0 1 0 2013 0 24
+31 "Clemson" "ACC" 25 10 1 1 1 13 10 2 0 2008 NA 12
+31 "Michigan" "Big Ten" 26 1 2 2 2 8 14 1 3 2010 NA 24
+31 "Toledo" "Mid-American" 27 0 2 2 18 11 15 1 0 2011 NA 72
+31 "Utah State" "WAC" 26 0 2 2 2 14 12 0 0 2009 NA 24
+31 "Virginia" "ACC" 26 1 2 9 25 13 8 0 5 2012 NA 121
+31 "Washington State" "Pac-12" 26 0 1 1 1 11 15 0 0 2007 NA 12
+31 "Washington State" "Pac-12" 27 0 1 1 1 18 9 0 0 2006 NA 12
+31 "Middle Tennessee" "Sun Belt" 25 0 2 2 20 13 11 1 0 2013 0 78
+31 "Maine" "NCAA Division I-AA" 1 0 1 1 1 1 0 0 0 2008 NA 12
+31 "Montana State" "NCAA Division I-AA" 6 0 2 2 2 4 2 0 0 2011 NA 24
+31 "New Hampshire" "NCAA Division I-AA" 1 0 2 2 2 1 0 0 0 2013 0 24
+31 "Youngstown State" "NCAA Division I-AA" 6 0 2 2 3 4 2 0 0 2012 NA 27
+31 "Murray State" "NCAA Division I-AA" 1 0 2 2 2 1 0 0 0 2010 NA 24
+32 "Arizona" "Pac-12" 25 0 1 1 1 14 11 0 0 2008 NA 12
+32 "Baylor" "Big 12" 26 1 2 2 2 13 12 0 1 2010 NA 24
+32 "Fresno State" "Mountain West" 26 0 1 1 1 11 13 1 1 2007 NA 12
+32 "Kansas State" "Big 12" 26 0 2 2 6 13 11 0 2 2012 NA 36
+32 "New Mexico" "Mountain West" 25 0 2 2 17 9 10 0 5 2013 0 69
+32 "San Jose State" "WAC" 27 0 1 1 1 15 12 0 0 2006 NA 12
+32 "Washington State" "Pac-12" 27 0 2 2 16 12 11 0 4 2011 NA 66
+32 "McNeese State" "NCAA Division I-AA" 5 0 2 2 3 2 3 0 0 2012 NA 27
+32 "Western Kentucky" "Sun Belt" 26 0 2 2 2 11 11 1 3 2009 NA 24
+32 "Cal Poly" "NCAA Division I-AA" 1 0 2 2 2 1 0 0 0 2013 0 24
+32 "Towson" "NCAA Division I-AA" 1 0 1 1 1 1 0 0 0 2008 NA 12
+32 "Youngstown State" "NCAA Division I-AA" 1 0 2 2 2 1 0 0 0 2010 NA 24
+32 "Western Illinois" "NCAA Division I-AA" 6 0 2 2 2 2 4 0 0 2011 NA 24
+33 "LSU" "SEC" 25 10 2 2 2 8 13 1 3 2009 NA 24
+33 "Mississippi" "SEC" 26 0 2 2 2 9 12 0 5 2010 NA 24
+33 "Nevada" "Mountain West" 27 0 2 2 18 10 16 0 1 2011 NA 72
+33 "North Texas" "Sun Belt" 25 0 1 1 1 10 11 0 4 2008 NA 12
+33 "Purdue" "Big Ten" 26 0 2 2 24 15 6 2 3 2012 NA 90
+33 "Texas" "Big 12" 25 12 1 1 1 14 11 0 0 2007 NA 12
+33 "Tulane" "Conference USA" 25 0 2 3 18 8 16 0 0 2013 1 76
+33 "UNLV" "Mountain West" 27 0 1 1 1 12 15 0 0 2006 NA 12
+33 "Hampton" "NCAA Division I-AA" 1 0 2 2 2 1 0 0 0 2010 NA 24
+33 "North Dakota State" "NCAA Division I-AA" 6 0 2 2 2 4 1 1 0 2011 NA 24
+33 "Wagner" "NCAA Division I-AA" 1 0 1 1 1 1 0 0 0 2008 NA 12
+33 "Southeastern Louisiana" "NCAA Division I-AA" 5 0 2 2 16 2 3 0 0 2012 NA 66
+33 "Sacramento State" "NCAA Division I-AA" 1 0 2 2 2 1 0 0 0 2013 0 24
+34 "Central Michigan" "Mid-American" 27 0 2 2 16 14 10 1 2 2011 NA 66
+34 "Cincinnati" "Big East" 25 0 1 1 1 13 9 1 2 2008 NA 12
+34 "Connecticut" "Big East" 26 0 2 2 9 14 10 1 1 2012 NA 45
+34 "Hawaii" "Mountain West" 27 0 1 1 1 9 18 0 0 2006 NA 12
+34 "Southern Miss" "Conference USA" 25 1 1 1 1 11 13 0 1 2007 NA 12
+34 "Texas Tech" "Big 12" 26 0 2 2 2 6 20 0 0 2010 NA 24
+34 "West Virginia" "Big 12" 25 1 2 2 2 13 11 0 1 2009 NA 24
+34 "Weber State" "NCAA Division I-AA" 1 0 1 1 1 0 1 0 0 2008 NA 12
+34 "Eastern Kentucky" "NCAA Division I-AA" 5 0 2 2 14 3 2 0 0 2012 NA 60
+34 "Stony Brook" "NCAA Division I-AA" 1 0 2 2 2 1 0 0 0 2010 NA 24
+34 "Indiana State" "NCAA Division I-AA" 5 0 2 2 3 3 2 0 0 2011 NA 27
+34 "Lamar" "NCAA Division I-AA" 1 0 2 2 2 1 0 0 0 2013 0 24
+34 "South Alabama" "Sun Belt" 25 0 2 2 18 9 13 1 2 2013 0 72
+35 "Alabama" "SEC" 26 11 3 7 19 12 12 0 2 2011 NA 100
+35 "Arkansas State" "Sun Belt" 25 0 1 1 1 13 9 1 2 2008 NA 12
+35 "Florida Atlantic" "Sun Belt" 25 0 2 2 16 12 10 0 2 2013 0 66
+35 "Mississippi" "SEC" 25 3 1 1 1 11 13 1 0 2007 NA 12
+35 "South Carolina" "SEC" 25 3 2 14 12 12 8 1 4 2012 NA 102
+35 "Southern Methodist" "Conference USA" 26 0 2 2 2 11 11 0 4 2010 NA 24
+35 "USC" "Pac-12" 26 13 1 1 1 14 11 1 0 2006 NA 12
+35 "Virginia" "ACC" 25 1 2 2 2 13 10 0 2 2009 NA 24
+35 "Southern Illinois" "NCAA Division I-AA" 5 0 2 2 3 3 2 0 0 2012 NA 27
+35 "Gardner-Webb" "NCAA Division I-AA" 1 0 1 1 1 0 0 1 0 2008 NA 12
+35 "Sam Houston State" "NCAA Division I-AA" 1 0 2 2 2 0 1 0 0 2010 NA 24
+35 "UC Davis" "NCAA Division I-AA" 5 0 2 2 3 3 2 0 0 2011 NA 27
+36 "Arizona State" "Pac-12" 26 0 2 2 2 18 6 0 2 2010 NA 24
+36 "Georgia" "SEC" 26 6 4 7 20 14 11 0 1 2011 NA 108
+36 "Marshall" "Conference USA" 26 0 1 1 1 15 10 1 0 2006 NA 12
+36 "Ohio State" "Big Ten" 25 5 2 16 10 12 11 0 2 2012 NA 104
+36 "South Florida" "Big East" 25 0 1 1 1 13 12 0 0 2007 NA 12
+36 "Texas Tech" "Big 12" 25 0 2 2 2 11 12 0 2 2009 NA 24
+36 "Western Michigan" "Mid-American" 25 0 1 1 1 11 13 1 0 2008 NA 12
+36 "Southern Illinois" "NCAA Division I-AA" 5 0 2 2 2 2 2 1 0 2011 NA 24
+36 "Cal Poly" "NCAA Division I-AA" 5 0 2 2 2 2 2 0 1 2012 NA 24
+36 "Hofstra" "CAA" 1 0 1 1 1 0 1 0 0 2008 NA 12
+36 "Georgetown" "NCAA Division I-AA" 1 0 2 2 2 0 1 0 0 2010 NA 24
+36 "UTSA" "WAC" 25 0 2 2 16 7 17 0 1 2013 0 66
+37 "Auburn" "SEC" 26 8 3 7 22 11 11 0 4 2011 NA 109
+37 "Georgia" "SEC" 24 8 1 1 1 11 9 1 3 2008 NA 12
+37 "Michigan" "Big Ten" 25 4 2 4 9 12 13 0 0 2012 NA 53
+37 "New Mexico" "Mountain West" 26 0 1 1 1 14 11 1 0 2006 NA 12
+37 "Ohio State" "Big Ten" 24 12 3 20 18 6 15 0 1 2013 17 149
+37 "Oregon" "Pac-12" 25 1 2 2 2 9 13 2 1 2009 NA 24
+37 "Tulsa" "Conference USA" 26 0 2 2 2 10 12 1 3 2010 NA 24
+37 "Middle Tennessee" "Sun Belt" 25 0 1 1 1 12 12 0 1 2007 NA 12
+37 "Northeastern" "CAA" 1 0 1 1 1 1 0 0 0 2008 NA 12
+37 "Southeastern Louisiana" "NCAA Division I-AA" 1 0 2 2 2 1 0 0 0 2010 NA 24
+37 "Bryant University" "NCAA Division I-AA" 4 0 2 2 2 4 0 0 0 2011 NA 24
+37 "Monmouth" "NCAA Division I-AA" 5 0 2 2 2 2 3 0 0 2012 NA 24
+38 "Arkansas" "SEC" 26 3 1 1 1 14 12 0 0 2006 NA 12
+38 "Hawaii" "Mountain West" 26 0 2 2 2 11 15 0 0 2010 NA 24
+38 "Michigan" "Big Ten" 24 4 1 1 1 14 5 0 5 2008 NA 12
+38 "Missouri" "SEC" 25 1 2 2 2 11 13 0 1 2009 NA 24
+38 "Notre Dame" "IA Independents" 24 10 4 20 17 12 7 0 4 2013 13 151
+38 "Syracuse" "Big East" 25 0 1 1 1 10 14 1 0 2007 NA 12
+38 "Virginia" "ACC" 26 5 2 13 10 7 14 0 5 2011 NA 92
+38 "Washington" "Pac-12" 25 1 2 10 13 10 9 2 4 2012 NA 89
+38 "Columbia" "NCAA Division I-AA" 1 0 1 1 1 1 0 0 0 2008 NA 12
+38 "Sacred Heart" "NCAA Division I-AA" 1 0 2 2 2 0 1 0 0 2010 NA 24
+38 "Colgate" "NCAA Division I-AA" 5 0 2 2 2 4 1 0 0 2012 NA 24
+38 "Southeast Missouri State" "NCAA Division I-AA" 3 0 2 2 3 2 0 0 1 2011 NA 27
+39 "Brigham Young" "IA Independents" 26 0 1 1 1 12 13 1 0 2006 NA 12
+39 "Kansas" "Big 12" 25 0 2 2 2 9 14 0 2 2009 NA 24
+39 "Maryland" "ACC" 25 1 2 9 15 9 11 0 5 2012 NA 91
+39 "Northern Illinois" "Mid-American" 26 0 2 2 2 9 14 2 1 2010 NA 24
+39 "Southern Miss" "Conference USA" 26 0 2 2 21 13 12 0 1 2011 NA 81
+39 "Texas A&M" "SEC" 24 3 1 1 1 10 13 0 1 2008 NA 12
+39 "UCLA" "Pac-12" 24 6 2 5 5 8 11 1 2 2013 10 45
+39 "Utah" "Pac-12" 25 0 1 1 1 9 16 0 0 2007 NA 12
+39 "Princeton" "NCAA Division I-AA" 3 0 2 2 3 3 0 0 0 2011 NA 27
+39 "Liberty" "NCAA Division I-AA" 4 0 2 2 14 2 1 0 1 2012 NA 60
+39 "Delaware State" "NCAA Division I-AA" 1 0 2 2 2 1 0 0 0 2010 NA 24
+4 "Florida" "SEC" 30 11 4 22 20 13 14 1 2 2013 16 168
+4 "Kansas State" "Big 12" 32 0 2 2 2 14 13 1 4 2009 NA 24
+4 "Marshall" "Conference USA" 34 0 2 10 10 14 13 0 6 2012 NA 80
+4 "Miami (FL)" "ACC" 32 12 1 1 1 14 17 1 0 2008 NA 12
+4 "Mississippi" "SEC" 33 3 1 1 1 24 9 0 0 2006 NA 12
+4 "South Carolina" "SEC" 32 8 1 1 1 14 18 0 0 2007 NA 12
+4 "Tennessee" "SEC" 30 6 2 2 2 16 11 2 1 2010 NA 24
+4 "Weber State" "NCAA Division I-AA" 1 0 1 1 1 0 0 1 0 2006 NA 12
+4 "Appalachian State" "NCAA Division I-AA" 22 0 2 2 20 10 10 0 2 2012 NA 78
+4 "Jackson State" "SWAC" 1 0 1 1 1 1 0 0 0 2007 NA 12
+4 "Stephen F. Austin" "NCAA Division I-AA" 25 0 2 2 2 12 11 1 1 2010 NA 24
+4 "Massachusetts" "Mid-American" 19 0 2 2 2 0 0 0 0 2009 NA 24
+4 "Northern Iowa" "NCAA Division I-AA" 23 0 1 1 1 11 10 0 2 2008 NA 12
+4 "Alabama State" "SWAC" 24 0 2 2 16 11 11 0 0 2013 0 66
+4 "Navy" "IA Independents" 34 0 2 2 16 11 22 0 1 2011 NA 66
+4 "Central Arkansas" "NCAA Division I-AA" 26 0 2 2 3 13 10 1 2 2011 NA 27
+40 "Arizona" "Pac-12" 25 0 2 2 2 14 10 0 1 2009 NA 24
+40 "Boise State" "Mountain West" 25 0 2 2 12 11 12 1 1 2012 NA 54
+40 "Hawaii" "Mountain West" 26 0 2 2 16 8 14 0 4 2011 NA 66
+40 "Oklahoma" "Big 12" 24 2 2 16 8 8 12 1 3 2013 7 98
+40 "Southern Miss" "Conference USA" 24 1 1 1 1 12 10 0 2 2008 NA 12
+40 "Tulane" "Conference USA" 26 0 1 1 1 11 14 1 0 2006 NA 12
+40 "UTEP" "Conference USA" 25 0 1 1 1 11 14 0 0 2007 NA 12
+40 "Western Michigan" "Mid-American" 26 0 2 2 2 11 14 0 1 2010 NA 24
+40 "Jackson State" "SWAC" 3 0 2 2 2 2 0 1 0 2011 NA 24
+40 "Bethune-Cookman" "NCAA Division I-AA" 4 0 2 2 16 3 1 0 0 2012 NA 66
+40 "Drake" "NCAA Division I-AA" 1 0 2 2 2 0 0 1 0 2010 NA 24
+41 "Baylor" "Big 12" 24 1 2 13 10 8 12 0 2 2013 3 92
+41 "Idaho" "WAC" 26 0 2 2 2 14 11 0 1 2010 NA 24
+41 "Indiana" "Big Ten" 25 0 2 3 10 15 10 0 0 2012 NA 52
+41 "Iowa State" "Big 12" 25 0 2 2 2 9 12 0 4 2009 NA 24
+41 "Missouri" "SEC" 24 1 1 1 1 12 11 0 1 2008 NA 12
+41 "Temple" "Big East" 26 0 1 1 1 14 12 0 0 2006 NA 12
+41 "UAB" "Conference USA" 25 0 1 1 1 13 11 1 0 2007 NA 12
+41 "UAB" "Conference USA" 26 0 2 2 3 8 13 2 3 2011 NA 27
+41 "Delaware State" "NCAA Division I-AA" 4 0 2 2 14 2 2 0 0 2012 NA 60
+41 "Texas Southern" "SWAC" 1 0 2 2 2 0 1 0 0 2010 NA 24
+41 "Brown" "NCAA Division I-AA" 3 0 2 2 2 1 2 0 0 2011 NA 24
+42 "Arkansas State" "Sun Belt" 26 0 2 2 3 16 7 0 3 2011 NA 27
+42 "Houston" "Conference USA" 25 1 2 9 5 9 9 0 7 2012 NA 61
+42 "Texas" "Big 12" 25 15 2 2 2 10 12 1 2 2010 NA 24
+42 "Toledo" "Mid-American" 26 0 1 1 1 14 11 1 0 2006 NA 12
+42 "Tulsa" "Conference USA" 25 0 1 1 1 10 15 0 0 2007 NA 12
+42 "Tulsa" "Conference USA" 25 0 2 2 2 12 11 0 2 2009 NA 24
+42 "Washington State" "Pac-12" 24 0 2 11 10 14 9 0 0 2013 0 84
+42 "FIU" "Sun Belt" 24 0 1 1 1 8 16 0 0 2008 NA 12
+42 "Central Arkansas" "NCAA Division I-AA" 4 0 2 2 14 0 3 0 1 2012 NA 60
+42 "Southern University" "SWAC" 3 0 2 2 2 1 2 0 0 2011 NA 24
+43 "Ball State" "Mid-American" 26 0 2 2 17 14 10 0 2 2011 NA 69
+43 "Boise State" "Mountain West" 25 0 1 1 1 14 10 1 0 2007 NA 12
+43 "Florida State" "ACC" 25 8 2 2 2 7 16 0 2 2010 NA 24
+43 "Louisville" "Big East" 24 0 1 1 1 12 11 1 0 2008 NA 12
+43 "North Texas" "Sun Belt" 25 0 2 2 21 10 15 0 0 2012 NA 81
+43 "Oregon State" "Pac-12" 25 0 2 2 2 13 7 0 5 2009 NA 24
+43 "San Diego State" "Mountain West" 24 0 2 3 6 13 9 0 1 2013 0 40
+43 "Texas" "Big 12" 25 8 1 1 1 14 10 1 0 2006 NA 12
+43 "Samford" "NCAA Division I-AA" 4 0 2 2 14 1 3 0 0 2012 NA 60
+43 "Fordham" "NCAA Division I-AA" 3 0 2 2 2 2 1 0 0 2011 NA 24
+44 "Colorado State" "Mountain West" 24 0 2 2 20 13 11 0 0 2013 0 78
+44 "Houston" "Conference USA" 25 0 2 2 2 11 11 0 3 2009 NA 24
+44 "Iowa State" "Big 12" 24 0 1 1 1 9 10 2 3 2008 NA 12
+44 "Miami (OH)" "Mid-American" 25 0 2 2 8 12 12 1 0 2012 NA 42
+44 "Mississippi State" "SEC" 25 1 2 2 2 11 9 0 5 2010 NA 24
+44 "North Carolina" "ACC" 24 7 1 1 1 12 10 1 1 2007 NA 12
+44 "North Carolina" "ACC" 25 3 2 4 6 8 13 1 3 2011 NA 44
+44 "Texas A&M" "SEC" 25 1 1 1 1 13 12 0 0 2006 NA 12
+44 "McNeese State" "NCAA Division I-AA" 3 0 2 2 2 2 1 0 0 2011 NA 24
+44 "William & Mary" "NCAA Division I-AA" 4 0 2 2 3 3 1 0 0 2012 NA 27
+45 "Alabama" "SEC" 24 3 1 1 1 10 14 0 0 2007 NA 12
+45 "Auburn" "SEC" 25 4 1 1 1 12 12 1 0 2006 NA 12
+45 "East Carolina" "Conference USA" 24 0 2 2 7 9 13 0 1 2013 0 39
+45 "Iowa" "Big Ten" 25 0 2 10 8 12 10 0 3 2011 NA 74
+45 "Louisiana-Monroe" "Sun Belt" 25 0 2 2 19 10 15 0 0 2012 NA 75
+45 "Louisville" "Big East" 25 0 2 2 2 11 11 0 3 2010 NA 24
+45 "Miami (OH)" "Mid-American" 25 0 2 2 2 11 14 0 0 2009 NA 24
+45 "UAB" "Conference USA" 24 0 1 1 1 9 12 0 3 2008 NA 12
+45 "Idaho State" "NCAA Division I-AA" 2 0 2 2 3 1 1 0 0 2011 NA 27
+45 "Norfolk State" "NCAA Division I-AA" 4 0 2 2 2 2 2 0 0 2012 NA 24
+46 "Arizona" "Pac-12" 25 0 2 2 2 10 12 0 3 2010 NA 24
+46 "Bowling Green" "Mid-American" 24 0 2 3 17 12 9 1 1 2013 0 73
+46 "Colorado State" "Mountain West" 25 0 2 2 20 12 10 1 2 2012 NA 78
+46 "Michigan State" "Big Ten" 25 0 1 1 1 9 15 1 0 2006 NA 12
+46 "Minnesota" "Big Ten" 24 1 1 1 1 14 9 0 1 2007 NA 12
+46 "Rice" "Conference USA" 25 0 2 2 2 11 11 1 2 2009 NA 24
+46 "TCU" "Big 12" 25 1 2 10 11 11 13 0 1 2011 NA 83
+46 "Middle Tennessee" "Sun Belt" 24 0 1 1 1 13 9 1 1 2008 NA 12
+46 "Montana State" "NCAA Division I-AA" 3 0 2 2 14 1 1 0 1 2012 NA 60
+46 "South Dakota State" "NCAA Division I-AA" 2 0 2 2 2 2 0 0 0 2011 NA 24
+47 "Arizona State" "Pac-12" 25 0 1 1 1 9 15 1 0 2006 NA 12
+47 "Arkansas" "SEC" 25 1 2 2 2 10 10 2 3 2010 NA 24
+47 "Arkansas State" "Sun Belt" 24 0 1 1 1 15 8 0 1 2007 NA 12
+47 "Cincinnati" "Big East" 25 0 2 2 7 13 9 0 3 2011 NA 39
+47 "Colorado State" "Mountain West" 24 0 1 1 1 9 12 1 2 2008 NA 12
+47 "Connecticut" "Big East" 24 0 2 2 7 9 11 0 1 2013 0 39
+47 "Kent State" "Mid-American" 25 0 2 2 6 11 11 1 2 2012 NA 36
+47 "Tennessee" "SEC" 24 6 2 2 2 9 13 0 2 2009 NA 24
+47 "North Carolina Central" "NCAA Division I-AA" 2 0 2 3 2 0 1 0 1 2011 NA 28
+47 "Northern Arizona" "NCAA Division I-AA" 3 0 2 2 16 0 2 1 0 2012 NA 66
+48 "Arizona" "Pac-12" 25 2 1 1 1 12 13 0 0 2006 NA 12
+48 "Eastern Michigan" "Mid-American" 25 0 2 2 22 11 13 0 1 2012 NA 84
+48 "Oklahoma" "Big 12" 24 6 2 2 2 10 14 0 0 2009 NA 24
+48 "Purdue" "Big Ten" 25 0 2 2 2 8 11 2 4 2010 NA 24
+48 "San Diego State" "Mountain West" 25 0 2 2 20 16 7 0 2 2011 NA 78
+48 "Toledo" "Mid-American" 24 0 1 1 1 10 14 0 0 2008 NA 12
+48 "Troy" "Sun Belt" 24 0 2 3 14 11 11 0 2 2013 0 64
+48 "Virginia Tech" "ACC" 24 1 1 1 1 15 9 0 0 2007 NA 12
+48 "Citadel" "NCAA Division I-AA" 3 0 2 2 3 1 1 0 1 2012 NA 27
+48 "Holy Cross" "NCAA Division I-AA" 2 0 2 2 2 1 1 0 0 2011 NA 24
+49 "Florida" "SEC" 23 11 1 1 1 9 12 1 1 2008 NA 12
+49 "LSU" "SEC" 24 5 2 15 9 9 12 0 2 2012 NA 97
+49 "Missouri" "SEC" 25 0 1 1 1 10 15 0 0 2006 NA 12
+49 "UCLA" "Pac-12" 24 4 2 2 2 12 10 0 2 2009 NA 24
+49 "Utah" "Pac-12" 25 0 2 2 2 11 14 0 0 2010 NA 24
+49 "Utah State" "WAC" 24 0 2 2 3 13 9 1 0 2013 0 27
+49 "Virginia" "ACC" 24 0 1 1 1 15 8 1 0 2007 NA 12
+49 "Wyoming" "Mountain West" 25 0 2 2 14 11 10 1 3 2011 NA 60
+49 "Gardner-Webb" "NCAA Division I-AA" 3 0 2 2 3 2 1 0 0 2012 NA 27
+49 "Sacramento State" "NCAA Division I-AA" 2 0 2 2 2 2 0 0 0 2011 NA 24
+5 "Alabama" "SEC" 30 9 2 2 2 14 15 0 0 2009 NA 24
+5 "Arkansas" "SEC" 33 3 2 16 4 17 13 0 3 2011 NA 86
+5 "Florida State" "ACC" 31 5 1 1 1 17 12 0 2 2008 NA 12
+5 "Kansas State" "Big 12" 32 0 1 1 1 17 14 1 0 2007 NA 12
+5 "Kentucky" "SEC" 33 1 1 1 1 18 14 1 0 2006 NA 12
+5 "Memphis" "Conference USA" 30 0 2 2 22 14 10 2 2 2013 0 84
+5 "Miami (FL)" "ACC" 33 6 2 15 25 12 18 0 3 2012 NA 145
+5 "Nevada" "Mountain West" 30 0 2 2 2 13 17 0 0 2010 NA 24
+5 "Grambling State" "SWAC" 21 0 1 1 1 14 6 0 1 2008 NA 12
+5 "Montana" "NCAA Division I-AA" 1 0 1 1 1 1 0 0 0 2006 NA 12
+5 "Georgia Southern" "NCAA Division I-AA" 23 0 2 2 3 8 11 1 1 2013 0 27
+5 "Georgia Southern" "NCAA Division I-AA" 24 0 2 2 2 14 10 0 0 2010 NA 24
+5 "Harvard" "NCAA Division I-AA" 1 0 1 1 1 1 0 0 0 2007 NA 12
+5 "James Madison" "NCAA Division I-AA" 18 0 2 2 2 0 0 0 0 2009 NA 24
+5 "Massachusetts" "Mid-American" 25 0 2 2 3 17 6 1 1 2011 NA 27
+5 "Northern Iowa" "NCAA Division I-AA" 22 0 2 2 14 10 9 1 2 2012 NA 60
+50 "Arkansas" "SEC" 24 0 2 10 11 10 12 0 2 2012 NA 83
+50 "Louisiana Tech" "WAC" 25 0 2 2 3 11 12 0 2 2011 NA 27
+50 "Northern Illinois" "Mid-American" 24 0 2 2 14 12 9 1 1 2013 0 60
+50 "Notre Dame" "IA Independents" 23 10 1 1 1 11 11 0 1 2008 NA 12
+50 "Pittsburgh" "Big East" 24 1 1 1 1 13 11 0 0 2007 NA 12
+50 "Rutgers" "Big East" 24 3 2 2 2 8 12 0 4 2009 NA 24
+50 "Rutgers" "Big East" 25 0 2 2 2 12 10 0 3 2010 NA 24
+50 "South Carolina" "SEC" 25 1 1 1 1 14 11 0 0 2006 NA 12
+50 "Eastern Illinois" "NCAA Division I-AA" 2 0 2 2 2 1 0 1 0 2011 NA 24
+50 "Western Illinois" "NCAA Division I-AA" 3 0 2 2 14 1 2 0 0 2012 NA 60
+51 "Arizona State" "Pac-12" 24 2 2 2 2 13 7 0 4 2009 NA 24
+51 "Clemson" "ACC" 23 6 3 7 20 5 10 0 7 2013 10 103
+51 "Colorado State" "Mountain West" 24 0 1 1 1 8 15 0 1 2007 NA 12
+51 "East Carolina" "Conference USA" 25 0 1 1 1 15 10 0 0 2006 NA 12
+51 "Notre Dame" "IA Independents" 24 7 2 16 8 9 11 1 3 2011 NA 98
+51 "TCU" "Big 12" 24 1 2 11 10 11 10 2 1 2012 NA 84
+51 "UCLA" "Pac-12" 23 4 1 1 1 13 9 1 0 2008 NA 12
+51 "Vanderbilt" "SEC" 25 0 2 2 2 9 13 1 2 2010 NA 24
+51 "North Dakota" "NCAA Division I-AA" 2 0 2 2 2 0 2 0 0 2011 NA 24
+51 "Southern Utah" "NCAA Division I-AA" 3 0 2 2 3 2 0 0 0 2012 NA 27
+52 "Auburn" "SEC" 23 4 3 17 21 9 10 1 2 2013 7 146
+52 "Baylor" "Big 12" 24 0 2 10 9 6 13 0 5 2012 NA 77
+52 "Colorado" "Pac-12" 25 0 2 2 2 15 7 1 2 2010 NA 24
+52 "LSU" "SEC" 24 6 4 13 9 11 8 1 4 2011 NA 99
+52 "Nebraska" "Big Ten" 25 1 1 1 1 12 13 0 0 2006 NA 12
+52 "Oklahoma State" "Big 12" 24 2 1 1 1 13 11 0 0 2007 NA 12
+52 "South Florida" "Big East" 23 0 1 1 1 10 9 2 2 2008 NA 12
+52 "UAB" "Conference USA" 24 0 2 2 2 10 14 0 0 2009 NA 24
+52 "Portland State" "NCAA Division I-AA" 2 0 2 2 2 0 2 0 0 2011 NA 24
+52 "North Dakota" "NCAA Division I-AA" 3 0 2 2 3 2 1 0 0 2012 NA 27
+53 "Arizona State" "Pac-12" 24 0 1 1 1 11 13 0 0 2007 NA 12
+53 "Indiana" "Big Ten" 25 0 2 2 2 10 13 0 2 2010 NA 24
+53 "Kansas" "Big 12" 25 0 1 1 1 13 12 0 0 2006 NA 12
+53 "Louisville" "Big East" 24 0 2 9 12 12 11 1 0 2012 NA 82
+53 "South Carolina" "SEC" 23 1 1 1 1 7 13 1 2 2008 NA 12
+53 "UAB" "Conference USA" 23 0 2 3 14 10 12 0 1 2013 0 64
+53 "Utah" "Pac-12" 24 0 2 2 2 11 13 0 0 2009 NA 24
+53 "Washington" "Pac-12" 24 2 2 9 9 10 10 0 4 2011 NA 73
+53 "Stony Brook" "NCAA Division I-AA" 3 0 2 2 2 2 1 0 0 2012 NA 24
+53 "Colgate" "NCAA Division I-AA" 2 0 2 2 2 1 1 0 0 2011 NA 24
+54 "Central Michigan" "Mid-American" 25 0 1 1 1 12 12 1 0 2006 NA 12
+54 "Connecticut" "Big East" 23 0 1 1 1 11 11 0 1 2008 NA 12
+54 "Memphis" "Conference USA" 24 0 2 2 2 15 8 1 0 2009 NA 24
+54 "Oklahoma State" "Big 12" 23 0 2 15 8 9 11 1 2 2013 3 94
+54 "Rutgers" "Big East" 24 1 2 10 9 9 10 1 4 2011 NA 77
+54 "Syracuse" "Big East" 24 0 2 3 9 10 11 1 2 2012 NA 49
+54 "Washington State" "Pac-12" 25 0 2 2 2 15 9 0 1 2010 NA 24
+54 "Wyoming" "Mountain West" 24 0 1 1 1 15 9 0 0 2007 NA 12
+54 "Chattanooga" "NCAA Division I-AA" 2 0 2 2 2 1 1 0 0 2011 NA 24
+54 "Florida A&M" "NCAA Division I-AA" 3 0 2 2 2 3 0 0 0 2012 NA 24
+55 "Arkansas" "SEC" 23 3 2 12 10 10 10 1 2 2013 3 88
+55 "Houston" "Conference USA" 23 0 1 1 1 8 13 1 1 2008 NA 12
+55 "Iowa State" "Big 12" 24 0 1 1 1 13 11 0 0 2007 NA 12
+55 "Iowa State" "Big 12" 24 0 2 2 20 13 9 0 2 2011 NA 78
+55 "Oregon State" "Pac-12" 24 1 2 3 11 13 8 1 2 2012 NA 55
+55 "UNLV" "Mountain West" 25 0 2 2 2 12 11 1 1 2010 NA 24
+55 "Vanderbilt" "SEC" 25 1 1 1 1 17 7 1 0 2006 NA 12
+55 "Western Michigan" "Mid-American" 24 0 2 2 2 16 8 0 0 2009 NA 24
+55 "Morgan State" "NCAA Division I-AA" 2 0 2 2 2 2 0 0 0 2011 NA 24
+55 "Sacramento State" "NCAA Division I-AA" 3 0 2 2 2 1 1 0 1 2012 NA 24
+56 "Akron" "Mid-American" 24 0 2 2 2 12 10 1 1 2009 NA 24
+56 "Arizona" "Pac-12" 24 0 2 2 15 11 10 0 3 2012 NA 63
+56 "Colorado" "Pac-12" 24 0 2 2 4 13 9 1 1 2011 NA 30
+56 "Fresno State" "Mountain West" 23 0 1 1 1 13 8 0 2 2008 NA 12
+56 "Houston" "Conference USA" 25 0 1 1 1 12 13 0 0 2006 NA 12
+56 "Texas Tech" "Big 12" 23 0 2 11 9 11 9 0 3 2013 0 81
+56 "Tulane" "Conference USA" 25 0 2 2 2 10 12 2 1 2010 NA 24
+56 "Utah State" "WAC" 24 0 1 1 1 10 13 1 0 2007 NA 12
+56 "Maine" "NCAA Division I-AA" 2 0 2 2 2 1 1 0 0 2011 NA 24
+56 "Idaho State" "NCAA Division I-AA" 3 0 2 2 2 2 0 0 1 2012 NA 24
+57 "Colorado State" "Mountain West" 25 0 1 1 1 14 11 0 0 2006 NA 12
+57 "Eastern Michigan" "Mid-American" 24 0 1 1 1 14 10 0 0 2007 NA 12
+57 "Florida Atlantic" "Sun Belt" 24 0 2 2 3 13 10 1 0 2011 NA 27
+57 "Louisiana-Lafayette" "Sun Belt" 23 0 1 1 1 8 11 1 3 2008 NA 12
+57 "Louisiana-Lafayette" "Sun Belt" 25 0 2 2 2 10 14 0 1 2010 NA 24
+57 "San Diego State" "Mountain West" 24 0 2 2 7 16 5 1 1 2012 NA 39
+57 "Wyoming" "Mountain West" 24 0 2 2 2 11 13 0 0 2009 NA 24
+57 "Elon" "NCAA Division I-AA" 2 0 2 2 3 2 0 0 0 2012 NA 27
+57 "Texas State" "WAC" 23 0 2 9 17 11 10 0 2 2013 1 97
+57 "Howard" "NCAA Division I-AA" 1 0 2 2 3 1 0 0 0 2011 NA 27
+58 "Ball State" "Mid-American" 24 0 1 1 1 9 13 1 1 2007 NA 12
+58 "Indiana" "Big Ten" 23 1 2 13 5 8 12 0 3 2013 3 77
+58 "North Texas" "Sun Belt" 24 0 2 2 14 11 12 0 1 2011 NA 60
+58 "Northern Illinois" "Mid-American" 24 0 2 2 2 8 13 2 1 2009 NA 24
+58 "Penn State" "Big Ten" 24 6 1 1 1 12 12 0 0 2006 NA 12
+58 "Rice" "Conference USA" 24 0 2 2 5 13 9 1 1 2012 NA 33
+58 "Texas A&M" "SEC" 24 3 2 2 2 14 9 0 1 2010 NA 24
+58 "Wyoming" "Mountain West" 23 0 1 1 1 13 9 1 0 2008 NA 12
+58 "Sam Houston State" "NCAA Division I-AA" 2 0 2 2 3 1 1 0 0 2012 NA 27
+58 "Citadel" "NCAA Division I-AA" 1 0 2 2 2 1 0 0 0 2011 NA 24
+59 "Ball State" "Mid-American" 24 0 2 2 10 10 12 0 2 2012 NA 48
+59 "California" "Pac-12" 22 0 1 1 1 8 12 0 2 2008 NA 12
+59 "Connecticut" "Big East" 24 0 1 1 1 12 11 1 0 2006 NA 12
+59 "Michigan State" "Big Ten" 23 2 2 2 2 12 10 1 0 2009 NA 24
+59 "Ohio" "Mid-American" 24 0 2 2 14 10 12 0 2 2011 NA 60
+59 "Rice" "Conference USA" 24 0 1 1 1 12 11 0 1 2007 NA 12
+59 "South Carolina" "SEC" 24 3 2 2 2 11 9 1 3 2010 NA 24
+59 "Utah" "Pac-12" 23 0 2 3 15 9 9 0 2 2013 0 67
+59 "Southeastern Louisiana" "NCAA Division I-AA" 1 0 2 2 2 1 0 0 0 2011 NA 24
+59 "Northern Colorado" "NCAA Division I-AA" 2 0 2 2 3 1 1 0 0 2012 NA 27
+6 "Central Michigan" "Mid-American" 30 0 2 2 2 14 14 0 2 2009 NA 24
+6 "Colorado State" "Mountain West" 30 0 2 2 2 16 13 0 1 2010 NA 24
+6 "Florida Atlantic" "Sun Belt" 33 0 2 2 22 17 14 0 2 2012 NA 84
+6 "Marshall" "Conference USA" 29 0 2 12 4 14 13 0 2 2013 0 70
+6 "Oregon State" "Pac-12" 33 0 1 1 1 18 14 1 0 2006 NA 12
+6 "Tennessee" "SEC" 31 7 1 1 1 14 17 0 0 2007 NA 12
+6 "UCF" "Conference USA" 33 0 2 2 11 9 23 0 1 2011 NA 51
+6 "Virginia Tech" "ACC" 31 1 1 1 1 10 14 0 7 2008 NA 12
+6 "Appalachian State" "NCAA Division I-AA" 15 0 2 2 2 0 0 0 0 2009 NA 24
+6 "Chattanooga" "NCAA Division I-AA" 1 0 1 1 1 0 1 0 0 2007 NA 12
+6 "Eastern Illinois" "NCAA Division I-AA" 21 0 1 1 1 13 8 0 0 2008 NA 12
+6 "South Carolina State" "NCAA Division I-AA" 21 0 2 2 18 10 10 0 1 2012 NA 72
+6 "South Carolina State" "NCAA Division I-AA" 22 0 2 2 2 9 10 0 3 2010 NA 24
+6 "South Carolina State" "NCAA Division I-AA" 23 0 2 2 14 13 8 0 2 2011 NA 60
+6 "North Dakota State" "NCAA Division I-AA" 21 0 2 2 2 8 12 0 1 2013 0 24
+60 "Akron" "Mid-American" 24 0 2 2 3 12 11 1 0 2011 NA 27
+60 "Hawaii" "Mountain West" 24 0 1 1 1 13 11 0 0 2007 NA 12
+60 "Kansas State" "Big 12" 23 0 2 3 10 8 11 1 2 2013 0 52
+60 "Nevada" "Mountain West" 24 0 2 2 7 11 11 0 2 2012 NA 39
+60 "Oregon" "Pac-12" 24 0 1 1 1 13 11 0 0 2006 NA 12
+60 "Pittsburgh" "Big East" 24 0 2 2 2 13 6 0 5 2010 NA 24
+60 "Rutgers" "Big East" 22 0 1 1 1 9 11 0 2 2008 NA 12
+60 "FIU" "Sun Belt" 23 0 2 2 2 10 11 1 1 2009 NA 24
+60 "Prairie View A&M" "SWAC" 1 0 2 2 2 0 1 0 0 2011 NA 24
+60 "Indiana State" "NCAA Division I-AA" 2 0 2 2 2 1 1 0 0 2012 NA 24
+61 "Baylor" "Big 12" 22 1 1 1 1 12 7 1 2 2008 NA 12
+61 "Georgia" "SEC" 23 6 1 1 1 13 9 1 0 2007 NA 12
+61 "Hawaii" "Mountain West" 24 0 2 2 18 11 11 0 2 2012 NA 72
+61 "Ohio State" "Big Ten" 23 7 2 6 22 11 11 0 1 2011 NA 100
+61 "South Florida" "Big East" 23 0 2 9 11 7 14 1 0 2013 1 79
+61 "UCF" "Conference USA" 23 0 2 2 2 8 13 0 2 2009 NA 24
+61 "Virginia" "ACC" 24 0 1 1 1 12 12 0 0 2006 NA 12
+61 "Wisconsin" "Big Ten" 24 0 2 2 2 9 12 0 3 2010 NA 24
+61 "Morgan State" "NCAA Division I-AA" 2 0 2 2 2 0 2 0 0 2012 NA 24
+61 "Rhode Island" "NCAA Division I-AA" 1 0 2 2 2 1 0 0 0 2011 NA 24
+62 "Cincinnati" "Big East" 24 0 2 2 2 9 11 2 2 2010 NA 24
+62 "Colorado" "Pac-12" 23 0 2 3 12 12 9 0 1 2013 0 58
+62 "New Mexico" "Mountain West" 24 0 2 2 22 12 11 0 1 2012 NA 84
+62 "Oregon" "Pac-12" 23 5 2 16 22 10 9 0 4 2011 NA 140
+62 "San Diego State" "Mountain West" 22 0 1 1 1 13 7 1 1 2008 NA 12
+62 "Southern Miss" "Conference USA" 24 0 1 1 1 13 11 0 0 2006 NA 12
+62 "TCU" "Big 12" 23 0 1 1 1 8 13 1 1 2007 NA 12
+62 "Middle Tennessee" "Sun Belt" 23 0 2 2 2 7 12 0 4 2009 NA 24
+62 "Sam Houston State" "NCAA Division I-AA" 1 0 2 2 2 0 0 0 1 2011 NA 24
+62 "Holy Cross" "NCAA Division I-AA" 2 0 2 2 2 2 0 0 0 2012 NA 24
+63 "Bowling Green" "Mid-American" 24 0 2 2 2 13 10 0 1 2010 NA 24
+63 "Clemson" "ACC" 23 3 1 1 1 9 14 0 0 2007 NA 12
+63 "Colorado State" "Mountain West" 23 0 2 2 2 11 11 1 0 2009 NA 24
+63 "Florida" "SEC" 23 9 2 17 21 9 13 1 0 2012 NA 141
+63 "Louisiana-Lafayette" "Sun Belt" 23 0 2 2 19 9 9 2 2 2013 0 75
+63 "Louisville" "Big East" 23 3 2 12 8 11 10 1 1 2011 NA 82
+63 "New Mexico" "Mountain West" 22 0 1 1 1 12 8 0 2 2008 NA 12
+63 "Wyoming" "Mountain West" 24 0 1 1 1 15 7 2 0 2006 NA 12
+63 "Towson" "NCAA Division I-AA" 1 0 2 2 2 1 0 0 0 2011 NA 24
+63 "Georgetown" "NCAA Division I-AA" 2 0 2 2 2 2 0 0 0 2012 NA 24
+64 "Eastern Michigan" "Mid-American" 23 0 2 2 2 8 14 0 1 2009 NA 24
+64 "Miami (OH)" "Mid-American" 23 0 1 1 1 10 13 0 0 2007 NA 12
+64 "North Carolina" "ACC" 23 0 2 3 15 10 10 0 3 2012 NA 67
+64 "Purdue" "Big Ten" 23 0 2 10 10 8 12 0 2 2013 2 80
+64 "Texas A&M" "SEC" 23 0 2 3 10 8 12 2 1 2011 NA 52
+64 "UNLV" "Mountain West" 22 0 1 1 1 11 8 0 3 2008 NA 12
+64 "Utah State" "WAC" 24 0 1 1 1 10 14 0 0 2006 NA 12
+64 "Wyoming" "Mountain West" 24 0 2 2 2 13 10 0 1 2010 NA 24
+64 "Cal Poly" "NCAA Division I-AA" 1 0 2 2 2 1 0 0 0 2011 NA 24
+64 "UC Davis" "NCAA Division I-AA" 2 0 2 2 2 2 0 0 0 2012 NA 24
+65 "Arizona" "Pac-12" 23 0 2 9 22 11 9 2 1 2011 NA 112
+65 "Buffalo" "Mid-American" 23 0 2 2 2 12 11 0 0 2009 NA 24
+65 "Central Michigan" "Mid-American" 22 0 1 1 1 12 10 0 0 2008 NA 12
+65 "Clemson" "ACC" 23 2 2 2 2 8 11 0 4 2010 NA 24
+65 "North Carolina State" "ACC" 23 0 1 1 1 13 9 1 0 2007 NA 12
+65 "Oklahoma State" "Big 12" 23 1 2 9 9 13 9 0 1 2012 NA 73
+65 "Tennessee" "SEC" 23 1 1 1 1 10 11 2 0 2006 NA 12
+65 "Toledo" "Mid-American" 23 0 2 3 21 11 10 0 2 2013 0 85
+65 "Western Carolina" "NCAA Division I-AA" 1 0 2 2 2 1 0 0 0 2011 NA 24
+65 "Lafayette" "NCAA Division I-AA" 2 0 2 2 2 2 0 0 0 2012 NA 24
+66 "Ball State" "Mid-American" 23 0 1 1 1 9 14 0 0 2006 NA 12
+66 "Boston College" "ACC" 23 0 2 3 8 9 11 1 2 2011 NA 46
+66 "Eastern Michigan" "Mid-American" 22 0 1 1 1 11 9 0 2 2008 NA 12
+66 "Iowa" "Big Ten" 23 0 2 3 12 10 9 1 3 2012 NA 58
+66 "Kansas" "Big 12" 23 0 1 1 1 13 9 1 0 2007 NA 12
+66 "Kent State" "Mid-American" 23 0 2 2 2 10 11 1 1 2009 NA 24
+66 "Oregon" "Pac-12" 23 4 2 2 2 8 10 1 4 2010 NA 24
+66 "Temple" "Big East" 23 0 2 2 4 8 10 2 3 2013 0 30
+66 "Virginia Military" "NCAA Division I-AA" 1 0 2 2 2 0 1 0 0 2011 NA 24
+66 "Furman" "NCAA Division I-AA" 2 0 2 2 2 2 0 0 0 2012 NA 24
+67 "Florida Atlantic" "Sun Belt" 23 0 1 1 1 12 11 0 0 2006 NA 12
+67 "Michigan" "Big Ten" 22 7 2 2 2 9 7 1 5 2009 NA 24
+67 "North Carolina State" "ACC" 23 0 2 2 23 10 13 0 0 2012 NA 87
+67 "Notre Dame" "IA Independents" 23 2 2 2 2 12 9 0 2 2010 NA 24
+67 "Ohio" "Mid-American" 23 0 1 1 1 15 7 1 0 2007 NA 12
+67 "Oklahoma" "Big 12" 21 8 1 1 1 11 9 1 0 2008 NA 12
+67 "Southern Methodist" "Conference USA" 23 0 2 2 22 7 14 0 1 2013 0 84
+67 "Virginia Tech" "ACC" 23 1 2 9 6 9 12 1 1 2011 NA 64
+67 "Norfolk State" "NCAA Division I-AA" 1 0 2 2 2 1 0 0 0 2011 NA 24
+67 "Tennessee Tech" "NCAA Division I-AA" 2 0 2 2 2 0 2 0 0 2012 NA 24
+68 "Arizona State" "Pac-12" 23 0 2 9 5 10 11 0 1 2012 NA 61
+68 "Colorado" "Pac-12" 21 3 1 1 1 10 9 1 1 2008 NA 12
+68 "Florida International" "Sun Belt" 23 0 1 1 1 13 9 1 0 2006 NA 12
+68 "Missouri" "SEC" 23 0 2 2 2 11 10 0 2 2010 NA 24
+68 "New Mexico" "Mountain West" 23 0 1 1 1 14 9 0 0 2007 NA 12
+68 "North Texas" "Sun Belt" 23 0 2 2 3 13 10 0 0 2013 0 27
+68 "Stanford" "Pac-12" 22 2 2 2 2 14 8 0 0 2009 NA 24
+68 "West Virginia" "Big 12" 23 0 2 2 11 12 9 0 2 2011 NA 51
+68 "Hampton" "NCAA Division I-AA" 1 0 2 2 2 0 1 0 0 2011 NA 24
+68 "Lamar" "NCAA Division I-AA" 2 0 2 2 2 1 1 0 0 2012 NA 24
+69 "Georgia Tech" "ACC" 23 1 2 3 7 7 8 0 8 2011 NA 43
+69 "Marshall" "Conference USA" 21 0 1 1 1 11 9 1 0 2008 NA 12
+69 "Memphis" "Conference USA" 22 0 1 1 1 13 8 1 0 2007 NA 12
+69 "North Carolina State" "ACC" 23 1 2 2 2 8 12 1 2 2010 NA 24
+69 "TCU" "Big 12" 22 0 2 2 2 10 10 0 2 2009 NA 24
+69 "Tulsa" "Conference USA" 23 0 1 1 1 15 8 0 0 2006 NA 12
+69 "Middle Tennessee" "Sun Belt" 23 0 2 2 20 11 9 0 2 2012 NA 78
+69 "Massachusetts" "Mid-American" 23 0 2 2 17 16 6 0 0 2013 0 69
+69 "Lamar" "NCAA Division I-AA" 1 0 2 2 2 1 0 0 0 2011 NA 24
+69 "Lehigh" "NCAA Division I-AA" 2 0 2 2 2 1 1 0 0 2012 NA 24
+7 "Auburn" "SEC" 30 5 1 1 1 14 14 1 1 2007 NA 12
+7 "Cincinnati" "Big East" 31 0 2 2 26 14 16 0 1 2012 NA 96
+7 "Colorado State" "Mountain West" 33 0 2 2 20 17 13 1 2 2011 NA 78
+7 "Hawaii" "Mountain West" 30 0 2 2 2 13 14 1 2 2009 NA 24
+7 "Iowa State" "Big 12" 32 0 1 1 1 16 16 0 0 2006 NA 12
+7 "Minnesota" "Big Ten" 31 1 1 1 1 9 14 0 8 2008 NA 12
+7 "Oklahoma" "Big 12" 29 7 2 2 2 12 11 0 6 2010 NA 24
+7 "Eastern Illinois" "NCAA Division I-AA" 1 0 1 1 1 1 0 0 0 2007 NA 12
+7 "McNeese State" "NCAA Division I-AA" 19 0 1 1 1 9 10 0 0 2008 NA 12
+7 "Southern Illinois" "NCAA Division I-AA" 22 0 2 2 2 11 10 1 0 2010 NA 24
+7 "Richmond" "NCAA Division I-AA" 14 0 2 2 2 0 0 0 0 2009 NA 24
+7 "Eastern Washington" "NCAA Division I-AA" 20 0 2 2 16 8 10 0 2 2012 NA 66
+7 "Sam Houston State" "NCAA Division I-AA" 19 0 2 2 3 10 7 1 1 2013 0 27
+7 "Ole Miss" "SEC" 28 5 4 5 7 15 7 1 3 2013 10 61
+7 "Florida A&M" "NCAA Division I-AA" 23 0 2 2 2 17 5 0 1 2011 NA 24
+70 "Central Michigan" "Mid-American" 23 0 2 2 9 12 9 1 1 2012 NA 45
+70 "Florida State" "ACC" 22 7 3 6 20 8 11 0 2 2013 12 99
+70 "Illinois" "Big Ten" 22 3 1 1 1 10 12 0 0 2007 NA 12
+70 "Mississippi State" "SEC" 23 0 2 2 8 12 7 0 4 2011 NA 42
+70 "Southern Miss" "Conference USA" 22 0 2 2 2 13 8 0 1 2009 NA 24
+70 "UCF" "Conference USA" 23 0 2 2 2 13 7 0 3 2010 NA 24
+70 "Vanderbilt" "SEC" 21 0 1 1 1 5 13 1 2 2008 NA 12
+70 "Wisconsin" "Big Ten" 23 2 1 1 1 15 8 0 0 2006 NA 12
+70 "Lehigh" "NCAA Division I-AA" 1 0 2 2 2 1 0 0 0 2011 NA 24
+70 "Morehead State" "NCAA Division I-AA" 2 0 2 2 2 2 0 0 0 2012 NA 24
+71 "Army" "IA Independents" 23 0 2 2 14 7 12 2 2 2012 NA 60
+71 "Illinois" "Big Ten" 23 0 2 2 2 15 7 0 1 2010 NA 24
+71 "Indiana" "Big Ten" 23 0 2 2 4 11 10 0 2 2011 NA 30
+71 "Iowa" "Big Ten" 22 2 1 1 1 11 11 0 0 2007 NA 12
+71 "Kent State" "Mid-American" 21 0 1 1 1 11 8 1 1 2008 NA 12
+71 "UAB" "Conference USA" 23 0 1 1 1 15 8 0 0 2006 NA 12
+71 "Washington" "Pac-12" 22 3 2 15 6 8 10 1 2 2013 5 88
+71 "Washington State" "Pac-12" 22 0 2 2 2 7 13 0 2 2009 NA 24
+71 "Illinois State" "NCAA Division I-AA" 2 0 2 2 2 2 0 0 0 2012 NA 24
+71 "Monmouth" "NCAA Division I-AA" 1 0 2 2 2 0 1 0 0 2011 NA 24
+72 "Ball State" "Mid-American" 22 0 2 2 2 12 8 0 2 2009 NA 24
+72 "Boise State" "Mountain West" 23 0 2 2 22 10 10 1 2 2011 NA 84
+72 "Brigham Young" "IA Independents" 21 0 1 1 1 10 10 1 0 2008 NA 12
+72 "Colorado" "Pac-12" 23 0 1 1 1 12 10 0 1 2006 NA 12
+72 "Florida International" "Sun Belt" 23 1 2 2 2 8 13 1 1 2010 NA 24
+72 "Kentucky" "SEC" 22 0 2 13 8 9 9 1 2 2013 2 86
+72 "Michigan State" "Big Ten" 22 1 1 1 1 14 7 1 0 2007 NA 12
+72 "UTEP" "Conference USA" 23 0 2 2 4 10 12 0 1 2012 NA 30
+72 "Eastern Illinois" "NCAA Division I-AA" 2 0 2 2 2 0 2 0 0 2012 NA 24
+72 "Yale" "NCAA Division I-AA" 1 0 2 2 2 1 0 0 0 2011 NA 24
+73 "Arkansas State" "Sun Belt" 23 0 1 1 1 7 15 1 0 2006 NA 12
+73 "Connecticut" "Big East" 23 0 2 2 2 9 10 0 4 2010 NA 24
+73 "Houston" "Conference USA" 23 0 2 2 20 9 12 0 2 2011 NA 78
+73 "Louisiana-Monroe" "Sun Belt" 21 0 1 1 1 12 8 0 1 2008 NA 12
+73 "New Mexico State" "WAC" 22 0 2 2 2 11 9 0 2 2009 NA 24
+73 "Rutgers" "Big East" 22 0 2 11 11 8 8 0 6 2013 2 87
+73 "Southern Methodist" "Conference USA" 22 1 1 1 1 13 7 0 2 2007 NA 12
+73 "Wyoming" "Mountain West" 23 0 2 2 19 13 9 1 0 2012 NA 75
+73 "Wagner" "NCAA Division I-AA" 2 0 2 2 2 1 1 0 0 2012 NA 24
+73 "Murray State" "NCAA Division I-AA" 1 0 2 2 2 1 0 0 0 2011 NA 24
+74 "Akron" "Mid-American" 23 0 2 2 2 14 6 0 3 2010 NA 24
+74 "Auburn" "SEC" 22 5 2 14 8 13 7 0 2 2012 NA 90
+74 "Ball State" "Mid-American" 21 0 1 1 1 9 9 2 1 2008 NA 12
+74 "Bowling Green" "Mid-American" 22 0 2 2 2 10 10 0 2 2009 NA 24
+74 "Louisiana-Monroe" "Sun Belt" 23 0 1 1 1 14 8 1 0 2006 NA 12
+74 "Tulane" "Conference USA" 22 0 1 1 1 12 9 1 0 2007 NA 12
+74 "Tulsa" "Conference USA" 23 0 2 2 19 11 9 0 3 2011 NA 75
+74 "Virginia" "ACC" 22 1 2 12 10 14 8 0 0 2013 1 88
+74 "Texas Southern" "SWAC" 1 0 2 2 3 1 0 0 0 2012 NA 27
+74 "Dartmouth" "NCAA Division I-AA" 1 0 2 2 2 1 0 0 0 2011 NA 24
+75 "Boise State" "Mountain West" 21 0 1 1 1 12 8 0 1 2008 NA 12
+75 "Maryland" "ACC" 22 3 1 1 1 13 9 0 0 2006 NA 12
+75 "Miami (OH)" "Mid-American" 23 0 2 2 2 11 9 1 2 2010 NA 24
+75 "San Diego State" "Mountain West" 22 0 1 1 1 11 11 0 0 2007 NA 12
+75 "Stanford" "Pac-12" 22 6 2 14 9 12 9 0 1 2012 NA 93
+75 "TCU" "Big 12" 22 0 2 9 10 7 9 0 4 2013 1 76
+75 "UNLV" "Mountain West" 22 0 2 2 2 10 11 0 1 2009 NA 24
+75 "Western Michigan" "Mid-American" 23 0 2 2 14 13 9 0 1 2011 NA 60
+75 "Jackson State" "SWAC" 1 0 2 2 3 1 0 0 0 2012 NA 27
+75 "Columbia" "NCAA Division I-AA" 1 0 2 2 2 1 0 0 0 2011 NA 24
+76 "Eastern Michigan" "Mid-American" 23 0 2 2 2 11 12 0 0 2010 NA 24
+76 "Idaho" "WAC" 22 0 1 1 1 11 11 0 0 2007 NA 12
+76 "Maryland" "ACC" 22 0 2 12 8 9 11 0 1 2013 0 82
+76 "Ohio" "Mid-American" 22 0 2 2 2 14 7 0 1 2009 NA 24
+76 "San Jose State" "WAC" 23 0 2 2 14 10 9 0 4 2011 NA 60
+76 "Tennessee" "SEC" 22 2 2 12 8 8 10 1 3 2012 NA 82
+76 "Utah State" "WAC" 21 0 1 1 1 12 8 0 1 2008 NA 12
+76 "Washington" "Pac-12" 22 1 1 1 1 10 12 0 0 2006 NA 12
+76 "South Dakota State" "NCAA Division I-AA" 1 0 2 2 3 1 0 0 0 2012 NA 27
+76 "South Dakota" "NCAA Division I-AA" 1 0 2 2 2 1 0 0 0 2011 NA 24
+77 "Cincinnati" "Big East" 22 0 2 3 7 9 9 0 1 2013 1 43
+77 "Duke" "ACC" 22 0 1 1 1 12 9 1 0 2007 NA 12
+77 "Georgia" "SEC" 21 8 2 2 2 10 8 1 2 2009 NA 24
+77 "UCLA" "Pac-12" 22 1 1 1 1 15 6 1 0 2006 NA 12
+77 "UCLA" "Pac-12" 22 7 2 2 2 8 12 1 1 2010 NA 24
+77 "UNLV" "Mountain West" 23 0 2 2 14 10 10 1 2 2011 NA 60
+77 "USC" "Pac-12" 20 10 1 1 1 8 9 0 3 2008 NA 12
+77 "Vanderbilt" "SEC" 22 1 2 3 15 8 10 1 3 2012 NA 67
+77 "Arkansas-Pine Bluff" "SWAC" 1 0 2 2 3 0 1 0 0 2012 NA 27
+77 "Delaware State" "NCAA Division I-AA" 1 0 2 2 2 0 0 0 1 2011 NA 24
+78 "Cincinnati" "Big East" 22 0 1 1 1 15 6 0 1 2007 NA 12
+78 "Michigan State" "Big Ten" 22 0 2 3 11 14 7 0 1 2012 NA 55
+78 "New Mexico State" "WAC" 22 0 2 3 3 10 12 0 0 2013 0 31
+78 "Ohio State" "Big Ten" 20 8 1 1 1 9 9 1 1 2008 NA 12
+78 "Stanford" "Pac-12" 22 3 2 2 2 9 10 1 2 2010 NA 24
+78 "Syracuse" "Big East" 22 1 1 1 1 15 7 0 0 2006 NA 12
+78 "UTEP" "Conference USA" 23 0 2 2 14 12 10 0 1 2011 NA 60
+78 "Virginia Tech" "ACC" 21 2 2 2 2 6 10 1 4 2009 NA 24
+78 "Duquesne" "NCAA Division I-AA" 1 0 2 2 2 0 1 0 0 2011 NA 24
+78 "Howard" "NCAA Division I-AA" 1 0 2 2 3 0 1 0 0 2012 NA 27
+79 "Akron" "Mid-American" 22 0 1 1 1 10 12 0 0 2007 NA 12
+79 "Georgia Tech" "ACC" 20 0 1 1 1 11 8 0 1 2008 NA 12
+79 "Georgia Tech" "ACC" 21 0 2 2 2 9 11 0 1 2009 NA 24
+79 "Kansas" "Big 12" 22 0 2 2 21 12 9 0 1 2012 NA 81
+79 "Nebraska" "Big Ten" 22 1 2 2 2 9 11 0 2 2010 NA 24
+79 "New Mexico State" "WAC" 23 0 2 2 2 12 8 0 3 2011 NA 24
+79 "Ohio" "Mid-American" 22 0 2 2 3 8 13 0 1 2013 0 27
+79 "UCF" "Conference USA" 22 0 1 1 1 13 9 0 0 2006 NA 12
+79 "Eastern Kentucky" "NCAA Division I-AA" 1 0 2 2 2 1 0 0 0 2011 NA 24
+79 "Southeast Missouri State" "NCAA Division I-AA" 1 0 2 2 3 0 1 0 0 2012 NA 27
+8 "Army" "IA Independents" 33 0 2 2 3 17 14 0 2 2011 NA 27
+8 "Baylor" "Big 12" 30 0 1 1 1 15 13 2 0 2007 NA 12
+8 "Boise State" "Mountain West" 28 0 2 9 23 11 14 1 2 2013 0 115
+8 "Florida International" "Sun Belt" 31 0 2 2 13 12 17 1 1 2012 NA 57
+8 "Illinois" "Big Ten" 30 3 1 1 1 15 14 1 0 2006 NA 12
+8 "Mississippi" "SEC" 30 0 1 1 1 17 10 0 2 2008 NA 12
+8 "South Florida" "Big East" 29 1 2 2 2 10 15 0 4 2009 NA 24
+8 "Troy" "Sun Belt" 29 0 2 2 2 13 12 0 4 2010 NA 24
+8 "Montana" "NCAA Division I-AA" 21 0 2 2 2 9 9 2 1 2011 NA 24
+8 "Weber State" "NCAA Division I-AA" 22 0 2 2 2 14 5 1 2 2010 NA 24
+8 "Liberty" "NCAA Division I-AA" 1 0 1 1 1 1 0 0 0 2007 NA 12
+8 "Southern Illinois" "NCAA Division I-AA" 19 0 1 1 1 10 8 1 0 2008 NA 12
+8 "Villanova" "NCAA Division I-AA" 20 0 2 2 18 8 11 0 1 2012 NA 72
+8 "Villanova" "NCAA Division I-AA" 12 0 2 2 2 0 0 0 0 2009 NA 24
+8 "Eastern Washington" "NCAA Division I-AA" 17 0 2 2 3 9 7 1 0 2013 0 27
+80 "Idaho" "WAC" 22 0 1 1 1 7 14 1 0 2006 NA 12
+80 "Idaho" "WAC" 23 0 2 2 3 11 10 0 2 2011 NA 27
+80 "Maryland" "ACC" 22 1 2 2 2 6 13 0 3 2010 NA 24
+80 "Miami (OH)" "Mid-American" 22 0 2 2 3 8 10 0 3 2013 0 27
+80 "Northwestern" "Big Ten" 22 1 2 3 12 13 7 0 1 2012 NA 58
+80 "Oregon" "Pac-12" 20 1 1 1 1 11 6 0 3 2008 NA 12
+80 "Penn State" "Big Ten" 21 3 1 1 1 12 8 1 0 2007 NA 12
+80 "Wisconsin" "Big Ten" 21 1 2 2 2 11 8 0 2 2009 NA 24
+80 "Bucknell" "NCAA Division I-AA" 1 0 2 2 2 1 0 0 0 2011 NA 24
+80 "Tennessee State" "NCAA Division I-AA" 1 0 2 2 3 1 0 0 0 2012 NA 27
+81 "Arkansas State" "Sun Belt" 21 0 2 2 2 10 9 0 2 2009 NA 24
+81 "Iowa" "Big Ten" 22 1 2 2 2 7 10 1 4 2010 NA 24
+81 "Maryland" "ACC" 20 2 1 1 1 12 7 0 1 2008 NA 12
+81 "Miami (OH)" "Mid-American" 22 0 1 1 1 8 13 1 0 2006 NA 12
+81 "Oklahoma" "Big 12" 21 1 1 1 1 12 8 1 0 2007 NA 12
+81 "Southern Methodist" "Conference USA" 22 0 2 3 10 7 13 0 2 2012 NA 52
+81 "Texas" "Big 12" 22 7 3 6 21 11 9 0 2 2011 NA 102
+81 "Wyoming" "Mountain West" 22 0 2 2 14 9 11 0 1 2013 0 60
+81 "Weber State" "NCAA Division I-AA" 1 0 2 2 2 1 0 0 0 2012 NA 24
+81 "Butler" "NCAA Division I-AA" 1 0 2 2 2 0 0 1 0 2011 NA 24
+82 "California" "Pac-12" 22 5 2 15 5 9 12 0 1 2011 NA 85
+82 "Idaho" "WAC" 22 0 2 2 22 12 8 1 1 2012 NA 84
+82 "Kansas" "Big 12" 20 0 1 1 1 11 7 1 1 2008 NA 12
+82 "Miami (FL)" "ACC" 21 4 1 1 1 12 8 1 0 2006 NA 12
+82 "North Texas" "Sun Belt" 22 0 2 2 2 9 12 1 0 2010 NA 24
+82 "Rutgers" "Big East" 21 2 1 1 1 8 12 1 0 2007 NA 12
+82 "South Carolina" "SEC" 21 2 2 19 4 9 11 0 1 2013 4 98
+82 "Wake Forest" "ACC" 21 0 2 2 2 7 10 1 3 2009 NA 24
+82 "Coastal Carolina" "NCAA Division I-AA" 1 0 2 2 2 0 1 0 0 2011 NA 24
+82 "Fordham" "NCAA Division I-AA" 1 0 2 2 2 1 0 0 0 2012 NA 24
+83 "Louisiana Tech" "WAC" 21 0 1 1 1 7 14 0 0 2007 NA 12
+83 "Louisiana-Monroe" "Sun Belt" 22 0 2 2 2 11 11 0 0 2010 NA 24
+83 "Memphis" "Conference USA" 20 0 1 1 1 11 8 0 1 2008 NA 12
+83 "Nebraska" "Big Ten" 21 0 2 2 2 9 9 0 3 2009 NA 24
+83 "North Carolina State" "ACC" 21 0 1 1 1 11 8 2 0 2006 NA 12
+83 "Virginia Tech" "ACC" 21 2 2 4 5 6 9 0 5 2013 4 41
+83 "Wisconsin" "Big Ten" 22 0 2 3 10 10 9 0 3 2011 NA 52
+83 "Alabama A&M" "SWAC" 1 0 2 2 2 1 0 0 0 2011 NA 24
+83 "Navy" "IA Independents" 22 0 2 2 20 9 9 1 2 2012 NA 78
+83 "Murray State" "NCAA Division I-AA" 1 0 2 2 2 1 0 0 0 2012 NA 24
+84 "Iowa" "Big Ten" 21 1 1 1 1 11 9 1 0 2006 NA 12
+84 "Michigan State" "Big Ten" 20 0 1 1 1 9 8 0 3 2008 NA 12
+84 "Mississippi State" "SEC" 21 1 2 15 6 9 5 0 5 2013 4 88
+84 "Oregon" "Pac-12" 21 3 2 12 6 10 9 1 1 2012 NA 76
+84 "Purdue" "Big Ten" 21 0 2 2 2 8 10 0 3 2009 NA 24
+84 "Vanderbilt" "SEC" 22 0 2 2 7 11 9 0 2 2011 NA 39
+84 "Virginia Tech" "ACC" 21 1 2 2 2 10 10 0 1 2010 NA 24
+84 "Western Michigan" "Mid-American" 21 0 1 1 1 9 11 1 0 2007 NA 12
+84 "Arkansas-Pine Bluff" "SWAC" 1 0 2 2 2 0 1 0 0 2011 NA 24
+84 "Butler" "NCAA Division I-AA" 1 0 2 2 2 0 1 0 0 2012 NA 24
+85 "Boise State" "Mountain West" 21 0 2 2 2 10 10 0 1 2009 NA 24
+85 "Michigan State" "Big Ten" 21 1 2 2 2 11 8 1 1 2010 NA 24
+85 "South Florida" "Big East" 22 0 2 2 6 12 10 0 0 2011 NA 36
+85 "Tennessee" "SEC" 21 1 2 14 7 11 5 0 3 2013 3 87
+85 "Tulsa" "Conference USA" 21 0 2 2 5 11 9 1 0 2012 NA 33
+85 "UCF" "Conference USA" 20 0 1 1 1 12 7 0 1 2008 NA 12
+85 "Virginia Tech" "ACC" 21 1 1 1 1 9 12 0 0 2006 NA 12
+85 "Wake Forest" "ACC" 21 0 1 1 1 11 10 0 0 2007 NA 12
+85 "Bucknell" "NCAA Division I-AA" 1 0 2 2 2 1 0 0 0 2012 NA 24
+86 "Boston College" "ACC" 21 0 2 2 2 15 5 0 1 2010 NA 24
+86 "California" "Pac-12" 21 2 1 1 1 10 10 1 0 2006 NA 12
+86 "Iowa State" "Big 12" 21 0 2 2 7 9 8 1 3 2012 NA 39
+86 "Nevada" "Mountain West" 21 0 2 2 19 7 11 0 2 2013 0 75
+86 "New Mexico State" "WAC" 21 0 1 1 1 10 10 1 0 2007 NA 12
+86 "Northwestern" "Big Ten" 20 0 1 1 1 10 9 0 1 2008 NA 12
+86 "San Diego State" "Mountain West" 21 0 2 2 2 11 8 0 2 2009 NA 24
+86 "Middle Tennessee" "Sun Belt" 22 0 2 2 18 8 8 0 6 2011 NA 72
+86 "Coastal Carolina" "NCAA Division I-AA" 1 0 2 2 2 1 0 0 0 2012 NA 24
+87 "Bowling Green" "Mid-American" 22 0 2 2 16 10 8 1 3 2011 NA 66
+87 "Cincinnati" "Big East" 21 0 1 1 1 10 11 0 0 2006 NA 12
+87 "East Carolina" "Conference USA" 21 0 2 2 2 9 8 0 4 2010 NA 24
+87 "Indiana" "Big Ten" 20 0 1 1 1 15 5 0 0 2008 NA 12
+87 "Iowa" "Big Ten" 21 0 2 3 9 9 7 0 4 2013 0 49
+87 "UNLV" "Mountain West" 21 0 2 2 20 14 5 0 2 2012 NA 78
+87 "USC" "Pac-12" 20 10 1 1 1 11 9 0 0 2007 NA 12
+87 "UTEP" "Conference USA" 21 0 2 2 2 10 9 0 2 2009 NA 24
+87 "Chattanooga" "NCAA Division I-AA" 1 0 2 2 2 1 0 0 0 2012 NA 24
+88 "Connecticut" "Big East" 21 0 2 2 2 9 9 1 2 2009 NA 24
+88 "Indiana" "Big Ten" 21 0 1 1 1 13 8 0 0 2006 NA 12
+88 "Kentucky" "SEC" 20 0 1 1 1 8 9 0 3 2008 NA 12
+88 "Miami (FL)" "ACC" 20 6 1 1 1 12 8 0 0 2007 NA 12
+88 "New Mexico State" "WAC" 21 0 2 2 18 11 9 1 0 2012 NA 72
+88 "Tulane" "Conference USA" 22 0 2 2 16 14 7 0 1 2011 NA 66
+88 "Tulsa" "Conference USA" 21 0 2 2 4 7 10 0 0 2013 0 30
+88 "Wake Forest" "ACC" 21 0 2 2 2 14 6 0 1 2010 NA 24
+88 "North Carolina Central" "NCAA Division I-AA" 1 0 2 2 2 1 0 0 0 2012 NA 24
+89 "Ball State" "Mid-American" 21 0 2 2 2 9 11 1 0 2010 NA 24
+89 "Brigham Young" "IA Independents" 21 0 2 2 2 14 6 0 1 2009 NA 24
+89 "Clemson" "ACC" 20 6 2 14 7 9 7 1 3 2012 NA 87
+89 "Kent State" "Mid-American" 21 0 2 2 16 4 10 0 5 2013 0 66
+89 "Michigan" "Big Ten" 20 4 1 1 1 13 7 0 0 2007 NA 12
+89 "Nevada" "Mountain West" 20 0 1 1 1 8 12 0 0 2008 NA 12
+89 "Northern Illinois" "Mid-American" 22 0 2 2 16 10 11 1 0 2011 NA 66
+89 "Western Michigan" "Mid-American" 21 0 1 1 1 17 4 0 0 2006 NA 12
+89 "Presbyterian" "NCAA Division I-AA" 1 0 2 2 2 1 0 0 0 2012 NA 24
+9 "Auburn" "SEC" 29 0 2 2 2 13 11 0 5 2009 NA 24
+9 "Northern Illinois" "Mid-American" 31 0 2 2 5 16 12 1 2 2012 NA 33
+9 "Oregon" "Pac-12" 29 1 1 1 1 14 14 1 0 2007 NA 12
+9 "Pittsburgh" "Big East" 28 1 2 9 24 11 9 2 3 2013 2 118
+9 "Purdue" "Big Ten" 30 0 1 1 1 12 16 2 0 2006 NA 12
+9 "South Carolina" "SEC" 32 1 3 13 15 12 15 0 5 2011 NA 112
+9 "Temple" "Big East" 29 0 2 2 2 14 12 1 2 2010 NA 24
+9 "Wisconsin" "Big Ten" 29 1 1 1 1 14 14 1 0 2008 NA 12
+9 "Appalachian State" "NCAA Division I-AA" 16 0 2 2 16 6 8 0 2 2013 0 66
+9 "Samford" "NCAA Division I-AA" 1 0 1 1 1 0 1 0 0 2007 NA 12
+9 "New Hampshire" "NCAA Division I-AA" 10 0 2 2 2 0 0 0 0 2009 NA 24
+9 "Northern Iowa" "NCAA Division I-AA" 21 0 2 2 2 10 7 1 3 2010 NA 24
+9 "South Dakota State" "NCAA Division I-AA" 19 0 1 1 1 10 8 1 0 2008 NA 12
+9 "Eastern Washington" "NCAA Division I-AA" 20 0 2 2 2 15 5 0 0 2011 NA 24
+9 "Old Dominion" "NCAA Division I-AA" 19 0 2 2 3 7 12 0 0 2012 NA 27
+90 "Eastern Michigan" "Mid-American" 21 0 2 2 18 8 10 1 0 2013 0 72
+90 "Kent State" "Mid-American" 21 0 2 2 2 4 16 0 1 2010 NA 24
+90 "Louisiana-Lafayette" "Sun Belt" 21 0 1 1 1 10 10 1 0 2006 NA 12
+90 "Michigan State" "Big Ten" 21 1 2 9 11 7 11 0 3 2011 NA 79
+90 "North Texas" "Sun Belt" 21 0 2 2 2 9 11 1 0 2009 NA 24
+90 "Ohio" "Mid-American" 20 0 1 1 1 9 10 1 0 2008 NA 12
+90 "Rutgers" "Big East" 20 1 2 10 10 11 4 1 4 2012 NA 80
+90 "Wisconsin" "Big Ten" 20 2 1 1 1 12 7 1 0 2007 NA 12
+90 "Savannah State" "NCAA Division I-AA" 1 0 2 2 2 0 1 0 0 2012 NA 24
+91 "Central Michigan" "Mid-American" 21 0 2 2 19 8 9 1 3 2013 0 75
+91 "Georgia" "SEC" 20 6 2 2 2 7 12 0 1 2010 NA 24
+91 "Georgia Tech" "ACC" 20 3 1 1 1 10 10 0 0 2007 NA 12
+91 "Idaho" "WAC" 20 0 1 1 1 9 9 1 1 2008 NA 12
+91 "Maryland" "ACC" 21 0 2 2 9 11 8 1 1 2011 NA 45
+91 "Missouri" "SEC" 20 2 2 10 8 9 9 0 2 2012 NA 74
+91 "Ohio State" "Big Ten" 20 7 1 1 1 8 12 0 0 2006 NA 12
+91 "Toledo" "Mid-American" 21 0 2 2 2 8 11 1 1 2009 NA 24
+91 "Missouri State" "NCAA Division I-AA" 1 0 2 2 2 1 0 0 0 2012 NA 24
+92 "Ball State" "Mid-American" 21 0 2 2 18 9 11 1 0 2013 0 72
+92 "Baylor" "Big 12" 21 0 2 3 6 10 10 1 0 2011 NA 40
+92 "Clemson" "ACC" 20 5 1 1 1 9 10 1 0 2006 NA 12
+92 "Indiana" "Big Ten" 20 0 1 1 1 11 9 0 0 2007 NA 12
+92 "Penn State" "Big Ten" 20 6 2 2 2 12 7 0 1 2010 NA 24
+92 "South Florida" "Big East" 20 0 2 3 6 8 10 0 2 2012 NA 40
+92 "Texas" "Big 12" 19 8 1 1 1 8 9 1 1 2008 NA 12
+92 "Texas" "Big 12" 20 9 2 2 2 9 11 0 0 2009 NA 24
+92 "Marist" "NCAA Division I-AA" 1 0 2 2 2 1 0 0 0 2012 NA 24
+93 "Duke" "ACC" 20 0 2 2 12 10 9 1 0 2012 NA 54
+93 "Florida State" "ACC" 20 5 2 2 2 10 8 1 1 2009 NA 24
+93 "Michigan" "Big Ten" 20 6 1 1 1 8 11 1 0 2006 NA 12
+93 "Missouri" "SEC" 20 0 2 11 7 7 10 0 2 2013 2 75
+93 "North Carolina" "ACC" 20 1 2 2 2 8 8 0 4 2010 NA 24
+93 "North Texas" "Sun Belt" 20 0 1 1 1 12 8 0 0 2007 NA 12
+93 "Pittsburgh" "Big East" 21 0 2 3 5 11 9 0 1 2011 NA 37
+93 "Tennessee" "SEC" 19 1 1 1 1 8 11 0 0 2008 NA 12
+93 "Dayton" "NCAA Division I-AA" 1 0 2 2 2 0 1 0 0 2012 NA 24
+94 "Boston College" "ACC" 20 0 1 1 1 11 9 0 0 2006 NA 12
+94 "Duke" "ACC" 20 0 2 2 12 9 8 0 2 2013 0 54
+94 "East Carolina" "Conference USA" 20 1 2 3 21 7 9 0 4 2012 NA 85
+94 "Minnesota" "Big Ten" 20 1 2 2 2 11 6 1 2 2009 NA 24
+94 "New Mexico" "Mountain West" 21 0 2 2 20 10 9 0 2 2011 NA 78
+94 "Pittsburgh" "Big East" 19 4 1 1 1 11 4 1 3 2008 NA 12
+94 "South Florida" "Big East" 20 2 2 2 2 9 8 1 2 2010 NA 24
+94 "UNLV" "Mountain West" 20 0 1 1 1 7 12 0 1 2007 NA 12
+95 "Buffalo" "Mid-American" 20 0 1 1 1 11 9 0 0 2007 NA 12
+95 "Buffalo" "Mid-American" 21 0 2 2 16 12 8 1 0 2011 NA 66
+95 "Duke" "ACC" 20 0 2 2 2 9 9 0 2 2010 NA 24
+95 "East Carolina" "Conference USA" 19 0 1 1 1 10 8 0 1 2008 NA 12
+95 "Illinois" "Big Ten" 20 1 2 2 2 10 8 0 2 2009 NA 24
+95 "Louisiana Tech" "WAC" 20 0 2 2 20 8 9 2 1 2013 0 78
+95 "San Diego State" "Mountain West" 20 0 1 1 1 8 12 0 0 2006 NA 12
+95 "UCF" "Conference USA" 20 0 2 2 9 13 7 0 0 2012 NA 45
+96 "Bowling Green" "Mid-American" 20 0 2 2 21 11 7 1 1 2012 NA 81
+96 "Eastern Michigan" "Mid-American" 21 0 2 2 14 7 14 0 0 2011 NA 60
+96 "Florida State" "ACC" 19 2 1 1 1 11 7 1 0 2007 NA 12
+96 "Fresno State" "Mountain West" 20 0 2 2 2 10 4 0 6 2010 NA 24
+96 "Ohio" "Mid-American" 20 0 1 1 1 11 9 0 0 2006 NA 12
+96 "Pittsburgh" "Big East" 20 0 2 2 2 12 6 0 2 2009 NA 24
+96 "Tulane" "Conference USA" 19 0 1 1 1 9 9 0 1 2008 NA 12
+96 "UNLV" "Mountain West" 20 0 2 2 17 10 8 1 1 2013 0 69
+97 "Arkansas State" "Sun Belt" 20 0 2 2 17 7 12 0 0 2013 0 69
+97 "Buffalo" "Mid-American" 20 0 1 1 1 8 11 1 0 2006 NA 12
+97 "Louisiana Tech" "WAC" 20 0 2 2 2 8 10 0 2 2010 NA 24
+97 "New Mexico" "Mountain West" 20 0 2 2 2 11 6 1 2 2009 NA 24
+97 "North Carolina" "ACC" 18 1 1 1 1 6 12 0 0 2008 NA 12
+97 "San Jose State" "WAC" 20 0 2 2 20 12 6 1 1 2012 NA 78
+97 "Temple" "Big East" 21 0 2 2 3 13 7 0 1 2011 NA 27
+97 "Texas A&M" "SEC" 19 3 1 1 1 11 8 0 0 2007 NA 12
+98 "Buffalo" "Mid-American" 20 0 2 2 2 11 7 1 1 2010 NA 24
+98 "Buffalo" "Mid-American" 20 0 2 2 5 9 9 1 1 2012 NA 33
+98 "Idaho" "WAC" 20 0 2 2 2 10 9 0 1 2009 NA 24
+98 "Louisiana-Monroe" "Sun Belt" 21 0 2 2 3 12 6 2 1 2011 NA 27
+98 "Minnesota" "Big Ten" 19 0 1 1 1 10 8 1 0 2006 NA 12
+98 "Northwestern" "Big Ten" 19 0 1 1 1 10 9 0 0 2007 NA 12
+98 "San Jose State" "WAC" 20 0 2 2 2 12 8 0 0 2013 0 24
+98 "Stanford" "Pac-12" 18 1 1 1 1 7 6 1 4 2008 NA 12
+99 "Eastern Michigan" "Mid-American" 19 0 1 1 1 10 9 0 0 2006 NA 12
+99 "Florida State" "ACC" 19 10 3 4 19 7 10 2 0 2012 NA 88
+99 "Louisiana Tech" "WAC" 18 0 1 1 1 7 10 0 1 2008 NA 12
+99 "Miami (FL)" "ACC" 19 6 2 2 2 9 8 0 2 2009 NA 24
+99 "Miami (FL)" "ACC" 19 7 2 4 22 7 7 0 3 2013 8 92
+99 "Nebraska" "Big Ten" 20 4 3 13 22 10 7 1 2 2011 NA 133
+99 "Stanford" "Pac-12" 19 0 1 1 1 11 7 1 0 2007 NA 12
+99 "Middle Tennessee" "Sun Belt" 20 0 2 2 2 7 11 0 2 2010 NA 24
+119 "Georgia Tech" "ACC" 14 0 2 2 5 6 6 1 0 2013 0 33
+119 "Penn State" "Big Ten" 16 2 2 11 21 8 5 1 2 2011 NA 117
+119 "Utah State" "WAC" 15 0 2 2 17 12 3 0 0 2012 NA 69
+120 "Connecticut" "Big East" 16 0 2 2 17 6 8 0 2 2011 NA 69
+120 "USC" "Pac-12" 13 9 2 6 2 6 6 0 1 2013 12 40
+120 "Wisconsin" "Big Ten" 12 0 2 10 21 6 4 0 2 2012 NA 113
+121 "Stanford" "Pac-12" 12 1 2 13 19 6 4 0 2 2013 5 119

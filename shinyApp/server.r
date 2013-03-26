@@ -4,6 +4,8 @@ library(scales)
 library(RColorBrewer)
 
 load("MinnFootball.Rdata")
+minnFootball$Opponent <- as.character(minnFootball$Opponent)
+minnFootball$Year <- as.character(minnFootball$Year)
 
 # Returns a logical vector of which values in `x` are within the min and max
 # values of `range`.
@@ -35,23 +37,33 @@ shinyServer(function(input, output) {
   
     output$main_plot <- renderPlot({
       
-      minnFootball.sub <- subsetData()     
+      minnFootball.sub <- subsetData()    
       
-    ## label Win/loss
-    if(input$W.L){
-      aes.map.point <- geom_jitter(mapping = aes_string(color = "W.L", shape = "W.L"))
-      manual.color <- scale_color_brewer(palette = "Set1")
-    } else {
-      aes.map.point <- geom_jitter()
-      manual.color <- NULL
-    }
-    
-    
-    ## draw base plot
-    p <- ggplot(minnFootball.sub, aes(x = factor(Year), y = input$y.var)) + 
-      geom_boxplot() + theme_bw() + aes.map.point + 
-      xlab("Year") + manual.color
-    print(p)
+      aes.map <- aes_string(x = input$x.var, y = input$y.var)
+      
+      ## label Win/loss
+      if(input$W.L){
+        aes.map.point <- geom_jitter(mapping = aes_string(color = "W.L", shape = "W.L"))
+        manual.color <- scale_color_brewer(palette = "Set1")
+      } else {
+        aes.map.point <- geom_jitter()
+        manual.color <- NULL
+      }
+      
+      if(input$y.var == "Opponent"){
+        rotate.axis <- theme(axis.text.x = element_text(angle = 90, hjust = 1))
+      } else {
+        rotate.axis <- NULL
+      }
+      
+      
+      ## draw base plot
+      p <- ggplot(minnFootball.sub, mapping = aes.map) + 
+        geom_boxplot() + theme_bw() + aes.map.point + 
+        xlab("Year") + manual.color + rotate.axis
+      print(p)
+      
+
   })
   
   

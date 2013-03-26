@@ -6,20 +6,24 @@ shinyUI(pageWithSidebar(
   
   sidebarPanel(
     
+    selectInput(inputId = "x.var",
+                label = "X Variable", 
+                choices = c("Year" = "Year",
+                            "Opponent" = "Opponent"),
+                selected = "Year"),
+    
+    selectInput(inputId = "y.var",
+                  label = "Y Variable",
+                  choices = c("Points Scored" = "PF",
+                              "Points Against" = "PA"),
+                  selected = "Points Scored"),
+    
     sliderInput(inputId = "yr.sub", 
                 label = "Years",
                 min = 1882, 
                 max = 2012,
                 value = c(2000, 2009)      
-      ),
-    
-    wellPanel(
-      selectInput(inputId = "y.var",
-                  label = "Y Variable",
-                  choices = c("Points Scored" = "PF",
-                              "Points Against" = "PA"),
-                  selected = "Points Scored")
-      ),
+    ),      
     
     checkboxInput(inputId = "W.L",
                   label = "Identify Win/Loss",

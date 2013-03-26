@@ -1,5 +1,4 @@
 library(ggplot2)
-library(proto)
 library(scales)
 library(RColorBrewer)
 

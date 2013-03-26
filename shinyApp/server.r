@@ -48,7 +48,7 @@ shinyServer(function(input, output) {
     
     
     ## draw base plot
-    p <- ggplot(minnFootball.sub, aes(x = factor(Year), y = PF)) + 
+    p <- ggplot(minnFootball.sub, aes(x = factor(Year), y = input$y.var)) + 
       geom_boxplot() + theme_bw() + aes.map.point + 
       xlab("Year") + manual.color
     print(p)

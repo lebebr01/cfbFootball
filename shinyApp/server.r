@@ -1,24 +1,14 @@
 library(ggplot2)
 library(scales)
 library(RColorBrewer)
+library(data.table)
 
 load("MinnFootball.Rdata")
 minnFootball$Opponent <- as.character(minnFootball$Opponent)
 minnFootball$Year <- as.character(minnFootball$Year)
-
-# Returns a logical vector of which values in `x` are within the min and max
-# values of `range`.
-in_range <- function(x, range) {
-  x >= min(range) & x <= max(range)
-}
-
-#minnFootball$Decade <- with(minnFootball, ifelse(Year %in% 1880:1889, 1, ifelse(
-#  Year %in% 1890:1899, 2, ifelse(Year %in% 1900:1909, 3, ifelse(
-#    Year %in% 1910:1919, 4, ifelse(Year %in% 1920:1929, 5, ifelse(
-#      Year %in% 1930:1939, 6, ifelse(Year %in% 1940:1949, 7, ifelse(
-#        Year %in% 1950:1959, 8, ifelse(Year %in% 1960:1969, 9, ifelse(
-#          Year %in% 1970:1979, 10, ifelse(Year %in% 1980:1989, 11, ifelse(
-#            Year %in% 1990:1999, 12, ifelse(Year %in% 2000:2009, 13, 14))))))))))))))
+minnFootball$Date <- as.Date(minnFootball$Date, format = "%m-%d-%Y")
+minnFootball <- data.table(minnFootball, key = c("Date", "Opponent"))
+minnFootball <- unique(minnFootball)
 
 shinyServer(function(input, output) {
   

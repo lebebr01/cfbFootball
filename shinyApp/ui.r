@@ -15,7 +15,8 @@ shinyUI(pageWithSidebar(
     selectInput(inputId = "y.var",
                   label = "Y Variable",
                   choices = c("Points Scored" = "PF",
-                              "Points Against" = "PA"),
+                              "Points Against" = "PA",
+                              "Difference in Points" = "Delta"),
                   selected = "Points Scored"),
     
     sliderInput(inputId = "yr.sub", 

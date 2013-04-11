@@ -1,0 +1,142 @@
+Number,Variable,Source,Description
+1,W.L,cfbdatawarehouse.com,Won or Lost game
+2,Date,cfbdatawarehouse.com,Date of game played
+3,PF,cfbdatawarehouse.com,Points Scored for each game
+4,Opponent,cfbdatawarehouse.com,Opponent of game
+5,PA,cfbdatawarehouse.com,Points given up for each game
+6,Location,cfbdatawarehouse.com,Location of game
+7,Notes,cfbdatawarehouse.com,Notes about game
+8,Month,cfbdatawarehouse.com,Month of game
+9,Day,cfbdatawarehouse.com,Day of game
+10,YearGBG,cfbdatawarehouse.com,Year of game (game by game)
+11,school,cfbdatawarehouse.com,Team name
+12,Bowl,cfbdatawarehouse.com,Was the game a bowl game
+13,Year,cfbdatawarehouse.com,Year of season
+14,Record,cfbdatawarehouse.com,Overall season record
+15,APRank,cfbdatawarehouse.com,End of year AP ranking
+16,CoachRank,cfbdatawarehouse.com,End of year Coaches ranking
+17,NCAARank,cfbdatawarehouse.com,End of year NCAA ranking
+18,SportsNetworkRank,cfbdatawarehouse.com,End of year sports network ranking
+19,USA.ESPNRank,cfbdatawarehouse.com,End of year USA/ESPN ranking
+20,conference,cfbdatawarehouse.com,Conference team is a member of
+21,offName,cfbdatawarehouse.com,Official team/school name
+22,Division,cfbdatawarehouse.com,Division team is a member of
+23,Win,cfbdatawarehouse.com,Number of wins during season
+24,Loss,cfbdatawarehouse.com,Number of losses during season
+25,Tie,cfbdatawarehouse.com,Number of ties during season
+26,Pct,cfbdatawarehouse.com,Win percentage
+27,PF.Year,cfbdatawarehouse.com,Points scored for entire season
+28,PA.Year,cfbdatawarehouse.com,Points given up for entire season
+29,Delta.Year,cfbdatawarehouse.com,Points scored minus points given up for entire season
+30,Coach,cfbdatawarehouse.com,Head coach for the season
+31,d1aFlag,cfbdatawarehouse.com,Flag for D1-A schools
+32,SchoolRival,rivals.com,Name of school at rivals.com
+33,RivalsRank,rivals.com,Rivals recruiting ranking
+34,rivals.numRecruit,rivals.com,Rivals number of recruits
+35,rivals.5star,rivals.com,Number of 5-star recruits by rivals
+36,rivals.4star,rivals.com,Number of 4-star recruits by rivals
+37,rivals.3star,rivals.com,Number of 3-star recruits by rivals
+38,rivals.avgstar,rivals.com,Average stars of recruits by rivals
+39,rivals.points,rivals.com,Number of points of recruits by rivals
+40,CBSsportsName,cbssports.com,Name of school at cbssports.com
+41,player.no,cbssports.com,Player number
+42,player.name,cbssports.com,Player Name
+43,player.pos,cbssports.com,Player Position
+44,player.ht,cbssports.com,Player Height
+45,player.wt,cbssports.com,Player Weight
+46,player.class,cbssports.com,Player Year in School (class)
+47,rivalsName,rivals.com,Name of school at rivals.com
+48,teamStatsName,sports-reference.com,Name of school at sports-reference.com
+49,espnName,espn.com,Name of school at espn.com
+50,awardTeamName,,
+51,off.rank,sports-reference.com,Yearly offensive ranking
+52,numgames,sports-reference.com,Number of games played
+53,off.points,sports-reference.com,Average offensive points per game
+54,off.pass.cmp,sports-reference.com,Average offensive number of pass completions
+55,off.pass.att,sports-reference.com,Average offensive number of pass attempts
+56,off.pass.pct,sports-reference.com,Average offensive completion percentage
+57,off.pass.yds,sports-reference.com,Average offensive pass yards
+58,off.pass.td,sports-reference.com,Average offensive pass touchdowns
+59,off.rush.att,sports-reference.com,Average offensive rushing attempts
+60,off.rush.yds,sports-reference.com,Average offensive rushing yards
+61,off.rush.avg,sports-reference.com,Average offensive rushing yards per carry
+62,off.rush.td,sports-reference.com,Average offensive rushing touchdowns
+63,off.toff.plays,sports-reference.com,Average offensive plays
+64,off.toff.yds,sports-reference.com,Average total offense
+65,off.toff.avg,sports-reference.com,Average offensive yard per play
+66,off.fd.pass,sports-reference.com,Average offensive passing first downs
+67,off.fd.rush,sports-reference.com,Average offensive rushing first downs
+68,off.fd.pen,sports-reference.com,Average offensive penalty first downs
+69,off.fd.tot,sports-reference.com,Average offensive first downs
+70,off.pen.num,sports-reference.com,Average offensive penalties
+71,off.pen.yds,sports-reference.com,Average offensive penalty yards
+72,off.turn.fum,sports-reference.com,Average offensive fumbles
+73,off.turn.int,sports-reference.com,Average offensive interceptions
+74,off.turn.tot,sports-reference.com,Average offensive turnovers
+75,def.rank,sports-reference.com,Yearly defensive ranking
+76,def.points,sports-reference.com,Average defensive points per game
+77,def.pass.cmp,sports-reference.com,Average defensive number of pass completions
+78,def.pass.att,sports-reference.com,Average defensive number of pass attempts
+79,def.pass.pct,sports-reference.com,Average defensive completion percentage
+80,def.pass.yds,sports-reference.com,Average defensive pass yards
+81,def.pass.td,sports-reference.com,Average defensive pass touchdowns
+82,def.rush.att,sports-reference.com,Average defensive rushing attempts
+83,def.rush.yds,sports-reference.com,Average defensive rushing yards
+84,def.rush.avg,sports-reference.com,Average defensive rushing yards per carry
+85,def.rush.td,sports-reference.com,Average defensive rushing touchdowns
+86,def.toff.plays,sports-reference.com,Average defensive plays
+87,def.toff.yds,sports-reference.com,Average total offense
+88,def.toff.avg,sports-reference.com,Average defensive yard per play
+89,def.fd.pass,sports-reference.com,Average defensive passing first downs
+90,def.fd.rush,sports-reference.com,Average defensive rushing first downs
+91,def.fd.pen,sports-reference.com,Average defensive penalty first downs
+92,def.fd.tot,sports-reference.com,Average defensive first downs
+93,def.pen.num,sports-reference.com,Average defensive penalties
+94,def.pen.yds,sports-reference.com,Average defensive penalty yards
+95,def.turn.fum,sports-reference.com,Average defensive fumbles
+96,def.turn.int,sports-reference.com,Average defensive interceptions
+97,def.turn.tot,sports-reference.com,Average defensive turnovers
+98,spec.rank,sports-reference.com,Special teams ranking
+99,kick.xpm,sports-reference.com,Average extra points made
+100,kick.xpa,sports-reference.com,Average extra points attempt
+101,kick.xpp,sports-reference.com,Extra point percentage
+102,kick.fgm,sports-reference.com,Average field goals made
+103,kick.fga,sports-reference.com,Average field goals attempted
+104,kick.fgp,sports-reference.com,Field goal percentage
+105,kick.pts,sports-reference.com,Average points through kicking
+106,punt.num,sports-reference.com,Average number of punts
+107,punt.yds,sports-reference.com,Average total punting yards
+108,punt.avg,sports-reference.com,Average punting yardage
+109,kr.num,sports-reference.com,Average number of kick returns
+110,kr.yds,sports-reference.com,Average total kick return yards
+111,kr.avg,sports-reference.com,Average kick return yardage
+112,kr.td,sports-reference.com,Average kick return touchdowns
+113,pr.num,sports-reference.com,Average number of punt returns
+114,pr.yds,sports-reference.com,Average total punt return yards
+115,pr.avg,sports-reference.com,Average punt return yardage
+116,pr.td,sports-reference.com,Average punt return touchdowns
+117,espn.division,espn.com,Division team is a member of ESPN
+118,espn.rk,espn.com,ESPN recruiting ranking
+119,espn.conference,espn.com,ESPN school conference
+120,espn.signed,espn.com,ESPN number of signed recruits
+121,espn.150,espn.com,Number of ESPN top 150 recruits
+122,espn.300,espn.com,Number of ESPN top 300 recruits
+123,espn.5star,espn.com,Number of ESPN 5 star recruits
+124,espn.4star,espn.com,Number of ESPN 4 star recruits
+125,espn.3star,espn.com,Number of ESPN 3 star recruits
+126,espn.off,espn.com,Number of offensive recruits
+127,espn.def,espn.com,Number of defensive recruits
+128,espn.specteams,espn.com,Number of special teams recruits
+129,espn.athlete,espn.com,Number of athlete recruits
+130,allamer.name,,All American Name
+131,allamer.pos,,All American Position
+132,allamer.poyflag,,All American Player of Year flag
+133,allamer.team1,,All American first team flag
+134,allamer.team2,,All American second team flag
+135,allamer.team3,,All American third team flag
+136,coachName,,Coaches Name
+137,coachAwardName,,Coach Award Name
+138,playaward.player,,Name of player
+139,playaward.trophy,,Name of player award trophy
+140,playaward.class,,Class of player
+141,playaward.pos,,Position of player

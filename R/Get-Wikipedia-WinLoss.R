@@ -66,3 +66,5 @@ winloss$bowl<-bowl
 
 hCoach<-winloss[c(2,9:length(winloss))]
 colnames(hCoach)[2] <- "Year"
+
+hCoach

@@ -1,4 +1,4 @@
-source("C:/Users/lobo/Desktop/football/myFunction.R")
+source("R/myFunction.R")
 
 #Determine table element that has the text 'Coaching career (HC unless noted)'
 cc <- as.numeric(rownames(tables[[1]][tables[[1]][ ,1] == "Coaching career (HC unless noted)", ]))
@@ -41,6 +41,13 @@ school <- sub("^[[:space:]]*(.*?)[[:space:]]*$", "\\1", school, perl = TRUE) #re
 coaching <- cbind(years, school, position) 
 coaching <- data.frame(coaching)
 coaching$years <- as.character(coaching$years)
-coaching$years <- gsub("present", "2011", as.character(coaching$years))
-coaching$name <- names(test)[1]
+coaching$years <- gsub("present|Present", "2013", as.character(coaching$years))
 coaching$career <- "Coaching"
+
+coaching$position <- as.character(coaching$position)
+coaching$school <- as.character(coaching$school)
+coaching$position <- ifelse(coaching$position == coaching$school, "HC", 
+                            coaching$position)
+coaching$name <- coaches2[t]
+
+coaching

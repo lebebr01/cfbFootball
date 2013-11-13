@@ -1,4 +1,4 @@
-source("C:/Users/lobo/Desktop/football/myFunction.R")
+source("R/myFunction.R")
 
 pc <- as.numeric(rownames(tables[[1]][tables[[1]][ ,1] == "Playing career", ]))
 cc <- as.numeric(rownames(tables[[1]][tables[[1]][ ,1] == "Coaching career (HC unless noted)", ]))
@@ -32,12 +32,14 @@ if(length(pc)==0) {
 	playing <- data.frame(playing)
 	
 	playing$years <- as.character(playing$years)
-	playing$years <- gsub("present", "2011", as.character(playing$years))
+	playing$years <- gsub("present", "2013", as.character(playing$years))
 	
 	playing$school <- as.character(playing$school)
 	
 	my.rows <- grep("[a-zA-Z]", playing$school)
 	playing <- playing[my.rows, ]
-	playing$name <- names(test)[1]
 	playing$career <- "Playing"
+  playing$name <- coaches2[t]
+  playing
 	}
+

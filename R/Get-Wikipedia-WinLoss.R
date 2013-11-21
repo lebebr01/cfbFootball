@@ -10,8 +10,15 @@ if(length(tables[[2]]$Overall) != 0) {
           if(length(tables[[4]]$Overall) != 0) {
            winloss1 <- tables[[4]]
             } else {
-             break
-}}}}
+              if(t == 117){
+                next;
+              } else {
+              winloss1 <- tables[[2]]
+              names(winloss1) <- c("Year", "Team", "Overall", "Conference", 
+                                     "Standing", "Bowl/playoffs", "Rank")
+              } 
+              }
+            }}}
 
 winloss1$Year1<-as.numeric(as.character(winloss1$Year))
 winloss<-subset(winloss1,Year1>0)
@@ -19,7 +26,7 @@ winloss<-subset(winloss1,Year1>0)
 Overall1<-as.character(winloss$Overall)
 conf<-as.character(winloss$Conference)
 stand<-as.character(winloss$Standing)
-bowl<-as.character(winloss[,6])
+bowl<-as.character(winloss$'Bowl/playoffs')
 
 for(i in 1:length(Overall1)){
    if(nchar(Overall1[i]) > 4){
@@ -54,17 +61,33 @@ for(k in 1:length(conf)){
 }}
 
 winloss$oW<-as.numeric(unlist(strsplit(gsub("[^0-9]",",",Overall1),","))[win])
-winloss$OL<-as.numeric(unlist(strsplit(gsub("[^0-9]",",",Overall1),","))[loss])
+winloss$oL<-as.numeric(unlist(strsplit(gsub("[^0-9]",",",Overall1),","))[loss])
 winloss$cW<-as.numeric(unlist(strsplit(gsub("[^0-9]",",",conf),","))[win])
 winloss$cL<-as.numeric(unlist(strsplit(gsub("[^0-9]",",",conf),","))[loss])
 winloss$stand <- as.numeric(unlist(gsub("[^0-9]","",stand)))
 
-winloss$coachRank<-as.numeric(as.character(winloss[,7]))
-winloss$apRank<-as.numeric(as.character(winloss[,8]))
+if(length(winloss$'Coaches#') > 0){
+  winloss$coachRank<-as.numeric(as.character(winloss$'Coaches#'))
+  winloss$apRank<-as.numeric(as.character(winloss[,8]))
+  winloss$sportsNetworkRank <- NA
+} else {
+  if(length(winloss$'Rank#') > 0){
+    winloss$coachRank<-NA
+    winloss$apRank<-NA
+    winloss$sportsNetworkRank <- as.numeric(as.character(winloss$'Rank#'))
+  } else {
+    winloss$coachRank<-NA
+    winloss$apRank<-NA
+    winloss$sportsNetworkRank <- NA
+  }
+  
+}
+
 winloss$bowl<-bowl
 
 
-hCoach<-winloss[c(2,9:length(winloss))]
+hCoach<-winloss[,c("Team", "Year1", "oW", "oL", "cW", "cL", "stand", "bowl",
+                   "coachRank", "apRank", "sportsNetworkRank")]
 colnames(hCoach)[2] <- "Year"
 
 hCoach

@@ -51,13 +51,55 @@ coachPlay2 <- do.call("rbind", coachPlay)
 
 # Combine playing and coaching careers into a single data frame
 career <- rbind(coachCareer2, coachPlay2)
+
+# fix sonny Dykes
+career$years <- ifelse(career$years == "Football", '1994', career$years)
+career$years <- ifelse(career$years == "Baseball", '1989-1993', career$years)
+
+# filling in missing first two digits of years
+career$years <- ifelse((grepl("\\D[0-9]{2}$", career$years) == TRUE & 
+                          substr(career$years, 6, nchar(career$years)) < 10),
+                       paste(substr(career$years, 1, 5), '20', substr(career$years, 6, nchar(career$years)), sep = ''),
+                       ifelse((grepl("\\D[0-9]{2}$", career$years) == TRUE & 
+                                substr(career$years, 6, nchar(career$years)) > 10),
+                       paste(substr(career$years, 1, 5), '19', substr(career$years, 6, nchar(career$years)), sep = ''),
+                              career$years))
+
+# extract the beginning and end of each year cycle
+years <- gsub("\\D", ":", career$years)
+
+years2 <- strsplit(career$years, "\\D")
+numyears <- matrix(nrow = length(years2), ncol = 1)
+for(tt in 1:length(years2)){
+  if(is.na(years2[[tt]][2])){
+    numyears[tt] <- 1
+  } else {
+   numyears[tt] <-  as.numeric(years2[[tt]][2]) - as.numeric(years2[[tt]][1]) + 1
+  }
+}
+
+# expand career to one row per year
+index <- rep(seq_len(nrow(career)), numyears)
+career2 <- career[index,]
+
+# create new year variable
+yearsVec <- vector("list", length(years2))
+for(ii in 1:length(years2)){
+  if(length(years2[[ii]]) == 2){
+    yearsVec[[ii]] <- seq(from = as.numeric(years2[[ii]][1]), to = as.numeric(years2[[ii]][2]),
+                          by = 1)
+  } else {
+    yearsVec[[ii]] <- as.numeric(years2[[ii]][1])
+  }
+}
+career2$year <- as.numeric(unlist(yearsVec))
 	
 # Write to external file
-write.table(x = career, file = "Data/Final/CoachCareer.txt", row.names = FALSE)
+write.csv(x = career2, file = "Data/Final/CoachCareer.csv", row.names = FALSE)
 
 #-----------------------
 # Win/loss into one table
 coachWinLoss <- do.call("rbind", coachWL)
 
 # Write to file
-write.table(x = coachWinLoss, file = "Data/Final/CoachWL.txt", row.names = FALSE)
+write.csv(x = coachWinLoss, file = "Data/Final/CoachWL.csv", row.names = FALSE)

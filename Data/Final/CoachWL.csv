@@ -1,0 +1,886 @@
+"Team","Year","oW","oL","cW","cL","stand","bowl","coachRank","apRank","sportsNetworkRank"
+"Ole Miss",1995,6,5,3,5,5,"",NA,NA,NA
+"Ole Miss",1996,5,6,2,6,5,"",NA,NA,NA
+"Ole Miss",1997,8,4,4,4,3,"W Motor City",22,22,NA
+"Ole Miss",1998,6,5,3,5,4,"Independence*",NA,NA,NA
+"Auburn",1999,5,6,2,6,5,"",NA,NA,NA
+"Auburn",2000,9,4,6,2,1,"L Citrus",20,18,NA
+"Auburn",2001,7,5,5,3,1,"L Peach",NA,NA,NA
+"Auburn",2002,9,4,5,3,1,"W Citrus",16,14,NA
+"Auburn",2003,8,5,5,3,3,"W Music City",NA,NA,NA
+"Auburn",2004,13,0,8,0,1,"W Sugar†",2,2,NA
+"Auburn",2005,9,3,7,1,1,"L Capital One",14,14,NA
+"Auburn",2006,11,2,6,2,2,"W Cotton",8,9,NA
+"Auburn",2007,9,4,5,3,2,"W Chick-fil-A",14,15,NA
+"Auburn",2008,5,7,2,6,4,"",NA,NA,NA
+"Texas Tech",2010,8,5,3,5,5,"W TicketCity",NA,NA,NA
+"Texas Tech",2011,5,7,2,7,9,"",NA,NA,NA
+"Texas Tech",2012,7,5,4,5,5,"Meineke Car Care*",NA,NA,NA
+"Cincinnati",2013,8,2,5,1,NA,"",NA,NA,NA
+"Connecticut",2013,0,5,0,5,NA,"",NA,NA,NA
+"Houston",2011,1,0,0,0,1,"W TicketCity",14,18,NA
+"Houston",2012,5,7,4,4,NA,"",NA,NA,NA
+"Houston",2013,7,3,4,2,NA,"",NA,NA,NA
+"Florida",2004,0,1,0,0,NA,"L Peach",NA,NA,NA
+"Louisville",2010,7,6,3,4,5,"W Beef 'O' Brady's",NA,NA,NA
+"Louisville",2011,7,6,5,2,1,"L Belk",NA,NA,NA
+"Louisville",2012,11,2,5,2,1,"W Sugar†",13,13,NA
+"Louisville",2013,9,1,5,1,NA,"",NA,NA,NA
+"Memphis",2012,4,8,4,4,3,"",NA,NA,NA
+"Memphis",2013,3,6,1,4,NA,"",NA,NA,NA
+"Rutgers",2012,9,4,5,2,1,"L Russell Athletic",NA,NA,NA
+"Rutgers",2013,5,4,2,3,NA,"",NA,NA,NA
+"Hawaii",1999,9,4,5,2,1,"W Oahu",NA,NA,NA
+"Hawaii",2000,3,9,2,6,6,"",NA,NA,NA
+"Hawaii",2001,9,3,5,3,4,"",NA,NA,NA
+"Hawaii",2002,10,4,7,1,2,"L Hawaii",NA,NA,NA
+"Hawaii",2003,9,5,5,3,4,"W Hawaii",NA,NA,NA
+"Hawaii",2004,8,5,4,4,5,"W Hawaii",NA,NA,NA
+"Hawaii",2005,5,7,4,4,5,"",NA,NA,NA
+"Hawaii",2006,11,3,7,1,2,"W Hawaii",24,NA,NA
+"Hawaii",2007,12,1,8,0,1,"L Sugar†",17,19,NA
+"SMU",2008,1,11,0,8,6,"",NA,NA,NA
+"SMU",2009,8,5,6,2,1,"W Hawaii",NA,NA,NA
+"SMU",2010,7,7,6,2,1,"L Armed Forces",NA,NA,NA
+"SMU",2011,8,5,5,3,3,"W BBVA Compass",NA,NA,NA
+"SMU",2012,7,6,5,3,2,"W Hawaii",NA,NA,NA
+"SMU",2013,4,5,3,2,NA,"",NA,NA,NA
+"WKU",2010,2,10,2,6,9,"",NA,NA,NA
+"WKU",2011,7,5,7,1,2,"",NA,NA,NA
+"WKU",2012,7,5,4,4,5,"Little Caesars Pizza[n 1]",NA,NA,NA
+"South Florida",2013,2,7,2,3,NA,"",NA,NA,NA
+"Temple",2013,1,9,0,6,NA,"",NA,NA,NA
+"Temple",2011,9,4,5,3,2,"W New Mexico",NA,NA,NA
+"Temple",2012,4,7,2,5,6,"",NA,NA,NA
+"Boston College",2013,6,4,3,3,NA,"",NA,NA,NA
+"Clemson",2008,4,3,3,2,3,"L Gator",NA,NA,NA
+"Clemson",2009,NA,NA,6,2,1,"W Music City",NA,24,NA
+"Clemson",2010,1,9,4,4,4,"L Meineke Car Care",NA,NA,NA
+"Clemson",2011,5,6,6,2,1,"L Orange†",22,22,NA
+"Clemson",2012,7,10,7,1,1,"W Chick-fil-A",9,11,NA
+"Clemson",2013,4,11,7,1,NA,"",NA,NA,NA
+"Florida State",2010,10,4,6,2,1,"W Chick-Fil-A",16,17,NA
+"Florida State",2011,9,4,5,3,2,"W Champs Sports",23,23,NA
+"Florida State",2012,12,2,7,1,1,"W Orange†",8,10,NA
+"Florida State",2013,10,0,8,0,1,"",NA,NA,NA
+"Connecticut",1999,4,7,3,5,6,"",NA,NA,NA
+"Connecticut",2000,3,8,NA,NA,NA,"",NA,NA,NA
+"Connecticut",2001,2,9,NA,NA,NA,"",NA,NA,NA
+"Connecticut",2002,6,6,NA,NA,NA,"",NA,NA,NA
+"Connecticut",2003,9,3,NA,NA,NA,"",NA,NA,NA
+"Connecticut",2004,8,4,3,3,5,"W Motor City",NA,NA,NA
+"Connecticut",2005,5,6,2,5,6,"",NA,NA,NA
+"Connecticut",2006,4,8,1,6,7,"",NA,NA,NA
+"Connecticut",2007,9,4,5,2,1,"L Meineke Car Care",NA,NA,NA
+"Connecticut",2008,8,5,3,4,5,"W International",NA,NA,NA
+"Connecticut",2009,8,5,3,4,4,"W PapaJohns.com",NA,NA,NA
+"Connecticut",2010,8,5,5,2,1,"L Fiesta†",NA,NA,NA
+"Maryland",2011,2,10,1,7,6,"",NA,NA,NA
+"Maryland",2012,4,8,2,6,5,"",NA,NA,NA
+"Maryland",2013,6,4,2,4,NA,"",NA,NA,NA
+"Southern Mississippi",2008,7,6,4,4,3,"W New Orleans",NA,NA,NA
+"Southern Mississippi",2009,7,6,5,3,3,"L New Orleans",NA,NA,NA
+"Southern Mississippi",2010,8,5,5,3,2,"L Beef 'O' Brady's",NA,NA,NA
+"Southern Mississippi",2011,12,2,6,2,1,"W Hawai'i",19,20,NA
+"North Carolina",2012,8,4,5,3,1,"‡",NA,NA,NA
+"North Carolina",2013,5,5,4,3,NA,"",NA,NA,NA
+"Northern Illinois",2011,11,3,7,1,1,"W GoDaddy.com",NA,NA,NA
+"Northern Illinois",2012,12,1,8,0,1,"Orange*†",16,16,NA
+"NC State",2013,3,7,0,7,NA,"",NA,NA,NA
+"Pittsburgh",2012,6,7,3,4,5,"L BBVA Compass",NA,NA,NA
+"Pittsburgh",2013,5,5,2,4,NA,"",NA,NA,NA
+"Syracuse",2013,5,5,3,3,NA,"",NA,NA,NA
+"Richmond",2008,13,3,6,2,3,"W FCS Championship",1,1,NA
+"Richmond",2009,11,2,7,1,1,"L FCS Quarterfinals",4,4,NA
+"Virginia",2010,4,8,1,7,5,"",NA,NA,NA
+"Virginia",2011,8,5,5,3,2,"L Chick-fil-A",NA,NA,NA
+"Virginia",2012,4,8,2,6,6,"",NA,NA,NA
+"Virginia",2013,2,8,0,6,NA,"",NA,NA,NA
+"Murray State",1981,8,3,5,3,2,"",NA,9,NA
+"Murray State",1982,4,7,2,5,5,"",NA,NA,NA
+"Murray State",1983,7,4,4,3,4,"",NA,NA,NA
+"Murray State",1984,9,2,5,2,2,"",NA,13,NA
+"Murray State",1985,7,3,5,2,2,"",NA,17,NA
+"Murray State",1986,7,4,6,1,1,"L NCAA Division I–AA First Round",NA,18,NA
+"Virginia Tech",1987,2,9,NA,NA,NA,"",NA,NA,NA
+"Virginia Tech",1988,3,8,NA,NA,NA,"",NA,NA,NA
+"Virginia Tech",1989,6,4,NA,NA,NA,"",NA,NA,NA
+"Virginia Tech",1990,6,5,NA,NA,NA,"",NA,NA,NA
+"Virginia Tech",1991,5,6,1,0,NA,"",NA,NA,NA
+"Virginia Tech",1992,2,8,1,4,NA,"",NA,NA,NA
+"Virginia Tech",1993,9,3,4,3,4,"W Independence",20,22,NA
+"Virginia Tech",1994,8,4,5,2,2,"L Gator†",24,NA,NA
+"Virginia Tech",1995,10,2,6,1,1,"W Sugar†",9,10,NA
+"Virginia Tech",1996,10,2,6,1,1,"L Orange†",12,13,NA
+"Virginia Tech",1997,7,5,5,2,2,"L Gator",NA,NA,NA
+"Virginia Tech",1998,9,3,5,2,2,"W Music City",19,23,NA
+"Virginia Tech",1999,11,1,7,0,1,"L Sugar†",3,2,NA
+"Virginia Tech",2000,11,1,6,1,2,"W Gator",6,6,NA
+"Virginia Tech",2001,8,4,4,3,3,"L Gator",18,18,NA
+"Virginia Tech",2002,10,4,3,4,4,"W San Francisco",14,18,NA
+"Virginia Tech",2003,8,5,4,3,4,"L Insight",NA,NA,NA
+"Virginia Tech",2004,10,3,7,1,1,"L Sugar†",10,10,NA
+"Virginia Tech",2005,11,2,7,1,1,"W Gator",7,7,NA
+"Virginia Tech",2006,10,3,6,2,2,"L Chick-fil-A",18,19,NA
+"Virginia Tech",2007,11,3,7,1,1,"L Orange†",9,9,NA
+"Virginia Tech",2008,10,4,5,3,1,"W Orange†",14,15,NA
+"Virginia Tech",2009,10,3,6,2,2,"W Chick-fil-A",10,10,NA
+"Virginia Tech",2010,11,3,8,0,1,"L Orange†",15,16,NA
+"Virginia Tech",2011,11,3,7,1,1,"L Sugar†",17,21,NA
+"Virginia Tech",2012,7,6,4,4,4,"W Russell Athletic",NA,NA,NA
+"Virginia Tech",2013,7,3,4,2,NA,"",NA,NA,NA
+"Ohio",1995,2,8,1,6,9,"",NA,NA,NA
+"Ohio",1996,6,6,5,3,4,"",NA,NA,NA
+"Ohio",1997,8,3,6,2,2,"",NA,NA,NA
+"Ohio",1998,5,6,5,3,3,"",NA,NA,NA
+"Ohio",1999,5,6,5,3,3,"",NA,NA,NA
+"Ohio",2000,7,4,5,3,3,"",NA,NA,NA
+"Wake Forest",2001,6,5,3,5,7,"",NA,NA,NA
+"Wake Forest",2002,7,6,3,5,7,"W Seattle",NA,NA,NA
+"Wake Forest",2003,5,7,3,5,7,"",NA,NA,NA
+"Wake Forest",2004,4,7,1,7,10,"",NA,NA,NA
+"Wake Forest",2005,4,7,3,5,4,"",NA,NA,NA
+"Wake Forest",2006,11,3,6,2,1,"L Orange†",17,18,NA
+"Wake Forest",2007,9,4,5,3,2,"W Meineke Car Care",NA,NA,NA
+"Wake Forest",2008,8,5,4,4,3,"W Eaglebank",NA,NA,NA
+"Wake Forest",2009,5,7,3,5,4,"",NA,NA,NA
+"Wake Forest",2010,3,9,1,7,6,"",NA,NA,NA
+"Wake Forest",2011,6,7,5,3,2,"L Music City",NA,NA,NA
+"Wake Forest",2012,5,7,3,5,4,"",NA,NA,NA
+"Wake Forest",2013,4,6,2,5,NA,"",NA,NA,NA
+"Houston",2003,7,6,4,4,6,"L Hawaiʻi",NA,NA,NA
+"Houston",2004,3,8,3,5,5,"",NA,NA,NA
+"Houston",2005,6,6,4,4,3,"L Fort Worth",NA,NA,NA
+"Houston",2006,10,4,7,1,1,"L Liberty",NA,NA,NA
+"Houston",2007,8,4,6,2,1,"Texas*",NA,NA,NA
+"Baylor",2008,4,8,2,6,5,"",NA,NA,NA
+"Baylor",2009,4,8,1,7,6,"",NA,NA,NA
+"Baylor",2010,7,6,4,4,4,"L Texas",NA,NA,NA
+"Baylor",2011,10,3,6,3,3,"W Alamo",12,13,NA
+"Baylor",2012,8,5,4,5,5,"W Holiday",NA,NA,NA
+"Baylor",2013,9,0,6,0,NA,"",NA,NA,NA
+"Iowa State",2009,7,6,3,5,4,"W Insight",NA,NA,NA
+"Iowa State",2010,5,7,3,5,3,"",NA,NA,NA
+"Iowa State",2011,6,7,3,6,8,"L Pinstripe",NA,NA,NA
+"Iowa State",2012,6,7,3,6,9,"L Liberty",NA,NA,NA
+"Iowa State",2013,1,9,0,7,10,"",NA,NA,NA
+"Kansas State",1989,1,10,0,7,8,"",NA,NA,NA
+"Kansas State",1990,5,6,2,5,6,"",NA,NA,NA
+"Kansas State",1991,7,4,4,3,4,"",NA,NA,NA
+"Kansas State",1992,5,6,2,5,6,"",NA,NA,NA
+"Kansas State",1993,9,2,4,2,3,"W Copper",18,20,NA
+"Kansas State",1994,9,3,5,2,3,"L Aloha",16,19,NA
+"Kansas State",1995,10,2,5,2,2,"W Holiday",6,7,NA
+"Kansas State",1996,9,3,6,2,3,"L Cotton",17,17,NA
+"Kansas State",1997,11,1,7,1,2,"W Fiesta†",7,8,NA
+"Kansas State",1998,11,2,8,0,1,"L Alamo",9,10,NA
+"Kansas State",1999,11,1,7,1,1,"W Holiday",6,6,NA
+"Kansas State",2000,11,3,6,2,1,"W Cotton",8,9,NA
+"Kansas State",2001,6,6,3,5,4,"L Insight.com",NA,NA,NA
+"Kansas State",2002,11,2,6,2,2,"W Holiday",6,7,NA
+"Kansas State",2003,11,4,6,2,1,"L Fiesta†",13,14,NA
+"Kansas State",2004,4,7,2,6,5,"",NA,NA,NA
+"Kansas State",2005,5,6,2,6,6,"",NA,NA,NA
+"Kansas State",2009,6,6,4,4,2,"",NA,NA,NA
+"Kansas State",2010,7,6,3,5,3,"L Pinstripe",NA,NA,NA
+"Kansas State",2011,10,3,7,2,2,"L Cotton",16,15,NA
+"Kansas State",2012,11,2,8,1,1,"L Fiesta†",11,12,NA
+"Kansas State",2013,6,4,4,3,NA,"",NA,NA,NA
+"Oklahoma",1999,7,5,5,3,2,"L Independence",NA,NA,NA
+"Oklahoma",2000,13,0,8,0,1,"W Orange†",1,1,NA
+"Oklahoma",2001,11,2,6,2,2,"W Cotton",6,6,NA
+"Oklahoma",2002,12,2,6,2,1,"W Rose†",5,5,NA
+"Oklahoma",2003,12,2,8,0,1,"L Sugar†",3,3,NA
+"Oklahoma",2004,12,1,8,0,1,"L Orange†",3,3,NA
+"Oklahoma",2005,8,4,6,2,2,"W Holiday",22,22,NA
+"Oklahoma",2006,11,3,7,1,1,"L Fiesta†",11,11,NA
+"Oklahoma",2007,11,3,6,2,1,"L Fiesta†",8,8,NA
+"Oklahoma",2008,12,2,7,1,1,"L BCS NCG†",5,5,NA
+"Oklahoma",2009,8,5,5,3,3,"W Sun",NA,NA,NA
+"Oklahoma",2010,12,2,6,2,1,"W Fiesta†",6,6,NA
+"Oklahoma",2011,10,3,6,3,3,"W Insight",15,16,NA
+"Oklahoma",2012,10,3,8,1,1,"L Cotton",15,15,NA
+"Oklahoma",2013,8,2,5,2,NA,"",NA,NA,NA
+"Oklahoma State",2005,4,7,1,7,6,"",NA,NA,NA
+"Oklahoma State",2006,7,6,3,5,5,"W Independence",NA,NA,NA
+"Oklahoma State",2007,7,6,4,4,3,"W Insight",NA,NA,NA
+"Oklahoma State",2008,9,4,5,3,4,"L Holiday",18,16,NA
+"Oklahoma State",2009,9,4,6,2,2,"L Cotton",25,NA,NA
+"Oklahoma State",2010,11,2,6,2,1,"W Alamo",10,13,NA
+"Oklahoma State",2011,12,1,8,1,1,"W Fiesta†",3,3,NA
+"Oklahoma State",2012,8,5,5,4,3,"W Heart of Dallas",NA,NA,NA
+"Oklahoma State",2013,9,1,6,1,NA,"",NA,NA,NA
+"TCU",2000,0,1,NA,NA,1,"L Mobile Alabama",18,21,NA
+"TCU",2001,NA,NA,NA,1,5,"L Galleryfurniture.com",NA,NA,NA
+"TCU",2002,1,6,4,3,1,"W Liberty",22,23,NA
+"TCU",2003,6,10,6,2,2,"L Fort Worth",24,25,NA
+"TCU",2004,2,11,7,1,6,"",NA,NA,NA
+"TCU",2005,2,5,3,5,1,"W Houston",9,11,NA
+"TCU",2006,6,11,8,0,2,"W Poinsettia",21,22,NA
+"TCU",2007,1,11,6,2,5,"W Texas",NA,NA,NA
+"TCU",2008,2,8,4,4,2,"W Poinsettia",7,7,NA
+"TCU",2009,5,11,7,1,1,"L Fiesta†",6,6,NA
+"TCU",2010,2,12,8,0,1,"W Rose†",2,2,NA
+"TCU",2011,1,13,8,0,1,"W Poinsettia",13,14,NA
+"TCU",2012,0,11,7,0,5,"L Buffalo Wild Wings",NA,NA,NA
+"TCU",2013,2,7,4,5,NA,"",NA,NA,NA
+"Appalachian State",1983,6,5,4,3,4,"",NA,NA,NA
+"Tulane",1985,1,10,NA,NA,NA,"",NA,NA,NA
+"Tulane",1986,4,7,NA,NA,NA,"",NA,NA,NA
+"Tulane",1987,6,6,NA,NA,NA,"L Independence",NA,NA,NA
+"North Carolina",1988,1,10,1,6,7,"",NA,NA,NA
+"North Carolina",1989,1,10,0,7,8,"",NA,NA,NA
+"North Carolina",1990,6,4,3,3,5,"",NA,NA,NA
+"North Carolina",1991,7,4,3,4,5,"",NA,NA,NA
+"North Carolina",1992,9,3,5,3,3,"W Peach",18,19,NA
+"North Carolina",1993,10,3,6,2,2,"L Gator",21,19,NA
+"North Carolina",1994,8,4,5,3,3,"L Sun",21,NA,NA
+"North Carolina",1995,7,5,4,4,5,"W Carquest",NA,NA,NA
+"North Carolina",1996,10,2,6,2,2,"W Gator",10,10,NA
+"North Carolina",1997,10,1,7,1,2,"Invited to Gator**",6,4,NA
+"Texas",1998,9,3,6,2,2,"W Cotton",16,15,NA
+"Texas",1999,9,5,6,2,1,"L Cotton",23,21,NA
+"Texas",2000,9,3,7,1,2,"L Holiday",12,12,NA
+"Texas",2001,11,2,7,1,1,"W Holiday",5,5,NA
+"Texas",2002,11,2,6,2,1,"W Cotton",7,6,NA
+"Texas",2003,10,3,7,1,2,"L Holiday",11,12,NA
+"Texas",2004,11,1,7,1,2,"W Rose†",4,5,NA
+"Texas",2005,13,0,8,0,1,"W BCS NCG†",1,1,NA
+"Texas",2006,10,3,6,2,2,"W Alamo",13,13,NA
+"Texas",2007,10,3,5,3,2,"W Holiday",10,10,NA
+"Texas",2008,12,1,7,1,1,"W Fiesta†",3,4,NA
+"Texas",2009,13,1,8,0,1,"L BCS NCG†",2,2,NA
+"Texas",2010,5,7,2,6,6,"",NA,NA,NA
+"Texas",2011,8,5,4,5,6,"W Holiday",NA,NA,NA
+"Texas",2012,9,4,5,4,3,"W Alamo",18,19,NA
+"Texas",2013,7,2,6,0,NA,"",NA,NA,NA
+"Texas Tech",2013,7,4,4,4,NA,"",NA,NA,NA
+"West Virginia",2011,10,3,5,2,1,"W Orange†",18,17,NA
+"West Virginia",2012,7,6,4,5,5,"L Pinstripe",NA,NA,NA
+"West Virginia",2013,4,7,2,6,NA,"",NA,NA,NA
+"Toledo",2009,5,7,3,5,4,"",NA,NA,NA
+"Toledo",2010,8,5,7,1,2,"L Little Caesars Pizza",NA,NA,NA
+"Toledo",2011,8,4,7,1,1,"Military[n 1]",NA,NA,NA
+"Illinois",2012,NA,NA,0,8,6,"",NA,NA,NA
+"Illinois",2013,1,2,0,6,NA,"",NA,NA,NA
+"Indiana",2011,1,11,0,8,6,"",NA,NA,NA
+"Indiana",2012,4,8,2,6,5,"",NA,NA,NA
+"Indiana",2013,4,6,2,4,NA,"",NA,NA,NA
+"Maine",1990,3,8,2,6,NA,"",NA,NA,NA
+"Maine",1991,3,8,2,6,NA,"",NA,NA,NA
+"Maine",1992,6,5,4,4,NA,"",NA,NA,NA
+"Iowa",1999,1,10,0,8,11,"",NA,NA,NA
+"Iowa",2000,3,9,3,5,8,"",NA,NA,NA
+"Iowa",2001,7,5,4,4,4,"W Alamo",NA,NA,NA
+"Iowa",2002,11,2,8,0,1,"L Orange†",8,8,NA
+"Iowa",2003,10,3,5,3,4,"W Outback",8,8,NA
+"Iowa",2004,10,2,7,1,1,"W Capital One",8,8,NA
+"Iowa",2005,7,5,5,3,3,"L Outback",NA,NA,NA
+"Iowa",2006,6,7,2,6,8,"L Alamo",NA,NA,NA
+"Iowa",2007,6,6,4,4,5,"",NA,NA,NA
+"Iowa",2008,9,4,5,3,4,"W Outback",20,20,NA
+"Iowa",2009,11,2,6,2,2,"W Orange†",7,7,NA
+"Iowa",2010,8,5,4,4,4,"W Insight",NA,NA,NA
+"Iowa",2011,7,6,4,4,4,"L Insight",NA,NA,NA
+"Iowa",2012,4,8,2,6,5,"",NA,NA,NA
+"Iowa",2013,6,4,3,3,NA,"",NA,NA,NA
+"Ball State",2003,4,8,3,5,4,"",NA,NA,NA
+"Ball State",2004,2,9,2,6,6,"",NA,NA,NA
+"Ball State",2005,4,7,4,4,5,"",NA,NA,NA
+"Ball State",2006,5,7,5,3,3,"",NA,NA,NA
+"Ball State",2007,7,6,5,2,2,"L International",NA,NA,NA
+"Ball State",2008,12,1,8,0,1,"GMAC*",NA,NA,NA
+"San Diego State",2009,4,8,2,6,7,"",NA,NA,NA
+"San Diego State",2010,9,4,5,3,3,"W Poinsettia",NA,NA,NA
+"Michigan",2011,11,2,6,2,2,"W Sugar†",9,12,NA
+"Michigan",2012,8,5,6,2,2,"L Outback",NA,24,NA
+"Michigan",2013,7,3,3,3,NA,"",NA,NA,NA
+"Cincinnati",2004,7,5,5,3,2,"W Fort Worth",NA,NA,NA
+"Cincinnati",2005,4,7,2,5,6,"",NA,NA,NA
+"Cincinnati",2006,7,5,4,3,4,"International*",NA,NA,NA
+"Michigan State",2007,7,6,3,5,7,"L Champs Sports",NA,NA,NA
+"Michigan State",2008,9,4,6,2,3,"L Capital One",24,24,NA
+"Michigan State",2009,6,7,4,4,6,"L Alamo",NA,NA,NA
+"Michigan State",2010,11,2,7,1,1,"L Capital One",14,14,NA
+"Michigan State",2011,11,3,7,1,1,"W Outback",10,11,NA
+"Michigan State",2012,7,6,3,5,4,"W Buffalo Wild Wings",NA,NA,NA
+"Michigan State",2013,9,1,6,0,NA,"",NA,NA,NA
+"Saginaw Valley State",1994,6,4,6,4,4,"",NA,NA,NA
+"Saginaw Valley State",1995,7,3,7,3,3,"",NA,NA,NA
+"Saginaw Valley State",1996,7,3,7,3,3,"",NA,NA,NA
+"Saginaw Valley State",1997,9,2,8,2,3,"",NA,NA,NA
+"Saginaw Valley State",1998,9,2,8,2,2,"",NA,NA,NA
+"Emporia State",1999,5,6,4,5,5,"",NA,NA,NA
+"Emporia State",2000,6,5,5,4,4,"",NA,NA,NA
+"Southern Illinois",2001,1,10,1,6,7,"",NA,NA,NA
+"Southern Illinois",2002,4,8,2,5,6,"",NA,NA,NA
+"Southern Illinois",2003,10,2,6,1,1,"L NCAA Division I-AA First round",NA,NA,NA
+"Southern Illinois",2004,10,2,7,0,1,"L NCAA Division I-AA First round",NA,NA,NA
+"Southern Illinois",2005,9,4,5,2,1,"L NCAA Division I-AA Second round",NA,NA,NA
+"Southern Illinois",2006,9,4,4,3,4,"L NCAA Division I Second round",NA,NA,NA
+"Southern Illinois",2007,12,2,5,1,2,"L NCAA Division I Semifinal",NA,NA,NA
+"Northern Illinois",2008,6,7,5,3,4,"L Independence",NA,NA,NA
+"Northern Illinois",2009,7,6,5,3,2,"L International",NA,NA,NA
+"Northern Illinois",2010,10,3,8,0,1,"* Humanitarian",NA,NA,NA
+"Minnesota",2011,3,9,2,6,6,"",NA,NA,NA
+"Minnesota",2012,6,7,2,6,6,"L Texas",NA,NA,NA
+"Minnesota",2013,8,2,4,2,NA,"",NA,NA,NA
+"Nebraska",2003,1,0,NA,NA,NA,"W Alamo",18,18,NA
+"Nebraska",2008,9,4,5,3,1,"W Gator",NA,NA,NA
+"Nebraska",2009,10,4,6,2,1,"W Holiday",14,14,NA
+"Nebraska",2010,10,4,6,2,1,"L Holiday",19,20,NA
+"Nebraska",2011,9,4,5,3,3,"L Capital One",24,24,NA
+"Nebraska",2012,10,4,7,1,1,"L Capital One",23,25,NA
+"Nebraska",2013,7,3,4,2,NA,"",NA,NA,NA
+"Northwestern",2006,4,8,2,6,8,"",NA,NA,NA
+"Northwestern",2007,6,6,3,5,7,"",NA,NA,NA
+"Northwestern",2008,9,4,5,3,4,"L Alamo",NA,NA,NA
+"Northwestern",2009,8,5,5,3,4,"L Outback",NA,NA,NA
+"Northwestern",2010,7,6,3,5,7,"L TicketCity",NA,NA,NA
+"Northwestern",2011,6,7,3,5,5,"L Meineke Car Care",NA,NA,NA
+"Northwestern",2012,10,3,5,3,3,"W Gator",16,17,NA
+"Northwestern",2013,4,6,0,6,NA,"",NA,NA,NA
+"Bowling Green",2001,8,3,5,3,2,"",NA,NA,NA
+"Bowling Green",2002,9,3,6,2,3,"",NA,NA,NA
+"Utah",2003,10,2,6,1,1,"W Liberty",21,21,NA
+"Utah",2004,12,0,7,0,1,"W Fiesta†",5,4,NA
+"Florida",2005,9,3,5,3,2,"W Outback",16,12,NA
+"Florida",2006,13,1,7,1,1,"W BCS NCG†",1,1,NA
+"Florida",2007,9,4,5,3,3,"L Capital One",16,13,NA
+"Florida",2008,13,1,7,1,1,"W BCS NCG†",1,1,NA
+"Florida",2009,13,1,8,0,1,"W Sugar†",3,3,NA
+"Florida",2010,8,5,4,4,2,"W Outback",NA,NA,NA
+"Ohio State",2012,12,0,8,0,1,"‡",NA,3,NA
+"Ohio State",2013,10,0,6,0,NA,"",NA,NA,NA
+"Penn State",2012,8,4,6,2,2,"‡",NA,NA,NA
+"Penn State",2013,6,4,3,3,NA,"‡",NA,NA,NA
+"Kent State",2011,5,7,4,4,3,"",NA,NA,NA
+"Kent State",2012,11,3,8,0,1,"L GoDaddy.com",NA,NA,NA
+"Purdue",2013,1,9,0,6,NA,"",NA,NA,NA
+"Southern Utah",2003,4,7,NA,NA,NA,"",NA,NA,NA
+"Utah State",2009,4,8,3,5,5,"",NA,NA,NA
+"Utah State",2010,4,8,2,6,7,"",NA,NA,NA
+"Utah State",2011,7,6,5,2,2,"L Potato",NA,NA,NA
+"Utah State",2012,11,2,6,0,1,"W Potato",17,16,NA
+"Wisconsin",2013,8,2,5,1,NA,"",NA,NA,NA
+"Texas Tech",2009,1,0,0,0,3,"W Alamo",23,21,NA
+"East Carolina",2010,6,7,5,3,2,"L Military",NA,NA,NA
+"East Carolina",2011,5,7,4,4,3,"",NA,NA,NA
+"East Carolina",2012,8,5,7,1,1,"L New Orleans",NA,NA,NA
+"East Carolina",2013,8,2,6,1,NA,"",NA,NA,NA
+"San Jose State",1992,7,4,4,2,2,"",NA,NA,NA
+"Illinois",1997,0,11,0,8,11,"",NA,NA,NA
+"Illinois",1998,3,8,2,6,7,"",NA,NA,NA
+"Illinois",1999,8,4,4,4,6,"W MicronPC",25,24,NA
+"Illinois",2000,5,6,2,6,9,"",NA,NA,NA
+"Illinois",2001,10,2,7,1,1,"L Sugar†",12,12,NA
+"Illinois",2002,5,7,4,4,5,"",NA,NA,NA
+"Illinois",2003,1,11,0,8,11,"",NA,NA,NA
+"Illinois",2004,3,8,1,7,10,"",NA,NA,NA
+"FIU",2013,1,9,1,5,NA,"",NA,NA,NA
+"Connecticut",1994,4,7,4,4,3,"",NA,NA,NA
+"Connecticut",1995,8,3,5,3,2,"",NA,NA,NA
+"Connecticut",1996,5,6,3,5,4,"",NA,NA,NA
+"Connecticut",1997,7,4,4,4,2,"",NA,NA,NA
+"Connecticut",1998,10,3,6,2,1,"L Division I-AA Quarterfinals",NA,NA,NA
+"East Carolina",2005,5,6,4,4,4,"",NA,NA,NA
+"East Carolina",2006,7,6,5,3,2,"L PapaJohns.com",NA,NA,NA
+"East Carolina",2007,8,5,6,2,2,"W Hawaiʻi",NA,NA,NA
+"East Carolina",2008,9,5,6,2,1,"L Liberty",NA,NA,NA
+"East Carolina",2009,9,5,7,1,1,"L Liberty",NA,NA,NA
+"South Florida",2010,8,5,3,4,5,"W Meineke Car Care",NA,NA,NA
+"South Florida",2011,5,7,1,6,7,"",NA,NA,NA
+"South Florida",2012,3,9,1,6,8,"",NA,NA,NA
+"Louisiana Tech",2013,4,6,3,3,NA,"",NA,NA,NA
+"Marshall",2010,5,7,4,4,4,"",NA,NA,NA
+"Marshall",2011,7,6,5,3,2,"W Beef 'O' Brady's",NA,NA,NA
+"Marshall",2012,5,7,4,4,3,"",NA,NA,NA
+"Marshall",2013,7,3,5,1,NA,"",NA,NA,NA
+"Middle Tennessee",2006,7,6,6,1,1,"L Motor City",NA,NA,NA
+"Middle Tennessee",2007,5,7,4,3,2,"",NA,NA,NA
+"Middle Tennessee",2008,5,7,3,4,4,"",NA,NA,NA
+"Middle Tennessee",2009,10,3,7,1,2,"W New Orleans",NA,NA,NA
+"Middle Tennessee",2010,6,7,5,3,3,"L GoDaddy.com",NA,NA,NA
+"Middle Tennessee",2011,2,10,1,7,8,"",NA,NA,NA
+"Middle Tennessee",2012,8,4,6,2,2,"",NA,NA,NA
+"Middle Tennessee",2013,6,4,4,2,NA,"",NA,NA,NA
+"Iowa State",1995,3,8,1,6,7,"",NA,NA,NA
+"Iowa State",1996,2,9,1,7,6,"",NA,NA,NA
+"Iowa State",1997,1,10,1,7,6,"",NA,NA,NA
+"Iowa State",1998,3,8,1,7,5,"",NA,NA,NA
+"Iowa State",1999,4,7,1,7,5,"",NA,NA,NA
+"Iowa State",2000,9,3,5,3,3,"W Insight.com",23,25,NA
+"Iowa State",2001,7,5,4,4,3,"L Independence",NA,NA,NA
+"Iowa State",2002,7,7,4,4,3,"L Humanitarian",NA,NA,NA
+"Iowa State",2003,2,10,0,8,6,"",NA,NA,NA
+"Iowa State",2004,7,5,4,4,1,"W Independence",NA,NA,NA
+"Iowa State",2005,7,5,4,4,2,"L Houston",NA,NA,NA
+"Iowa State",2006,4,8,1,7,6,"",NA,NA,NA
+"North Texas",2011,5,7,4,4,5,"",NA,NA,NA
+"North Texas",2012,4,8,3,5,6,"",NA,NA,NA
+"North Texas",2013,7,3,5,1,NA,"",NA,NA,NA
+"Texas State",2004,5,6,3,2,3,"",NA,NA,NA
+"Texas State",2005,11,3,4,1,1,"L NCAA Division I-AA Semifinal",NA,NA,NA
+"Texas State",2006,5,6,3,3,4,"",NA,NA,NA
+"Rice",2007,3,9,3,5,5,"",NA,NA,NA
+"Rice",2008,10,3,7,1,1,"W Texas",NA,NA,NA
+"Rice",2009,2,10,2,6,5,"",NA,NA,NA
+"Rice",2010,4,8,3,5,4,"",NA,NA,NA
+"Rice",2011,4,8,3,5,4,"",NA,NA,NA
+"Rice",2012,7,6,4,4,3,"W Armed Forces Bowl",NA,NA,NA
+"Rice",2013,7,3,5,1,NA,"",NA,NA,NA
+"Southern Miss",2013,0,10,0,6,NA,"",NA,NA,NA
+"Tulane",2012,2,10,2,6,6,"",NA,NA,NA
+"Tulane",2013,6,4,4,2,1,"",NA,NA,NA
+"Tulsa",2011,8,5,7,1,2,"L Armed Forces",NA,NA,NA
+"Tulsa",2012,11,3,7,1,1,"W Liberty",NA,NA,NA
+"Tulsa",2013,2,8,1,5,NA,"",NA,NA,NA
+"UAB",2012,3,9,2,6,5,"",NA,NA,NA
+"UAB",2013,2,8,1,5,NA,"",NA,NA,NA
+"UTEP",2013,2,8,1,5,NA,"",NA,NA,NA
+"Southern Utah",1996,4,7,NA,NA,NA,"",NA,NA,NA
+"Cal Poly",2001,6,5,NA,NA,NA,"",NA,NA,NA
+"Cal Poly",2002,3,8,NA,NA,NA,"",NA,NA,NA
+"Cal Poly",2003,7,4,NA,NA,NA,"",NA,NA,NA
+"Cal Poly",2004,9,2,4,1,1,"",NA,NA,NA
+"Cal Poly",2005,9,4,4,1,1,"L NCAA Division I-AA Quarterfinal",NA,NA,NA
+"Cal Poly",2006,7,4,2,2,NA,"",NA,NA,NA
+"Cal Poly",2007,7,4,2,2,NA,"",NA,NA,NA
+"Cal Poly",2008,8,3,3,0,1,"L NCAA Division I First Round",NA,NA,NA
+"Army",2009,5,7,NA,NA,NA,"",NA,NA,NA
+"Army",2010,7,6,NA,NA,NA,"W Armed Forces",NA,NA,NA
+"Army",2011,3,9,NA,NA,NA,"",NA,NA,NA
+"Army",2012,2,10,NA,NA,NA,"",NA,NA,NA
+"Army",2013,3,7,NA,NA,NA,"",NA,NA,NA
+"BYU",2005,6,6,5,3,2,"L Las Vegas",NA,NA,NA
+"BYU",2006,11,2,8,0,1,"W Las Vegas",16,15,NA
+"BYU",2007,11,2,8,0,1,"W Las Vegas",14,14,NA
+"BYU",2008,10,3,6,2,3,"L Las Vegas",21,25,NA
+"BYU",2009,11,2,7,1,2,"W Las Vegas",12,12,NA
+"BYU",2010,7,6,5,3,3,"W New Mexico",NA,NA,NA
+"BYU",2011,10,3,NA,NA,NA,"W Armed Forces",25,NA,NA
+"BYU",2012,8,5,NA,NA,NA,"W Poinsettia",NA,NA,NA
+"BYU",2013,7,3,NA,NA,NA,"",NA,NA,NA
+"Idaho",2013,1,9,NA,NA,NA,"",NA,NA,NA
+"Navy",2007,0,1,NA,NA,NA,"L Poinsettia Bowl",NA,NA,NA
+"Navy",2008,8,5,NA,NA,NA,"L EagleBank Bowl",NA,NA,NA
+"Navy",2009,10,4,NA,NA,NA,"W Texas Bowl",NA,NA,NA
+"Navy",2010,9,4,NA,NA,NA,"L Poinsettia Bowl",NA,NA,NA
+"Navy",2011,5,7,NA,NA,NA,"",NA,NA,NA
+"Navy",2012,8,5,NA,NA,NA,"L Kraft Fight Hunger Bowl",NA,NA,NA
+"Navy",2013,6,4,NA,NA,NA,"",NA,NA,NA
+"Kent State",2004,5,6,4,4,5,"",NA,NA,NA
+"Kent State",2005,1,10,0,8,6,"",NA,NA,NA
+"Kent State",2006,6,6,5,3,2,"",NA,NA,NA
+"Kent State",2007,3,9,1,7,7,"",NA,NA,NA
+"Kent State",2008,4,8,3,5,4,"",NA,NA,NA
+"Kent State",2009,5,7,4,4,4,"",NA,NA,NA
+"Kent State",2010,5,7,4,4,4,"",NA,NA,NA
+"New Mexico State",2013,1,9,NA,NA,NA,"",NA,NA,NA
+"Grand Valley State",1991,9,3,8,2,2,"L NCAA Division II First Round",NA,NA,NA
+"Grand Valley State",1992,8,3,8,2,1,"",NA,NA,NA
+"Grand Valley State",1993,6,3,6,2,3,"",NA,NA,NA
+"Grand Valley State",1994,8,4,8,2,2,"L NCAA Division II First Round",NA,NA,NA
+"Grand Valley State",1995,8,3,8,2,2,"",NA,NA,NA
+"Grand Valley State",1996,8,3,8,2,2,"",NA,NA,NA
+"Grand Valley State",1997,9,2,9,1,1,"",NA,NA,NA
+"Grand Valley State",1998,9,3,9,1,1,"L NCAA Division II First Round",NA,NA,NA
+"Grand Valley State",1999,5,5,5,4,7,"",NA,NA,NA
+"Grand Valley State",2000,7,4,7,3,3,"",NA,NA,NA
+"Grand Valley State",2001,13,1,9,0,1,"L NCAA Division II Championship",2,NA,NA
+"Grand Valley State",2002,14,0,9,0,1,"W NCAA Division II Championship",1,NA,NA
+"Grand Valley State",2003,14,1,9,1,2,"W NCAA Division II Championship",1,NA,NA
+"Central Michigan",2004,4,7,3,5,5,"",NA,NA,NA
+"Central Michigan",2005,6,5,5,3,4,"",NA,NA,NA
+"Central Michigan",2006,9,4,7,1,1,"Motor City[n 1]",NA,NA,NA
+"Cincinnati",2006,NA,NA,0,0,NA,"W International",NA,NA,NA
+"Cincinnati",2007,1,1,4,3,3,"W Papajohns.com",20,17,NA
+"Cincinnati",2008,0,10,6,1,1,"L Orange†",17,17,NA
+"Cincinnati",2009,3,11,7,0,1,"Sugar[n 2]†",4,4,NA
+"Notre Dame",2010,3,12,NA,NA,NA,"W Sun",NA,NA,NA
+"Notre Dame",2011,0,NA,NA,NA,NA,"L Champs Sports",NA,NA,NA
+"Notre Dame",2012,NA,2,NA,NA,NA,"L BCS NCG†",3,4,NA
+"Notre Dame",2013,8,5,NA,NA,NA,"",NA,NA,NA
+"Salem",1983,3,7,2,6,7,"",NA,NA,NA
+"Salem",1984,8,3,7,1,1,"",NA,NA,NA
+"Salem",1985,8,3,6,1,1,"",NA,NA,NA
+"Samford",1987,9,1,NA,NA,NA,"",NA,NA,NA
+"Samford",1988,5,6,NA,NA,NA,"",NA,NA,NA
+"Samford",1989,4,7,NA,NA,NA,"",NA,NA,NA
+"Samford",1990,6,4,NA,NA,NA,"",NA,NA,NA
+"Samford",1991,12,2,NA,NA,NA,"L NCAA Division I-AA Semifinals",NA,NA,NA
+"Samford",1992,9,3,NA,NA,NA,"L NCAA Division I-AA 1st Round",NA,NA,NA
+"Auburn",1993,11,0,8,0,1,"‡",NA,4,NA
+"Auburn",1994,9,1,6,1,2,"‡",NA,9,NA
+"Auburn",1995,8,4,5,3,2,"L Outback",21,22,NA
+"Auburn",1996,8,4,4,4,3,"W Independence",25,24,NA
+"Auburn",1997,10,3,6,2,1,"W Peach",11,11,NA
+"Auburn",1998,1,5,1,4,6,"",NA,NA,NA
+"North Alabama",2009,NA,NA,NA,NA,1,"L NCAA Division II Quarterfinals",NA,NA,NA
+"North Alabama",2010,1,11,1,7,4,"L NCAA Division II 2nd Round",NA,NA,NA
+"North Alabama",2011,2,9,1,5,2,"L NCAA Division II 2nd Round",NA,NA,NA
+"Akron",2012,4,9,3,2,NA,"",NA,NA,NA
+"Akron",2013,3,1,2,0,NA,"",NA,NA,NA
+"Lehigh",2001,11,1,7,0,1,"L NCAA Division I-AA Quarterfinal",NA,NA,5
+"Lehigh",2002,8,4,4,3,4,"",NA,NA,NA
+"Lehigh",2003,8,3,6,1,2,"",NA,NA,23
+"Lehigh",2004,9,3,5,1,1,"L NCAA Division I-AA First Round",NA,NA,15
+"Lehigh",2005,8,3,4,2,3,"",NA,NA,NA
+"Elon",2006,5,6,2,5,5,"",NA,NA,NA
+"Elon",2007,7,4,4,3,3,"",NA,NA,23
+"Elon",2008,8,4,6,2,3,"",NA,NA,17
+"Elon",2009,9,3,7,1,2,"L NCAA Division I First Round",NA,NA,9
+"Elon",2010,6,5,5,3,3,"",NA,NA,NA
+"Ball State",2011,6,6,4,4,4,"",NA,NA,NA
+"Ball State",2012,9,4,6,2,2,"L Beef 'O' Brady's",NA,NA,NA
+"Ball State",2013,9,2,6,1,NA,"",NA,NA,NA
+"Fordham",1999,0,11,0,6,7,"",NA,NA,NA
+"Fordham",2000,3,8,1,5,6,"",NA,NA,NA
+"Fordham",2001,7,4,5,2,3,"",NA,NA,NA
+"Fordham",2002,10,3,6,1,1,"L Div I-AA Quarterfinals",NA,NA,NA
+"Fordham",2003,9,3,4,3,3,"",NA,NA,NA
+"Richmond",2004,3,8,0,8,5,"",NA,NA,NA
+"Richmond",2005,9,4,7,1,1,"L Div I-AA Quarterfinals",8,NA,NA
+"Richmond",2006,6,5,3,5,4,"",NA,NA,NA
+"Richmond",2007,11,3,7,1,1,"L Div FCS Semifinals",4,NA,NA
+"Bowling Green",2009,7,6,6,2,3,"L Humanitarian",NA,NA,NA
+"Bowling Green",2010,2,10,1,7,5,"",NA,NA,NA
+"Bowling Green",2011,5,7,3,5,4,"",NA,NA,NA
+"Bowling Green",2012,8,5,6,2,2,"L Military",NA,NA,NA
+"Bowling Green",2013,7,3,5,1,NA,"",NA,NA,NA
+"Central Michigan",2006,1,0,NA,NA,NA,"W Motor City",NA,NA,NA
+"Cincinnati",2009,0,1,NA,NA,NA,"L Sugar†",9,8,NA
+"Buffalo",2010,2,10,1,7,5,"",NA,NA,NA
+"Buffalo",2011,3,9,2,6,6,"",NA,NA,NA
+"Buffalo",2012,4,8,3,5,4,"",NA,NA,NA
+"Buffalo",2013,8,3,6,1,NA,"",NA,NA,NA
+"Central Michigan",2010,3,9,2,6,5,"",NA,NA,NA
+"Central Michigan",2011,3,9,2,6,6,"",NA,NA,NA
+"Central Michigan",2012,7,6,4,4,4,"W Little Caesars Pizza Bowl",NA,NA,NA
+"Central Michigan",2013,4,6,3,3,NA,"",NA,NA,NA
+"Wabash",1978,8,1,NA,NA,NA,"",NA,NA,NA
+"Wabash",1979,8,1,NA,NA,NA,"",NA,NA,NA
+"Wabash",1980,8,0,NA,NA,NA,"",NA,NA,NA
+"Wabash",1981,8,1,NA,NA,NA,"",NA,NA,NA
+"Wabash",1982,10,0,NA,NA,NA,"",NA,NA,NA
+"Marshall",1984,6,5,NA,NA,NA,"",NA,NA,NA
+"Marshall",1985,7,3,NA,NA,NA,"",NA,NA,NA
+"Kansas State",1986,2,9,1,6,8,"",NA,NA,NA
+"Kansas State",1987,0,10,0,6,7,"",NA,NA,NA
+"Kansas State",1988,0,11,0,7,8,"",NA,NA,NA
+"Ball State",2008,0,1,0,0,NA,"L GMAC",NA,NA,NA
+"Ball State",2009,2,10,2,6,5,"",NA,NA,NA
+"Ball State",2010,4,8,3,5,4,"",NA,NA,NA
+"Eastern Michigan",2013,1,0,1,0,NA,"Michigan MAC Trophy",NA,NA,NA
+"Kent State",2013,4,8,3,5,NA,"",NA,NA,NA
+"Miami",2013,0,6,0,6,NA,"",NA,NA,NA
+"Northern Illinois",2012,0,1,0,0,1,"L Orange†",24,22,NA
+"Northern Illinois",2013,NA,NA,6,0,NA,"",NA,NA,NA
+"Nebraska",1998,9,4,5,3,2,"L Holiday",20,19,NA
+"Nebraska",1999,12,1,8,1,1,"W Fiesta†",2,3,NA
+"Nebraska",2000,10,2,6,2,1,"W Alamo",7,8,NA
+"Nebraska",2001,11,2,7,1,1,"L Rose†",7,8,NA
+"Nebraska",2002,7,7,3,5,4,"L Independence",NA,NA,NA
+"Nebraska",2003,9,3,5,3,2,"Alamo*",18,19,NA
+"Ohio",2005,4,7,3,5,4,"",NA,NA,NA
+"Ohio",2006,9,5,7,1,1,"L GMAC",NA,NA,NA
+"Ohio",2007,6,6,4,4,4,"",NA,NA,NA
+"Ohio",2008,4,8,3,5,5,"",NA,NA,NA
+"Ohio",2009,9,5,7,1,1,"L Little Caesars Pizza",NA,NA,NA
+"Ohio",2010,8,5,6,2,2,"L New Orleans",NA,NA,NA
+"Ohio",2011,10,4,6,2,1,"W Famous Idaho Potato",NA,NA,NA
+"Ohio",2012,9,4,4,4,3,"W Independence",NA,NA,NA
+"Ohio",2013,6,5,3,4,NA,"",NA,NA,NA
+"Western Michigan",2013,1,10,1,6,NA,"",NA,NA,NA
+"Air Force",2007,9,4,6,2,2,"L Armed Forces",NA,NA,NA
+"Air Force",2008,8,5,5,3,4,"L Armed Forces",NA,NA,NA
+"Air Force",2009,8,5,5,3,4,"W Armed Forces",NA,NA,NA
+"Air Force",2010,9,4,5,3,3,"W Independence",NA,NA,NA
+"Air Force",2011,7,6,3,4,5,"L Military",NA,NA,NA
+"Air Force",2012,6,7,5,3,4,"L Armed Forces Bowl",NA,NA,NA
+"Air Force",2013,2,8,0,6,NA,"",NA,NA,NA
+"Boise State",2006,13,0,8,0,1,"W Fiesta†",6,5,NA
+"Boise State",2007,10,3,7,1,2,"L Hawai'i",NA,NA,NA
+"Boise State",2008,12,1,8,0,1,"L Poinsettia",13,11,NA
+"Boise State",2009,14,0,8,0,1,"W Fiesta†",4,4,NA
+"Boise State",2010,12,1,7,1,1,"W Maaco Las Vegas",7,9,NA
+"Boise State",2011,12,1,6,1,2,"W Maaco Las Vegas",6,8,NA
+"Boise State",2012,11,2,7,1,1,"W Maaco Las Vegas",14,18,NA
+"Boise State",2013,7,3,5,1,NA,"",NA,NA,NA
+"Colorado State",2012,4,8,3,5,6,"",NA,NA,NA
+"Colorado State",2013,6,5,4,2,NA,"",NA,NA,NA
+"Texas A&M",2011,1,0,0,0,6,"W Meineke Car Care",NA,NA,NA
+"Fresno State",2012,9,4,7,1,1,"L Hawaii",NA,NA,NA
+"Fresno State",2013,9,0,6,0,NA,"",NA,NA,NA
+"Hawaii",2012,3,9,1,7,9,"",NA,NA,NA
+"Hawaii",2013,0,10,0,7,NA,"",NA,NA,NA
+"Nevada",2013,4,7,3,5,NA,"",NA,NA,NA
+"Notre Dame",1997,7,6,NA,NA,NA,"L Independence",NA,NA,NA
+"Notre Dame",1998,9,3,NA,NA,NA,"L Gator",22,22,NA
+"Notre Dame",1999,5,7,NA,NA,NA,"",NA,NA,NA
+"Notre Dame",2000,9,3,NA,NA,NA,"L Fiesta†",16,15,NA
+"Notre Dame",2001,5,6,NA,NA,NA,"",NA,NA,NA
+"New Mexico",2012,4,9,1,7,NA,"",NA,NA,NA
+"New Mexico",2013,3,7,1,5,NA,"",NA,NA,NA
+"New Mexico",1998,3,9,1,7,7,"",NA,NA,NA
+"New Mexico",1999,4,7,3,4,5,"",NA,NA,NA
+"New Mexico",2000,5,7,3,4,5,"",NA,NA,NA
+"New Mexico",2001,6,5,4,3,3,"",NA,NA,NA
+"New Mexico",2002,7,7,5,2,2,"L Las Vegas",NA,NA,NA
+"New Mexico",2003,8,5,5,2,2,"L Las Vegas",NA,NA,NA
+"New Mexico",2004,7,5,5,2,2,"L Emerald",NA,NA,NA
+"New Mexico",2005,6,5,4,4,4,"",NA,NA,NA
+"New Mexico",2006,6,7,4,4,5,"L New Mexico",NA,NA,NA
+"New Mexico",2007,9,4,5,3,3,"W New Mexico",NA,NA,NA
+"New Mexico",2008,4,8,2,6,7,"",NA,NA,NA
+"San Diego State",2011,8,5,4,3,4,"L New Orleans",NA,NA,NA
+"San Diego State",2012,9,4,7,1,1,"L Poinsettia",NA,NA,NA
+"San Diego State",2013,6,4,5,1,NA,"",NA,NA,NA
+"San Diego",2007,9,2,6,1,1,"",NA,NA,NA
+"San Diego",2008,9,2,6,2,2,"",NA,NA,NA
+"San Diego",2009,4,7,3,5,6,"",NA,NA,NA
+"San Diego",2010,5,6,5,3,4,"",NA,NA,NA
+"San Diego",2011,9,2,7,1,1,"",NA,NA,NA
+"San Diego",2012,8,3,7,1,1,"",NA,NA,NA
+"San Jose State",2013,5,5,4,3,NA,"",NA,NA,NA
+"Utah State",2013,6,4,5,1,NA,"",NA,NA,NA
+"Wyoming",2009,7,6,4,4,5,"W New Mexico",NA,NA,NA
+"Wyoming",2010,3,9,1,7,8,"",NA,NA,NA
+"Wyoming",2011,8,5,5,2,3,"L New Mexico",NA,NA,NA
+"Wyoming",2012,4,8,3,5,6,"",NA,NA,NA
+"Wyoming",2013,4,6,2,4,NA,"",NA,NA,NA
+"Salem",1988,2,8,2,5,5,"",NA,NA,NA
+"Glenville State",1990,1,7,1,5,6,"",NA,NA,NA
+"Glenville State",1991,4,5,3,4,5,"",NA,NA,NA
+"Glenville State",1992,6,4,5,2,3,"",NA,NA,NA
+"Glenville State",1993,10,3,6,1,1,"",NA,NA,NA
+"Glenville State",1994,8,3,5,1,1,"",NA,NA,NA
+"Glenville State",1995,8,2,6,1,1,"",NA,NA,NA
+"Glenville State",1996,6,4,6,1,1,"",NA,NA,NA
+"West Virginia",2001,3,8,1,6,7,"",NA,NA,NA
+"West Virginia",2002,9,4,6,1,2,"L Continental Tire",20,25,NA
+"West Virginia",2003,8,5,6,1,1,"L Gator",NA,NA,NA
+"West Virginia",2004,8,4,4,2,1,"L Gator",NA,NA,NA
+"West Virginia",2005,11,1,7,0,1,"W Sugar†",6,5,NA
+"West Virginia",2006,11,2,5,2,2,"W Gator",10,10,NA
+"West Virginia",2007,10,2,5,2,1,"Fiesta[n 1]†",9,11,NA
+"Michigan",2008,3,9,2,6,9,"",NA,NA,NA
+"Michigan",2009,5,7,1,7,10,"",NA,NA,NA
+"Michigan",2010,7,6,3,5,7,"L Gator",NA,NA,NA
+"Arizona",2012,8,5,4,5,4,"W New Mexico",NA,NA,NA
+"Arizona",2013,6,4,3,4,NA,"",NA,NA,NA
+"Rice",2006,7,6,6,2,2,"L New Orleans",NA,NA,NA
+"Tulsa",2007,10,4,6,3,1,"W GMAC",NA,NA,NA
+"Tulsa",2008,11,3,7,2,1,"W GMAC",NA,NA,NA
+"Tulsa",2009,5,7,3,5,3,"",NA,NA,NA
+"Tulsa",2010,10,3,6,2,1,"W Hawai'i",NA,24,NA
+"Pittsburgh",2011,6,6,4,3,4,"BBVA CompassA",NA,NA,NA
+"Arizona State",2012,8,5,5,4,2,"W Fight Hunger",NA,NA,NA
+"Arizona State",2013,8,2,6,1,NA,"",22,19,NA
+"Louisiana Tech",2010,5,7,4,4,5,"",NA,NA,NA
+"Louisiana Tech",2011,8,5,6,1,1,"L Poinsettia",NA,NA,NA
+"Louisiana Tech",2012,9,3,4,2,3,"",NA,NA,NA
+"California",2013,1,10,0,8,NA,"",NA,NA,NA
+"San Jose State",2010,1,12,0,8,9,"",NA,NA,NA
+"San Jose State",2011,5,7,3,4,4,"",NA,NA,NA
+"San Jose State",2012,10,2,5,1,2,"Military*",21,21,NA
+"Colorado",2013,4,6,1,6,NA,"",NA,NA,NA
+"Oregon",2013,9,1,6,1,1,"",5,5,NA
+"Oregon State",1997,3,8,0,8,10,"",NA,NA,NA
+"Oregon State",1998,5,6,2,6,8,"",NA,NA,NA
+"Oregon State",2003,8,5,4,4,5,"W Las Vegas",NA,NA,NA
+"Oregon State",2004,7,5,5,3,3,"W Insight",NA,NA,NA
+"Oregon State",2005,5,6,3,5,7,"",NA,NA,NA
+"Oregon State",2006,10,4,6,3,3,"W Sun",22,21,NA
+"Oregon State",2007,9,4,6,3,3,"W Emerald",NA,25,NA
+"Oregon State",2008,9,4,7,2,2,"W Sun",19,18,NA
+"Oregon State",2009,8,5,6,3,2,"L Las Vegas",NA,NA,NA
+"Oregon State",2010,5,7,4,5,5,"",NA,NA,NA
+"Oregon State",2011,3,9,3,6,5,"",NA,NA,NA
+"Oregon State",2012,9,4,6,3,3,"L Alamo",19,20,NA
+"Oregon State",2013,6,4,4,3,NA,"",NA,NA,NA
+"Stanford",2011,11,2,8,1,1,"L Fiesta†",7,7,NA
+"Stanford",2012,12,2,8,1,1,"W Rose†",6,7,NA
+"Stanford",2013,8,2,6,2,NA,"",NA,NA,NA
+"UCLA",2012,9,5,6,3,1,"L Holiday",NA,NA,NA
+"UCLA",2013,8,2,5,2,NA,"",NA,NA,NA
+"Ole Miss",2005,3,8,1,7,5,"",NA,NA,NA
+"Ole Miss",2006,4,8,2,6,4,"",NA,NA,NA
+"Ole Miss",2007,3,9,0,8,6,"",NA,NA,NA
+"USC",2013,5,1,5,0,NA,"",NA,NA,NA
+"Utah*",2004,1,0,0,0,NA,"W Fiesta†",5,4,NA
+"Utah",2005,7,5,4,4,4,"W Emerald",NA,NA,NA
+"Utah",2006,8,5,5,3,3,"W Armed Forces",NA,NA,NA
+"Utah",2007,9,4,5,3,3,"W Poinsettia",NA,NA,NA
+"Utah",2008,13,0,8,0,1,"W Sugar†",4,2,NA
+"Utah",2009,10,3,6,2,3,"W Poinsettia",18,18,NA
+"Utah",2010,10,3,7,1,2,"L Las Vegas",23,NA,NA
+"Utah",2011,8,5,4,5,3,"W Sun",NA,NA,NA
+"Utah",2012,5,7,3,6,5,"",NA,NA,NA
+"Utah",2013,4,6,1,6,NA,"",NA,NA,NA
+"Washington",2009,5,7,4,5,7,"",NA,NA,NA
+"Washington",2010,7,6,5,4,3,"W Holiday",NA,NA,NA
+"Washington",2011,7,6,5,4,3,"L Alamo",NA,NA,NA
+"Washington",2012,7,6,5,4,4,"L Maaco",NA,NA,NA
+"Washington",2013,6,4,3,4,NA,"",NA,NA,NA
+"Toledo",1990,9,2,7,1,1,"",NA,NA,NA
+"Michigan State",1995,6,5,4,3,5,"L Independence",NA,NA,NA
+"Michigan State",1996,6,6,5,3,5,"L Sun",NA,NA,NA
+"Michigan State",1997,7,5,4,4,6,"L Aloha",NA,NA,NA
+"Michigan State",1998,6,6,4,4,6,"",NA,NA,NA
+"Michigan State",1999,9,2,6,2,2,"Invited to Citrus*",NA,NA,NA
+"LSU",2000,8,4,5,3,3,"W Peach",NA,22,NA
+"LSU",2001,10,3,5,3,1,"W Sugar†",8,7,NA
+"LSU",2002,8,5,5,3,2,"L Cotton",NA,NA,NA
+"LSU",2003,13,1,7,1,1,"W Sugar†",1,2,NA
+"LSU",2004,9,3,6,2,2,"L Capital One",16,16,NA
+"Alabama",2007,2,6,1,4,3,"W Independence",NA,NA,NA
+"Alabama",2008,NA,12,NA,8,1,"L Sugar†",6,6,NA
+"Alabama",2009,2,14,0,8,1,"W BCS NCG†",1,1,NA
+"Alabama",2010,0,10,0,5,4,"W Capital One",11,10,NA
+"Alabama",2011,3,12,3,7,2,"W BCS NCG†",1,1,NA
+"Alabama",2012,1,13,1,7,1,"W BCS NCG†",1,1,NA
+"Alabama",2013,1,10,1,7,NA,"",NA,NA,NA
+"Wisconsin",2006,12,1,7,1,2,"W Capital One",5,7,NA
+"Wisconsin",2007,9,4,5,3,4,"L Outback",21,24,NA
+"Wisconsin",2008,7,6,3,5,6,"L Champs Sports",NA,NA,NA
+"Wisconsin",2009,10,3,5,3,4,"W Champs Sports",16,16,NA
+"Wisconsin",2010,11,2,7,1,1,"L Rose†",8,7,NA
+"Wisconsin",2011,11,3,6,2,1,"L Rose†",11,10,NA
+"Wisconsin",2012,8,5,4,4,3,"Rose‡†",NA,NA,NA
+"Arkansas",2013,3,7,0,6,NA,"",NA,NA,NA
+"Arkansas State",2012,9,3,7,1,1,"GoDaddy.com*",NA,NA,NA
+"Auburn",2013,10,1,6,1,NA,"",NA,NA,NA
+"Florida",2011,7,6,3,5,3,"W Gator",NA,NA,NA
+"Florida",2012,11,2,7,1,1,"L Sugar†",10,9,NA
+"Florida",2013,4,6,3,5,NA,"",NA,NA,NA
+"Kentucky",2013,2,8,0,6,NA,"",NA,NA,NA
+"Oklahoma State",2001,4,7,2,6,5,"",NA,NA,NA
+"Oklahoma State",2002,8,5,5,3,2,"W Houston",NA,NA,NA
+"Oklahoma State",2003,9,4,5,3,3,"L Cotton",NA,NA,NA
+"Oklahoma State",2004,7,5,4,4,5,"L Alamo",NA,NA,NA
+"LSU",2005,11,2,7,1,1,"W Peach",5,6,NA
+"LSU",2006,11,2,6,2,2,"W Sugar†",3,3,NA
+"LSU",2007,12,2,6,2,1,"W BCS NCG†",1,1,NA
+"LSU",2008,8,5,3,5,3,"W Chick-fil-A",NA,NA,NA
+"LSU",2009,9,4,5,3,2,"L Capital One",17,17,NA
+"LSU",2010,11,2,6,2,2,"W Cotton",8,8,NA
+"LSU",2011,13,1,8,0,1,"L BCS NCG†",2,2,NA
+"LSU",2012,10,3,6,2,2,"L Chick-fil-A",12,13,NA
+"LSU",2013,7,3,3,3,NA,"",NA,NA,NA
+"Mississippi State",2009,5,7,3,5,4,"",NA,NA,NA
+"Mississippi State",2010,9,4,4,4,5,"W Gator",17,15,NA
+"Mississippi State",2011,7,6,2,6,5,"W Music City",NA,NA,NA
+"Mississippi State",2012,8,5,4,4,4,"L Gator",NA,NA,NA
+"Mississippi State",2013,4,6,1,5,NA,"",NA,NA,NA
+"Toledo",1991,5,5,4,3,3,"",NA,NA,NA
+"Toledo",1992,8,3,5,3,3,"",NA,NA,NA
+"Toledo",1993,4,7,3,5,7,"",NA,NA,NA
+"Toledo",1994,6,4,4,3,6,"",NA,NA,NA
+"Toledo",1995,11,0,7,0,1,"W Las Vegas",NA,24,NA
+"Toledo",1996,7,4,6,2,2,"",NA,NA,NA
+"Toledo",1997,9,3,7,1,1,"",NA,NA,NA
+"Toledo",1998,7,5,6,2,1,"",NA,NA,NA
+"Toledo",1999,6,5,5,3,2,"",NA,NA,NA
+"Toledo",2000,10,1,6,1,1,"",NA,NA,NA
+"Missouri",2001,4,7,3,5,4,"",NA,NA,NA
+"Missouri",2002,5,7,2,6,5,"",NA,NA,NA
+"Missouri",2003,8,5,4,4,3,"L Independence",NA,NA,NA
+"Missouri",2004,5,6,3,5,3,"",NA,NA,NA
+"Missouri",2005,7,5,4,4,2,"W Independence",NA,NA,NA
+"Missouri",2006,8,5,4,4,2,"L Sun",NA,NA,NA
+"Missouri",2007,12,2,7,1,1,"W Cotton",5,4,NA
+"Missouri",2008,10,4,5,3,1,"W Alamo",16,19,NA
+"Missouri",2009,8,5,4,4,2,"L Texas",NA,NA,NA
+"Missouri",2010,10,3,6,2,1,"L Insight",18,18,NA
+"Missouri",2011,8,5,5,4,5,"W Independence",NA,NA,NA
+"Missouri",2012,7,5,2,6,5,"",NA,NA,NA
+"Missouri",2013,7,9,5,1,NA,"",9,9,NA
+"Central Michigan",2007,8,6,6,1,1,"L Motor City",NA,NA,NA
+"Central Michigan",2008,8,5,6,2,2,"L Motor City",NA,NA,NA
+"Central Michigan",2009,11,2,8,0,1,"GMAC*",24,23,NA
+"Cincinnati",2010,4,8,2,5,7,"",NA,NA,NA
+"Cincinnati",2011,10,3,5,2,1,"W Liberty",21,25,NA
+"Cincinnati",2012,9,3,5,2,1,"Belk*",22,NA,NA
+"Tennessee",2013,4,6,1,5,NA,"",NA,NA,NA
+"Houston",2008,8,5,6,2,3,"W Armed Forces",NA,NA,NA
+"Houston",2009,10,4,6,2,1,"L Armed Forces",NA,NA,NA
+"Houston",2010,5,7,4,4,3,"",NA,NA,NA
+"Houston",2011,12,1,8,0,1,"* TicketCity",14,18,NA
+"Texas A&M",2012,11,2,6,2,2,"W Cotton",5,5,NA
+"Texas A&M",2013,8,2,4,2,NA,"",NA,NA,NA
+"Duke",1987,5,6,2,5,7,"",NA,NA,NA
+"Duke",1988,7,3,3,3,6,"",NA,NA,NA
+"Duke",1989,8,4,6,1,1,"L All-American",NA,NA,NA
+"Florida",1990,9,2,6,1,1,"‡",NA,13,NA
+"Florida",1991,10,2,7,0,1,"L Sugar",8,7,NA
+"Florida",1992,9,4,6,2,1,"W Gator†",11,10,NA
+"Florida",1993,11,2,7,1,1,"W Sugar†",4,5,NA
+"Florida",1994,10,2,7,1,1,"L Sugar†",7,7,NA
+"Florida",1995,12,1,8,0,1,"L Fiesta†",3,2,NA
+"Florida",1996,12,1,8,0,1,"W Sugar†",1,1,NA
+"Florida",1997,10,2,6,2,2,"W Citrus",6,4,NA
+"Florida",1998,10,2,7,1,2,"W Orange†",6,5,NA
+"Florida",1999,9,4,7,1,1,"L Citrus",14,12,NA
+"Florida",2000,10,3,7,1,1,"L Sugar†",11,10,NA
+"Florida",2001,10,2,6,2,2,"W Orange†",3,3,NA
+"South Carolina",2005,7,5,5,3,2,"L Independence",NA,NA,NA
+"South Carolina",2006,8,5,3,5,5,"W Liberty",NA,NA,NA
+"South Carolina",2007,6,6,3,5,4,"",NA,NA,NA
+"South Carolina",2008,7,6,4,4,3,"L Outback",NA,NA,NA
+"South Carolina",2009,7,6,3,5,4,"L PapaJohns.com",NA,NA,NA
+"South Carolina",2010,9,5,5,3,1,"L Chick-Fil-A",22,22,NA
+"South Carolina",2011,11,2,6,2,2,"W Capital One",8,9,NA
+"South Carolina",2012,11,2,6,2,3,"W Outback",7,8,NA
+"South Carolina",2013,8,2,6,2,NA,"",NA,NA,NA
+"Vanderbilt",2011,6,7,2,6,4,"L Liberty",NA,NA,NA
+"Vanderbilt",2012,9,4,5,3,4,"W Music City",20,23,NA
+"Vanderbilt",2013,6,4,3,4,NA,"",NA,NA,NA
+"North Alabama",2002,4,7,3,6,8,"",NA,NA,NA
+"North Alabama",2003,13,1,9,0,1,"L NCAA Division II Semifinal",NA,NA,NA
+"North Alabama",2004,5,5,4,5,6,"",NA,NA,NA
+"North Alabama",2005,11,3,7,2,2,"L NCAA Division II Semifinal",NA,NA,NA
+"North Alabama",2006,11,1,8,0,1,"L NCAA Division II Quarterfinal",NA,NA,NA
+"North Alabama",2007,10,2,7,1,2,"L NCAA Division II Quarterfinal",NA,NA,NA
+"North Alabama",2008,12,2,7,1,2,"L NCAA Division II Semifinal",NA,NA,NA
+"Louisiana–Lafayette",2011,9,4,6,2,3,"W New Orleans",NA,NA,NA
+"Louisiana–Lafayette",2012,9,4,6,2,2,"W New Orleans",NA,NA,NA
+"Louisiana–Lafayette",2013,8,2,5,0,NA,"",NA,NA,NA
+"Birmingham–Southern",2007,3,7,1,7,NA,"",NA,NA,NA
+"South Alabama",2009,7,0,NA,NA,NA,"",NA,NA,NA
+"South Alabama",2010,10,0,NA,NA,NA,"",NA,NA,NA
+"South Alabama",2011,6,4,NA,NA,NA,"",NA,NA,NA
+"South Alabama",2012,2,11,1,7,NA,"",NA,NA,NA
+"South Alabama",2013,3,6,1,3,NA,"",NA,NA,NA
+"Troy State",1991,5,6,NA,NA,NA,"",NA,NA,NA
+"Troy State",1992,10,1,NA,NA,NA,"",NA,NA,NA
+"Troy State",1993,12,1,NA,NA,NA,"I-AA Semifinal",NA,NA,NA
+"Troy State",1994,8,4,NA,NA,NA,"I-AA First Round",NA,NA,NA
+"Troy State",1995,11,1,NA,NA,NA,"I-AA First Round",NA,NA,NA
+"Troy State",1996,12,2,5,1,1,"I-AA Semifinal",NA,NA,NA
+"Troy State",1997,5,6,2,5,6,"",NA,NA,NA
+"Troy State",1998,8,4,5,2,2,"I-AA First Round",NA,NA,NA
+"Troy State",1999,11,2,6,1,1,"I-AA Quarterfinal",NA,NA,NA
+"Troy State",2000,9,3,7,0,1,"I-AA First Round",NA,NA,NA
+"Troy State",2001,7,4,NA,NA,NA,"",NA,NA,NA
+"Troy State",2002,4,8,NA,NA,NA,"",NA,NA,NA
+"Troy State",2003,6,6,NA,NA,NA,"",NA,NA,NA
+"Troy",2004,7,5,5,2,2,"L, 21–34 Silicon Valley Football Classic",NA,NA,NA
+"Troy",2005,4,7,3,4,5,"",NA,NA,NA
+"Troy",2006,8,5,6,1,1,"W, 41–17 New Orleans Bowl",NA,NA,NA
+"Troy",2007,8,4,6,1,1,"",NA,NA,NA
+"Troy",2008,8,5,6,1,1,"L, 30–27 (OT) New Orleans Bowl",NA,NA,NA
+"Troy",2009,9,4,8,0,1,"L, 44–41 (2OT) GMAC Bowl",NA,NA,NA
+"Troy",2010,8,5,6,2,1,"W, 48–21 New Orleans Bowl",NA,NA,NA
+"Troy",2011,3,9,2,6,7,"",NA,NA,NA
+"Troy",2012,5,7,3,5,6,"",NA,NA,NA
+"Troy",2013,5,6,3,3,2,"",NA,NA,NA
+"Louisville",2003,9,4,5,3,3,"L GMAC",NA,NA,NA
+"Louisville",2004,11,1,8,0,1,"W Liberty",7,6,NA
+"Louisville",2005,9,3,5,2,2,"L Gator",20,19,NA
+"Louisville",2006,12,1,6,1,1,"W Orange†",6,5,NA
+"Arkansas",2008,5,7,2,6,4,"",NA,NA,NA
+"Arkansas",2009,8,5,3,5,4,"W Liberty",NA,NA,NA
+"Arkansas",2010,10,3,6,2,2,"L Sugar†",12,12,NA
+"Arkansas",2011,11,2,6,2,3,"W Cotton",5,5,NA
+"WKU",2013,6,4,2,3,NA,"",NA,NA,NA

@@ -123,3 +123,4 @@ colnames(bowlsMerge) <- c(names(bowlsMerge)[-c(11:12)], "School", "offName")
 footballMerge <- merge(footballData, bowlsMerge, by.x = c("Team", "Year"), by.y = c("offName", "Year"), all=TRUE, sort=TRUE)
 
 write.csv(footballMerge, file = "College-Football-2012-03-09.csv")
+

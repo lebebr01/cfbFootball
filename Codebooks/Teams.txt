@@ -1,0 +1,47 @@
+Teams.csv
+Codebook
+
+-------------------------------
+
+BACKGROUND
+
+Team database for the football data.
+
+LeBeau, B., & Zieffler, A. (2014). NCAA football data. Available at https://github.com/lebebr01/cfbFootball
+-------------------------------
+DATA
+
+The data consist of 246 NCAA football teams.
+
+-------------------------------
+
+VARIABLES
+
+officialName:         Official team name
+
+shortName:            Common team name
+
+longName:             Common team name and mascot		
+
+color1:               Primary team color (http://dynasties.operationsports.com/team-colors.php?sport=ncaa)
+
+color2:               Secondary team color (http://dynasties.operationsports.com/team-colors.php?sport=ncaa)
+
+color3:               Tertiary team color (http://dynasties.operationsports.com/team-colors.php?sport=ncaa)
+
+color4:               Quaternary team color (http://dynasties.operationsports.com/team-colors.php?sport=ncaa)
+
+conference:           Conference affiliation (2013-2014 season)
+
+subdivision:          Divisional affiliation (2013-2014 season)
+
+address:              School address
+
+lat:                  Latitude
+
+lon:                  Longitude
+
+-------------------------------
+
+
+

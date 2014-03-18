@@ -6,51 +6,78 @@ theurl <- "http://www.cfbdatawarehouse.com/data/div_ia_team_index.php"
 doc = htmlParse(theurl)
 tableNodes <- getNodeSet(doc, "//table//tr//td[position()=1]//a")
 
-tableNodes1 <- tableNodes[17:138]
+tableNodes1 <- tableNodes[20:length(tableNodes)-3]
 
 schools <- sapply(X = tableNodes1, FUN = xmlValue)
+
+addresses <- unlist(sapply(X = tableNodes1, FUN = xmlGetAttr, "href"))
+addresses <- paste("http://www.cfbdatawarehouse.com/data/", addresses, sep = "")
+#addresses <- gsub("index.php$","bowl_history.php",addresses)
+#addresses <- addresses[-50]
+
+#Extracting official school name
+library(doMC)
+registerDoMC(cores = 2)
+schoolsO <- foreach(t=1:length(addresses), .combine="c") %do% {
+  
+  doc <- htmlParse(addresses[t])
+  tableNodes <- getNodeSet(doc, "//table//table//tr//td//p//font//b")
+  
+  tb <- tableNodes[[1]]
+  tb1 <- xmlValue(tb)
+  substr(tb1, 10, nchar(tb1))   
+}
 
 ##Pulling Bowl Web Addresses
 teamAddr <- unlist(sapply(X = tableNodes1, FUN = xmlGetAttr, "href"))
 teamAddr <- paste("http://www.cfbdatawarehouse.com/data/", teamAddr, sep = "")
 
 #tempFinal <- vector("list", length(teamAddr))
-for(j in 1:length(teamAddr)){
- doc <- htmlParse(teamAddr[j])
- tableNodes <- getNodeSet(doc, "//table//tr//td[position()=1]//a")
- lenTB <- length(tableNodes)-1
- tableNodes1 <- tableNodes[17:lenTB]
-
- years <- sapply(X = tableNodes1, FUN = xmlValue)
-
- ##Extracting addresses
- yearAddr <- unlist(sapply(X = tableNodes1, FUN = xmlGetAttr, "href"))
- yearAddr1 <- gsub("index.php", "", teamAddr[j])
- yearAddr <- paste(yearAddr1, yearAddr, sep="")
-
- #setwd("/home/lobo/Desktop/cfbFootball")
-
-setwd("/home/lobo/Desktop/cfbFootball/Data/ybyD1")
-tbFinal <- vector("list", length(yearAddr))
-for(t in 1:length(yearAddr)) {
-   doc <- htmlParse(yearAddr[t])
-   Nodes <- getNodeSet(doc, "//table//table")
-
-   source("/home/lobo/Desktop/cfbFootball/YearByYear.R")
-   tbFinal[[t]] <- tbF
+yearAddr <- foreach(j=1:length(teamAddr)) %dopar% {
+  doc <- htmlParse(teamAddr[j])
+  tableNodes <- getNodeSet(doc, "//table//tr//td[position()=1]//a")
+  
+  lenTB <- grep(".*yearly_results.*", unlist(sapply(X = tableNodes, FUN = xmlGetAttr, "href")))
+  tableNodes1 <- tableNodes[lenTB]
+  
+  years <- sapply(X = tableNodes1, FUN = xmlValue)
+  
+  ##Extracting addresses
+  yearAddr <- unlist(sapply(X = tableNodes1, FUN = xmlGetAttr, "href"))
+  yearAddr1 <- gsub("index.php", "", teamAddr[j])
+  yearAddr <- paste(yearAddr1, yearAddr, sep="")
+  yearAddr
+}
+ 
+library(data.table)
+yearly <- foreach(j = 1:length(yearAddr), .combine = "rbind") %:%
+  foreach(t = 1:length(yearAddr[[j]]), .combine = "rbind", .errorhandling = 'remove') %dopar% {
+    
+    doc <- htmlParse(yearAddr[[j]][t])
+    Nodes <- getNodeSet(doc, "//table//table//table//table")
+    
+    # Extracting years
+    years <- lapply(3:length(Nodes), function(x) readHTMLTable(Nodes[[x]], stringsAsFactors = FALSE))
+        
+    # combine
+    yearC <- do.call("rbind", years)
+    
+    # year of season
+    yearC$Year <- do.call("c", lapply(1:length(years), function(x) as.numeric(rep(substr(years[[x]][1,2], 
+                                                  nchar(years[[x]][1,2])-3, nchar(years[[x]][1,2])),
+                                                                    length(years[[x]][,2])))))
+    
+    # change names
+    setnames(yearC, c("WL", "Date", "PF", "Opponent", "PA", "Location", "Notes", "Year"))
+    
+    yearC$Team <- schools[j]
+    yearC$offName <- schoolsO[j]
+    
+    yearC
   }
- temp <- do.call("rbind",tbFinal)
- temp$school <- schools[j]
- write.table(temp, file = paste(schools[j], "txt", sep = "."), row.names = FALSE)
-}
 
-tempFinal <- vector("list", length(schools))
-for(i in 1:length(schools)){
-  tempFinal[[i]] <- read.table(paste(schools[i], "txt", sep = "."), header = TRUE)
-}
 
-YearByYear <- do.call("rbind", tempFinal)
-write.table(YearByYear, file="/home/lobo/Desktop/cfbFootball/Data/Final/YearByYear.txt", row.names=FALSE)
+write.csv(yearly, file="/home/brandon/Dropbox/cfbFootball/Data/YearByYearD1.csv", row.names=FALSE)
 
 
 setwd("/home/lobo/Desktop/football/Data/Final")

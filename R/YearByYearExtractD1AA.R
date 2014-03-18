@@ -20,8 +20,8 @@ pb <- txtProgressBar(min=0, max=total, style = 3)
 for(j in 1:length(teamAddr)){
   doc <- htmlParse(teamAddr[j])
   tableNodes <- getNodeSet(doc, "//table//tr//td[position()=1]//a")
-  lenTB <- length(tableNodes)-1
-  tableNodes1 <- tableNodes[17:lenTB]
+  lenTB <- grep(".*yearly_results.*", unlist(sapply(X = tableNodes, FUN = xmlGetAttr, "href")))
+  tableNodes1 <- tableNodes[lenTB]
   
   years <- sapply(X = tableNodes1, FUN = xmlValue)
   

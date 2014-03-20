@@ -11,9 +11,6 @@ tableNodes1 <- tableNodes[17:(length(tableNodes)-3)]
 
 schools <- sapply(X = tableNodes1, FUN = xmlValue)
 
-addresses <- unlist(sapply(X = tableNodes1, FUN = xmlGetAttr, "href"))
-addresses <- paste("http://www.cfbdatawarehouse.com/data/", addresses, sep = "")
-
 # Pulling polls Web Addresses
 addresses <- unlist(sapply(X = tableNodes1, FUN = xmlGetAttr, "href"))
 addresses <- paste("http://www.cfbdatawarehouse.com/data/", addresses, sep = "")

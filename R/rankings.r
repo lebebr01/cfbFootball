@@ -11,15 +11,14 @@ tableNodes1 <- tableNodes[17:(length(tableNodes)-3)]
 
 schools <- sapply(X = tableNodes1, FUN = xmlValue)
 
-# Pulling polls Web Addresses
+# Pulling team Web Addresses
 addresses <- unlist(sapply(X = tableNodes1, FUN = xmlGetAttr, "href"))
 addresses <- paste("http://www.cfbdatawarehouse.com/data/", addresses, sep = "")
-addresses <- gsub("index.php$","rankings.php",addresses)
 
 #Extracting official school name
 library(doMC)
 registerDoMC(cores = 2)
-schoolsO <- foreach(t = 1:length(addresses), .combine="c") %do% {
+schoolsO <- foreach(t = 1:length(addresses), .combine="c") %dopar% {
   
   doc <- htmlParse(addresses[t])
   tableNodes <- getNodeSet(doc, "//table//table//tr//td//p//font//b")
@@ -29,13 +28,16 @@ schoolsO <- foreach(t = 1:length(addresses), .combine="c") %do% {
   substr(tb1, 10, nchar(tb1))   
 }
 
-rankings <- foreach(i = 1:length(addresses), .combine = "rbind") %dopar% {
+# Web addresses for rankings page
+addresses <- gsub("index.php$","rankings.php",addresses)
+
+rankings <- foreach(i = 1:length(addresses), .combine = "rbind", .errorhandling = "remove") %dopar% {
   
   doc <- htmlParse(addresses[[i]])
   Nodes <- getNodeSet(doc, "//table//table//table//table")
   
   # extracting tables
-  tabs <- lapply(c(4,6,8,10,12), function(x) 
+  tabs <- lapply(seq(4, length(Nodes), 2), function(x) 
     readHTMLTable(Nodes[[x]], stringsAsFactors = FALSE))
   
   # combining 5 tables

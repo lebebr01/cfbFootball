@@ -6,7 +6,7 @@ theurl <- "http://www.cfbdatawarehouse.com/data/div_ia_team_index.php"
 doc = htmlParse(theurl)
 tableNodes <- getNodeSet(doc, "//table//tr//td[position()=1]//a")
 
-tableNodes1 <- tableNodes[17:(length(tableNodes)-3)]
+tableNodes1 <- tableNodes[18:(length(tableNodes)-3)]
 
 schools <- sapply(X = tableNodes1, FUN = xmlValue)
 
@@ -18,7 +18,7 @@ addresses <- paste("http://www.cfbdatawarehouse.com/data/", addresses, sep = "")
 #Extracting official school name
 library(doMC)
 registerDoMC(cores=2)
-schoolsO <- foreach(t=1:length(addresses), .combine="c") %do% {
+schoolsO <- foreach(t=1:length(addresses), .combine="c") %dopar% {
   
   doc <- htmlParse(addresses[t])
   tableNodes <- getNodeSet(doc, "//table//table//tr//td//p//font//b")
@@ -37,29 +37,17 @@ addresses <- gsub("index.php$","bowl_history.php",addresses)
 
 ##Extracting schools
 library(data.table)
-bowls <- foreach(t=1:length(addresses), .combine = "rbind", .errorhandling = "remove") %do% {
+bowls <- foreach(t=1:length(addresses), .combine = "rbind") %dopar% {
   
   doc <- htmlParse(addresses[t])
-  tableNodes <- getNodeSet(doc, "//table//table")
+  Nodes <- getNodeSet(doc, "//table//table//table//table")
   
-  # Extract correct tables
-  majorBowls <- readHTMLTable(tableNodes[[13]])
-  minorBowls <- readHTMLTable(tableNodes[[16]])
+  # extracting tables
+  tabs <- lapply(seq(3, length(Nodes), 1), function(x) 
+    readHTMLTable(Nodes[[x]], stringsAsFactors = FALSE))
   
-  # ensuring number of columns if correct
-  if(length(majorBowls) != 7){
-    majorBowls <- readHTMLTable(tableNodes[[12]])
-  }
-  if(length(minorBowls) != 7){
-    minorBowls <- readHTMLTable(tableNodes[[15]])
-  }
-  
-  # rbind if minorBowls is not NULL.
-  if(is.null(minorBowls)){
-    bowl <- rbind(majorBowls, minorBowls)
-  } else {
-    bowl <- majorBowls
-  }  
+  # Combine tables
+  bowl <- do.call("rbind", tabs)
   
   # Set colnames
   setnames(bowl, c("No", "WL", "Date", "PF", "Opponent", "PA", "Bowl"))

@@ -41,3 +41,7 @@ conference <- foreach(t = 1:length(addresses), .combine = "rbind",
   setnames(conf, c('Year', 'Conference', 'Team'))
   conf
 }
+
+# save file - assumes in root of working directory structure.
+write.csv(conference, file = paste(getwd(), '/Data/conference.csv', sep = ''),
+          row.names = FALSE)

@@ -7,7 +7,9 @@ bowls <- read.csv(paste(getwd(), "/Data/bowlGames.csv", sep = ''))
 coaches <- read.csv(paste(getwd(), "/Data/coaches.csv", sep = ''))
 
 #################
-# create team level file
+# creating file for year by year with coaches
 #################
 
+library(dplyr)
 
+ybyCoach <- left_join(yby, coaches, by = c("Year", "Team"))

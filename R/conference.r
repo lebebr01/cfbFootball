@@ -15,8 +15,14 @@ schools <- sapply(X = tableNodes1, FUN = xmlValue)
 addresses <- unlist(sapply(X = tableNodes1, FUN = xmlGetAttr, "href"))
 addresses <- paste("http://www.cfbdatawarehouse.com/data/", addresses, sep = "")
 
-library(doSNOW)
-registerDoSNOW(makeCluster(2, type = "SOCK"))
+xx <- function(x){
+  as.numeric(x[1]):as.numeric(x[2])
+}
+
+#library(doSNOW)
+#registerDoSNOW(makeCluster(2, type = "SOCK"))
+library(doMC)
+registerDoMC(cores = 2)
 conference <- foreach(t = 1:length(addresses), .combine = "rbind",
                       .packages = c("XML", "plyr", "data.table")) %dopar% {
   
@@ -24,6 +30,14 @@ conference <- foreach(t = 1:length(addresses), .combine = "rbind",
   Nodes <- getNodeSet(doc, "//table//table//table")
   
   conf <- readHTMLTable(Nodes[[max(length(Nodes))]], stringsAsFactors = FALSE)
+  conf <- gsub("XX", "13", conf[,1])
   
+  years <- strsplit(substr(conf, 1, 9), '-')
+  years <- lapply(years, xx)
+  
+  conf1 <- substr(conf, 12, nchar(conf))
+  
+  conf <- data.frame(unlist(years), rep(conf1, sapply(years, length)), schools[t])  
+  setnames(conf, c('Year', 'Conference', 'Team'))
   conf
 }

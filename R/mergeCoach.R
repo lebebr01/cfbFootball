@@ -16,3 +16,6 @@ library(dplyr)
 ybyCoach <- left_join(yby, coaches, by = c("Year", "Team"))
 ybyCoach <- left_join(ybyCoach, conference, by = c('Year', 'Team'))
 ybyCoach <- left_join(ybyCoach, polls, by = c('Year', 'Team'))
+
+# creating 1/0 variable if the team won the game
+ybyCoach$gbgWin <- ifelse(ybyCoach$WL == 'W', 1, 0)

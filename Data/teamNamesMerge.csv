@@ -1,126 +1,126 @@
-cfbDataWarehouse,allAmer,sos
-Air Force (CO),Air Force,Air Force
-Akron (OH),Akron,Akron
-Alabama,Alabama,Alabama
-Alabama-Birmingham,UAB,UAB
-Arizona,Arizona,Arizona
-Arizona St.,Arizona State,Arizona State
-Arkansas,Arkansas,Arkansas
-Arkansas St.,,Arkansas State
-Army (NY),Army,Army
-Auburn (AL),Auburn,Auburn
-Ball St. (IN),Ball State,Ball State
-Baylor (TX),Baylor,Baylor
-Boise St. (ID),Boise State,Boise State
-Boston College (MA),Boston College,Boston College
-Bowling Green (OH),Bowling Green,Bowling Green
-Brigham Young (UT),Brigham Young,Brigham Young
-Buffalo (NY),Buffalo,Buffalo
-California,California,California
-Central Florida,Central Florida,Central Florida
-Central Michigan,Central Michigan,Central Michigan
-Cincinnati (OH),Cincinnati,Cincinnati
-Clemson (SC),Clemson,Clemson
-Colorado,Colorado,Colorado
-Colorado St.,Colorado State,Colorado State
-Connecticut,Connecticut,Connecticut
-Duke (NC),Duke,Duke
-East Carolina (NC),East Carolina,East Carolina
-Eastern Michigan,Eastern Michigan,Eastern Michigan
-Florida,Florida,Florida
-Florida Atlantic,,Florida Atlantic
-Florida International,,Fla. International
-Florida St.,Florida State,Florida State
-Fresno St. (CA),Fresno State,Fresno State
-Georgia,Georgia,Georgia
-Georgia St.,,Georgia State
-Georgia Tech,Georgia Tech,Georgia Tech
-Hawaii,Hawaii,Hawaii
-Houston (TX),Houston,Houston
-Idaho,Idaho,Idaho
-Illinois,Illinois,Illinois
-Indiana,Indiana,Indiana
-Iowa,Iowa,Iowa
-Iowa St.,Iowa State,Iowa State
-Kansas,Kansas,Kansas
-Kansas St.,Kansas State,Kansas State
-Kent St. (OH),,Kent State
-Kentucky,Kentucky,Kentucky
-Louisiana-Lafayette,,Louisiana-Lafayette
-Louisiana-Monroe,,Louisiana-Monroe
-Louisiana St.,LSU,LSU
-Louisiana Tech,Louisiana Tech,Louisiana Tech
-Louisville (KY),Louisville,Louisville
-Marshall (WV),Marshall,Marshall
-Maryland,Maryland,Maryland
-Massachusetts,,Massachusetts
-Memphis (TN),Memphis,Memphis
-Miami (FL),Miami,Miami-Florida
-Miami (OH),Miami OH,Miami-Ohio
-Michigan,Michigan,Michigan
-Michigan St.,Michigan State,Michigan State
-Middle Tennessee St.,,Middle Tennessee
-Minnesota,Minnesota,Minnesota
-Mississippi,Mississippi,Mississippi
-Mississippi St.,Mississippi State,Mississippi State
-Missouri,Missouri,Missouri
-Navy (MD),Navy,Navy
-Nebraska,Nebraska,Nebraska
-Nevada,Nevada,Nevada
-Nevada-Las Vegas,UNLV,UNLV
-New Mexico,New Mexico,New Mexico
-New Mexico St.,,New Mexico State
-North Carolina,North Carolina,North Carolina
-North Carolina St.,North Carolina State,No. Carolina State
-North Texas,North Texas,North Texas
-Northern Illinois,Northern Illinois,Northern Illinois
-Northwestern (IL),Northwestern,Northwestern
-Notre Dame (IN),Notre Dame,Notre Dame
-Ohio,Ohio,Ohio
-Ohio St.,Ohio State,Ohio State
-Oklahoma,Oklahoma,Oklahoma
-Oklahoma St.,Oklahoma State,Oklahoma State
-Oregon,Oregon,Oregon
-Oregon St.,Oregon State,Oregon State
-Penn St.,Penn State,Penn State
-Pittsburgh (PA),Pittsburgh,Pittsburgh
-Purdue (IN),Purdue,Purdue
-Rice (TX),Rice,Rice
-Rutgers (NJ),Rutgers,Rutgers
-San Diego St. (CA),San Diego State,San Diego State
-San Jose St. (CA),San Jose State,San Jose State
-South Alabama,,South Alabama
-South Carolina,South Carolina,South Carolina
-South Florida,South Florida,South Florida
-Southern California,Southern California,Southern California
-Southern Methodist (TX),Southern Methodist,SMU
-Southern Mississippi,Southern Mississippi,Southern Mississippi
-Stanford (CA),Stanford,Stanford
-Syracuse (NY),Syracuse,Syracuse
-Temple (PA),Temple,Temple
-Tennessee,Tennessee,Tennessee
-Texas,Texas,Texas
-Texas-El Paso,UTEP,UTEP
-Texas-San Antonio,,Texas-San Antonio
-Texas A&M,Texas A&M,Texas A&M
-Texas Christian,TCU,TCU
-Texas St.,,Texas State
-Texas Tech,Texas Tech,Texas Tech
-Toledo (OH),Toledo,Toledo
-Troy (AL),,Troy
-Tulane (LA),Tulane,Tulane
-Tulsa (OK),Tulsa,Tulsa
-UCLA,UCLA,UCLA
-Utah,Utah,Utah
-Utah St.,Utah State,Utah State
-Vanderbilt (TN),Vanderbilt,Vanderbilt
-Virginia,Virginia,Virginia
-Virginia Tech,Virginia Tech,Virginia Tech
-Wake Forest (NC),Wake Forest,Wake Forest
-Washington,Washington,Washington
-Washington St.,Washington State,Washington State
-West Virginia,West Virginia,West Virginia
-Western Kentucky,Western Kentucky,Western Kentucky
-Western Michigan,Western Michigan,Western Michigan
-Wisconsin,Wisconsin,Wisconsin
-Wyoming,Wyoming,Wyoming
+cfbDataWarehouse,allAmer,sos,espn,rivals
+Air Force (CO),Air Force,Air Force,Air Force,Air Force
+Akron (OH),Akron,Akron,Akron,Akron
+Alabama,Alabama,Alabama,Alabama,Alabama
+Alabama-Birmingham,UAB,UAB,UAB,UAB
+Arizona,Arizona,Arizona,Arizona,Arizona
+Arizona St.,Arizona State,Arizona State,Arizona State,Arizona State
+Arkansas,Arkansas,Arkansas,Arkansas,Arkansas
+Arkansas St.,,Arkansas State,Arkansas State,Arkansas State
+Army (NY),Army,Army,Army,Army
+Auburn (AL),Auburn,Auburn,Auburn,Auburn
+Ball St. (IN),Ball State,Ball State,Ball State,Ball State
+Baylor (TX),Baylor,Baylor,Baylor,Baylor
+Boise St. (ID),Boise State,Boise State,Boise State,Boise State
+Boston College (MA),Boston College,Boston College,Boston College,Boston College
+Bowling Green (OH),Bowling Green,Bowling Green,Bowling Green,Bowling Green
+Brigham Young (UT),Brigham Young,Brigham Young,Brigham Young,Brigham Young
+Buffalo (NY),Buffalo,Buffalo,Buffalo,Buffalo
+California,California,California,California,California
+Central Florida,Central Florida,Central Florida,UCF,UCF
+Central Michigan,Central Michigan,Central Michigan,Central Michigan,Central Michigan
+Cincinnati (OH),Cincinnati,Cincinnati,Cincinnati,Cincinnati
+Clemson (SC),Clemson,Clemson,Clemson,Clemson
+Colorado,Colorado,Colorado,Colorado,Colorado
+Colorado St.,Colorado State,Colorado State,Colorado State,Colorado State
+Connecticut,Connecticut,Connecticut,Connecticut,Connecticut
+Duke (NC),Duke,Duke,Duke,Duke
+East Carolina (NC),East Carolina,East Carolina,East Carolina,East Carolina
+Eastern Michigan,Eastern Michigan,Eastern Michigan,Eastern Michigan,Eastern Michigan
+Florida,Florida,Florida,Florida,Florida
+Florida Atlantic,,Florida Atlantic,Florida Atlantic,Florida Atlantic
+Florida International,,Fla. International,Florida International,FIU
+Florida St.,Florida State,Florida State,Florida State,Florida State
+Fresno St. (CA),Fresno State,Fresno State,Fresno State,Fresno State
+Georgia,Georgia,Georgia,Georgia,Georgia
+Georgia St.,,Georgia State,Georgia State,
+Georgia Tech,Georgia Tech,Georgia Tech,Georgia Tech,Georgia Tech
+Hawaii,Hawaii,Hawaii,Hawaii,Hawaii
+Houston (TX),Houston,Houston,Houston,Houston
+Idaho,Idaho,Idaho,Idaho,Idaho
+Illinois,Illinois,Illinois,Illinois,Illinois
+Indiana,Indiana,Indiana,Indiana,Indiana
+Iowa,Iowa,Iowa,Iowa,Iowa
+Iowa St.,Iowa State,Iowa State,Iowa State,Iowa State
+Kansas,Kansas,Kansas,Kansas,Kansas
+Kansas St.,Kansas State,Kansas State,Kansas State,Kansas State
+Kent St. (OH),,Kent State,Kent State,Kent State
+Kentucky,Kentucky,Kentucky,Kentucky,Kentucky
+Louisiana-Lafayette,,Louisiana-Lafayette,Louisiana-Lafayette,Louisiana-Lafayette
+Louisiana-Monroe,,Louisiana-Monroe,Louisiana-Monroe,Louisiana-Monroe
+Louisiana St.,LSU,LSU,LSU,LSU
+Louisiana Tech,Louisiana Tech,Louisiana Tech,Louisiana Tech,Louisiana Tech
+Louisville (KY),Louisville,Louisville,Louisville,Louisville
+Marshall (WV),Marshall,Marshall,Marshall,Marshall
+Maryland,Maryland,Maryland,Maryland,Maryland
+Massachusetts,,Massachusetts,Massachusetts,Massachusetts
+Memphis (TN),Memphis,Memphis,Memphis,Memphis
+Miami (FL),Miami,Miami-Florida,Miami (FL),Miami (FL)
+Miami (OH),Miami OH,Miami-Ohio,Miami (OH),Miami (OH)
+Michigan,Michigan,Michigan,Michigan,Michigan
+Michigan St.,Michigan State,Michigan State,Michigan State,Michigan State
+Middle Tennessee St.,,Middle Tennessee,Middle Tennessee,Middle Tennessee
+Minnesota,Minnesota,Minnesota,Minnesota,Minnesota
+Mississippi,Mississippi,Mississippi,Mississippi,Mississippi
+Mississippi St.,Mississippi State,Mississippi State,Mississippi State,Mississippi State
+Missouri,Missouri,Missouri,Missouri,Missouri
+Navy (MD),Navy,Navy,Navy,Navy
+Nebraska,Nebraska,Nebraska,Nebraska,Nebraska
+Nevada,Nevada,Nevada,Nevada,Nevada
+Nevada-Las Vegas,UNLV,UNLV,UNLV,UNLV
+New Mexico,New Mexico,New Mexico,New Mexico,New Mexico
+New Mexico St.,,New Mexico State,New Mexico State,New Mexico State
+North Carolina,North Carolina,North Carolina,North Carolina,North Carolina
+North Carolina St.,North Carolina State,No. Carolina State,North Carolina State,North Carolina State
+North Texas,North Texas,North Texas,North Texas,North Texas
+Northern Illinois,Northern Illinois,Northern Illinois,Northern Illinois,Northern Illinois
+Northwestern (IL),Northwestern,Northwestern,Northwestern,Northwestern
+Notre Dame (IN),Notre Dame,Notre Dame,Notre Dame,Notre Dame
+Ohio,Ohio,Ohio,Ohio,Ohio
+Ohio St.,Ohio State,Ohio State,Ohio State,Ohio State
+Oklahoma,Oklahoma,Oklahoma,Oklahoma,Oklahoma
+Oklahoma St.,Oklahoma State,Oklahoma State,Oklahoma State,Oklahoma State
+Oregon,Oregon,Oregon,Oregon,Oregon
+Oregon St.,Oregon State,Oregon State,Oregon State,Oregon State
+Penn St.,Penn State,Penn State,Penn State,Penn State
+Pittsburgh (PA),Pittsburgh,Pittsburgh,Pittsburgh,Pittsburgh
+Purdue (IN),Purdue,Purdue,Purdue,Purdue
+Rice (TX),Rice,Rice,Rice,Rice
+Rutgers (NJ),Rutgers,Rutgers,Rutgers,Rutgers
+San Diego St. (CA),San Diego State,San Diego State,San Diego State,San Diego State
+San Jose St. (CA),San Jose State,San Jose State,San Jose State,San Jose State
+South Alabama,,South Alabama,South Alabama,South Alabama
+South Carolina,South Carolina,South Carolina,South Carolina,South Carolina
+South Florida,South Florida,South Florida,South Florida,South Florida
+Southern California,Southern California,Southern California,USC,USC
+Southern Methodist (TX),Southern Methodist,SMU,Southern Methodist,Southern Methodist
+Southern Mississippi,Southern Mississippi,Southern Mississippi,Southern Miss,Southern Miss
+Stanford (CA),Stanford,Stanford,Stanford,Stanford
+Syracuse (NY),Syracuse,Syracuse,Syracuse,Syracuse
+Temple (PA),Temple,Temple,Temple,Temple
+Tennessee,Tennessee,Tennessee,Tennessee,Tennessee
+Texas,Texas,Texas,Texas,Texas
+Texas-El Paso,UTEP,UTEP,UTEP,UTEP
+Texas-San Antonio,,Texas-San Antonio,UTSA,
+Texas A&M,Texas A&M,Texas A&M,Texas A&M,Texas A&M
+Texas Christian,TCU,TCU,TCU,TCU
+Texas St.,,Texas State,Texas State,Texas State
+Texas Tech,Texas Tech,Texas Tech,Texas Tech,Texas Tech
+Toledo (OH),Toledo,Toledo,Toledo,Toledo
+Troy (AL),,Troy,Troy,Troy
+Tulane (LA),Tulane,Tulane,Tulane,Tulane
+Tulsa (OK),Tulsa,Tulsa,Tulsa,Tulsa
+UCLA,UCLA,UCLA,UCLA,UCLA
+Utah,Utah,Utah,Utah,Utah
+Utah St.,Utah State,Utah State,Utah State,Utah State
+Vanderbilt (TN),Vanderbilt,Vanderbilt,Vanderbilt,Vanderbilt
+Virginia,Virginia,Virginia,Virginia,Virginia
+Virginia Tech,Virginia Tech,Virginia Tech,Virginia Tech,Virginia Tech
+Wake Forest (NC),Wake Forest,Wake Forest,Wake Forest,Wake Forest
+Washington,Washington,Washington,Washington,Washington
+Washington St.,Washington State,Washington State,Washington State,Washington State
+West Virginia,West Virginia,West Virginia,West Virginia,West Virginia
+Western Kentucky,Western Kentucky,Western Kentucky,Western Kentucky,Western Kentucky
+Western Michigan,Western Michigan,Western Michigan,Western Michigan,Western Michigan
+Wisconsin,Wisconsin,Wisconsin,Wisconsin,Wisconsin
+Wyoming,Wyoming,Wyoming,Wyoming,Wyoming

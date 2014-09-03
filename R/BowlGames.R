@@ -4,9 +4,7 @@ library(plyr)
 #Division 1A
 theurl <- "http://www.cfbdatawarehouse.com/data/div_ia_team_index.php"
 doc = htmlParse(theurl)
-tableNodes <- getNodeSet(doc, "//table//tr//td[position()=1]//a")
-
-tableNodes1 <- tableNodes[18:(length(tableNodes)-3)]
+tableNodes1 <- getNodeSet(doc, "//table//tr//td[position()=1]//a[contains(@href, 'div_ia/')]")
 
 schools <- sapply(X = tableNodes1, FUN = xmlValue)
 
@@ -43,28 +41,30 @@ bowls <- foreach(t=1:length(addresses), .combine = "rbind") %dopar% {
   Nodes <- getNodeSet(doc, "//table//table//table//table")
   
   # extracting tables
-  tabs <- lapply(seq(3, length(Nodes), 1), function(x) 
-    readHTMLTable(Nodes[[x]], stringsAsFactors = FALSE))
-  
-  # Combine tables
-  bowl <- do.call("rbind", tabs)
-  
-  # Set colnames
-  setnames(bowl, c("No", "WL", "Date", "PF", "Opponent", "PA", "Bowl"))
-  
-  bowl$Team <- schools[t]
-  bowl$offName <- schoolsO[t]
-  bowl
+  if(length(Nodes) >=3){
+    tabs <- lapply(seq(3, length(Nodes), 1), function(x) 
+      readHTMLTable(Nodes[[x]], stringsAsFactors = FALSE))
+    
+    # Combine tables
+    bowl <- do.call("rbind", tabs)
+    
+    # Set colnames
+    setnames(bowl, c("No", "WL", "Date", "PF", "Opponent", "PA", "Bowl"))
+    
+    bowl$Team <- schools[t]
+    bowl$offName <- schoolsO[t]
+    bowl
+  }
 }
 
-write.csv(bowls, file = '/home/brandon/Dropbox/cfbFootball/Data/bowlGames.csv')
+write.csv(bowls, file = 'Data/bowlGames.csv')
 
-#Division I-AA
+
+
+## - Division I-AA - ##
 theurl <- "http://www.cfbdatawarehouse.com/data/div_iaa_team_index.php"
 doc = htmlParse(theurl)
-tableNodes <- getNodeSet(doc, "//table//tr//td[position()=1]//a")
-
-tableNodes1 <- tableNodes[18:length(tableNodes)-1]
+tableNodes1 <- getNodeSet(doc, "//table//tr//td[position()=1]//a[contains(@href, 'div_iaa/')]")
 
 schools <- sapply(X = tableNodes1, FUN = xmlValue)
 
@@ -73,23 +73,26 @@ addresses <- unlist(sapply(X = tableNodes1, FUN = xmlGetAttr, "href"))
 addresses <- paste("http://www.cfbdatawarehouse.com/data/", addresses, sep = "")
 addresses <- gsub("index.php$","bowl_history.php",addresses)
 
-filenames <- paste("/home/lobo/Desktop/cfbFootball/Data/bowlD1AA/", schools, ".txt", sep="")
-
 ##Extracting schools
 for(t in 1:length(addresses)){
   
   doc <- htmlParse(addresses[t])
-  tableNodes <- getNodeSet(doc, "//table//table")
+  (tableNodes <- getNodeSet(doc, "//table//table"))
   
-  source("/home/lobo/Desktop/football/Bowl.R")
+  source("R/Bowl.R")
   
   tab$Team <- schools[t]
   tab <- subset(tab, Team == schools[t], select = c(2:length(tab)))
   
   ##Writing table
-  write.table(x = tab, file = filenames[t], row.names = FALSE)
+  write.table(x = tab
+              , file = paste0("Data/bowlD1AA/"
+                              , schools[t]
+                              , ".txt")
+              , row.names = FALSE)
 }
 
+filenames <- paste("Data/bowlD1AA/", schools, ".txt", sep="")
 
 addresses <- unlist(sapply(X = tableNodes1, FUN = xmlGetAttr, "href"))
 addresses <- paste("http://www.cfbdatawarehouse.com/data/", addresses, sep = "")
@@ -112,7 +115,9 @@ schoolsO <- foreach(t=1:length(filenames), .combine="rbind") %dopar% {
 #Reading in bowl games
 bowls <- vector("list",length(filenames))
 for(i in 1:length(filenames)) {
-  bowls[[i]] <- read.table(file = filenames[i], header = TRUE)
+  bowls[[i]] <- read.table(file = filenames[i]
+                           , header = TRUE
+                           , stringsAsFactors=FALSE)
 }
 
 ##Adding official team name to each team
@@ -122,5 +127,10 @@ for(i in 1:length(filenames)){
 }
 #combining all the teams into one file
 bowlsD1AA <- do.call("rbind",bowls)
-write.table(bowlsD1AA, file = "/home/lobo/Desktop/cfbFootball/Data/Final/bowlsD1AA.txt",
-            row.names=FALSE)
+
+bowlsD1AA <- na.omit(bowlsD1AA)
+
+write.table(bowlsD1AA
+            , file = "Data/Final/bowlsD1AA.txt"
+            , row.names=FALSE)
+

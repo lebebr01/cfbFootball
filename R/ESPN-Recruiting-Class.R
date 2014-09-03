@@ -1,4 +1,5 @@
 library(XML)
+library(dplyr)
 
 ##Set years from 2006–2013
 year <- 2006:2013
@@ -22,14 +23,16 @@ for(i in 1:length(year)){
 espn <- Reduce(function(...) merge(..., all = TRUE), recruits)
 
 ##Make most variables numeric
-cols = c(1, 4:14)    
+cols = c(3:13)
 espn[ ,cols] = apply(espn[ ,cols], 2, function(x) as.numeric(as.character(x)))
 
 ##Dump first column
-espn <- espn[ , -1]
+# espn <- espn[ , -1]
 
 ##Rename variables
-names(espn) <- c("espnNames", "conference", "signed", "espn150", "five", "four", "three", 
-	"off", "def", "specTeams", "athletes", "year", "espn300")
+names(espn) <- c("espnNames", "conference", "signed", "five", "four", "three", 
+	"off", "def", "specTeams", "athletes", "year", "espn300", "espn150")
+
+espn<-arrange(espn, espnNames, year)
 ##Write data to text file
-write.table(espn, file = "~/Desktop/espnRecruiting.txt", row.names = FALSE)
+write.table(espn, file = "Data/espnRecruiting.txt", row.names = FALSE)

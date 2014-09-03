@@ -7,7 +7,7 @@ theurl <- "http://www.cfbdatawarehouse.com/data/div_ia_team_index.php"
 doc = htmlParse(theurl)
 tableNodes1 <- getNodeSet(doc, "//table//tr//td[position()=1]//a[contains(@href, 'div_ia/')]")
 
-schools <- sapply(X = tableNodes, FUN = xmlValue)
+schools <- sapply(X = tableNodes1, FUN = xmlValue)
 
 # Pulling team Web Addresses
 addresses <- unlist(sapply(X = tableNodes1, FUN = xmlGetAttr, "href"))

@@ -5,11 +5,9 @@ library(data.table)
 #Division 1A
 theurl <- "http://www.cfbdatawarehouse.com/data/div_ia_team_index.php"
 doc = htmlParse(theurl)
-tableNodes <- getNodeSet(doc, "//table//tr//td[position()=1]//a")
+tableNodes1 <- getNodeSet(doc, "//table//tr//td[position()=1]//a[contains(@href, 'div_ia/')]")
 
-tableNodes1 <- tableNodes[17:(length(tableNodes)-3)]
-
-schools <- sapply(X = tableNodes1, FUN = xmlValue)
+schools <- sapply(X = tableNodes, FUN = xmlValue)
 
 # Pulling team Web Addresses
 addresses <- unlist(sapply(X = tableNodes1, FUN = xmlGetAttr, "href"))
@@ -48,12 +46,13 @@ rankings <- foreach(i = 1:length(addresses), .combine = "rbind", .errorhandling 
                     "NatChampPoints", "Big4BowlPoints"))
   
   # School names
-  tabsC$Team <- schools[i]
+  tabsC$Team <- schools[[i]]
   tabsC$offName <- schoolsO[i]
   
   tabsC
 }
 
 # writing table
-write.csv(rankings, file = "/home/brandon/Dropbox/cfbFootball/Data/rankings.csv", 
-          row.names = FALSE)
+write.csv(rankings
+          , file = "Data/rankings.csv"
+          , row.names = FALSE)

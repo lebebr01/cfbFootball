@@ -5,9 +5,9 @@
       }
 
   ##Tables that are the correct length
-    tabNum <- matrix(nrow=length(tableNodes), ncol=2)
+    tabNum <- matrix(nrow=length(tb), ncol=2)
     tabNum[,1] <- sapply(tb, length)
-    tabNum[,2] <- 1:length(tableNodes)
+    tabNum[,2] <- 1:length(tb)
 
    Num <- subset(tabNum, tabNum[,1] == 7)[,2]
 

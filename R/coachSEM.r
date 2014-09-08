@@ -21,17 +21,6 @@ ybyCoach <- ybyCoach[i = numGames > 2]
 # removing cases with NA for conference
 ybyCoach <- ybyCoach[complete.cases(ybyCoach$Conference),]
 
-# Creating an id variable by year, team, and coach
-#ybyCoachMelt <- data.table(ybyCoachMelt, key = c('Year', 'Team', 'coach'))
-#ybyCoachMelt[, id := (.GRP), by = c('Year', 'Team', 'coach')]
-
-#ybyCoachMelt[, idW := 1:.N, by = 'id']
-
-# final reshape, id for games, coach, year
-#ybyCoachCast98 <- dcast.data.table(ybyCoachMelt, idW ~ coach, subset = (Year == 1998))[, idW := NULL]
-
-setnames(ybyCoach, "All-Time", "alltime")
-
 # dichotomizing conference variable into dummy variables
 ybyCoach$aaConf <- ifelse(ybyCoach$Conference == "American Athletic Conference", 1, 0)
 ybyCoach$acConf <- ifelse(ybyCoach$Conference == "Atlantic Coast Conference", 1, 0)
@@ -61,6 +50,14 @@ ybyCoach$alltimemc <- with(ybyCoach, alltime - mean(alltime, na.rm = TRUE))
 ybyCoach$last10mc <- with(ybyCoach, last10 - mean(last10, na.rm = TRUE))
 ybyCoach$last25mc <- with(ybyCoach, last25 - mean(last25, na.rm = TRUE))
 ybyCoach$last50mc <- with(ybyCoach, last50 - mean(last50, na.rm = TRUE))
+ybyCoach$alltimewpmc <- with(ybyCoach, alltimewp - mean(alltimewp, na.rm = TRUE))
+ybyCoach$last10wpmc <- with(ybyCoach, last10wp - mean(last10wp, na.rm = TRUE))
+ybyCoach$last25wpmc <- with(ybyCoach, last25wp - mean(last25wp, na.rm = TRUE))
+ybyCoach$last50wpmc <- with(ybyCoach, last50wp - mean(last50wp, na.rm = TRUE))
+ybyCoach$alltimespmc <- with(ybyCoach, alltimesp - mean(alltimesp, na.rm = TRUE))
+ybyCoach$last10spmc <- with(ybyCoach, last10sp - mean(last10sp, na.rm = TRUE))
+ybyCoach$last25spmc <- with(ybyCoach, last25sp - mean(last25sp, na.rm = TRUE))
+ybyCoach$last50spmc <- with(ybyCoach, last50sp - mean(last50sp, na.rm = TRUE))
 ybyCoach$SchScoremc <- with(ybyCoach, SchScore - mean(SchScore, na.rm = TRUE))
 ybyCoach$SchRankmc <- with(ybyCoach, SchRank - mean(SchRank, na.rm = TRUE))
 
@@ -69,6 +66,16 @@ ybyCoach$alltimelog <- log(ybyCoach$alltime)
 ybyCoach$last10log <- log(ybyCoach$last10)
 ybyCoach$last25log <- log(ybyCoach$last25)
 ybyCoach$last50log <- log(ybyCoach$last50)
+
+ybyCoach$alltimewplog <- log(ybyCoach$alltimewp)
+ybyCoach$last10wplog <- log(ybyCoach$last10wp)
+ybyCoach$last25wplog <- log(ybyCoach$last25wp)
+ybyCoach$last50wplog <- log(ybyCoach$last50wp)
+
+ybyCoach$alltimesplog <- log(ybyCoach$alltimesp)
+ybyCoach$last10splog <- log(ybyCoach$last10sp)
+ybyCoach$last25splog <- log(ybyCoach$last25sp)
+ybyCoach$last50splog <- log(ybyCoach$last50sp)
 
 # log of overWin
 # first removing any 0's
@@ -79,6 +86,9 @@ ybyCoach$overWinlog <- log(ybyCoach$overWin)
 ybyCoach$Delta2 <- ybyCoach$Delta + 343
 ybyCoach$deltasqrt <- sqrt(ybyCoach$Delta2)
 
+# create variable if ranked in AP poll or not
+ybyCoach$aprankDummy <- ifelse(is.na(ybyCoach$APRank), 0, 1)
+
 
 ######################
 # sem - lavaan package
@@ -87,13 +97,13 @@ ability.mod <- '
  # latent variables
  ca =~ Pctmc + overWinlog + tenureLengthmc + deltasqrt
  ra =~ AvgStarmc + numAAmc
- sos =~ SchScoremc #+ SchRankmc
+ sos =~ SchScoremc 
+ pr =~ last10log 
  # regressions
- ca ~ ra + sos + aaConf + acConf + b12Conf + b10Conf + cusaConf + maConf + mwConf + p12Conf + secConf + sbConf
- ra ~ sos + aaConf + acConf + b12Conf + b10Conf + cusaConf + maConf + mwConf + p12Conf + secConf + sbConf
+ ca ~ ra + sos + pr + aaConf + acConf + b12Conf + b10Conf + cusaConf + maConf + mwConf + p12Conf + secConf + sbConf
+ ra ~ sos + pr + aaConf + acConf + b12Conf + b10Conf + cusaConf + maConf + mwConf + p12Conf + secConf + sbConf + aprankDummy
  # residual covariances
  Pctmc ~~ overWinlog
- #AvgStarmc ~~ RivalsRankmc
 '
 
 ability.fit <- sem(ability.mod, data = ybyCoach)

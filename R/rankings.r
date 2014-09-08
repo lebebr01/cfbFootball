@@ -16,7 +16,7 @@ addresses <- paste("http://www.cfbdatawarehouse.com/data/", addresses, sep = "")
 #Extracting official school name
 library(doMC)
 registerDoMC(cores = 2)
-schoolsO <- foreach(t = 1:length(addresses), .combine="c") %dopar% {
+schoolsO <- foreach(t = 1:length(addresses), .combine="c", .packages = "XML") %dopar% {
   
   doc <- htmlParse(addresses[t])
   tableNodes <- getNodeSet(doc, "//table//table//tr//td//p//font//b")
@@ -29,7 +29,9 @@ schoolsO <- foreach(t = 1:length(addresses), .combine="c") %dopar% {
 # Web addresses for rankings page
 addresses <- gsub("index.php$","rankings.php",addresses)
 
-rankings <- foreach(i = 1:length(addresses), .combine = "rbind", .errorhandling = "remove") %dopar% {
+rankings <- foreach(i = 1:length(addresses), .combine = "rbind", 
+                    .errorhandling = "remove", 
+                    .packages = c("XML", "data.table")) %dopar% {
   
   doc <- htmlParse(addresses[[i]])
   Nodes <- getNodeSet(doc, "//table//table//table//table")

@@ -36,7 +36,15 @@ allAmer <- allAmer[, list(allAmerTeam, Year, numAA)]
 
 rankings <- data.table(rankings)
 rankings <- subset(rankings, Period %in% c('All-Time', 'last10', 'last25', 'last50'))
-rankings <- dcast.data.table(rankings, Team ~ Period, value.var = 'Rank')
+rankingsovr <- dcast.data.table(rankings, Team ~ Period, value.var = "TotalPoints")
+rankingsWP <- dcast.data.table(rankings, Team ~ Period, value.var = 'WinPctPoints')
+rankingsSP <- dcast.data.table(rankings, Team ~ Period, value.var = "SchedulePoints")
+setnames(rankingsovr, c("All-Time"), "alltime")
+setnames(rankingsWP, c("All-Time", "last10", "last25", "last50"), 
+         c("alltimewp", "last10wp", "last25wp", "last50wp"))
+setnames(rankingsSP, c("All-Time", "last10", "last25", "last50"), 
+         c("alltimesp", "last10sp", "last25sp", "last50sp"))
+
 
 polls <- data.table(polls)
 polls <- polls[, list(Year, APRank, CoachRank, Team)]
@@ -58,7 +66,9 @@ ybyCoach <- left_join(ybyCoach, sos, by = c('Year', 'sosTeam'))
 ybyCoach <- left_join(ybyCoach, allAmer, by = c('Year', 'allAmerTeam'))
 ybyCoach <- left_join(ybyCoach, rivals, by = c('Year', 'rivalsTeam'))
 #ybyCoach <- left_join(ybyCoach, espn, by = c('Year', 'espnTeam'))
-ybyCoach <- left_join(ybyCoach, rankings, by = c('Team'))
+ybyCoach <- left_join(ybyCoach, rankingsovr, by = c('Team'))
+ybyCoach <- left_join(ybyCoach, rankingsWP, by = c('Team'))
+ybyCoach <- left_join(ybyCoach, rankingsSP, by = c('Team'))
 
 # creating 1/0 variable if the team won the game
 #ybyCoach$gbgWin <- ifelse(ybyCoach$WL == 'W', 1, 0)

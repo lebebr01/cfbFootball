@@ -7,6 +7,22 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "R/coachSEM.r",
+			"settings":
+			{
+				"buffer_size": 6314,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "R/mergeCoach.R",
+			"settings":
+			{
+				"buffer_size": 3412,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -33,8 +49,16 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/C/Users/bleb/Dropbox/cfbFootball",
+		"/C/Users/bleb/Dropbox/cfbFootball/R"
+	],
 	"file_history":
 	[
+		"/C/Users/bleb/Desktop/cfaArticles/norwalkcfa2factor.out",
+		"/C/Users/bleb/Desktop/cfaArticles/norwalkcfa1factor.out",
+		"/C/Users/bleb/Desktop/cfaArticles/norwalkcfa2fcorrresid.out"
 	],
 	"find":
 	{
@@ -69,8 +93,67 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "R/coachSEM.r",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6314,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								153,
+								153
+							]
+						],
+						"settings":
+						{
+							"WordCountSyntax": "r extended",
+							"syntax": "Packages/R-Box/syntax/R Extended.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "R/mergeCoach.R",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3412,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCountSyntax": "r extended",
+							"syntax": "Packages/R-Box/syntax/R Extended.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -139,6 +222,7 @@
 		],
 		"width": 0.0
 	},
+	"selected_group": 0,
 	"settings":
 	{
 		"last_automatic_layout":
@@ -155,7 +239,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 139.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

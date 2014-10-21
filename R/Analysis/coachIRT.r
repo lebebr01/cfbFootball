@@ -96,6 +96,12 @@ for(i in 1:length(coaches)) {
 
 raschValC2$Year2 <- do.call("c", year2)
 
+save(raschValC2, file = "Data/Analysis/raschData.rda")
+
+##############################################################
+
+load(file = "Data/Analysis/raschData.rda")
+
 # plotting coach ability level
 library(ggplot2)
 l <- ggplot(raschValC2, aes(x = Year2, y = beta.i, group = coach2)) + theme_bw()

@@ -119,7 +119,16 @@ quad.mod <- lmer(beta.i ~ 1 + Year2 + I(Year2^2) + (1 + Year2|coach2), data = ra
 raschValC2$overWinmc <- scale(raschValC2$overWin, center = TRUE, scale = FALSE)
 raschValC2$alltimemc <- scale(raschValC2$alltime, center = TRUE, scale = TRUE)
 raschValC2$numGamesmc <- scale(raschValC2$numGames, center = TRUE, scale = FALSE)
-quad.mod.pred <- lmer(beta.i ~ 1 + Year2 + overWinmc + Year2:overWinmc + 
+mod.pred <- lmer(beta.i ~ 1 + Year2 + overWinmc + Year2:overWinmc + 
                         alltimemc + Year2:alltimemc + numAA + Year2:numAA + 
                         numGamesmc + numGamesmc:Year2 + power5conf + Year2:power5conf + 
                         (1 + Year2|coach2), data = raschValC2)
+
+HistsucCoach <- c("Bobby Bowden", "Paul W Bear Bryant", "Joe Paterno", 
+                     "LaVell Edwards", "Tom Osborne", 
+                     "Lou Holtz", "Mack Brown", "Hayden Fry", "Glenn Bo Schembechler")
+cursucCoach <- c("Frank Beamer", "Steve Spurrier", "Urban Meyer", "Bob Stoops",
+                 "Nick L Saban", "Brian Kelly", "Gary Patterson")
+Upcoming <- c("David Shaw", "Jimbo Fisher", "David Cutcliffe", "Pat Fitzgerald",
+              "Jerry Kill", "Todd Graham", "Kevin Sumlin", "Al Golden")
+

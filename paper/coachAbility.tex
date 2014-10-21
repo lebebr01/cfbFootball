@@ -1,0 +1,93 @@
+%% This file is to be used as a template for your submission. 
+%% Rename this file and replace the text with the text of 
+%% your manuscript.
+%%
+%% The standard LaTeX document class "article" is recommended. 
+%% Use options letterpaper and 12pt.
+\documentclass[letterpaper,12pt]{article}
+
+%% This is the recommended preamble for your document.
+
+%% Load De Gruyter specific settings 
+\usepackage{dgjournal}          
+
+%% The mathptmx package is recommended for Times compatible math symbols.
+%% Use mtpro2 or mathtime instead of mathptmx if you have the commercially
+%% available MathTime fonts.
+%% Other options are txfonts (free) or belleek (free) or TM-Math (commercial)
+\usepackage{mathptmx}
+
+%% Use the graphics package to include figures
+\usepackage{graphics}
+\usepackage{booktabs}
+
+%% Use natbib with these recommended options
+\usepackage[authoryear,comma,longnamesfirst,sectionbib]{natbib} 
+
+%% Start your document body here
+\begin{document}
+
+%% Do NOT include any fronmatter information; including the title, author names,
+%% institutes, acknowledgments and title footnotes (author information, funding
+%% sources, etc.). Start the document with the first section or paragraph of
+%% the article.
+
+\section{Introduction}
+Coaches are a high commodity in college football. The head coach for a division I college football team is many times the highest paid position in the respective state. blah blah blah.
+
+\section{Methods}
+Data were scraped from various web sources (primarily cfbdatawarehouse.com) to build a large database. This database consisted of information at the team level (conference affiliation),  coach level (number of wins, tenure length), and game by game level (game score, winning team, game location). 
+
+To get an estimate of the coaching ability, game by game win/loss status (dichotomously scored where a win was scored as 1, a loss or tie was scored as 0) was compiled within a given year and coach. This large matrix consisting of 1's and 0's was used in an item respose theory (IRT) framework. The coaches were treated as the items and the games were treated as the subjects. A rasch model was fitted of the following form:
+\begin{equation}
+p\left({x_{j} = 1 | \theta, b_{j}}\right) = \frac{e^{(\theta - b_{j})}}{1 + e^{(\theta - b_{j})}}.
+\end{equation}
+In the above equation, the probability that a coach wins a given game is a function of the ability ($\theta$) and the specific coaches ability ($b_{j}$). Treating coaches as items in an IRT framework gives an estimate of the coaches ability level ($b_{j}$). This procedure was done for all years for all coaches that had more than 2 games for a team in a given season. 
+
+\subsection{Inferential Model}
+One of the strengths of IRT is that the resulting item parameters can be treated as a continuous scale of measurement (as opposed to the count metric of the number of wins in a given season). This allows the modeling of the coach ability parameter estimates over time to be simpler and easier to estimate. As a result, the following continuous linear mixed model was fitted to the coach ability IRT estimates:
+\begin{equation}
+\textbf{Y}_{j} = \textbf{X}_{j} \beta + \textbf{Z}_{j} \textbf{b}_{j} + \textbf{e}_{j}
+\end{equation}
+This matrix equation is a linear representation of the coaches ability estimate ($\textbf{Y}_{j}$) as a function of fixed effects ($\textbf{X}_{j} \beta$), random effects ($\textbf{Z}_{j} \textbf{b}_{j}$), and random error ($\textbf{e}_{j}$). The fixed effects are analogous to simple regression coefficients and represents the aggregate growth curve for all coaches. The random effects represent coach specific deviations from the aggregate or average growth curve. Lastly, the random error would represent deviations from the individual coach growth curve. 
+
+Covariates were mean centered when they did not have a meaningful zero by default. In addition, if a covariate had a significantly greater variance than others, they were scaled into z-score like terms before being entered into the model. Lastly, time (i.e. years coaching division I) was rescaled so that 0 represents their first year coaching and incrementing by 1 for subsequent years of coaching at the division I level.
+
+\section{Results}
+
+\subsection{Inferential}
+
+% latex table generated in R 3.1.1 by xtable 1.7-3 package
+% Tue Oct 21 12:40:53 2014
+\begin{table}[ht]
+\centering
+\caption{Model estimates} 
+\begin{tabular}{lrrr}
+  \toprule
+ & Estimate & Std. Error & t value \\ 
+  \midrule
+(Intercept) & 0.296 & 0.132 & 2.240 \\ 
+  Year2 & -0.054 & 0.017 & -3.183 \\ 
+  overWinmc & 0.023 & 0.002 & 9.533 \\ 
+  alltimemc & 0.063 & 0.096 & 0.654 \\ 
+  numAA & 1.374 & 0.109 & 12.643 \\ 
+  numGamesmc & 0.124 & 0.046 & 2.707 \\ 
+  power5conf & -0.590 & 0.194 & -3.041 \\ 
+  Year2:overWinmc & -0.001 & 0.000 & -6.280 \\ 
+  Year2:alltimemc & 0.016 & 0.010 & 1.671 \\ 
+  Year2:numAA & -0.018 & 0.009 & -1.999 \\ 
+  Year2:numGamesmc & 0.028 & 0.004 & 6.297 \\ 
+  Year2:power5conf & -0.030 & 0.019 & -1.534 \\ 
+   \bottomrule
+\end{tabular}
+\end{table}
+
+Notes: Variables above reflect: Year2 is the slope for time discussed briefly above, overWinmc is the total number of wins for a given coach all time -- this variable makes more sense as a time varying covariate, but the way I merged this variable was best for now, alltimemc is the all time rankings as posted on cfbdatawarehouse -- I would argue this represents prestige, numAA is the number of all americans for every year, numGamesmc is the number of games in a given year (hopes to account for the helping of those coaches with more chances to win), and power5conf is an indicator where it equals 1 if the team/coach is a member of a power 5 conference and 0 otherwise (I wonder how far back this variable makes sense).
+
+\section{Discussion}
+
+%% BibTeX support
+\bibliographystyle{DeGruyter}
+\bibliography{sample}
+
+\end{document}

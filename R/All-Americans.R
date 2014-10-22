@@ -15,16 +15,16 @@ urls <- urls[grep("/aa/", urls)]
 ##1995-2012: urls[1:18]
 
 year <- seq(2003, 1995, by = -1)
-allAmericans <- vector("list", 9)
+allAmericans <- vector("list", 1)
 
-for(i in c(1:9)){
-	allAmer <- readLines(con = urls[i+9])
-	allAmer<- allAmer[grep("\\([A-Z]", allAmer)]   #eliminate lines without parens.
+for(i in c(1:1)){
+	allAmer <- readLines(con = urls[1])
+	allAmer<- allAmer[grep("\\([A-Zslash]", allAmer)]   #eliminate lines without parens.
 	allAmer <- strsplit(allAmer, "[\\(\\)]")  #split on parens.
 	#allAmer <- do.call(gsub(allAmer, "<.*>", ""), allAmer)
 	allAmer <- lapply(allAmer, str_trim)
-	allAmericans[[i]] <- as.data.frame(do.call(rbind, allAmer))
-	allAmericans[[i]]$year <- year[i]
+	allAmericans[[1]] <- as.data.frame(do.call(rbind, allAmer))
+	allAmericans[[1]]$year <- 2013
 	}
 
 ##Merge each year's data into one data frame

@@ -1,0 +1,166 @@
+% dgjournal.sty - v1.0 - 02 May 2012
+% Support for De Gruyter style requirements.
+%
+%
+\NeedsTeXFormat{LaTeX2e}[1994/12/01]
+\ProvidesPackage{dgjournal}[2012/05/02 v1.0
+^^JSupport for De Gruyter style]
+
+\newif\if@standardclass \@standardclassfalse
+
+\@ifclassloaded{article}{\@standardclasstrue}{%
+  \@ifclassloaded{book}{\@standardclasstrue}{%
+    \@ifclassloaded{report}{\@standardclasstrue}{}%
+  }%
+}
+
+\if@standardclass\else
+  \PackageWarningNoLine{dgjournal}{%
+    Unrecognized document class used.\MessageBreak
+    This package requires any of the standard LaTeX\MessageBreak
+    document classes: article, report or book;\MessageBreak
+    layout may not be according to De Gruyter specifications%
+  }%
+\fi
+
+% Check if document class was loaded with option "12pt"
+\@expandtwoargs\in@{12pt}{\@classoptionslist}
+\ifin@\else                           % 12pt option not used, reset here
+  % Size of normal, small and footnote text
+  \renewcommand\normalsize{%
+     \@setfontsize\normalsize\@xiipt{14.5}%
+     \abovedisplayskip 12\p@ \@plus3\p@ \@minus7\p@
+     \abovedisplayshortskip \z@ \@plus3\p@
+     \belowdisplayshortskip 6.5\p@ \@plus3.5\p@ \@minus3\p@
+     \belowdisplayskip \abovedisplayskip
+     \let\@listi\@listI
+  }
+  \normalsize
+  \renewcommand\small{%
+     \@setfontsize\small\@xipt{13.6}%
+     \abovedisplayskip 11\p@ \@plus3\p@ \@minus6\p@
+     \abovedisplayshortskip \z@ \@plus3\p@
+     \belowdisplayshortskip 6.5\p@ \@plus3.5\p@ \@minus3\p@
+     \def\@listi{\leftmargin\leftmargini
+                 \topsep 9\p@ \@plus3\p@ \@minus5\p@
+                 \parsep 4.5\p@ \@plus2\p@ \@minus\p@
+                 \itemsep \parsep}%
+     \belowdisplayskip \abovedisplayskip
+  }
+  \renewcommand\footnotesize{%
+     \@setfontsize\footnotesize\@xpt\@xiipt
+     \abovedisplayskip 10\p@ \@plus2\p@ \@minus5\p@
+     \abovedisplayshortskip \z@ \@plus3\p@
+     \belowdisplayshortskip 6\p@ \@plus3\p@ \@minus3\p@
+     \def\@listi{\leftmargin\leftmargini
+                 \topsep 6\p@ \@plus2\p@ \@minus2\p@
+                 \parsep 3\p@ \@plus2\p@ \@minus\p@
+                 \itemsep \parsep}%
+     \belowdisplayskip \abovedisplayskip
+  }
+  \renewcommand\scriptsize{\@setfontsize\scriptsize\@viiipt{9.5}}
+  \renewcommand\tiny{\@setfontsize\tiny\@vipt\@viipt}
+  \renewcommand\large{\@setfontsize\large\@xivpt{18}}
+  \renewcommand\Large{\@setfontsize\Large\@xviipt{22}}
+  \renewcommand\LARGE{\@setfontsize\LARGE\@xxpt{25}}
+  \renewcommand\huge{\@setfontsize\huge\@xxvpt{30}}
+  \let\Huge=\huge
+  \setlength\topskip   {12\p@}
+  \setlength\marginparsep{10\p@}
+  \setlength\marginparpush{7\p@}
+  \setlength\footnotesep{8.4\p@}
+  \setlength{\skip\footins}{10.8\p@ \@plus 4\p@ \@minus 2\p@}
+  \setlength\intextsep   {14\p@ \@plus 4\p@ \@minus 4\p@}
+  \setlength\dblfloatsep    {14\p@ \@plus 2\p@ \@minus 4\p@}
+  \setlength\@fpsep{10\p@ \@plus 2fil}
+  \setlength\@dblfpsep{10\p@ \@plus 2fil}
+  \setlength\partopsep{3\p@ \@plus 2\p@ \@minus 2\p@}
+\fi
+
+% Spacing around lists
+\def\@listi  {\leftmargin\leftmargini
+              \topsep 15\p@ \@plus4\p@ \@minus6\p@
+              \parsep  \z@
+              \itemsep \z@}
+\let\@listI\@listi
+\@listi
+
+\def\@listii {\leftmargin\leftmarginii
+              \labelwidth\leftmarginii
+              \advance\labelwidth-\labelsep
+              \topsep    \z@
+              \parsep    \z@
+              \itemsep   \z@}
+\def\@listiii{\leftmargin\leftmarginiii
+              \labelwidth\leftmarginiii
+              \advance\labelwidth-\labelsep
+              \topsep    \z@
+              \parsep    \z@
+              \itemsep   \z@}
+
+% Use geometry to set the papersize and margins
+\RequirePackage{geometry}
+% Configure options for geometry
+\geometry{%
+  paper=letterpaper,            % default to using US letter size paper 8.5" x 11"
+  twoside,                      % print on both sides of the paper
+  margin=1.5in,                % maintain margins of 1.5" all around
+}
+
+% Save \maketitle as \originalmaketitle
+\let\originalmaketitle\maketitle
+
+% Generate an error if \maketitle is used
+\renewcommand{\maketitle}{%
+  \PackageError{dg_journal}{%
+    maketitle disabled. Do not include your article frontmatter}
+  {The \string\maketitle\ command is not allowed. Do not include the\MessageBreak
+    frontmatter in your article. If you really need to set a title, use\MessageBreak
+    \string\originalmaketitle\ instead.}}
+
+% Reset all heads to consistent above and below space
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+   {-3.5ex \@plus -1ex \@minus -.2ex}%
+   {2.3ex \@plus.2ex}%
+   {\normalfont\Large\bfseries}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+   {-3.5ex \@plus -1ex \@minus -.2ex}%
+   {2.3ex \@plus.2ex}%
+   {\normalfont\large\bfseries}}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+   {-3.5ex \@plus -1ex \@minus -.2ex}%
+   {2.3ex \@plus.2ex}%
+   {\normalfont\normalsize\bfseries}}
+\renewcommand\paragraph{\@startsection{paragraph}{4}{\z@}%
+   {3.25ex \@plus1ex \@minus.2ex}%
+   {-1em}%
+   {\normalfont\normalsize\bfseries}}
+\renewcommand\subparagraph{\@startsection{subparagraph}{5}{\parindent}%
+   {3.25ex \@plus1ex \@minus .2ex}%
+   {-1em}%
+   {\normalfont\normalsize\bfseries}}
+
+% No headers or footers
+\let\ps@headings\ps@empty
+\let\ps@myheadings\ps@empty
+\let\ps@plain\ps@empty
+
+% Use this pagestyle throughout
+\pagestyle{empty}
+
+% Penalties for line and page breaks
+\clubpenalty=9996
+\widowpenalty=9999
+\brokenpenalty=4991
+\predisplaypenalty=10000
+\postdisplaypenalty=1549 
+\displaywidowpenalty=1602 
+
+% No space or glue between paragraphs
+\setlength{\parskip}{\z@}
+
+% Set indents for pargagraphs to one-half of an inch
+\setlength{\parindent}{0.5in}
+
+\endinput
+%%% end of package dgjournal.sty

@@ -1,1280 +1,1280 @@
-"","Year","Division","RK","NCAA.SCHOOL","CONFERENCE","SIGNED","ESPN.150","ESPN.300","FiveStar","FourStar","ThreeStar","OFF","DEF","SpecTeams","Athlete"
-"1",2013,"I-A",1,"Georgia","SEC",33,5,14,0,21,12,12,18,0,3
-"2",2013,"I-A",2,"Western Kentucky","Sun Belt",33,0,0,0,1,6,15,17,1,0
-"3",2013,"I-A",3,"Texas A&M","SEC",32,5,10,0,17,14,11,18,0,1
-"4",2013,"I-A",4,"Florida","SEC",30,11,16,2,20,7,13,14,1,2
-"5",2013,"I-A",5,"Memphis","Conference USA",30,0,0,0,0,9,14,10,2,2
-"6",2013,"I-A",6,"Marshall","Conference USA",29,0,0,0,5,10,14,13,0,2
-"7",2013,"I-A",7,"Mississippi","SEC",28,5,10,2,12,13,15,7,1,3
-"8",2013,"I-A",8,"Boise State","Mountain West",28,0,0,0,2,20,11,14,1,2
-"9",2013,"I-A",9,"Pittsburgh","Big East",28,1,2,0,2,23,11,9,2,3
-"10",2013,"I-A",10,"Fresno State","Mountain West",28,1,1,0,1,9,14,12,1,1
-"11",2013,"I-A",11,"LSU","SEC",27,7,15,0,20,7,10,10,0,4
-"12",2013,"I-A",12,"Michigan","Big Ten",27,10,15,0,17,9,14,8,0,3
-"13",2013,"I-A",13,"Southern Miss","Conference USA",27,0,0,0,1,6,13,11,1,2
-"14",2013,"I-A",14,"Idaho","WAC",27,0,0,0,0,0,11,11,1,3
-"15",2013,"I-A",15,"Vanderbilt","SEC",26,1,5,0,12,13,11,10,1,1
-"16",2013,"I-A",16,"West Virginia","Big 12",26,0,2,0,8,16,11,11,1,2
-"17",2013,"I-A",17,"Nebraska","Big Ten",26,0,2,0,10,14,9,11,0,3
-"18",2013,"I-A",18,"Arizona State","Pac-12",26,0,0,0,2,20,8,14,1,2
-"19",2013,"I-A",19,"Arizona","Pac-12",26,0,1,0,4,20,11,8,0,4
-"20",2013,"I-A",20,"Houston","Conference USA",26,0,0,0,0,20,10,11,1,2
-"21",2013,"I-A",21,"Illinois","Big Ten",26,0,1,0,3,18,10,13,0,3
-"22",2013,"I-A",22,"Alabama","SEC",25,14,18,1,19,4,11,9,0,3
-"23",2013,"I-A",23,"California","Pac-12",25,0,1,0,7,16,10,11,1,2
-"24",2013,"I-A",24,"Oregon State","Pac-12",25,0,1,0,4,19,7,15,0,3
-"25",2013,"I-A",25,"Kansas","Big 12",25,0,0,0,1,21,9,14,1,0
-"26",2013,"I-A",26,"Wake Forest","ACC",25,0,0,0,1,19,9,14,1,0
-"27",2013,"I-A",27,"Iowa State","Big 12",25,0,0,0,1,22,12,9,0,2
-"28",2013,"I-A",28,"Hawaii","Mountain West",25,0,2,0,2,6,13,11,0,0
-"29",2013,"I-A",29,"North Carolina State","ACC",25,0,0,0,1,18,14,9,0,2
-"30",2013,"I-A",30,"Brigham Young","IA Independents",25,0,0,0,1,10,14,10,0,0
-"31",2013,"I-A",31,"Middle Tennessee","Sun Belt",25,0,0,0,0,7,13,11,1,0
-"32",2013,"I-A",32,"New Mexico","Mountain West",25,0,0,0,0,4,9,10,0,5
-"33",2013,"I-A",33,"Tulane","Conference USA",25,0,1,0,1,5,8,16,0,0
-"34",2013,"I-A",34,"South Alabama","Sun Belt",25,0,0,0,0,5,9,13,1,2
-"35",2013,"I-A",35,"Florida Atlantic","Sun Belt",25,0,0,0,0,3,12,10,0,2
-"36",2013,"I-A",36,"UTSA","WAC",25,0,0,0,0,3,7,17,0,1
-"37",2013,"I-A",37,"Ohio State","Big Ten",24,12,17,1,18,5,6,15,0,1
-"38",2013,"I-A",38,"Notre Dame","IA Independents",24,10,13,2,18,4,12,7,0,4
-"39",2013,"I-A",39,"UCLA","Pac-12",24,6,10,0,12,11,8,11,1,2
-"40",2013,"I-A",40,"Oklahoma","Big 12",24,2,7,0,9,14,8,12,1,3
-"41",2013,"I-A",41,"Baylor","Big 12",24,1,3,0,6,16,8,12,0,2
-"42",2013,"I-A",42,"Washington State","Pac-12",24,0,0,0,4,16,14,9,0,0
-"43",2013,"I-A",43,"San Diego State","Mountain West",24,0,0,0,1,12,13,9,0,1
-"44",2013,"I-A",44,"Colorado State","Mountain West",24,0,0,0,0,7,13,11,0,0
-"45",2013,"I-A",45,"East Carolina","Conference USA",24,0,0,0,0,13,9,13,0,1
-"46",2013,"I-A",46,"Bowling Green","Mid-American",24,0,0,0,1,4,12,9,1,1
-"47",2013,"I-A",47,"Connecticut","Big East",24,0,0,0,0,13,9,11,0,1
-"48",2013,"I-A",48,"Troy","Sun Belt",24,0,0,0,1,2,11,11,0,2
-"49",2013,"I-A",49,"Utah State","WAC",24,0,0,0,0,1,13,9,1,0
-"50",2013,"I-A",50,"Northern Illinois","Mid-American",24,0,0,0,0,2,12,9,1,1
-"51",2013,"I-A",51,"Clemson","ACC",23,6,10,1,15,7,5,10,0,7
-"52",2013,"I-A",52,"Auburn","SEC",23,4,7,1,14,8,9,10,1,2
-"53",2013,"I-A",53,"UAB","Conference USA",23,0,0,0,1,2,10,12,0,1
-"54",2013,"I-A",54,"Oklahoma State","Big 12",23,0,3,0,8,14,9,11,1,2
-"55",2013,"I-A",55,"Arkansas","SEC",23,3,3,0,5,16,10,10,1,2
-"56",2013,"I-A",56,"Texas Tech","Big 12",23,0,0,0,4,15,11,9,0,3
-"57",2013,"I-A",57,"Texas State","WAC",23,0,1,0,2,4,11,10,0,2
-"58",2013,"I-A",58,"Indiana","Big Ten",23,1,3,0,6,11,8,12,0,3
-"59",2013,"I-A",59,"Utah","Pac-12",23,0,0,0,1,21,9,9,0,2
-"60",2013,"I-A",60,"Kansas State","Big 12",23,0,0,0,1,16,8,11,1,2
-"61",2013,"I-A",61,"South Florida","Big East",23,0,1,0,2,17,7,14,1,0
-"62",2013,"I-A",62,"Colorado","Pac-12",23,0,0,0,1,18,12,9,0,1
-"63",2013,"I-A",63,"Louisiana-Lafayette","Sun Belt",23,0,0,0,0,6,9,9,2,2
-"64",2013,"I-A",64,"Purdue","Big Ten",23,0,2,0,3,16,8,12,0,2
-"65",2013,"I-A",65,"Toledo","Mid-American",23,0,0,0,1,8,11,10,0,2
-"66",2013,"I-A",66,"Temple","Big East",23,0,0,0,0,10,8,10,2,3
-"67",2013,"I-A",67,"Southern Methodist","Conference USA",23,0,0,0,0,9,7,14,0,1
-"68",2013,"I-A",68,"North Texas","Sun Belt",23,0,0,0,0,1,13,10,0,0
-"69",2013,"I-A",69,"Massachusetts","Mid-American",23,0,0,0,0,4,16,6,0,0
-"70",2013,"I-A",70,"Florida State","ACC",22,7,12,1,13,7,8,11,0,2
-"71",2013,"I-A",71,"Washington","Pac-12",22,3,5,0,8,12,8,10,1,2
-"72",2013,"I-A",72,"Kentucky","SEC",22,0,2,0,6,14,9,9,1,2
-"73",2013,"I-A",73,"Rutgers","Big East",22,0,2,0,4,17,8,8,0,6
-"74",2013,"I-A",74,"Virginia","ACC",22,1,1,0,5,16,14,8,0,0
-"75",2013,"I-A",75,"TCU","Big 12",22,0,1,0,2,16,7,9,0,4
-"76",2013,"I-A",76,"Maryland","ACC",22,0,0,0,5,14,9,11,0,1
-"77",2013,"I-A",77,"Cincinnati","Big East",22,0,1,0,1,13,9,9,0,1
-"78",2013,"I-A",78,"New Mexico State","WAC",22,0,0,0,1,1,10,12,0,0
-"79",2013,"I-A",79,"Ohio","Mid-American",22,0,0,0,0,1,8,13,0,1
-"80",2013,"I-A",80,"Miami (OH)","Mid-American",22,0,0,0,0,1,8,10,0,3
-"81",2013,"I-A",81,"Wyoming","Mountain West",22,0,0,0,0,2,9,11,0,1
-"82",2013,"I-A",82,"South Carolina","SEC",21,2,4,0,11,10,9,11,0,1
-"83",2013,"I-A",83,"Virginia Tech","ACC",21,2,4,0,10,11,6,9,0,5
-"84",2013,"I-A",84,"Mississippi State","SEC",21,1,4,0,8,12,9,5,0,5
-"85",2013,"I-A",85,"Tennessee","SEC",21,1,3,0,7,13,11,5,0,3
-"86",2013,"I-A",86,"Nevada","Mountain West",21,0,0,0,0,6,7,11,0,2
-"87",2013,"I-A",87,"Iowa","Big Ten",21,0,0,0,1,15,9,7,0,4
-"88",2013,"I-A",88,"Tulsa","Conference USA",21,0,0,0,0,10,7,10,0,0
-"89",2013,"I-A",89,"Kent State","Mid-American",21,0,0,0,0,3,4,10,0,5
-"90",2013,"I-A",90,"Eastern Michigan","Mid-American",21,0,0,0,0,5,8,10,1,0
-"91",2013,"I-A",91,"Central Michigan","Mid-American",21,0,0,0,0,6,8,9,1,3
-"92",2013,"I-A",92,"Ball State","Mid-American",21,0,0,0,0,5,9,11,1,0
-"93",2013,"I-A",93,"Missouri","SEC",20,0,2,0,4,13,7,10,0,2
-"94",2013,"I-A",94,"Duke","ACC",20,0,0,0,0,18,9,8,0,2
-"95",2013,"I-A",95,"Louisiana Tech","WAC",20,0,0,0,0,7,8,9,2,1
-"96",2013,"I-A",96,"UNLV","Mountain West",20,0,0,0,0,4,10,8,1,1
-"97",2013,"I-A",97,"Arkansas State","Sun Belt",20,0,0,0,0,4,7,12,0,0
-"98",2013,"I-A",98,"San Jose State","WAC",20,0,0,0,0,0,12,8,0,0
-"99",2013,"I-A",99,"Miami (FL)","ACC",19,7,8,0,10,9,7,7,0,3
-"100",2013,"I-A",100,"Oregon","Pac-12",19,1,5,0,8,10,11,2,1,5
-"101",2013,"I-A",101,"UCF","Conference USA",19,0,0,0,1,13,6,11,0,1
-"102",2013,"I-A",102,"Northwestern","Big Ten",19,0,1,0,2,15,9,4,1,2
-"103",2013,"I-A",103,"Syracuse","Big East",19,0,0,0,0,15,9,9,0,0
-"104",2013,"I-A",104,"Michigan State","Big Ten",18,0,2,0,6,10,6,9,1,1
-"105",2013,"I-A",105,"Louisville","Big East",18,1,3,0,6,10,8,9,0,1
-"106",2013,"I-A",106,"UTEP","Conference USA",18,0,0,0,0,2,7,8,0,2
-"107",2013,"I-A",107,"Minnesota","Big Ten",18,0,0,0,0,17,5,9,1,2
-"108",2013,"I-A",108,"Rice","Conference USA",18,0,0,0,1,6,8,7,0,0
-"109",2013,"I-A",109,"Florida International","Sun Belt",18,0,0,0,0,2,9,9,0,0
-"110",2013,"I-A",110,"Western Michigan","Mid-American",18,0,0,0,0,3,9,6,1,2
-"111",2013,"I-A",111,"Akron","Mid-American",18,0,0,0,0,2,8,8,0,2
-"112",2013,"I-A",112,"Buffalo","Mid-American",18,0,0,0,0,0,5,11,0,1
-"113",2013,"I-A",113,"North Carolina","ACC",17,1,5,0,11,6,8,6,0,2
-"114",2013,"I-A",114,"Wisconsin","Big Ten",17,1,1,0,5,10,6,8,0,1
-"115",2013,"I-A",115,"Penn State","Big Ten",17,2,3,0,6,8,8,8,0,1
-"116",2013,"I-A",116,"Boston College","ACC",17,0,0,0,0,9,6,7,0,3
-"117",2013,"I-A",117,"Louisiana-Monroe","Sun Belt",16,0,0,0,0,2,8,7,0,0
-"118",2013,"I-A",118,"Texas","Big 12",15,5,8,0,11,4,8,5,0,2
-"119",2013,"I-A",119,"Georgia Tech","ACC",14,0,0,0,0,11,6,6,1,0
-"120",2013,"I-A",120,"USC","Pac-12",13,9,12,0,13,0,6,6,0,1
-"121",2013,"I-A",121,"Stanford","Pac-12",12,1,5,0,6,6,6,4,0,2
-"122",2013,"I-AA",1,"Old Dominion","NCAA Division I-AA",34,0,0,0,0,3,15,16,1,0
-"123",2013,"I-AA",2,"Southern University","SWAC",27,0,1,0,1,0,7,14,0,5
-"124",2013,"I-AA",3,"Georgia State","NCAA Division I-AA",27,0,0,0,0,2,12,14,0,1
-"125",2013,"I-AA",4,"Alabama State","SWAC",24,0,0,0,0,3,11,11,0,0
-"126",2013,"I-AA",5,"Georgia Southern","NCAA Division I-AA",23,0,0,0,0,1,8,11,1,1
-"127",2013,"I-AA",6,"North Dakota State","NCAA Division I-AA",21,0,0,0,0,0,8,12,0,1
-"128",2013,"I-AA",7,"Sam Houston State","NCAA Division I-AA",19,0,0,0,0,1,10,7,1,1
-"129",2013,"I-AA",8,"Eastern Washington","NCAA Division I-AA",17,0,0,0,0,1,9,7,1,0
-"130",2013,"I-AA",9,"Appalachian State","NCAA Division I-AA",16,0,0,0,0,3,6,8,0,2
-"131",2013,"I-AA",10,"McNeese State","NCAA Division I-AA",10,0,0,0,0,1,7,3,0,0
-"132",2013,"I-AA",11,"South Carolina State","NCAA Division I-AA",9,0,0,0,0,2,4,5,0,0
-"133",2013,"I-AA",12,"Lehigh","NCAA Division I-AA",9,0,0,0,0,1,4,4,0,0
-"134",2013,"I-AA",13,"Richmond","NCAA Division I-AA",9,0,0,0,0,2,5,3,0,1
-"135",2013,"I-AA",14,"Delaware","NCAA Division I-AA",9,0,0,0,0,1,2,6,0,1
-"136",2013,"I-AA",15,"Southern Illinois","NCAA Division I-AA",8,0,0,0,0,2,3,4,0,0
-"137",2013,"I-AA",16,"Villanova","NCAA Division I-AA",8,0,0,0,0,0,3,5,0,0
-"138",2013,"I-AA",17,"Illinois State","NCAA Division I-AA",7,0,0,0,0,1,5,2,0,0
-"139",2013,"I-AA",18,"Indiana State","NCAA Division I-AA",7,0,0,0,0,0,4,3,0,0
-"140",2013,"I-AA",19,"Albany","NCAA Division I-AA",6,0,0,0,0,1,4,2,0,0
-"141",2013,"I-AA",20,"Bryant University","NCAA Division I-AA",4,0,0,0,0,0,0,4,0,0
-"142",2013,"I-AA",21,"Murray State","NCAA Division I-AA",2,0,0,0,0,0,1,1,0,0
-"143",2013,"I-AA",22,"Grambling State","SWAC",2,0,0,0,0,0,0,2,0,0
-"144",2013,"I-AA",23,"Tennessee State","NCAA Division I-AA",1,0,0,0,0,1,1,0,0,0
-"145",2013,"I-AA",24,"Bethune-Cookman","NCAA Division I-AA",1,0,0,0,0,1,0,1,0,0
-"146",2013,"I-AA",25,"Jacksonville State","NCAA Division I-AA",1,0,0,0,0,1,0,1,0,0
-"147",2013,"I-AA",26,"Stony Brook","NCAA Division I-AA",1,0,0,0,0,1,0,1,0,0
-"148",2013,"I-AA",27,"Youngstown State","NCAA Division I-AA",1,0,0,0,0,1,1,0,0,0
-"149",2013,"I-AA",28,"Samford","NCAA Division I-AA",1,0,0,0,0,1,1,0,0,0
-"150",2013,"I-AA",29,"Tennessee Tech","NCAA Division I-AA",1,0,0,0,0,0,0,0,0,1
-"151",2013,"I-AA",30,"South Dakota","NCAA Division I-AA",1,0,0,0,0,0,0,0,1,0
-"152",2013,"I-AA",31,"New Hampshire","NCAA Division I-AA",1,0,0,0,0,0,1,0,0,0
-"153",2013,"I-AA",32,"Cal Poly","NCAA Division I-AA",1,0,0,0,0,0,1,0,0,0
-"154",2013,"I-AA",33,"Sacramento State","NCAA Division I-AA",1,0,0,0,0,0,1,0,0,0
-"155",2013,"I-AA",34,"Lamar","NCAA Division I-AA",1,0,0,0,0,0,1,0,0,0
-"156",2012,"I-A",1,"Air Force","Mountain West",46,0,NA,0,0,24,18,22,1,4
-"157",2012,"I-A",2,"Troy","Sun Belt",38,0,NA,0,0,11,12,21,2,3
-"158",2012,"I-A",3,"Temple","Big East",37,0,NA,0,0,21,15,17,0,5
-"159",2012,"I-A",4,"Marshall","Conference USA",34,0,NA,0,3,16,14,13,0,6
-"160",2012,"I-A",5,"Miami (FL)","ACC",33,6,NA,0,8,24,12,18,0,3
-"161",2012,"I-A",6,"Florida Atlantic","Sun Belt",33,0,NA,0,0,9,17,14,0,2
-"162",2012,"I-A",7,"Cincinnati","Big East",31,0,NA,0,0,25,14,16,0,1
-"163",2012,"I-A",8,"Florida International","Sun Belt",31,0,NA,0,0,19,12,17,1,1
-"164",2012,"I-A",9,"Northern Illinois","Mid-American",31,0,NA,0,0,11,16,12,1,2
-"165",2012,"I-A",10,"Toledo","Mid-American",31,0,NA,0,0,14,19,9,2,1
-"166",2012,"I-A",11,"Virginia Tech","ACC",30,1,NA,0,2,28,12,13,1,4
-"167",2012,"I-A",12,"Arkansas State","Sun Belt",30,0,NA,0,0,12,16,13,0,1
-"168",2012,"I-A",13,"Colorado","Pac-12",29,1,NA,0,1,24,14,14,0,1
-"169",2012,"I-A",14,"UAB","Conference USA",29,0,NA,0,0,12,16,11,0,2
-"170",2012,"I-A",15,"Akron","Mid-American",29,0,NA,0,0,8,15,14,0,0
-"171",2012,"I-A",16,"Western Michigan","Mid-American",29,0,NA,0,0,10,15,13,1,0
-"172",2012,"I-A",17,"Texas","Big 12",28,12,NA,0,16,10,8,16,1,3
-"173",2012,"I-A",18,"Utah","Pac-12",28,0,NA,0,1,17,14,13,0,1
-"174",2012,"I-A",19,"Mississippi State","SEC",28,1,NA,0,3,21,10,12,1,5
-"175",2012,"I-A",20,"West Virginia","Big 12",28,1,NA,0,1,23,11,12,1,4
-"176",2012,"I-A",21,"Kentucky","SEC",28,0,NA,0,1,23,9,14,1,4
-"177",2012,"I-A",22,"Washington State","Pac-12",28,0,NA,0,1,17,14,11,1,2
-"178",2012,"I-A",23,"Louisiana-Lafayette","Sun Belt",28,0,NA,0,0,11,10,16,0,2
-"179",2012,"I-A",24,"Oklahoma","Big 12",27,5,NA,0,8,12,17,7,0,3
-"180",2012,"I-A",25,"UCLA","Pac-12",27,4,NA,0,6,18,13,10,1,3
-"181",2012,"I-A",26,"Southern Miss","Conference USA",27,1,NA,0,1,14,12,13,0,2
-"182",2012,"I-A",27,"Minnesota","Big Ten",27,1,NA,0,3,12,12,13,0,2
-"183",2012,"I-A",28,"Memphis","Conference USA",27,0,NA,0,0,10,15,11,0,1
-"184",2012,"I-A",29,"Alabama","SEC",26,13,NA,0,16,8,9,14,1,2
-"185",2012,"I-A",30,"Texas Tech","Big 12",26,3,NA,0,4,13,11,13,0,2
-"186",2012,"I-A",31,"Virginia","ACC",26,1,NA,0,2,24,13,8,0,5
-"187",2012,"I-A",32,"Kansas State","Big 12",26,0,NA,0,0,12,13,11,0,2
-"188",2012,"I-A",33,"Purdue","Big Ten",26,0,NA,0,0,23,15,6,2,3
-"189",2012,"I-A",34,"Connecticut","Big East",26,0,NA,0,0,15,14,10,1,1
-"190",2012,"I-A",35,"South Carolina","SEC",25,3,NA,0,7,18,12,8,1,4
-"191",2012,"I-A",36,"Ohio State","Big Ten",25,5,NA,0,9,16,12,11,0,2
-"192",2012,"I-A",37,"Michigan","Big Ten",25,4,NA,0,10,15,12,13,0,0
-"193",2012,"I-A",38,"Washington","Pac-12",25,1,NA,0,3,19,10,9,2,4
-"194",2012,"I-A",39,"Maryland","ACC",25,1,NA,0,2,21,9,11,0,5
-"195",2012,"I-A",40,"Boise State","Mountain West",25,0,NA,0,0,18,11,12,1,1
-"196",2012,"I-A",41,"Indiana","Big Ten",25,0,NA,0,1,16,15,10,0,0
-"197",2012,"I-A",42,"Houston","Conference USA",25,1,NA,0,2,11,9,9,0,7
-"198",2012,"I-A",43,"North Texas","Sun Belt",25,0,NA,0,0,8,10,15,0,0
-"199",2012,"I-A",44,"Miami (OH)","Mid-American",25,0,NA,0,0,14,12,12,1,0
-"200",2012,"I-A",45,"Louisiana-Monroe","Sun Belt",25,0,NA,0,0,6,10,15,0,0
-"201",2012,"I-A",46,"Colorado State","Mountain West",25,0,NA,0,0,7,12,10,1,2
-"202",2012,"I-A",47,"Kent State","Mid-American",25,0,NA,0,0,12,11,11,1,2
-"203",2012,"I-A",48,"Eastern Michigan","Mid-American",25,0,NA,0,0,9,11,13,0,1
-"204",2012,"I-A",49,"LSU","SEC",24,5,NA,0,8,15,9,12,0,2
-"205",2012,"I-A",50,"Arkansas","SEC",24,0,NA,0,3,17,10,12,0,2
-"206",2012,"I-A",51,"TCU","Big 12",24,1,NA,0,4,16,11,10,2,1
-"207",2012,"I-A",52,"Baylor","Big 12",24,0,NA,0,3,15,6,13,0,5
-"208",2012,"I-A",53,"Louisville","Big East",24,0,NA,0,2,18,12,11,1,0
-"209",2012,"I-A",54,"Syracuse","Big East",24,0,NA,0,1,15,10,11,1,2
-"210",2012,"I-A",55,"Oregon State","Pac-12",24,1,NA,0,1,17,13,8,1,2
-"211",2012,"I-A",56,"Arizona","Pac-12",24,0,NA,0,0,21,11,10,0,3
-"212",2012,"I-A",57,"San Diego State","Mountain West",24,0,NA,0,0,13,16,5,1,1
-"213",2012,"I-A",58,"Rice","Conference USA",24,0,NA,0,0,11,13,9,1,1
-"214",2012,"I-A",59,"Ball State","Mid-American",24,0,NA,0,0,16,10,12,0,2
-"215",2012,"I-A",60,"Nevada","Mountain West",24,0,NA,0,0,13,11,11,0,2
-"216",2012,"I-A",61,"Hawaii","Mountain West",24,0,NA,0,0,5,11,11,0,2
-"217",2012,"I-A",62,"New Mexico","Mountain West",24,0,NA,0,0,9,12,11,0,1
-"218",2012,"I-A",63,"Florida","SEC",23,9,NA,0,14,8,9,13,1,0
-"219",2012,"I-A",64,"North Carolina","ACC",23,0,NA,0,1,21,10,10,0,3
-"220",2012,"I-A",65,"Oklahoma State","Big 12",23,1,NA,0,2,15,13,9,0,1
-"221",2012,"I-A",66,"Iowa","Big Ten",23,0,NA,0,1,18,10,9,1,3
-"222",2012,"I-A",67,"North Carolina State","ACC",23,0,NA,0,0,20,10,13,0,0
-"223",2012,"I-A",68,"Arizona State","Pac-12",23,0,NA,0,2,11,10,11,0,1
-"224",2012,"I-A",69,"Middle Tennessee","Sun Belt",23,0,NA,0,0,7,11,9,0,2
-"225",2012,"I-A",70,"Central Michigan","Mid-American",23,0,NA,0,0,15,12,9,1,1
-"226",2012,"I-A",71,"Army","IA Independents",23,0,NA,0,0,2,7,12,2,2
-"227",2012,"I-A",72,"UTEP","Conference USA",23,0,NA,0,0,10,10,12,0,1
-"228",2012,"I-A",73,"Wyoming","Mountain West",23,0,NA,0,0,6,13,9,1,0
-"229",2012,"I-A",74,"Auburn","SEC",22,5,NA,0,7,14,13,7,0,2
-"230",2012,"I-A",75,"Stanford","Pac-12",22,6,NA,0,7,15,12,9,0,1
-"231",2012,"I-A",76,"Tennessee","SEC",22,2,NA,0,5,14,8,10,1,3
-"232",2012,"I-A",77,"Vanderbilt","SEC",22,1,NA,0,1,21,8,10,1,3
-"233",2012,"I-A",78,"Michigan State","Big Ten",22,0,NA,0,1,17,14,7,0,1
-"234",2012,"I-A",79,"Kansas","Big 12",22,0,NA,0,0,8,12,9,0,1
-"235",2012,"I-A",80,"Northwestern","Big Ten",22,1,NA,0,1,18,13,7,0,1
-"236",2012,"I-A",81,"Southern Methodist","Conference USA",22,0,NA,0,1,16,7,13,0,2
-"237",2012,"I-A",82,"Idaho","WAC",22,0,NA,0,0,9,12,8,1,1
-"238",2012,"I-A",83,"Navy","IA Independents",22,0,NA,0,0,7,9,9,1,2
-"239",2012,"I-A",84,"Oregon","Pac-12",21,3,NA,0,5,12,10,9,1,1
-"240",2012,"I-A",85,"Tulsa","Conference USA",21,0,NA,0,0,11,11,9,1,0
-"241",2012,"I-A",86,"Iowa State","Big 12",21,0,NA,0,0,13,9,8,1,3
-"242",2012,"I-A",87,"UNLV","Mountain West",21,0,NA,0,0,7,14,5,0,2
-"243",2012,"I-A",88,"New Mexico State","WAC",21,0,NA,0,0,5,11,9,1,0
-"244",2012,"I-A",89,"Clemson","ACC",20,6,NA,0,7,13,9,7,1,3
-"245",2012,"I-A",90,"Rutgers","Big East",20,1,NA,0,3,16,11,4,1,4
-"246",2012,"I-A",91,"Missouri","SEC",20,2,NA,0,3,14,9,9,0,2
-"247",2012,"I-A",92,"South Florida","Big East",20,0,NA,0,1,12,8,10,0,2
-"248",2012,"I-A",93,"Duke","ACC",20,0,NA,0,0,18,10,9,1,0
-"249",2012,"I-A",94,"East Carolina","Conference USA",20,1,NA,0,1,8,7,9,0,4
-"250",2012,"I-A",95,"UCF","Conference USA",20,0,NA,0,0,15,13,7,0,0
-"251",2012,"I-A",96,"Bowling Green","Mid-American",20,0,NA,0,0,8,11,7,1,1
-"252",2012,"I-A",97,"San Jose State","WAC",20,0,NA,0,0,7,12,6,1,1
-"253",2012,"I-A",98,"Buffalo","Mid-American",20,0,NA,0,0,11,9,9,1,1
-"254",2012,"I-A",99,"Florida State","ACC",19,10,NA,1,10,6,7,10,2,0
-"255",2012,"I-A",100,"Georgia","SEC",19,6,NA,0,7,11,7,8,2,2
-"256",2012,"I-A",101,"Texas A&M","SEC",19,5,NA,0,6,11,7,12,0,0
-"257",2012,"I-A",102,"California","Pac-12",19,2,NA,0,3,13,10,7,1,1
-"258",2012,"I-A",103,"Penn State","Big Ten",19,0,NA,0,1,15,9,8,0,2
-"259",2012,"I-A",104,"Mississippi","SEC",19,2,NA,0,3,11,10,7,1,1
-"260",2012,"I-A",105,"Louisiana Tech","WAC",19,0,NA,0,0,8,12,5,0,2
-"261",2012,"I-A",106,"Wake Forest","ACC",19,0,NA,0,0,18,10,7,0,2
-"262",2012,"I-A",107,"Illinois","Big Ten",19,0,NA,0,0,15,6,10,1,2
-"263",2012,"I-A",108,"Ohio","Mid-American",19,0,NA,0,0,8,9,10,0,0
-"264",2012,"I-A",109,"Notre Dame","IA Independents",18,6,NA,0,7,10,9,6,0,2
-"265",2012,"I-A",110,"USC","Pac-12",18,7,NA,0,9,5,8,9,0,1
-"266",2012,"I-A",111,"Brigham Young","IA Independents",18,0,NA,0,1,14,7,10,0,1
-"267",2012,"I-A",112,"Nebraska","Big Ten",17,1,NA,0,2,12,6,9,0,2
-"268",2012,"I-A",113,"Georgia Tech","ACC",17,0,NA,0,2,13,3,8,1,5
-"269",2012,"I-A",114,"Boston College","ACC",17,0,NA,0,0,12,9,6,0,2
-"270",2012,"I-A",115,"Tulane","Conference USA",17,0,NA,0,1,10,12,3,0,2
-"271",2012,"I-A",116,"Pittsburgh","Big East",16,1,NA,0,3,11,6,7,0,3
-"272",2012,"I-A",117,"Fresno State","Mountain West",15,0,NA,0,0,5,10,5,0,0
-"273",2012,"I-A",118,"Western Kentucky","Sun Belt",15,0,NA,0,0,8,8,6,1,0
-"274",2012,"I-A",119,"Utah State","WAC",15,0,NA,0,0,4,12,3,0,0
-"275",2012,"I-A",120,"Wisconsin","Big Ten",12,0,NA,0,3,8,6,4,0,2
-"276",2012,"I-AA",1,"Massachusetts","Mid-American",26,0,NA,0,0,7,14,11,0,1
-"277",2012,"I-AA",2,"Montana","NCAA Division I-AA",25,0,NA,0,0,4,12,11,1,1
-"278",2012,"I-AA",3,"Georgia Southern","NCAA Division I-AA",23,0,NA,0,0,8,13,7,0,3
-"279",2012,"I-AA",4,"Appalachian State","NCAA Division I-AA",22,0,NA,0,0,7,10,10,0,2
-"280",2012,"I-AA",5,"Northern Iowa","NCAA Division I-AA",22,0,NA,0,0,2,10,9,1,2
-"281",2012,"I-AA",6,"South Carolina State","NCAA Division I-AA",21,0,NA,0,0,5,10,10,0,1
-"282",2012,"I-AA",7,"Eastern Washington","NCAA Division I-AA",20,0,NA,0,0,3,8,10,0,2
-"283",2012,"I-AA",8,"Villanova","NCAA Division I-AA",20,0,NA,0,0,5,8,11,0,1
-"284",2012,"I-AA",9,"Old Dominion","NCAA Division I-AA",19,0,NA,0,0,1,7,12,0,0
-"285",2012,"I-AA",10,"North Dakota State","NCAA Division I-AA",18,0,NA,0,0,3,8,10,0,0
-"286",2012,"I-AA",11,"Wofford","NCAA Division I-AA",17,0,NA,0,0,2,7,9,0,1
-"287",2012,"I-AA",12,"James Madison","NCAA Division I-AA",15,0,NA,0,0,5,4,8,0,3
-"288",2012,"I-AA",13,"Maine","NCAA Division I-AA",14,0,NA,0,0,3,6,7,1,0
-"289",2012,"I-AA",14,"Dartmouth","NCAA Division I-AA",14,0,NA,0,0,5,7,6,0,1
-"290",2012,"I-AA",15,"New Hampshire","NCAA Division I-AA",13,0,NA,0,0,1,7,6,0,0
-"291",2012,"I-AA",16,"Delaware","NCAA Division I-AA",12,0,NA,0,0,3,7,3,1,1
-"292",2012,"I-AA",17,"Harvard","NCAA Division I-AA",11,0,NA,0,0,2,8,3,0,0
-"293",2012,"I-AA",18,"Yale","NCAA Division I-AA",10,0,NA,0,0,6,8,2,0,0
-"294",2012,"I-AA",19,"Brown","NCAA Division I-AA",10,0,NA,0,0,1,5,2,1,2
-"295",2012,"I-AA",20,"Richmond","NCAA Division I-AA",10,0,NA,0,0,4,5,3,0,2
-"296",2012,"I-AA",21,"Cornell","NCAA Division I-AA",9,0,NA,0,0,1,8,1,0,0
-"297",2012,"I-AA",22,"Portland State","NCAA Division I-AA",9,0,NA,0,0,1,6,2,0,1
-"298",2012,"I-AA",23,"Towson","NCAA Division I-AA",8,0,NA,0,0,1,5,2,0,1
-"299",2012,"I-AA",24,"Grambling State","SWAC",7,0,NA,0,0,1,6,1,0,0
-"300",2012,"I-AA",25,"Columbia","NCAA Division I-AA",7,0,NA,0,0,5,3,4,0,0
-"301",2012,"I-AA",26,"Pennsylvania","NCAA Division I-AA",7,0,NA,0,0,4,4,3,0,0
-"302",2012,"I-AA",27,"South Dakota","NCAA Division I-AA",7,0,NA,0,0,1,4,3,0,0
-"303",2012,"I-AA",28,"Bryant University","NCAA Division I-AA",7,0,NA,0,0,1,3,3,0,1
-"304",2012,"I-AA",29,"Hampton","NCAA Division I-AA",7,0,NA,0,0,0,2,3,0,2
-"305",2012,"I-AA",30,"Princeton","NCAA Division I-AA",7,0,NA,0,0,0,5,1,1,0
-"306",2012,"I-AA",31,"Youngstown State","NCAA Division I-AA",6,0,NA,0,0,1,4,2,0,0
-"307",2012,"I-AA",32,"McNeese State","NCAA Division I-AA",5,0,NA,0,0,1,2,3,0,0
-"308",2012,"I-AA",33,"Southeastern Louisiana","NCAA Division I-AA",5,0,NA,0,0,3,2,3,0,0
-"309",2012,"I-AA",34,"Eastern Kentucky","NCAA Division I-AA",5,0,NA,0,0,2,3,2,0,0
-"310",2012,"I-AA",35,"Southern Illinois","NCAA Division I-AA",5,0,NA,0,0,1,3,2,0,0
-"311",2012,"I-AA",36,"Cal Poly","NCAA Division I-AA",5,0,NA,0,0,0,2,2,0,1
-"312",2012,"I-AA",37,"Monmouth","NCAA Division I-AA",5,0,NA,0,0,0,2,3,0,0
-"313",2012,"I-AA",38,"Colgate","NCAA Division I-AA",5,0,NA,0,0,0,4,1,0,0
-"314",2012,"I-AA",39,"Liberty","NCAA Division I-AA",4,0,NA,0,0,2,2,1,0,1
-"315",2012,"I-AA",40,"Bethune-Cookman","NCAA Division I-AA",4,0,NA,0,0,3,3,1,0,0
-"316",2012,"I-AA",41,"Delaware State","NCAA Division I-AA",4,0,NA,0,0,2,2,2,0,0
-"317",2012,"I-AA",42,"Central Arkansas","NCAA Division I-AA",4,0,NA,0,0,2,0,3,0,1
-"318",2012,"I-AA",43,"Samford","NCAA Division I-AA",4,0,NA,0,0,2,1,3,0,0
-"319",2012,"I-AA",44,"William & Mary","NCAA Division I-AA",4,0,NA,0,0,1,3,1,0,0
-"320",2012,"I-AA",45,"Norfolk State","NCAA Division I-AA",4,0,NA,0,0,0,2,2,0,0
-"321",2012,"I-AA",46,"Montana State","NCAA Division I-AA",3,0,NA,0,0,2,1,1,0,1
-"322",2012,"I-AA",47,"Northern Arizona","NCAA Division I-AA",3,0,NA,0,0,3,0,2,1,0
-"323",2012,"I-AA",48,"Citadel","NCAA Division I-AA",3,0,NA,0,0,1,1,1,0,1
-"324",2012,"I-AA",49,"Gardner-Webb","NCAA Division I-AA",3,0,NA,0,0,1,2,1,0,0
-"325",2012,"I-AA",50,"Western Illinois","NCAA Division I-AA",3,0,NA,0,0,2,1,2,0,0
-"326",2012,"I-AA",51,"Southern Utah","NCAA Division I-AA",3,0,NA,0,0,1,2,0,0,0
-"327",2012,"I-AA",52,"North Dakota","NCAA Division I-AA",3,0,NA,0,0,1,2,1,0,0
-"328",2012,"I-AA",53,"Stony Brook","NCAA Division I-AA",3,0,NA,0,0,0,2,1,0,0
-"329",2012,"I-AA",54,"Florida A&M","NCAA Division I-AA",3,0,NA,0,0,0,3,0,0,0
-"330",2012,"I-AA",55,"Sacramento State","NCAA Division I-AA",3,0,NA,0,0,0,1,1,0,1
-"331",2012,"I-AA",56,"Idaho State","NCAA Division I-AA",3,0,NA,0,0,0,2,0,0,1
-"332",2012,"I-AA",57,"Elon","NCAA Division I-AA",2,0,NA,0,0,1,2,0,0,0
-"333",2012,"I-AA",58,"Sam Houston State","NCAA Division I-AA",2,0,NA,0,0,1,1,1,0,0
-"334",2012,"I-AA",59,"Northern Colorado","NCAA Division I-AA",2,0,NA,0,0,1,1,1,0,0
-"335",2012,"I-AA",60,"Indiana State","NCAA Division I-AA",2,0,NA,0,0,0,1,1,0,0
-"336",2012,"I-AA",61,"Morgan State","NCAA Division I-AA",2,0,NA,0,0,0,0,2,0,0
-"337",2012,"I-AA",62,"Holy Cross","NCAA Division I-AA",2,0,NA,0,0,0,2,0,0,0
-"338",2012,"I-AA",63,"Georgetown","NCAA Division I-AA",2,0,NA,0,0,0,2,0,0,0
-"339",2012,"I-AA",64,"UC Davis","NCAA Division I-AA",2,0,NA,0,0,0,2,0,0,0
-"340",2012,"I-AA",65,"Lafayette","NCAA Division I-AA",2,0,NA,0,0,0,2,0,0,0
-"341",2012,"I-AA",66,"Furman","NCAA Division I-AA",2,0,NA,0,0,0,2,0,0,0
-"342",2012,"I-AA",67,"Tennessee Tech","NCAA Division I-AA",2,0,NA,0,0,0,0,2,0,0
-"343",2012,"I-AA",68,"Lamar","NCAA Division I-AA",2,0,NA,0,0,0,1,1,0,0
-"344",2012,"I-AA",69,"Lehigh","NCAA Division I-AA",2,0,NA,0,0,0,1,1,0,0
-"345",2012,"I-AA",70,"Morehead State","NCAA Division I-AA",2,0,NA,0,0,0,2,0,0,0
-"346",2012,"I-AA",71,"Illinois State","NCAA Division I-AA",2,0,NA,0,0,0,2,0,0,0
-"347",2012,"I-AA",72,"Eastern Illinois","NCAA Division I-AA",2,0,NA,0,0,0,0,2,0,0
-"348",2012,"I-AA",73,"Wagner","NCAA Division I-AA",2,0,NA,0,0,0,1,1,0,0
-"349",2012,"I-AA",74,"Texas Southern","SWAC",1,0,NA,0,0,1,1,0,0,0
-"350",2012,"I-AA",75,"Jackson State","SWAC",1,0,NA,0,0,1,1,0,0,0
-"351",2012,"I-AA",76,"South Dakota State","NCAA Division I-AA",1,0,NA,0,0,1,1,0,0,0
-"352",2012,"I-AA",77,"Arkansas-Pine Bluff","SWAC",1,0,NA,0,0,1,0,1,0,0
-"353",2012,"I-AA",78,"Howard","NCAA Division I-AA",1,0,NA,0,0,1,0,1,0,0
-"354",2012,"I-AA",79,"Southeast Missouri State","NCAA Division I-AA",1,0,NA,0,0,1,0,1,0,0
-"355",2012,"I-AA",80,"Tennessee State","NCAA Division I-AA",1,0,NA,0,0,1,1,0,0,0
-"356",2012,"I-AA",81,"Weber State","NCAA Division I-AA",1,0,NA,0,0,0,1,0,0,0
-"357",2012,"I-AA",82,"Fordham","NCAA Division I-AA",1,0,NA,0,0,0,1,0,0,0
-"358",2012,"I-AA",83,"Murray State","NCAA Division I-AA",1,0,NA,0,0,0,1,0,0,0
-"359",2012,"I-AA",84,"Butler","NCAA Division I-AA",1,0,NA,0,0,0,0,1,0,0
-"360",2012,"I-AA",85,"Bucknell","NCAA Division I-AA",1,0,NA,0,0,0,1,0,0,0
-"361",2012,"I-AA",86,"Coastal Carolina","NCAA Division I-AA",1,0,NA,0,0,0,1,0,0,0
-"362",2012,"I-AA",87,"Chattanooga","NCAA Division I-AA",1,0,NA,0,0,0,1,0,0,0
-"363",2012,"I-AA",88,"North Carolina Central","NCAA Division I-AA",1,0,NA,0,0,0,1,0,0,0
-"364",2012,"I-AA",89,"Presbyterian","NCAA Division I-AA",1,0,NA,0,0,0,1,0,0,0
-"365",2012,"I-AA",90,"Savannah State","NCAA Division I-AA",1,0,NA,0,0,0,0,1,0,0
-"366",2012,"I-AA",91,"Missouri State","NCAA Division I-AA",1,0,NA,0,0,0,1,0,0,0
-"367",2012,"I-AA",92,"Marist","NCAA Division I-AA",1,0,NA,0,0,0,1,0,0,0
-"368",2012,"I-AA",93,"Dayton","NCAA Division I-AA",1,0,NA,0,0,0,0,1,0,0
-"369",2011,"I-A",1,"Air Force","Mountain West",39,0,NA,0,0,4,18,17,0,4
-"370",2011,"I-A",2,"Marshall","Conference USA",34,0,NA,0,3,15,18,11,0,5
-"371",2011,"I-A",3,"Kansas State","Big 12",34,0,NA,0,1,9,14,15,1,4
-"372",2011,"I-A",4,"Navy","IA Independents",34,0,NA,0,0,3,11,22,0,1
-"373",2011,"I-A",5,"Arkansas","SEC",33,3,NA,0,9,10,17,13,0,3
-"374",2011,"I-A",6,"UCF","Conference USA",33,0,NA,0,0,17,9,23,0,1
-"375",2011,"I-A",7,"Colorado State","Mountain West",33,0,NA,0,0,7,17,13,1,2
-"376",2011,"I-A",8,"Army","IA Independents",33,0,NA,0,0,1,17,14,0,2
-"377",2011,"I-A",9,"South Carolina","SEC",32,1,NA,1,6,21,12,15,0,5
-"378",2011,"I-A",10,"USC","Pac-12",31,10,NA,1,12,12,13,12,2,4
-"379",2011,"I-A",11,"Texas Tech","Big 12",31,0,NA,0,3,17,14,15,0,2
-"380",2011,"I-A",12,"Oregon State","Pac-12",31,0,NA,0,0,16,13,16,1,1
-"381",2011,"I-A",13,"Louisiana-Lafayette","Sun Belt",31,0,NA,0,0,2,15,13,1,2
-"382",2011,"I-A",14,"Utah State","WAC",30,0,NA,0,0,1,10,18,1,1
-"383",2011,"I-A",15,"Florida State","ACC",29,12,NA,1,17,7,14,13,0,2
-"384",2011,"I-A",16,"Clemson","ACC",29,7,NA,2,7,16,16,11,1,1
-"385",2011,"I-A",17,"Illinois","Big Ten",29,1,NA,0,3,18,12,11,1,5
-"386",2011,"I-A",18,"Memphis","Conference USA",29,0,NA,0,0,4,12,13,0,4
-"387",2011,"I-A",19,"Troy","Sun Belt",29,0,NA,0,0,3,15,12,1,1
-"388",2011,"I-A",20,"Mississippi","SEC",28,1,NA,0,4,15,14,12,0,2
-"389",2011,"I-A",21,"Oklahoma State","Big 12",28,1,NA,0,3,16,7,16,1,4
-"390",2011,"I-A",22,"Kansas","Big 12",28,0,NA,0,2,19,13,13,1,1
-"391",2011,"I-A",23,"Southern Methodist","Conference USA",28,0,NA,0,0,11,11,14,0,3
-"392",2011,"I-A",24,"Tennessee","SEC",27,6,NA,0,9,12,12,11,0,4
-"393",2011,"I-A",25,"Kentucky","SEC",27,0,NA,0,1,16,14,10,0,3
-"394",2011,"I-A",26,"Minnesota","Big Ten",27,0,NA,0,1,9,14,12,1,0
-"395",2011,"I-A",27,"Syracuse","Big East",27,0,NA,0,0,13,14,9,1,3
-"396",2011,"I-A",28,"Western Kentucky","Sun Belt",27,0,NA,0,0,8,15,11,0,1
-"397",2011,"I-A",29,"Florida International","Sun Belt",27,0,NA,0,0,5,13,11,0,3
-"398",2011,"I-A",30,"East Carolina","Conference USA",27,0,NA,0,0,6,13,13,0,1
-"399",2011,"I-A",31,"Toledo","Mid-American",27,0,NA,0,0,5,11,15,1,0
-"400",2011,"I-A",32,"Washington State","Pac-12",27,0,NA,0,0,3,12,11,0,4
-"401",2011,"I-A",33,"Nevada","Mountain West",27,0,NA,0,0,5,10,16,0,1
-"402",2011,"I-A",34,"Central Michigan","Mid-American",27,0,NA,0,0,3,14,10,1,2
-"403",2011,"I-A",35,"Alabama","SEC",26,11,NA,1,15,6,12,12,0,2
-"404",2011,"I-A",36,"Georgia","SEC",26,6,NA,2,15,7,14,11,0,1
-"405",2011,"I-A",37,"Auburn","SEC",26,8,NA,1,15,9,11,11,0,4
-"406",2011,"I-A",38,"Virginia","ACC",26,5,NA,0,6,16,7,14,0,5
-"407",2011,"I-A",39,"Southern Miss","Conference USA",26,0,NA,0,0,8,13,12,0,1
-"408",2011,"I-A",40,"Hawaii","Mountain West",26,0,NA,0,0,3,8,14,0,4
-"409",2011,"I-A",41,"UAB","Conference USA",26,0,NA,0,0,1,8,13,2,3
-"410",2011,"I-A",42,"Arkansas State","Sun Belt",26,0,NA,0,0,1,16,7,0,3
-"411",2011,"I-A",43,"Ball State","Mid-American",26,0,NA,0,0,4,14,10,0,2
-"412",2011,"I-A",44,"North Carolina","ACC",25,3,NA,0,10,12,8,13,1,3
-"413",2011,"I-A",45,"Iowa","Big Ten",25,0,NA,0,3,14,12,10,0,3
-"414",2011,"I-A",46,"TCU","Big 12",25,1,NA,0,3,17,11,13,0,1
-"415",2011,"I-A",47,"Cincinnati","Big East",25,0,NA,0,0,13,13,9,0,3
-"416",2011,"I-A",48,"San Diego State","Mountain West",25,0,NA,0,0,7,16,7,0,2
-"417",2011,"I-A",49,"Wyoming","Mountain West",25,0,NA,0,0,2,11,10,1,3
-"418",2011,"I-A",50,"Louisiana Tech","WAC",25,0,NA,0,0,1,11,12,0,2
-"419",2011,"I-A",51,"Notre Dame","IA Independents",24,7,NA,0,9,14,9,11,1,3
-"420",2011,"I-A",52,"LSU","SEC",24,6,NA,2,6,15,11,8,1,4
-"421",2011,"I-A",53,"Washington","Pac-12",24,2,NA,0,2,15,10,10,0,4
-"422",2011,"I-A",54,"Rutgers","Big East",24,1,NA,0,3,15,9,10,1,4
-"423",2011,"I-A",55,"Iowa State","Big 12",24,0,NA,0,0,7,13,9,0,2
-"424",2011,"I-A",56,"Colorado","Pac-12",24,0,NA,0,0,10,13,9,1,1
-"425",2011,"I-A",57,"Florida Atlantic","Sun Belt",24,0,NA,0,0,1,13,10,1,0
-"426",2011,"I-A",58,"North Texas","Sun Belt",24,0,NA,0,0,2,11,12,0,1
-"427",2011,"I-A",59,"Ohio","Mid-American",24,0,NA,0,0,2,10,12,0,2
-"428",2011,"I-A",60,"Akron","Mid-American",24,0,NA,0,0,1,12,11,1,0
-"429",2011,"I-A",61,"Ohio State","Big Ten",23,7,NA,0,13,9,11,11,0,1
-"430",2011,"I-A",62,"Oregon","Pac-12",23,5,NA,0,9,9,10,9,0,4
-"431",2011,"I-A",63,"Louisville","Big East",23,3,NA,0,5,14,11,10,1,1
-"432",2011,"I-A",64,"Texas A&M","SEC",23,0,NA,0,1,16,8,12,2,1
-"433",2011,"I-A",65,"Arizona","Pac-12",23,0,NA,0,2,9,11,9,2,1
-"434",2011,"I-A",66,"Boston College","ACC",23,0,NA,0,1,14,9,11,1,2
-"435",2011,"I-A",67,"Virginia Tech","ACC",23,1,NA,0,2,12,9,12,1,1
-"436",2011,"I-A",68,"West Virginia","Big 12",23,0,NA,0,0,17,12,9,0,2
-"437",2011,"I-A",69,"Georgia Tech","ACC",23,1,NA,0,1,13,7,8,0,8
-"438",2011,"I-A",70,"Mississippi State","SEC",23,0,NA,0,0,14,12,7,0,4
-"439",2011,"I-A",71,"Indiana","Big Ten",23,0,NA,0,0,10,11,10,0,2
-"440",2011,"I-A",72,"Boise State","Mountain West",23,0,NA,0,0,9,10,10,1,2
-"441",2011,"I-A",73,"Houston","Conference USA",23,0,NA,0,0,7,9,12,0,2
-"442",2011,"I-A",74,"Tulsa","Conference USA",23,0,NA,0,0,6,11,9,0,3
-"443",2011,"I-A",75,"Western Michigan","Mid-American",23,0,NA,0,0,2,13,9,0,1
-"444",2011,"I-A",76,"San Jose State","WAC",23,0,NA,0,0,2,10,9,0,4
-"445",2011,"I-A",77,"UNLV","Mountain West",23,0,NA,0,0,2,10,10,1,2
-"446",2011,"I-A",78,"UTEP","Conference USA",23,0,NA,0,0,2,12,10,0,1
-"447",2011,"I-A",79,"New Mexico State","WAC",23,0,NA,0,0,0,12,8,0,3
-"448",2011,"I-A",80,"Idaho","WAC",23,0,NA,0,0,1,11,10,0,2
-"449",2011,"I-A",81,"Texas","Big 12",22,7,NA,1,13,8,11,9,0,2
-"450",2011,"I-A",82,"California","Pac-12",22,5,NA,0,8,11,9,12,0,1
-"451",2011,"I-A",83,"Wisconsin","Big Ten",22,0,NA,0,1,16,10,9,0,3
-"452",2011,"I-A",84,"Vanderbilt","SEC",22,0,NA,0,0,13,11,9,0,2
-"453",2011,"I-A",85,"South Florida","Big East",22,0,NA,0,0,12,12,10,0,0
-"454",2011,"I-A",86,"Middle Tennessee","Sun Belt",22,0,NA,0,0,5,8,8,0,6
-"455",2011,"I-A",87,"Bowling Green","Mid-American",22,0,NA,0,0,3,10,8,1,3
-"456",2011,"I-A",88,"Tulane","Conference USA",22,0,NA,0,0,3,14,7,0,1
-"457",2011,"I-A",89,"Northern Illinois","Mid-American",22,0,NA,0,0,3,10,11,1,0
-"458",2011,"I-A",90,"Michigan State","Big Ten",21,1,NA,0,2,17,7,11,0,3
-"459",2011,"I-A",91,"Maryland","ACC",21,0,NA,0,0,15,11,8,1,1
-"460",2011,"I-A",92,"Baylor","Big 12",21,0,NA,0,1,12,10,10,1,0
-"461",2011,"I-A",93,"Pittsburgh","Big East",21,0,NA,0,1,11,11,9,0,1
-"462",2011,"I-A",94,"New Mexico","Mountain West",21,0,NA,0,0,7,10,9,0,2
-"463",2011,"I-A",95,"Buffalo","Mid-American",21,0,NA,0,0,3,12,8,1,0
-"464",2011,"I-A",96,"Eastern Michigan","Mid-American",21,0,NA,0,0,2,7,14,0,0
-"465",2011,"I-A",97,"Temple","Big East",21,0,NA,0,0,1,13,7,0,1
-"466",2011,"I-A",98,"Louisiana-Monroe","Sun Belt",21,0,NA,0,0,1,12,6,2,1
-"467",2011,"I-A",99,"Nebraska","Big Ten",20,4,NA,1,6,9,10,7,1,2
-"468",2011,"I-A",100,"Duke","ACC",20,0,NA,0,1,13,10,8,1,1
-"469",2011,"I-A",101,"North Carolina State","ACC",20,0,NA,0,1,8,6,8,2,4
-"470",2011,"I-A",102,"Florida","SEC",19,7,NA,1,10,6,8,6,1,4
-"471",2011,"I-A",103,"Oklahoma","Big 12",19,6,NA,0,9,10,10,8,0,1
-"472",2011,"I-A",104,"Stanford","Pac-12",19,2,NA,0,4,14,8,10,0,1
-"473",2011,"I-A",105,"Michigan","Big Ten",19,0,NA,0,4,13,6,10,1,2
-"474",2011,"I-A",106,"Utah","Pac-12",19,0,NA,0,1,11,12,7,0,0
-"475",2011,"I-A",107,"Rice","Conference USA",19,0,NA,0,0,5,8,9,0,2
-"476",2011,"I-A",108,"Brigham Young","IA Independents",19,0,NA,0,0,6,7,11,1,0
-"477",2011,"I-A",109,"Miami (FL)","ACC",18,3,NA,0,4,10,4,11,2,1
-"478",2011,"I-A",110,"Arizona State","Pac-12",18,0,NA,0,0,10,8,6,1,3
-"479",2011,"I-A",111,"Fresno State","Mountain West",18,0,NA,0,0,2,7,11,0,0
-"480",2011,"I-A",112,"Miami (OH)","Mid-American",18,0,NA,0,0,2,10,7,0,1
-"481",2011,"I-A",113,"Kent State","Mid-American",18,0,NA,0,0,1,9,6,0,3
-"482",2011,"I-A",114,"Wake Forest","ACC",17,0,NA,0,0,11,5,7,2,3
-"483",2011,"I-A",115,"Northwestern","Big Ten",17,1,NA,0,1,14,11,6,0,0
-"484",2011,"I-A",116,"UCLA","Pac-12",17,1,NA,0,2,7,10,6,0,1
-"485",2011,"I-A",117,"Purdue","Big Ten",17,0,NA,0,0,8,8,6,0,3
-"486",2011,"I-A",118,"Missouri","SEC",17,0,NA,0,0,8,7,10,0,0
-"487",2011,"I-A",119,"Penn State","Big Ten",16,2,NA,0,4,8,8,5,1,2
-"488",2011,"I-A",120,"Connecticut","Big East",16,0,NA,0,0,4,6,8,0,2
-"489",2011,"I-AA",1,"Bethune-Cookman","NCAA Division I-AA",28,0,NA,0,0,1,8,15,1,4
-"490",2011,"I-AA",2,"Stephen F. Austin","NCAA Division I-AA",27,0,NA,0,0,4,11,13,1,2
-"491",2011,"I-AA",3,"Georgia Southern","NCAA Division I-AA",26,0,NA,0,0,2,13,8,0,5
-"492",2011,"I-AA",4,"Central Arkansas","NCAA Division I-AA",26,0,NA,0,0,1,13,10,1,2
-"493",2011,"I-AA",5,"Massachusetts","Mid-American",25,0,NA,0,0,1,17,6,1,1
-"494",2011,"I-AA",6,"South Carolina State","NCAA Division I-AA",23,0,NA,0,0,2,13,8,0,2
-"495",2011,"I-AA",7,"Florida A&M","NCAA Division I-AA",23,0,NA,0,0,0,17,5,0,1
-"496",2011,"I-AA",8,"Montana","NCAA Division I-AA",21,0,NA,0,0,0,9,9,2,1
-"497",2011,"I-AA",9,"Eastern Washington","NCAA Division I-AA",20,0,NA,0,0,0,15,5,0,0
-"498",2011,"I-AA",10,"Villanova","NCAA Division I-AA",19,0,NA,0,0,4,8,11,0,0
-"499",2011,"I-AA",11,"Wofford","NCAA Division I-AA",19,0,NA,0,0,0,9,10,0,0
-"500",2011,"I-AA",12,"Weber State","NCAA Division I-AA",18,0,NA,0,0,2,9,8,0,1
-"501",2011,"I-AA",13,"Jacksonville State","NCAA Division I-AA",16,0,NA,0,0,2,7,7,0,2
-"502",2011,"I-AA",14,"Elon","NCAA Division I-AA",16,0,NA,0,0,1,8,7,0,1
-"503",2011,"I-AA",15,"Illinois State","NCAA Division I-AA",16,0,NA,0,0,0,7,6,0,3
-"504",2011,"I-AA",16,"Northern Iowa","NCAA Division I-AA",15,0,NA,0,0,1,7,7,1,0
-"505",2011,"I-AA",17,"William & Mary","NCAA Division I-AA",15,0,NA,0,0,1,8,6,0,1
-"506",2011,"I-AA",18,"Harvard","NCAA Division I-AA",15,0,NA,0,0,3,7,6,2,0
-"507",2011,"I-AA",19,"Delaware","NCAA Division I-AA",15,0,NA,0,0,0,8,6,0,1
-"508",2011,"I-AA",20,"New Hampshire","NCAA Division I-AA",15,0,NA,0,0,0,4,10,0,1
-"509",2011,"I-AA",21,"James Madison","NCAA Division I-AA",14,0,NA,0,0,1,7,6,0,1
-"510",2011,"I-AA",22,"Richmond","NCAA Division I-AA",14,0,NA,0,0,1,6,6,0,2
-"511",2011,"I-AA",23,"Northwestern State","NCAA Division I-AA",13,0,NA,0,0,2,7,3,1,2
-"512",2011,"I-AA",24,"Grambling State","SWAC",12,0,NA,0,0,0,6,6,0,0
-"513",2011,"I-AA",25,"Texas State","WAC",11,0,NA,0,0,4,6,4,1,0
-"514",2011,"I-AA",26,"Appalachian State","NCAA Division I-AA",10,0,NA,0,0,0,4,5,0,1
-"515",2011,"I-AA",27,"Liberty","NCAA Division I-AA",10,0,NA,0,0,1,5,4,0,1
-"516",2011,"I-AA",28,"Tennessee State","NCAA Division I-AA",8,0,NA,0,0,2,4,3,0,1
-"517",2011,"I-AA",29,"Pennsylvania","NCAA Division I-AA",8,0,NA,0,0,3,4,3,1,0
-"518",2011,"I-AA",30,"Youngstown State","NCAA Division I-AA",8,0,NA,0,0,0,4,2,1,1
-"519",2011,"I-AA",31,"Montana State","NCAA Division I-AA",6,0,NA,0,0,0,4,2,0,0
-"520",2011,"I-AA",32,"Western Illinois","NCAA Division I-AA",6,0,NA,0,0,0,2,4,0,0
-"521",2011,"I-AA",33,"North Dakota State","NCAA Division I-AA",6,0,NA,0,0,0,4,1,1,0
-"522",2011,"I-AA",34,"Indiana State","NCAA Division I-AA",5,0,NA,0,0,1,3,2,0,0
-"523",2011,"I-AA",35,"UC Davis","NCAA Division I-AA",5,0,NA,0,0,1,3,2,0,0
-"524",2011,"I-AA",36,"Southern Illinois","NCAA Division I-AA",5,0,NA,0,0,0,2,2,1,0
-"525",2011,"I-AA",37,"Bryant University","NCAA Division I-AA",4,0,NA,0,0,0,4,0,0,0
-"526",2011,"I-AA",38,"Southeast Missouri State","NCAA Division I-AA",3,0,NA,0,0,1,2,0,0,1
-"527",2011,"I-AA",39,"Princeton","NCAA Division I-AA",3,0,NA,0,0,1,3,0,0,0
-"528",2011,"I-AA",40,"Jackson State","SWAC",3,0,NA,0,0,0,2,0,1,0
-"529",2011,"I-AA",41,"Brown","NCAA Division I-AA",3,0,NA,0,0,0,1,2,0,0
-"530",2011,"I-AA",42,"Southern University","SWAC",3,0,NA,0,0,0,1,2,0,0
-"531",2011,"I-AA",43,"Fordham","NCAA Division I-AA",3,0,NA,0,0,0,2,1,0,0
-"532",2011,"I-AA",44,"McNeese State","NCAA Division I-AA",3,0,NA,0,0,0,2,1,0,0
-"533",2011,"I-AA",45,"Idaho State","NCAA Division I-AA",2,0,NA,0,0,1,1,1,0,0
-"534",2011,"I-AA",46,"South Dakota State","NCAA Division I-AA",2,0,NA,0,0,0,2,0,0,0
-"535",2011,"I-AA",47,"North Carolina Central","NCAA Division I-AA",2,0,NA,0,1,0,0,1,0,1
-"536",2011,"I-AA",48,"Holy Cross","NCAA Division I-AA",2,0,NA,0,0,0,1,1,0,0
-"537",2011,"I-AA",49,"Sacramento State","NCAA Division I-AA",2,0,NA,0,0,0,2,0,0,0
-"538",2011,"I-AA",50,"Eastern Illinois","NCAA Division I-AA",2,0,NA,0,0,0,1,0,1,0
-"539",2011,"I-AA",51,"North Dakota","NCAA Division I-AA",2,0,NA,0,0,0,0,2,0,0
-"540",2011,"I-AA",52,"Portland State","NCAA Division I-AA",2,0,NA,0,0,0,0,2,0,0
-"541",2011,"I-AA",53,"Colgate","NCAA Division I-AA",2,0,NA,0,0,0,1,1,0,0
-"542",2011,"I-AA",54,"Chattanooga","NCAA Division I-AA",2,0,NA,0,0,0,1,1,0,0
-"543",2011,"I-AA",55,"Morgan State","NCAA Division I-AA",2,0,NA,0,0,0,2,0,0,0
-"544",2011,"I-AA",56,"Maine","NCAA Division I-AA",2,0,NA,0,0,0,1,1,0,0
-"545",2011,"I-AA",57,"Howard","NCAA Division I-AA",1,0,NA,0,0,1,1,0,0,0
-"546",2011,"I-AA",58,"Citadel","NCAA Division I-AA",1,0,NA,0,0,0,1,0,0,0
-"547",2011,"I-AA",59,"Southeastern Louisiana","NCAA Division I-AA",1,0,NA,0,0,0,1,0,0,0
-"548",2011,"I-AA",60,"Prairie View A&M","SWAC",1,0,NA,0,0,0,0,1,0,0
-"549",2011,"I-AA",61,"Rhode Island","NCAA Division I-AA",1,0,NA,0,0,0,1,0,0,0
-"550",2011,"I-AA",62,"Sam Houston State","NCAA Division I-AA",1,0,NA,0,0,0,0,0,0,1
-"551",2011,"I-AA",63,"Towson","NCAA Division I-AA",1,0,NA,0,0,0,1,0,0,0
-"552",2011,"I-AA",64,"Cal Poly","NCAA Division I-AA",1,0,NA,0,0,0,1,0,0,0
-"553",2011,"I-AA",65,"Western Carolina","NCAA Division I-AA",1,0,NA,0,0,0,1,0,0,0
-"554",2011,"I-AA",66,"Virginia Military","NCAA Division I-AA",1,0,NA,0,0,0,0,1,0,0
-"555",2011,"I-AA",67,"Norfolk State","NCAA Division I-AA",1,0,NA,0,0,0,1,0,0,0
-"556",2011,"I-AA",68,"Hampton","NCAA Division I-AA",1,0,NA,0,0,0,0,1,0,0
-"557",2011,"I-AA",69,"Lamar","NCAA Division I-AA",1,0,NA,0,0,0,1,0,0,0
-"558",2011,"I-AA",70,"Lehigh","NCAA Division I-AA",1,0,NA,0,0,0,1,0,0,0
-"559",2011,"I-AA",71,"Monmouth","NCAA Division I-AA",1,0,NA,0,0,0,0,1,0,0
-"560",2011,"I-AA",72,"Yale","NCAA Division I-AA",1,0,NA,0,0,0,1,0,0,0
-"561",2011,"I-AA",73,"Murray State","NCAA Division I-AA",1,0,NA,0,0,0,1,0,0,0
-"562",2011,"I-AA",74,"Dartmouth","NCAA Division I-AA",1,0,NA,0,0,0,1,0,0,0
-"563",2011,"I-AA",75,"Columbia","NCAA Division I-AA",1,0,NA,0,0,0,1,0,0,0
-"564",2011,"I-AA",76,"South Dakota","NCAA Division I-AA",1,0,NA,0,0,0,1,0,0,0
-"565",2011,"I-AA",77,"Delaware State","NCAA Division I-AA",1,0,NA,0,0,0,0,0,0,1
-"566",2011,"I-AA",78,"Duquesne","NCAA Division I-AA",1,0,NA,0,0,0,0,1,0,0
-"567",2011,"I-AA",79,"Eastern Kentucky","NCAA Division I-AA",1,0,NA,0,0,0,1,0,0,0
-"568",2011,"I-AA",80,"Bucknell","NCAA Division I-AA",1,0,NA,0,0,0,1,0,0,0
-"569",2011,"I-AA",81,"Butler","NCAA Division I-AA",1,0,NA,0,0,0,0,0,1,0
-"570",2011,"I-AA",82,"Coastal Carolina","NCAA Division I-AA",1,0,NA,0,0,0,0,1,0,0
-"571",2011,"I-AA",83,"Alabama A&M","SWAC",1,0,NA,0,0,0,1,0,0,0
-"572",2011,"I-AA",84,"Arkansas-Pine Bluff","SWAC",1,0,NA,0,0,0,0,1,0,0
-"573",2010,"I-A",1,"Syracuse","Big East",33,0,NA,0,0,0,16,14,1,2
-"574",2010,"I-A",2,"Auburn","SEC",32,7,NA,0,0,0,12,11,2,7
-"575",2010,"I-A",3,"Washington","Pac-12",31,1,NA,0,0,0,14,15,0,2
-"576",2010,"I-A",4,"Tennessee","SEC",30,6,NA,0,0,0,16,11,2,1
-"577",2010,"I-A",5,"Nevada","Mountain West",30,0,NA,0,0,0,13,17,0,0
-"578",2010,"I-A",6,"Colorado State","Mountain West",30,0,NA,0,0,0,16,13,0,1
-"579",2010,"I-A",7,"Oklahoma","Big 12",29,7,NA,0,0,0,12,11,0,6
-"580",2010,"I-A",8,"Troy","Sun Belt",29,0,NA,0,0,0,13,12,0,4
-"581",2010,"I-A",9,"Temple","Big East",29,0,NA,0,0,0,14,12,1,2
-"582",2010,"I-A",10,"Alabama","SEC",28,8,NA,0,0,0,11,13,2,2
-"583",2010,"I-A",11,"Miami (FL)","ACC",28,4,NA,0,0,0,16,11,0,1
-"584",2010,"I-A",12,"Memphis","Conference USA",28,0,NA,0,0,0,13,11,0,4
-"585",2010,"I-A",13,"Kansas State","Big 12",28,0,NA,0,0,0,13,13,0,2
-"586",2010,"I-A",14,"Iowa State","Big 12",28,0,NA,0,0,0,13,11,1,3
-"587",2010,"I-A",15,"San Diego State","Mountain West",28,0,NA,0,0,0,13,9,1,5
-"588",2010,"I-A",16,"UAB","Conference USA",28,0,NA,0,0,0,15,11,0,2
-"589",2010,"I-A",17,"Utah State","WAC",28,0,NA,0,0,0,17,8,1,2
-"590",2010,"I-A",18,"UTEP","Conference USA",28,0,NA,0,0,0,14,12,1,1
-"591",2010,"I-A",19,"Florida","SEC",27,17,NA,0,0,0,8,15,0,4
-"592",2010,"I-A",20,"Oklahoma State","Big 12",27,1,NA,0,0,0,8,16,0,3
-"593",2010,"I-A",21,"Marshall","Conference USA",27,0,NA,0,0,0,10,11,1,5
-"594",2010,"I-A",22,"Kentucky","SEC",27,0,NA,0,0,0,8,16,1,2
-"595",2010,"I-A",23,"Southern Miss","Conference USA",27,0,NA,0,0,0,17,8,1,1
-"596",2010,"I-A",24,"Brigham Young","IA Independents",27,0,NA,0,0,0,11,13,0,3
-"597",2010,"I-A",25,"Minnesota","Big Ten",27,0,NA,0,0,0,11,14,0,2
-"598",2010,"I-A",26,"Houston","Conference USA",27,0,NA,0,0,0,12,12,1,2
-"599",2010,"I-A",27,"Arkansas State","Sun Belt",27,0,NA,0,0,0,10,12,2,3
-"600",2010,"I-A",28,"Toledo","Mid-American",27,0,NA,0,0,0,10,14,0,3
-"601",2010,"I-A",29,"San Jose State","WAC",27,0,NA,0,0,0,15,10,0,2
-"602",2010,"I-A",30,"LSU","SEC",26,7,NA,0,0,0,13,9,1,3
-"603",2010,"I-A",31,"Michigan","Big Ten",26,1,NA,0,0,0,8,14,1,3
-"604",2010,"I-A",32,"Baylor","Big 12",26,1,NA,0,0,0,13,12,0,1
-"605",2010,"I-A",33,"Mississippi","SEC",26,0,NA,0,0,0,9,12,0,5
-"606",2010,"I-A",34,"Texas Tech","Big 12",26,0,NA,0,0,0,6,20,0,0
-"607",2010,"I-A",35,"Southern Methodist","Conference USA",26,0,NA,0,0,0,11,11,0,4
-"608",2010,"I-A",36,"Arizona State","Pac-12",26,0,NA,0,0,0,18,6,0,2
-"609",2010,"I-A",37,"Tulsa","Conference USA",26,0,NA,0,0,0,10,12,1,3
-"610",2010,"I-A",38,"Hawaii","Mountain West",26,0,NA,0,0,0,11,15,0,0
-"611",2010,"I-A",39,"Northern Illinois","Mid-American",26,0,NA,0,0,0,9,14,2,1
-"612",2010,"I-A",40,"Western Michigan","Mid-American",26,0,NA,0,0,0,11,14,0,1
-"613",2010,"I-A",41,"Idaho","WAC",26,0,NA,0,0,0,14,11,0,1
-"614",2010,"I-A",42,"Texas","Big 12",25,15,NA,0,0,0,10,12,1,2
-"615",2010,"I-A",43,"Florida State","ACC",25,8,NA,0,0,0,7,16,0,2
-"616",2010,"I-A",44,"Mississippi State","SEC",25,1,NA,0,0,0,11,9,0,5
-"617",2010,"I-A",45,"Louisville","Big East",25,0,NA,0,0,0,11,11,0,3
-"618",2010,"I-A",46,"Arizona","Pac-12",25,0,NA,0,0,0,10,12,0,3
-"619",2010,"I-A",47,"Arkansas","SEC",25,1,NA,0,0,0,10,10,2,3
-"620",2010,"I-A",48,"Purdue","Big Ten",25,0,NA,0,0,0,8,11,2,4
-"621",2010,"I-A",49,"Utah","Pac-12",25,0,NA,0,0,0,11,14,0,0
-"622",2010,"I-A",50,"Rutgers","Big East",25,0,NA,0,0,0,12,10,0,3
-"623",2010,"I-A",51,"Vanderbilt","SEC",25,0,NA,0,0,0,9,13,1,2
-"624",2010,"I-A",52,"Colorado","Pac-12",25,0,NA,0,0,0,15,7,1,2
-"625",2010,"I-A",53,"Indiana","Big Ten",25,0,NA,0,0,0,10,13,0,2
-"626",2010,"I-A",54,"Washington State","Pac-12",25,0,NA,0,0,0,15,9,0,1
-"627",2010,"I-A",55,"UNLV","Mountain West",25,0,NA,0,0,0,12,11,1,1
-"628",2010,"I-A",56,"Tulane","Conference USA",25,0,NA,0,0,0,10,12,2,1
-"629",2010,"I-A",57,"Louisiana-Lafayette","Sun Belt",25,0,NA,0,0,0,10,14,0,1
-"630",2010,"I-A",58,"Texas A&M","SEC",24,3,NA,0,0,0,14,9,0,1
-"631",2010,"I-A",59,"South Carolina","SEC",24,3,NA,0,0,0,11,9,1,3
-"632",2010,"I-A",60,"Pittsburgh","Big East",24,0,NA,0,0,0,13,6,0,5
-"633",2010,"I-A",61,"Wisconsin","Big Ten",24,0,NA,0,0,0,9,12,0,3
-"634",2010,"I-A",62,"Cincinnati","Big East",24,0,NA,0,0,0,9,11,2,2
-"635",2010,"I-A",63,"Bowling Green","Mid-American",24,0,NA,0,0,0,13,10,0,1
-"636",2010,"I-A",64,"Wyoming","Mountain West",24,0,NA,0,0,0,13,10,0,1
-"637",2010,"I-A",65,"Clemson","ACC",23,2,NA,0,0,0,8,11,0,4
-"638",2010,"I-A",66,"Oregon","Pac-12",23,4,NA,0,0,0,8,10,1,4
-"639",2010,"I-A",67,"Notre Dame","IA Independents",23,2,NA,0,0,0,12,9,0,2
-"640",2010,"I-A",68,"Missouri","SEC",23,0,NA,0,0,0,11,10,0,2
-"641",2010,"I-A",69,"North Carolina State","ACC",23,1,NA,0,0,0,8,12,1,2
-"642",2010,"I-A",70,"UCF","Conference USA",23,0,NA,0,0,0,13,7,0,3
-"643",2010,"I-A",71,"Illinois","Big Ten",23,0,NA,0,0,0,15,7,0,1
-"644",2010,"I-A",72,"Florida International","Sun Belt",23,1,NA,0,0,0,8,13,1,1
-"645",2010,"I-A",73,"Connecticut","Big East",23,0,NA,0,0,0,9,10,0,4
-"646",2010,"I-A",74,"Akron","Mid-American",23,0,NA,0,0,0,14,6,0,3
-"647",2010,"I-A",75,"Miami (OH)","Mid-American",23,0,NA,0,0,0,11,9,1,2
-"648",2010,"I-A",76,"Eastern Michigan","Mid-American",23,0,NA,0,0,0,11,12,0,0
-"649",2010,"I-A",77,"UCLA","Pac-12",22,7,NA,0,0,0,8,12,1,1
-"650",2010,"I-A",78,"Stanford","Pac-12",22,3,NA,0,0,0,9,10,1,2
-"651",2010,"I-A",79,"Nebraska","Big Ten",22,1,NA,0,0,0,9,11,0,2
-"652",2010,"I-A",80,"Maryland","ACC",22,1,NA,0,0,0,6,13,0,3
-"653",2010,"I-A",81,"Iowa","Big Ten",22,1,NA,0,0,0,7,10,1,4
-"654",2010,"I-A",82,"North Texas","Sun Belt",22,0,NA,0,0,0,9,12,1,0
-"655",2010,"I-A",83,"Louisiana-Monroe","Sun Belt",22,0,NA,0,0,0,11,11,0,0
-"656",2010,"I-A",84,"Virginia Tech","ACC",21,1,NA,0,0,0,10,10,0,1
-"657",2010,"I-A",85,"Michigan State","Big Ten",21,1,NA,0,0,0,11,8,1,1
-"658",2010,"I-A",86,"Boston College","ACC",21,0,NA,0,0,0,15,5,0,1
-"659",2010,"I-A",87,"East Carolina","Conference USA",21,0,NA,0,0,0,9,8,0,4
-"660",2010,"I-A",88,"Wake Forest","ACC",21,0,NA,0,0,0,14,6,0,1
-"661",2010,"I-A",89,"Ball State","Mid-American",21,0,NA,0,0,0,9,11,1,0
-"662",2010,"I-A",90,"Kent State","Mid-American",21,0,NA,0,0,0,4,16,0,1
-"663",2010,"I-A",91,"Georgia","SEC",20,6,NA,0,0,0,7,12,0,1
-"664",2010,"I-A",92,"Penn State","Big Ten",20,6,NA,0,0,0,12,7,0,1
-"665",2010,"I-A",93,"North Carolina","ACC",20,1,NA,0,0,0,8,8,0,4
-"666",2010,"I-A",94,"South Florida","Big East",20,2,NA,0,0,0,9,8,1,2
-"667",2010,"I-A",95,"Duke","ACC",20,0,NA,0,0,0,9,9,0,2
-"668",2010,"I-A",96,"Fresno State","Mountain West",20,0,NA,0,0,0,10,4,0,6
-"669",2010,"I-A",97,"Louisiana Tech","WAC",20,0,NA,0,0,0,8,10,0,2
-"670",2010,"I-A",98,"Buffalo","Mid-American",20,0,NA,0,0,0,11,7,1,1
-"671",2010,"I-A",99,"Middle Tennessee","Sun Belt",20,0,NA,0,0,0,7,11,0,2
-"672",2010,"I-A",100,"USC","Pac-12",19,10,NA,0,0,0,10,4,0,5
-"673",2010,"I-A",101,"California","Pac-12",19,2,NA,0,0,0,11,7,0,1
-"674",2010,"I-A",102,"Ohio State","Big Ten",19,4,NA,0,0,0,8,8,1,2
-"675",2010,"I-A",103,"West Virginia","Big 12",19,1,NA,0,0,0,8,6,0,5
-"676",2010,"I-A",104,"Kansas","Big 12",19,0,NA,0,0,0,8,9,0,2
-"677",2010,"I-A",105,"Central Michigan","Mid-American",19,0,NA,0,0,0,7,11,1,0
-"678",2010,"I-A",106,"TCU","Big 12",18,0,NA,0,0,0,5,8,0,5
-"679",2010,"I-A",107,"Georgia Tech","ACC",18,0,NA,0,0,0,5,10,1,2
-"680",2010,"I-A",108,"New Mexico","Mountain West",18,0,NA,0,0,0,9,8,0,1
-"681",2010,"I-A",109,"Virginia","ACC",17,0,NA,0,0,0,11,5,0,1
-"682",2010,"I-A",110,"Northwestern","Big Ten",17,0,NA,0,0,0,7,7,0,3
-"683",2010,"I-A",111,"Oregon State","Pac-12",17,0,NA,0,0,0,6,10,1,0
-"684",2010,"I-A",112,"New Mexico State","WAC",17,0,NA,0,0,0,9,7,1,0
-"685",2010,"I-A",113,"Ohio","Mid-American",17,0,NA,0,0,0,7,8,0,2
-"686",2010,"I-A",114,"Western Kentucky","Sun Belt",16,0,NA,0,0,0,9,7,0,0
-"687",2010,"I-A",115,"Rice","Conference USA",16,0,NA,0,0,0,6,7,0,3
-"688",2010,"I-A",116,"Florida Atlantic","Sun Belt",12,0,NA,0,0,0,6,6,0,0
-"689",2010,"I-A",117,"Boise State","Mountain West",10,0,NA,0,0,0,4,5,0,1
-"690",2010,"I-A",118,"Navy","IA Independents",1,0,NA,0,0,0,1,0,0,0
-"691",2010,"I-AA",1,"Lafayette","NCAA Division I-AA",32,0,NA,0,0,0,16,14,0,2
-"692",2010,"I-AA",2,"Northwestern State","NCAA Division I-AA",31,0,NA,0,0,0,13,12,0,6
-"693",2010,"I-AA",3,"Harvard","NCAA Division I-AA",30,0,NA,0,0,0,14,12,1,3
-"694",2010,"I-AA",4,"Stephen F. Austin","NCAA Division I-AA",25,0,NA,0,0,0,12,11,1,1
-"695",2010,"I-AA",5,"Georgia Southern","NCAA Division I-AA",24,0,NA,0,0,0,14,10,0,0
-"696",2010,"I-AA",6,"South Carolina State","NCAA Division I-AA",22,0,NA,0,0,0,9,10,0,3
-"697",2010,"I-AA",7,"Southern Illinois","NCAA Division I-AA",22,0,NA,0,0,0,11,10,1,0
-"698",2010,"I-AA",8,"Weber State","NCAA Division I-AA",22,0,NA,0,0,0,14,5,1,2
-"699",2010,"I-AA",9,"Northern Iowa","NCAA Division I-AA",21,0,NA,0,0,0,10,7,1,3
-"700",2010,"I-AA",10,"South Dakota State","NCAA Division I-AA",21,0,NA,0,0,0,12,7,2,0
-"701",2010,"I-AA",11,"Montana","NCAA Division I-AA",20,0,NA,0,0,0,11,9,0,0
-"702",2010,"I-AA",12,"Prairie View A&M","SWAC",20,0,NA,0,0,0,7,9,1,3
-"703",2010,"I-AA",13,"James Madison","NCAA Division I-AA",19,0,NA,0,0,0,7,8,1,3
-"704",2010,"I-AA",14,"Western Carolina","NCAA Division I-AA",19,0,NA,0,0,0,10,8,0,1
-"705",2010,"I-AA",15,"Eastern Illinois","NCAA Division I-AA",19,0,NA,0,0,0,7,9,1,2
-"706",2010,"I-AA",16,"Delaware","NCAA Division I-AA",19,0,NA,0,0,0,10,9,0,0
-"707",2010,"I-AA",17,"Liberty","NCAA Division I-AA",19,0,NA,0,0,0,9,9,0,1
-"708",2010,"I-AA",18,"Jacksonville State","NCAA Division I-AA",19,0,NA,0,0,0,12,5,1,1
-"709",2010,"I-AA",19,"Richmond","NCAA Division I-AA",19,0,NA,0,0,0,9,7,0,3
-"710",2010,"I-AA",20,"New Hampshire","NCAA Division I-AA",17,0,NA,0,0,0,8,7,0,2
-"711",2010,"I-AA",21,"Massachusetts","Mid-American",17,0,NA,0,0,0,10,6,0,1
-"712",2010,"I-AA",22,"Eastern Washington","NCAA Division I-AA",16,0,NA,0,0,0,13,2,0,1
-"713",2010,"I-AA",23,"Appalachian State","NCAA Division I-AA",15,0,NA,0,0,0,10,5,0,0
-"714",2010,"I-AA",24,"Villanova","NCAA Division I-AA",15,0,NA,0,0,0,8,6,0,1
-"715",2010,"I-AA",25,"McNeese State","NCAA Division I-AA",15,0,NA,0,0,0,7,6,1,1
-"716",2010,"I-AA",26,"Texas State","WAC",14,0,NA,0,0,0,9,5,0,0
-"717",2010,"I-AA",27,"Elon","NCAA Division I-AA",14,0,NA,0,0,0,5,9,0,0
-"718",2010,"I-AA",28,"William & Mary","NCAA Division I-AA",14,0,NA,0,0,0,8,5,1,0
-"719",2010,"I-AA",29,"Alabama State","SWAC",2,0,NA,0,0,0,1,1,0,0
-"720",2010,"I-AA",30,"Nicholls State","NCAA Division I-AA",2,0,NA,0,0,0,2,0,0,0
-"721",2010,"I-AA",31,"Murray State","NCAA Division I-AA",1,0,NA,0,0,0,1,0,0,0
-"722",2010,"I-AA",32,"Youngstown State","NCAA Division I-AA",1,0,NA,0,0,0,1,0,0,0
-"723",2010,"I-AA",33,"Hampton","NCAA Division I-AA",1,0,NA,0,0,0,1,0,0,0
-"724",2010,"I-AA",34,"Stony Brook","NCAA Division I-AA",1,0,NA,0,0,0,1,0,0,0
-"725",2010,"I-AA",35,"Sam Houston State","NCAA Division I-AA",1,0,NA,0,0,0,0,1,0,0
-"726",2010,"I-AA",36,"Georgetown","NCAA Division I-AA",1,0,NA,0,0,0,0,1,0,0
-"727",2010,"I-AA",37,"Southeastern Louisiana","NCAA Division I-AA",1,0,NA,0,0,0,1,0,0,0
-"728",2010,"I-AA",38,"Sacred Heart","NCAA Division I-AA",1,0,NA,0,0,0,0,1,0,0
-"729",2010,"I-AA",39,"Delaware State","NCAA Division I-AA",1,0,NA,0,0,0,1,0,0,0
-"730",2010,"I-AA",40,"Drake","NCAA Division I-AA",1,0,NA,0,0,0,0,0,1,0
-"731",2010,"I-AA",41,"Texas Southern","SWAC",1,0,NA,0,0,0,0,1,0,0
-"732",2009,"I-A",1,"Troy","Sun Belt",39,0,NA,0,0,0,19,19,0,1
-"733",2009,"I-A",2,"Mississippi","SEC",37,3,NA,0,0,0,16,16,2,3
-"734",2009,"I-A",3,"Arkansas","SEC",33,1,NA,0,0,0,15,14,1,3
-"735",2009,"I-A",4,"Kansas State","Big 12",32,0,NA,0,0,0,14,13,1,4
-"736",2009,"I-A",5,"Alabama","SEC",30,9,NA,0,0,0,14,15,0,0
-"737",2009,"I-A",6,"Central Michigan","Mid-American",30,0,NA,0,0,0,14,14,0,2
-"738",2009,"I-A",7,"Hawaii","Mountain West",30,0,NA,0,0,0,13,14,1,2
-"739",2009,"I-A",8,"South Florida","Big East",29,1,NA,0,0,0,10,15,0,4
-"740",2009,"I-A",9,"Auburn","SEC",29,0,NA,0,0,0,13,11,0,5
-"741",2009,"I-A",10,"Baylor","Big 12",29,1,NA,0,0,0,17,9,0,3
-"742",2009,"I-A",11,"South Carolina","SEC",28,6,NA,0,0,0,11,15,0,2
-"743",2009,"I-A",12,"North Carolina","ACC",28,4,NA,0,0,0,11,12,1,4
-"744",2009,"I-A",13,"Texas A&M","SEC",28,1,NA,0,0,0,8,15,1,4
-"745",2009,"I-A",14,"Kentucky","SEC",28,1,NA,0,0,0,13,14,0,1
-"746",2009,"I-A",15,"North Carolina State","ACC",28,0,NA,0,0,0,9,15,1,3
-"747",2009,"I-A",16,"Southern Methodist","Conference USA",28,0,NA,0,0,0,12,13,1,2
-"748",2009,"I-A",17,"Temple","Big East",28,0,NA,0,0,0,11,15,1,1
-"749",2009,"I-A",18,"Mississippi State","SEC",27,2,NA,0,0,0,12,8,2,5
-"750",2009,"I-A",19,"Duke","ACC",27,0,NA,0,0,0,10,13,0,4
-"751",2009,"I-A",20,"Louisiana-Monroe","Sun Belt",27,0,NA,0,0,0,15,10,0,2
-"752",2009,"I-A",21,"Ohio State","Big Ten",26,7,NA,0,0,0,14,10,0,2
-"753",2009,"I-A",22,"Penn State","Big Ten",26,1,NA,0,0,0,11,10,1,4
-"754",2009,"I-A",23,"Oklahoma State","Big 12",26,1,NA,0,0,0,10,14,0,2
-"755",2009,"I-A",24,"Maryland","ACC",26,1,NA,0,0,0,10,14,1,1
-"756",2009,"I-A",25,"Marshall","Conference USA",26,0,NA,0,0,0,11,12,0,3
-"757",2009,"I-A",26,"Louisville","Big East",26,0,NA,0,0,0,9,16,0,1
-"758",2009,"I-A",27,"Cincinnati","Big East",26,0,NA,0,0,0,10,11,1,4
-"759",2009,"I-A",28,"Florida Atlantic","Sun Belt",26,0,NA,0,0,0,11,13,1,1
-"760",2009,"I-A",29,"Tulane","Conference USA",26,0,NA,0,0,0,12,12,1,1
-"761",2009,"I-A",30,"Louisiana Tech","WAC",26,0,NA,0,0,0,14,11,1,0
-"762",2009,"I-A",31,"Utah State","WAC",26,0,NA,0,0,0,14,12,0,0
-"763",2009,"I-A",32,"Western Kentucky","Sun Belt",26,0,NA,0,0,0,11,11,1,3
-"764",2009,"I-A",33,"LSU","SEC",25,10,NA,0,0,0,8,13,1,3
-"765",2009,"I-A",34,"West Virginia","Big 12",25,1,NA,0,0,0,13,11,0,1
-"766",2009,"I-A",35,"Virginia","ACC",25,1,NA,0,0,0,13,10,0,2
-"767",2009,"I-A",36,"Texas Tech","Big 12",25,0,NA,0,0,0,11,12,0,2
-"768",2009,"I-A",37,"Oregon","Pac-12",25,1,NA,0,0,0,9,13,2,1
-"769",2009,"I-A",38,"Missouri","SEC",25,1,NA,0,0,0,11,13,0,1
-"770",2009,"I-A",39,"Kansas","Big 12",25,0,NA,0,0,0,9,14,0,2
-"771",2009,"I-A",40,"Arizona","Pac-12",25,0,NA,0,0,0,14,10,0,1
-"772",2009,"I-A",41,"Iowa State","Big 12",25,0,NA,0,0,0,9,12,0,4
-"773",2009,"I-A",42,"Tulsa","Conference USA",25,0,NA,0,0,0,12,11,0,2
-"774",2009,"I-A",43,"Oregon State","Pac-12",25,0,NA,0,0,0,13,7,0,5
-"775",2009,"I-A",44,"Houston","Conference USA",25,0,NA,0,0,0,11,11,0,3
-"776",2009,"I-A",45,"Miami (OH)","Mid-American",25,0,NA,0,0,0,11,14,0,0
-"777",2009,"I-A",46,"Rice","Conference USA",25,0,NA,0,0,0,11,11,1,2
-"778",2009,"I-A",47,"Tennessee","SEC",24,6,NA,0,0,0,9,13,0,2
-"779",2009,"I-A",48,"Oklahoma","Big 12",24,6,NA,0,0,0,10,14,0,0
-"780",2009,"I-A",49,"UCLA","Pac-12",24,4,NA,0,0,0,12,10,0,2
-"781",2009,"I-A",50,"Rutgers","Big East",24,3,NA,0,0,0,8,12,0,4
-"782",2009,"I-A",51,"Arizona State","Pac-12",24,2,NA,0,0,0,13,7,0,4
-"783",2009,"I-A",52,"UAB","Conference USA",24,0,NA,0,0,0,10,14,0,0
-"784",2009,"I-A",53,"Utah","Pac-12",24,0,NA,0,0,0,11,13,0,0
-"785",2009,"I-A",54,"Memphis","Conference USA",24,0,NA,0,0,0,15,8,1,0
-"786",2009,"I-A",55,"Western Michigan","Mid-American",24,0,NA,0,0,0,16,8,0,0
-"787",2009,"I-A",56,"Akron","Mid-American",24,0,NA,0,0,0,12,10,1,1
-"788",2009,"I-A",57,"Wyoming","Mountain West",24,0,NA,0,0,0,11,13,0,0
-"789",2009,"I-A",58,"Northern Illinois","Mid-American",24,0,NA,0,0,0,8,13,2,1
-"790",2009,"I-A",59,"Michigan State","Big Ten",23,2,NA,0,0,0,12,10,1,0
-"791",2009,"I-A",60,"Florida International","Sun Belt",23,0,NA,0,0,0,10,11,1,1
-"792",2009,"I-A",61,"UCF","Conference USA",23,0,NA,0,0,0,8,13,0,2
-"793",2009,"I-A",62,"Middle Tennessee","Sun Belt",23,0,NA,0,0,0,7,12,0,4
-"794",2009,"I-A",63,"Colorado State","Mountain West",23,0,NA,0,0,0,11,11,1,0
-"795",2009,"I-A",64,"Eastern Michigan","Mid-American",23,0,NA,0,0,0,8,14,0,1
-"796",2009,"I-A",65,"Buffalo","Mid-American",23,0,NA,0,0,0,12,11,0,0
-"797",2009,"I-A",66,"Kent State","Mid-American",23,0,NA,0,0,0,10,11,1,1
-"798",2009,"I-A",67,"Michigan","Big Ten",22,7,NA,0,0,0,9,7,1,5
-"799",2009,"I-A",68,"Stanford","Pac-12",22,2,NA,0,0,0,14,8,0,0
-"800",2009,"I-A",69,"TCU","Big 12",22,0,NA,0,0,0,10,10,0,2
-"801",2009,"I-A",70,"Southern Miss","Conference USA",22,0,NA,0,0,0,13,8,0,1
-"802",2009,"I-A",71,"Washington State","Pac-12",22,0,NA,0,0,0,7,13,0,2
-"803",2009,"I-A",72,"Ball State","Mid-American",22,0,NA,0,0,0,12,8,0,2
-"804",2009,"I-A",73,"New Mexico State","WAC",22,0,NA,0,0,0,11,9,0,2
-"805",2009,"I-A",74,"Bowling Green","Mid-American",22,0,NA,0,0,0,10,10,0,2
-"806",2009,"I-A",75,"UNLV","Mountain West",22,0,NA,0,0,0,10,11,0,1
-"807",2009,"I-A",76,"Ohio","Mid-American",22,0,NA,0,0,0,14,7,0,1
-"808",2009,"I-A",77,"Georgia","SEC",21,8,NA,0,0,0,10,8,1,2
-"809",2009,"I-A",78,"Virginia Tech","ACC",21,2,NA,0,0,0,6,10,1,4
-"810",2009,"I-A",79,"Georgia Tech","ACC",21,0,NA,0,0,0,9,11,0,1
-"811",2009,"I-A",80,"Wisconsin","Big Ten",21,1,NA,0,0,0,11,8,0,2
-"812",2009,"I-A",81,"Arkansas State","Sun Belt",21,0,NA,0,0,0,10,9,0,2
-"813",2009,"I-A",82,"Wake Forest","ACC",21,0,NA,0,0,0,7,10,1,3
-"814",2009,"I-A",83,"Nebraska","Big Ten",21,0,NA,0,0,0,9,9,0,3
-"815",2009,"I-A",84,"Purdue","Big Ten",21,0,NA,0,0,0,8,10,0,3
-"816",2009,"I-A",85,"Boise State","Mountain West",21,0,NA,0,0,0,10,10,0,1
-"817",2009,"I-A",86,"San Diego State","Mountain West",21,0,NA,0,0,0,11,8,0,2
-"818",2009,"I-A",87,"UTEP","Conference USA",21,0,NA,0,0,0,10,9,0,2
-"819",2009,"I-A",88,"Connecticut","Big East",21,0,NA,0,0,0,9,9,1,2
-"820",2009,"I-A",89,"Brigham Young","IA Independents",21,0,NA,0,0,0,14,6,0,1
-"821",2009,"I-A",90,"North Texas","Sun Belt",21,0,NA,0,0,0,9,11,1,0
-"822",2009,"I-A",91,"Toledo","Mid-American",21,0,NA,0,0,0,8,11,1,1
-"823",2009,"I-A",92,"Texas","Big 12",20,9,NA,0,0,0,9,11,0,0
-"824",2009,"I-A",93,"Florida State","ACC",20,5,NA,0,0,0,10,8,1,1
-"825",2009,"I-A",94,"Minnesota","Big Ten",20,1,NA,0,0,0,11,6,1,2
-"826",2009,"I-A",95,"Illinois","Big Ten",20,1,NA,0,0,0,10,8,0,2
-"827",2009,"I-A",96,"Pittsburgh","Big East",20,0,NA,0,0,0,12,6,0,2
-"828",2009,"I-A",97,"New Mexico","Mountain West",20,0,NA,0,0,0,11,6,1,2
-"829",2009,"I-A",98,"Idaho","WAC",20,0,NA,0,0,0,10,9,0,1
-"830",2009,"I-A",99,"Miami (FL)","ACC",19,6,NA,0,0,0,9,8,0,2
-"831",2009,"I-A",100,"Colorado","Pac-12",19,0,NA,0,0,0,10,8,1,0
-"832",2009,"I-A",101,"East Carolina","Conference USA",19,0,NA,0,0,0,8,10,0,1
-"833",2009,"I-A",102,"Indiana","Big Ten",19,0,NA,0,0,0,11,5,1,2
-"834",2009,"I-A",103,"Iowa","Big Ten",19,1,NA,0,0,0,15,4,0,0
-"835",2009,"I-A",104,"Washington","Pac-12",19,0,NA,0,0,0,3,12,1,3
-"836",2009,"I-A",105,"USC","Pac-12",18,9,NA,0,0,0,5,9,1,3
-"837",2009,"I-A",106,"Notre Dame","IA Independents",18,7,NA,0,0,0,7,5,2,4
-"838",2009,"I-A",107,"California","Pac-12",18,1,NA,0,0,0,8,9,1,0
-"839",2009,"I-A",108,"Boston College","ACC",18,0,NA,0,0,0,9,8,1,0
-"840",2009,"I-A",109,"Northwestern","Big Ten",18,0,NA,0,0,0,8,9,1,0
-"841",2009,"I-A",110,"Louisiana-Lafayette","Sun Belt",18,0,NA,0,0,0,9,7,0,2
-"842",2009,"I-A",111,"Nevada","Mountain West",18,0,NA,0,0,0,9,8,1,0
-"843",2009,"I-A",112,"Florida","SEC",17,8,NA,0,0,0,10,6,0,1
-"844",2009,"I-A",113,"Vanderbilt","SEC",17,0,NA,0,0,0,11,6,0,0
-"845",2009,"I-A",114,"Fresno State","Mountain West",17,0,NA,0,0,0,3,13,0,1
-"846",2009,"I-A",115,"Syracuse","Big East",17,0,NA,0,0,0,6,10,1,0
-"847",2009,"I-A",116,"San Jose State","WAC",17,0,NA,0,0,0,9,7,1,0
-"848",2009,"I-A",117,"Clemson","ACC",12,4,NA,0,0,0,7,5,0,0
-"849",2009,"I-AA",1,"Eastern Washington","NCAA Division I-AA",32,0,NA,0,0,0,0,0,0,0
-"850",2009,"I-AA",2,"Stephen F. Austin","NCAA Division I-AA",24,0,NA,0,0,0,0,0,0,0
-"851",2009,"I-AA",3,"Delaware","NCAA Division I-AA",21,0,NA,0,0,0,0,0,0,0
-"852",2009,"I-AA",4,"Massachusetts","Mid-American",19,0,NA,0,0,0,0,0,0,0
-"853",2009,"I-AA",5,"James Madison","NCAA Division I-AA",18,0,NA,0,0,0,0,0,0,0
-"854",2009,"I-AA",6,"Appalachian State","NCAA Division I-AA",15,0,NA,0,0,0,0,0,0,0
-"855",2009,"I-AA",7,"Richmond","NCAA Division I-AA",14,0,NA,0,0,0,0,0,0,0
-"856",2009,"I-AA",8,"Villanova","NCAA Division I-AA",12,0,NA,0,0,0,0,0,0,0
-"857",2009,"I-AA",9,"New Hampshire","NCAA Division I-AA",10,0,NA,0,0,0,0,0,0,0
-"858",2009,"I-AA",10,"William & Mary","NCAA Division I-AA",10,0,NA,0,0,0,0,0,0,0
-"859",2009,"I-AA",11,"North Dakota State","NCAA Division I-AA",8,0,NA,0,0,0,5,3,0,0
-"860",2009,"I-AA",12,"Georgia Southern","NCAA Division I-AA",2,0,NA,0,0,0,0,0,0,0
-"861",2009,"I-AA",13,"Idaho State","NCAA Division I-AA",1,0,NA,0,0,0,0,0,0,0
-"862",2009,"I-AA",14,"Samford","NCAA Division I-AA",1,0,NA,0,0,0,0,1,0,0
-"863",2009,"I-AA",15,"Bethune-Cookman","NCAA Division I-AA",1,0,NA,0,0,0,0,1,0,0
-"864",2009,"I-AA",16,"Georgetown","NCAA Division I-AA",1,0,NA,0,0,0,0,1,0,0
-"865",2009,"I-AA",17,"Jacksonville State","NCAA Division I-AA",1,0,NA,0,0,0,1,0,0,0
-"866",2009,"I-AA",18,"Alabama State","SWAC",1,0,NA,0,0,0,1,0,0,0
-"867",2009,"I-AA",19,"Western Carolina","NCAA Division I-AA",1,0,NA,0,0,0,0,1,0,0
-"868",2009,"I-AA",20,"Northeastern","CAA",0,0,NA,0,0,0,0,0,0,0
-"869",2009,"I-AA",21,"Stony Brook","NCAA Division I-AA",0,0,NA,0,0,0,0,1,0,0
-"870",2008,"I-A",1,"Troy","Sun Belt",36,0,NA,NA,NA,NA,14,20,0,2
-"871",2008,"I-A",2,"Kansas State","Big 12",33,0,NA,NA,NA,NA,14,15,1,3
-"872",2008,"I-A",3,"Alabama","SEC",32,7,NA,NA,NA,NA,12,16,1,3
-"873",2008,"I-A",4,"Miami (FL)","ACC",32,12,NA,NA,NA,NA,14,17,1,0
-"874",2008,"I-A",5,"Florida State","ACC",31,5,NA,NA,NA,NA,17,12,0,2
-"875",2008,"I-A",6,"Virginia Tech","ACC",31,1,NA,NA,NA,NA,10,14,0,7
-"876",2008,"I-A",7,"Minnesota","Big Ten",31,1,NA,NA,NA,NA,9,14,0,8
-"877",2008,"I-A",8,"Mississippi","SEC",30,0,NA,NA,NA,NA,17,10,0,2
-"878",2008,"I-A",9,"Wisconsin","Big Ten",29,1,NA,NA,NA,NA,14,14,1,0
-"879",2008,"I-A",10,"Auburn","SEC",28,2,NA,NA,NA,NA,13,14,0,1
-"880",2008,"I-A",11,"Arizona State","Pac-12",28,1,NA,NA,NA,NA,11,13,0,4
-"881",2008,"I-A",12,"Illinois","Big Ten",28,1,NA,NA,NA,NA,16,11,0,1
-"882",2008,"I-A",13,"Boston College","ACC",28,0,NA,NA,NA,NA,13,11,1,3
-"883",2008,"I-A",14,"Southern Methodist","Conference USA",28,0,NA,NA,NA,NA,20,8,0,0
-"884",2008,"I-A",15,"Nebraska","Big Ten",27,1,NA,NA,NA,NA,13,10,0,4
-"885",2008,"I-A",16,"North Carolina State","ACC",27,2,NA,NA,NA,NA,9,14,0,4
-"886",2008,"I-A",17,"West Virginia","Big 12",27,0,NA,NA,NA,NA,11,13,1,2
-"887",2008,"I-A",18,"Oklahoma State","Big 12",27,1,NA,NA,NA,NA,13,13,1,0
-"888",2008,"I-A",19,"Mississippi State","SEC",27,1,NA,NA,NA,NA,9,14,1,3
-"889",2008,"I-A",20,"Temple","Big East",27,0,NA,NA,NA,NA,11,12,0,4
-"890",2008,"I-A",21,"Tulsa","Conference USA",27,0,NA,NA,NA,NA,13,13,1,0
-"891",2008,"I-A",22,"LSU","SEC",26,4,NA,NA,NA,NA,14,11,0,1
-"892",2008,"I-A",23,"Arkansas","SEC",26,3,NA,NA,NA,NA,15,7,0,4
-"893",2008,"I-A",24,"Washington","Pac-12",26,1,NA,NA,NA,NA,17,8,0,1
-"894",2008,"I-A",25,"Purdue","Big Ten",26,0,NA,NA,NA,NA,11,14,1,0
-"895",2008,"I-A",26,"Iowa","Big Ten",26,0,NA,NA,NA,NA,14,11,1,0
-"896",2008,"I-A",27,"Akron","Mid-American",26,1,NA,NA,NA,NA,12,13,0,1
-"897",2008,"I-A",28,"Syracuse","Big East",26,0,NA,NA,NA,NA,14,11,1,0
-"898",2008,"I-A",29,"Washington State","Pac-12",26,0,NA,NA,NA,NA,14,10,0,2
-"899",2008,"I-A",30,"UTEP","Conference USA",26,0,NA,NA,NA,NA,10,16,0,0
-"900",2008,"I-A",31,"Clemson","ACC",25,10,NA,NA,NA,NA,13,10,2,0
-"901",2008,"I-A",32,"Arizona","Pac-12",25,0,NA,NA,NA,NA,14,11,0,0
-"902",2008,"I-A",33,"North Texas","Sun Belt",25,0,NA,NA,NA,NA,10,11,0,4
-"903",2008,"I-A",34,"Cincinnati","Big East",25,0,NA,NA,NA,NA,13,9,1,2
-"904",2008,"I-A",35,"Arkansas State","Sun Belt",25,0,NA,NA,NA,NA,13,9,1,2
-"905",2008,"I-A",36,"Western Michigan","Mid-American",25,0,NA,NA,NA,NA,11,13,1,0
-"906",2008,"I-A",37,"Georgia","SEC",24,8,NA,NA,NA,NA,11,9,1,3
-"907",2008,"I-A",38,"Michigan","Big Ten",24,4,NA,NA,NA,NA,14,5,0,5
-"908",2008,"I-A",39,"Texas A&M","SEC",24,3,NA,NA,NA,NA,10,13,0,1
-"909",2008,"I-A",40,"Southern Miss","Conference USA",24,1,NA,NA,NA,NA,12,10,0,2
-"910",2008,"I-A",41,"Missouri","SEC",24,1,NA,NA,NA,NA,12,11,0,1
-"911",2008,"I-A",42,"Florida International","Sun Belt",24,0,NA,NA,NA,NA,8,16,0,0
-"912",2008,"I-A",43,"Louisville","Big East",24,0,NA,NA,NA,NA,12,11,1,0
-"913",2008,"I-A",44,"Iowa State","Big 12",24,0,NA,NA,NA,NA,9,10,2,3
-"914",2008,"I-A",45,"UAB","Conference USA",24,0,NA,NA,NA,NA,9,12,0,3
-"915",2008,"I-A",46,"Middle Tennessee","Sun Belt",24,0,NA,NA,NA,NA,13,9,1,1
-"916",2008,"I-A",47,"Colorado State","Mountain West",24,0,NA,NA,NA,NA,9,12,1,2
-"917",2008,"I-A",48,"Toledo","Mid-American",24,0,NA,NA,NA,NA,10,14,0,0
-"918",2008,"I-A",49,"Florida","SEC",23,11,NA,NA,NA,NA,9,12,1,1
-"919",2008,"I-A",50,"Notre Dame","IA Independents",23,10,NA,NA,NA,NA,11,11,0,1
-"920",2008,"I-A",51,"UCLA","Pac-12",23,4,NA,NA,NA,NA,13,9,1,0
-"921",2008,"I-A",52,"South Florida","Big East",23,0,NA,NA,NA,NA,10,9,2,2
-"922",2008,"I-A",53,"South Carolina","SEC",23,1,NA,NA,NA,NA,7,13,1,2
-"923",2008,"I-A",54,"Connecticut","Big East",23,0,NA,NA,NA,NA,11,11,0,1
-"924",2008,"I-A",55,"Houston","Conference USA",23,0,NA,NA,NA,NA,8,13,1,1
-"925",2008,"I-A",56,"Fresno State","Mountain West",23,0,NA,NA,NA,NA,13,8,0,2
-"926",2008,"I-A",57,"Louisiana-Lafayette","Sun Belt",23,0,NA,NA,NA,NA,8,11,1,3
-"927",2008,"I-A",58,"Wyoming","Mountain West",23,0,NA,NA,NA,NA,13,9,1,0
-"928",2008,"I-A",59,"California","Pac-12",22,0,NA,NA,NA,NA,8,12,0,2
-"929",2008,"I-A",60,"Rutgers","Big East",22,0,NA,NA,NA,NA,9,11,0,2
-"930",2008,"I-A",61,"Baylor","Big 12",22,1,NA,NA,NA,NA,12,7,1,2
-"931",2008,"I-A",62,"San Diego State","Mountain West",22,0,NA,NA,NA,NA,13,7,1,1
-"932",2008,"I-A",63,"New Mexico","Mountain West",22,0,NA,NA,NA,NA,12,8,0,2
-"933",2008,"I-A",64,"UNLV","Mountain West",22,0,NA,NA,NA,NA,11,8,0,3
-"934",2008,"I-A",65,"Central Michigan","Mid-American",22,0,NA,NA,NA,NA,12,10,0,0
-"935",2008,"I-A",66,"Eastern Michigan","Mid-American",22,0,NA,NA,NA,NA,11,9,0,2
-"936",2008,"I-A",67,"Oklahoma","Big 12",21,8,NA,NA,NA,NA,11,9,1,0
-"937",2008,"I-A",68,"Colorado","Pac-12",21,3,NA,NA,NA,NA,10,9,1,1
-"938",2008,"I-A",69,"Marshall","Conference USA",21,0,NA,NA,NA,NA,11,9,1,0
-"939",2008,"I-A",70,"Vanderbilt","SEC",21,0,NA,NA,NA,NA,5,13,1,2
-"940",2008,"I-A",71,"Kent State","Mid-American",21,0,NA,NA,NA,NA,11,8,1,1
-"941",2008,"I-A",72,"Brigham Young","IA Independents",21,0,NA,NA,NA,NA,10,10,1,0
-"942",2008,"I-A",73,"Louisiana-Monroe","Sun Belt",21,0,NA,NA,NA,NA,12,8,0,1
-"943",2008,"I-A",74,"Ball State","Mid-American",21,0,NA,NA,NA,NA,9,9,2,1
-"944",2008,"I-A",75,"Boise State","Mountain West",21,0,NA,NA,NA,NA,12,8,0,1
-"945",2008,"I-A",76,"Utah State","WAC",21,0,NA,NA,NA,NA,12,8,0,1
-"946",2008,"I-A",77,"USC","Pac-12",20,10,NA,NA,NA,NA,8,9,0,3
-"947",2008,"I-A",78,"Ohio State","Big Ten",20,8,NA,NA,NA,NA,9,9,1,1
-"948",2008,"I-A",79,"Georgia Tech","ACC",20,0,NA,NA,NA,NA,11,8,0,1
-"949",2008,"I-A",80,"Oregon","Pac-12",20,1,NA,NA,NA,NA,11,6,0,3
-"950",2008,"I-A",81,"Maryland","ACC",20,2,NA,NA,NA,NA,12,7,0,1
-"951",2008,"I-A",82,"Kansas","Big 12",20,0,NA,NA,NA,NA,11,7,1,1
-"952",2008,"I-A",83,"Memphis","Conference USA",20,0,NA,NA,NA,NA,11,8,0,1
-"953",2008,"I-A",84,"Michigan State","Big Ten",20,0,NA,NA,NA,NA,9,8,0,3
-"954",2008,"I-A",85,"UCF","Conference USA",20,0,NA,NA,NA,NA,12,7,0,1
-"955",2008,"I-A",86,"Northwestern","Big Ten",20,0,NA,NA,NA,NA,10,9,0,1
-"956",2008,"I-A",87,"Indiana","Big Ten",20,0,NA,NA,NA,NA,15,5,0,0
-"957",2008,"I-A",88,"Kentucky","SEC",20,0,NA,NA,NA,NA,8,9,0,3
-"958",2008,"I-A",89,"Nevada","Mountain West",20,0,NA,NA,NA,NA,8,12,0,0
-"959",2008,"I-A",90,"Ohio","Mid-American",20,0,NA,NA,NA,NA,9,10,1,0
-"960",2008,"I-A",91,"Idaho","WAC",20,0,NA,NA,NA,NA,9,9,1,1
-"961",2008,"I-A",92,"Texas","Big 12",19,8,NA,NA,NA,NA,8,9,1,1
-"962",2008,"I-A",93,"Tennessee","SEC",19,1,NA,NA,NA,NA,8,11,0,0
-"963",2008,"I-A",94,"Pittsburgh","Big East",19,4,NA,NA,NA,NA,11,4,1,3
-"964",2008,"I-A",95,"East Carolina","Conference USA",19,0,NA,NA,NA,NA,10,8,0,1
-"965",2008,"I-A",96,"Tulane","Conference USA",19,0,NA,NA,NA,NA,9,9,0,1
-"966",2008,"I-A",97,"North Carolina","ACC",18,1,NA,NA,NA,NA,6,12,0,0
-"967",2008,"I-A",98,"Stanford","Pac-12",18,1,NA,NA,NA,NA,7,6,1,4
-"968",2008,"I-A",99,"Louisiana Tech","WAC",18,0,NA,NA,NA,NA,7,10,0,1
-"969",2008,"I-A",100,"Virginia","ACC",18,0,NA,NA,NA,NA,10,6,1,1
-"970",2008,"I-A",101,"Oregon State","Pac-12",18,0,NA,NA,NA,NA,11,6,0,1
-"971",2008,"I-A",102,"Hawaii","Mountain West",18,0,NA,NA,NA,NA,10,7,0,1
-"972",2008,"I-A",103,"Miami (OH)","Mid-American",18,0,NA,NA,NA,NA,11,6,1,0
-"973",2008,"I-A",104,"San Jose State","WAC",18,0,NA,NA,NA,NA,7,8,1,2
-"974",2008,"I-A",105,"New Mexico State","WAC",18,0,NA,NA,NA,NA,10,7,1,0
-"975",2008,"I-A",106,"Wake Forest","ACC",17,0,NA,NA,NA,NA,9,7,0,1
-"976",2008,"I-A",107,"Duke","ACC",17,0,NA,NA,NA,NA,9,5,1,2
-"977",2008,"I-A",108,"TCU","Big 12",17,1,NA,NA,NA,NA,10,4,1,2
-"978",2008,"I-A",109,"Rice","Conference USA",17,0,NA,NA,NA,NA,10,4,1,2
-"979",2008,"I-A",110,"Buffalo","Mid-American",17,0,NA,NA,NA,NA,7,9,0,1
-"980",2008,"I-A",111,"Utah","Pac-12",16,0,NA,NA,NA,NA,10,4,0,2
-"981",2008,"I-A",112,"Western Kentucky","Sun Belt",16,0,NA,NA,NA,NA,6,9,0,1
-"982",2008,"I-A",113,"Bowling Green","Mid-American",16,0,NA,NA,NA,NA,7,7,1,1
-"983",2008,"I-A",114,"Texas Tech","Big 12",15,0,NA,NA,NA,NA,5,8,1,1
-"984",2008,"I-A",115,"Penn State","Big Ten",14,1,NA,NA,NA,NA,6,8,0,0
-"985",2008,"I-A",116,"Northern Illinois","Mid-American",13,0,NA,NA,NA,NA,6,6,0,1
-"986",2008,"I-A",117,"Florida Atlantic","Sun Belt",6,0,NA,NA,NA,NA,4,2,0,0
-"987",2008,"I-AA",1,"Georgia Southern","NCAA Division I-AA",36,0,NA,NA,NA,NA,19,15,0,2
-"988",2008,"I-AA",2,"Montana","NCAA Division I-AA",31,0,NA,NA,NA,NA,16,13,2,0
-"989",2008,"I-AA",3,"Delaware State","NCAA Division I-AA",26,0,NA,NA,NA,NA,13,13,0,0
-"990",2008,"I-AA",4,"Northern Iowa","NCAA Division I-AA",23,0,NA,NA,NA,NA,11,10,0,2
-"991",2008,"I-AA",5,"Grambling State","SWAC",21,0,NA,NA,NA,NA,14,6,0,1
-"992",2008,"I-AA",6,"Eastern Illinois","NCAA Division I-AA",21,0,NA,NA,NA,NA,13,8,0,0
-"993",2008,"I-AA",7,"McNeese State","NCAA Division I-AA",19,0,NA,NA,NA,NA,9,10,0,0
-"994",2008,"I-AA",8,"Southern Illinois","NCAA Division I-AA",19,0,NA,NA,NA,NA,10,8,1,0
-"995",2008,"I-AA",9,"South Dakota State","NCAA Division I-AA",19,0,NA,NA,NA,NA,10,8,1,0
-"996",2008,"I-AA",10,"Eastern Kentucky","NCAA Division I-AA",19,0,NA,NA,NA,NA,13,5,1,0
-"997",2008,"I-AA",11,"Youngstown State","NCAA Division I-AA",17,0,NA,NA,NA,NA,8,9,0,0
-"998",2008,"I-AA",12,"Wofford","NCAA Division I-AA",17,0,NA,NA,NA,NA,9,8,0,0
-"999",2008,"I-AA",13,"Villanova","NCAA Division I-AA",16,0,NA,NA,NA,NA,0,0,0,0
-"1000",2008,"I-AA",14,"North Dakota State","NCAA Division I-AA",16,0,NA,NA,NA,NA,7,8,1,0
-"1001",2008,"I-AA",15,"Cal Poly","NCAA Division I-AA",16,0,NA,NA,NA,NA,14,1,0,1
-"1002",2008,"I-AA",16,"Liberty","NCAA Division I-AA",16,0,NA,NA,NA,NA,7,8,1,0
-"1003",2008,"I-AA",17,"Massachusetts","Mid-American",16,0,NA,NA,NA,NA,7,9,0,0
-"1004",2008,"I-AA",18,"Appalachian State","NCAA Division I-AA",15,0,NA,NA,NA,NA,3,9,1,2
-"1005",2008,"I-AA",19,"Elon","NCAA Division I-AA",14,0,NA,NA,NA,NA,8,5,1,0
-"1006",2008,"I-AA",20,"New Hampshire","NCAA Division I-AA",14,0,NA,NA,NA,NA,10,4,0,0
-"1007",2008,"I-AA",21,"Richmond","NCAA Division I-AA",12,0,NA,NA,NA,NA,7,5,0,0
-"1008",2008,"I-AA",22,"James Madison","NCAA Division I-AA",12,0,NA,NA,NA,NA,7,5,0,0
-"1009",2008,"I-AA",23,"Delaware","NCAA Division I-AA",5,0,NA,NA,NA,NA,4,1,0,0
-"1010",2008,"I-AA",24,"Montana State","NCAA Division I-AA",1,0,NA,NA,NA,NA,0,0,0,0
-"1011",2008,"I-AA",25,"Winston-Salem","NCAA Football",1,0,NA,NA,NA,NA,0,1,0,0
-"1012",2008,"I-AA",26,"Prairie View A&M","SWAC",1,0,NA,NA,NA,NA,1,0,0,0
-"1013",2008,"I-AA",27,"Arkansas-Pine Bluff","SWAC",1,0,NA,NA,NA,NA,0,0,0,1
-"1014",2008,"I-AA",28,"Yale","NCAA Division I-AA",1,0,NA,NA,NA,NA,0,1,0,0
-"1015",2008,"I-AA",29,"Alabama A&M","SWAC",1,0,NA,NA,NA,NA,1,0,0,0
-"1016",2008,"I-AA",30,"Portland State","NCAA Division I-AA",1,0,NA,NA,NA,NA,0,1,0,0
-"1017",2008,"I-AA",31,"Maine","NCAA Division I-AA",1,0,NA,NA,NA,NA,1,0,0,0
-"1018",2008,"I-AA",32,"Towson","NCAA Division I-AA",1,0,NA,NA,NA,NA,1,0,0,0
-"1019",2008,"I-AA",33,"Wagner","NCAA Division I-AA",1,0,NA,NA,NA,NA,1,0,0,0
-"1020",2008,"I-AA",34,"Weber State","NCAA Division I-AA",1,0,NA,NA,NA,NA,0,1,0,0
-"1021",2008,"I-AA",35,"Gardner-Webb","NCAA Division I-AA",1,0,NA,NA,NA,NA,0,0,1,0
-"1022",2008,"I-AA",36,"Hofstra","CAA",1,0,NA,NA,NA,NA,0,1,0,0
-"1023",2008,"I-AA",37,"Northeastern","CAA",1,0,NA,NA,NA,NA,1,0,0,0
-"1024",2008,"I-AA",38,"Columbia","NCAA Division I-AA",1,0,NA,NA,NA,NA,1,0,0,0
-"1025",2007,"I-A",1,"Mississippi State","SEC",35,0,NA,NA,NA,NA,15,19,1,0
-"1026",2007,"I-A",2,"Oregon State","Pac-12",35,0,NA,NA,NA,NA,16,19,0,0
-"1027",2007,"I-A",3,"Troy","Sun Belt",34,0,NA,NA,NA,NA,16,16,2,0
-"1028",2007,"I-A",4,"South Carolina","SEC",32,8,NA,NA,NA,NA,14,18,0,0
-"1029",2007,"I-A",5,"Kansas State","Big 12",32,0,NA,NA,NA,NA,17,14,1,0
-"1030",2007,"I-A",6,"Tennessee","SEC",31,7,NA,NA,NA,NA,14,17,0,0
-"1031",2007,"I-A",7,"Auburn","SEC",30,5,NA,NA,NA,NA,14,14,1,1
-"1032",2007,"I-A",8,"Baylor","Big 12",30,0,NA,NA,NA,NA,15,13,2,0
-"1033",2007,"I-A",9,"Oregon","Pac-12",29,1,NA,NA,NA,NA,14,14,1,0
-"1034",2007,"I-A",10,"UCF","Conference USA",29,1,NA,NA,NA,NA,18,10,1,0
-"1035",2007,"I-A",11,"Connecticut","Big East",29,0,NA,NA,NA,NA,15,13,1,0
-"1036",2007,"I-A",12,"West Virginia","Big 12",28,1,NA,NA,NA,NA,12,15,0,1
-"1037",2007,"I-A",13,"Nebraska","Big Ten",28,0,NA,NA,NA,NA,12,15,1,0
-"1038",2007,"I-A",14,"Kentucky","SEC",28,1,NA,NA,NA,NA,14,13,1,0
-"1039",2007,"I-A",15,"Colorado","Pac-12",28,2,NA,NA,NA,NA,18,10,0,0
-"1040",2007,"I-A",16,"Texas Tech","Big 12",28,0,NA,NA,NA,NA,17,10,1,0
-"1041",2007,"I-A",17,"Temple","Big East",28,0,NA,NA,NA,NA,12,16,0,0
-"1042",2007,"I-A",18,"Florida","SEC",27,14,NA,NA,NA,NA,11,15,1,0
-"1043",2007,"I-A",19,"LSU","SEC",27,7,NA,NA,NA,NA,14,11,2,0
-"1044",2007,"I-A",20,"California","Pac-12",27,0,NA,NA,NA,NA,14,12,1,0
-"1045",2007,"I-A",21,"Maryland","ACC",27,1,NA,NA,NA,NA,18,8,1,0
-"1046",2007,"I-A",22,"Missouri","SEC",27,1,NA,NA,NA,NA,11,15,1,0
-"1047",2007,"I-A",23,"Arkansas","SEC",27,0,NA,NA,NA,NA,14,11,1,1
-"1048",2007,"I-A",24,"Washington","Pac-12",27,0,NA,NA,NA,NA,13,12,2,0
-"1049",2007,"I-A",25,"Houston","Conference USA",27,0,NA,NA,NA,NA,14,12,0,1
-"1050",2007,"I-A",26,"Kent State","Mid-American",27,0,NA,NA,NA,NA,11,16,0,0
-"1051",2007,"I-A",27,"East Carolina","Conference USA",26,0,NA,NA,NA,NA,16,10,0,0
-"1052",2007,"I-A",28,"Louisiana-Monroe","Sun Belt",26,0,NA,NA,NA,NA,9,11,1,5
-"1053",2007,"I-A",29,"Marshall","Conference USA",26,0,NA,NA,NA,NA,15,11,0,0
-"1054",2007,"I-A",30,"Brigham Young","IA Independents",26,0,NA,NA,NA,NA,18,8,0,0
-"1055",2007,"I-A",31,"Washington State","Pac-12",26,0,NA,NA,NA,NA,11,15,0,0
-"1056",2007,"I-A",32,"Fresno State","Mountain West",26,0,NA,NA,NA,NA,11,13,1,1
-"1057",2007,"I-A",33,"Texas","Big 12",25,12,NA,NA,NA,NA,14,11,0,0
-"1058",2007,"I-A",34,"Southern Miss","Conference USA",25,1,NA,NA,NA,NA,11,13,0,1
-"1059",2007,"I-A",35,"Mississippi","SEC",25,3,NA,NA,NA,NA,11,13,1,0
-"1060",2007,"I-A",36,"South Florida","Big East",25,0,NA,NA,NA,NA,13,12,0,0
-"1061",2007,"I-A",37,"Middle Tennessee","Sun Belt",25,0,NA,NA,NA,NA,12,12,0,1
-"1062",2007,"I-A",38,"Syracuse","Big East",25,0,NA,NA,NA,NA,10,14,1,0
-"1063",2007,"I-A",39,"Utah","Pac-12",25,0,NA,NA,NA,NA,9,16,0,0
-"1064",2007,"I-A",40,"UTEP","Conference USA",25,0,NA,NA,NA,NA,11,14,0,0
-"1065",2007,"I-A",41,"UAB","Conference USA",25,0,NA,NA,NA,NA,13,11,1,0
-"1066",2007,"I-A",42,"Tulsa","Conference USA",25,0,NA,NA,NA,NA,10,15,0,0
-"1067",2007,"I-A",43,"Boise State","Mountain West",25,0,NA,NA,NA,NA,14,10,1,0
-"1068",2007,"I-A",44,"North Carolina","ACC",24,7,NA,NA,NA,NA,12,10,1,1
-"1069",2007,"I-A",45,"Alabama","SEC",24,3,NA,NA,NA,NA,10,14,0,0
-"1070",2007,"I-A",46,"Minnesota","Big Ten",24,1,NA,NA,NA,NA,14,9,0,1
-"1071",2007,"I-A",47,"Arkansas State","Sun Belt",24,0,NA,NA,NA,NA,15,8,0,1
-"1072",2007,"I-A",48,"Virginia Tech","ACC",24,1,NA,NA,NA,NA,15,9,0,0
-"1073",2007,"I-A",49,"Virginia","ACC",24,0,NA,NA,NA,NA,15,8,1,0
-"1074",2007,"I-A",50,"Pittsburgh","Big East",24,1,NA,NA,NA,NA,13,11,0,0
-"1075",2007,"I-A",51,"Colorado State","Mountain West",24,0,NA,NA,NA,NA,8,15,0,1
-"1076",2007,"I-A",52,"Oklahoma State","Big 12",24,2,NA,NA,NA,NA,13,11,0,0
-"1077",2007,"I-A",53,"Arizona State","Pac-12",24,0,NA,NA,NA,NA,11,13,0,0
-"1078",2007,"I-A",54,"Wyoming","Mountain West",24,0,NA,NA,NA,NA,15,9,0,0
-"1079",2007,"I-A",55,"Iowa State","Big 12",24,0,NA,NA,NA,NA,13,11,0,0
-"1080",2007,"I-A",56,"Utah State","WAC",24,0,NA,NA,NA,NA,10,13,1,0
-"1081",2007,"I-A",57,"Eastern Michigan","Mid-American",24,0,NA,NA,NA,NA,14,10,0,0
-"1082",2007,"I-A",58,"Ball State","Mid-American",24,0,NA,NA,NA,NA,9,13,1,1
-"1083",2007,"I-A",59,"Rice","Conference USA",24,0,NA,NA,NA,NA,12,11,0,1
-"1084",2007,"I-A",60,"Hawaii","Mountain West",24,0,NA,NA,NA,NA,13,11,0,0
-"1085",2007,"I-A",61,"Georgia","SEC",23,6,NA,NA,NA,NA,13,9,1,0
-"1086",2007,"I-A",62,"TCU","Big 12",23,0,NA,NA,NA,NA,8,13,1,1
-"1087",2007,"I-A",63,"Clemson","ACC",23,3,NA,NA,NA,NA,9,14,0,0
-"1088",2007,"I-A",64,"Miami (OH)","Mid-American",23,0,NA,NA,NA,NA,10,13,0,0
-"1089",2007,"I-A",65,"North Carolina State","ACC",23,0,NA,NA,NA,NA,13,9,1,0
-"1090",2007,"I-A",66,"Kansas","Big 12",23,0,NA,NA,NA,NA,13,9,1,0
-"1091",2007,"I-A",67,"Ohio","Mid-American",23,0,NA,NA,NA,NA,15,7,1,0
-"1092",2007,"I-A",68,"New Mexico","Mountain West",23,0,NA,NA,NA,NA,14,9,0,0
-"1093",2007,"I-A",69,"Memphis","Conference USA",22,0,NA,NA,NA,NA,13,8,1,0
-"1094",2007,"I-A",70,"Illinois","Big Ten",22,3,NA,NA,NA,NA,10,12,0,0
-"1095",2007,"I-A",71,"Iowa","Big Ten",22,2,NA,NA,NA,NA,11,11,0,0
-"1096",2007,"I-A",72,"Michigan State","Big Ten",22,1,NA,NA,NA,NA,14,7,1,0
-"1097",2007,"I-A",73,"Southern Methodist","Conference USA",22,1,NA,NA,NA,NA,13,7,0,2
-"1098",2007,"I-A",74,"Tulane","Conference USA",22,0,NA,NA,NA,NA,12,9,1,0
-"1099",2007,"I-A",75,"San Diego State","Mountain West",22,0,NA,NA,NA,NA,11,11,0,0
-"1100",2007,"I-A",76,"Idaho","WAC",22,0,NA,NA,NA,NA,11,11,0,0
-"1101",2007,"I-A",77,"Duke","ACC",22,0,NA,NA,NA,NA,12,9,1,0
-"1102",2007,"I-A",78,"Cincinnati","Big East",22,0,NA,NA,NA,NA,15,6,0,1
-"1103",2007,"I-A",79,"Akron","Mid-American",22,0,NA,NA,NA,NA,10,12,0,0
-"1104",2007,"I-A",80,"Penn State","Big Ten",21,3,NA,NA,NA,NA,12,8,1,0
-"1105",2007,"I-A",81,"Oklahoma","Big 12",21,1,NA,NA,NA,NA,12,8,1,0
-"1106",2007,"I-A",82,"Rutgers","Big East",21,2,NA,NA,NA,NA,8,12,1,0
-"1107",2007,"I-A",83,"Louisiana Tech","WAC",21,0,NA,NA,NA,NA,7,14,0,0
-"1108",2007,"I-A",84,"Western Michigan","Mid-American",21,0,NA,NA,NA,NA,9,11,1,0
-"1109",2007,"I-A",85,"Wake Forest","ACC",21,0,NA,NA,NA,NA,11,10,0,0
-"1110",2007,"I-A",86,"New Mexico State","WAC",21,0,NA,NA,NA,NA,10,10,1,0
-"1111",2007,"I-A",87,"USC","Pac-12",20,10,NA,NA,NA,NA,11,9,0,0
-"1112",2007,"I-A",88,"Miami (FL)","ACC",20,6,NA,NA,NA,NA,12,8,0,0
-"1113",2007,"I-A",89,"Michigan","Big Ten",20,4,NA,NA,NA,NA,13,7,0,0
-"1114",2007,"I-A",90,"Wisconsin","Big Ten",20,2,NA,NA,NA,NA,12,7,1,0
-"1115",2007,"I-A",91,"Georgia Tech","ACC",20,3,NA,NA,NA,NA,10,10,0,0
-"1116",2007,"I-A",92,"Indiana","Big Ten",20,0,NA,NA,NA,NA,11,9,0,0
-"1117",2007,"I-A",93,"North Texas","Sun Belt",20,0,NA,NA,NA,NA,12,8,0,0
-"1118",2007,"I-A",94,"UNLV","Mountain West",20,0,NA,NA,NA,NA,7,12,0,1
-"1119",2007,"I-A",95,"Buffalo","Mid-American",20,0,NA,NA,NA,NA,11,9,0,0
-"1120",2007,"I-A",96,"Florida State","ACC",19,2,NA,NA,NA,NA,11,7,1,0
-"1121",2007,"I-A",97,"Texas A&M","SEC",19,3,NA,NA,NA,NA,11,8,0,0
-"1122",2007,"I-A",98,"Northwestern","Big Ten",19,0,NA,NA,NA,NA,10,9,0,0
-"1123",2007,"I-A",99,"Stanford","Pac-12",19,0,NA,NA,NA,NA,11,7,1,0
-"1124",2007,"I-A",100,"Toledo","Mid-American",19,0,NA,NA,NA,NA,14,4,1,0
-"1125",2007,"I-A",101,"Purdue","Big Ten",19,0,NA,NA,NA,NA,8,11,0,0
-"1126",2007,"I-A",102,"Northern Illinois","Mid-American",19,0,NA,NA,NA,NA,11,8,0,0
-"1127",2007,"I-A",103,"Notre Dame","IA Independents",18,10,NA,NA,NA,NA,11,6,1,0
-"1128",2007,"I-A",104,"Boston College","ACC",18,0,NA,NA,NA,NA,11,5,1,1
-"1129",2007,"I-A",105,"Louisiana-Lafayette","Sun Belt",18,0,NA,NA,NA,NA,9,8,0,1
-"1130",2007,"I-A",106,"Bowling Green","Mid-American",18,0,NA,NA,NA,NA,7,8,1,2
-"1131",2007,"I-A",107,"Arizona","Pac-12",17,2,NA,NA,NA,NA,7,9,1,0
-"1132",2007,"I-A",108,"Nevada","Mountain West",17,0,NA,NA,NA,NA,8,9,0,0
-"1133",2007,"I-A",109,"Florida Atlantic","Sun Belt",16,0,NA,NA,NA,NA,11,4,1,0
-"1134",2007,"I-A",110,"Central Michigan","Mid-American",16,0,NA,NA,NA,NA,9,7,0,0
-"1135",2007,"I-A",111,"Ohio State","Big Ten",15,2,NA,NA,NA,NA,7,8,0,0
-"1136",2007,"I-A",112,"Louisville","Big East",15,0,NA,NA,NA,NA,10,5,0,0
-"1137",2007,"I-A",113,"Vanderbilt","SEC",15,0,NA,NA,NA,NA,9,6,0,0
-"1138",2007,"I-A",114,"Florida International","Sun Belt",14,0,NA,NA,NA,NA,9,5,0,0
-"1139",2007,"I-A",115,"San Jose State","WAC",13,0,NA,NA,NA,NA,7,6,0,0
-"1140",2007,"I-A",116,"UCLA","Pac-12",11,2,NA,NA,NA,NA,4,7,0,0
-"1141",2007,"I-A",117,"Air Force","Mountain West",1,0,NA,NA,NA,NA,1,0,0,0
-"1142",2007,"I-AA",1,"Western Kentucky","Sun Belt",5,0,NA,NA,NA,NA,2,3,0,0
-"1143",2007,"I-AA",2,"Hampton","NCAA Division I-AA",2,0,NA,NA,NA,NA,1,0,0,1
-"1144",2007,"I-AA",3,"Southern Illinois","NCAA Division I-AA",1,0,NA,NA,NA,NA,0,1,0,0
-"1145",2007,"I-AA",4,"Jackson State","SWAC",1,0,NA,NA,NA,NA,1,0,0,0
-"1146",2007,"I-AA",5,"Harvard","NCAA Division I-AA",1,0,NA,NA,NA,NA,1,0,0,0
-"1147",2007,"I-AA",6,"Chattanooga","NCAA Division I-AA",1,0,NA,NA,NA,NA,0,1,0,0
-"1148",2007,"I-AA",7,"Eastern Illinois","NCAA Division I-AA",1,0,NA,NA,NA,NA,1,0,0,0
-"1149",2007,"I-AA",8,"Liberty","NCAA Division I-AA",1,0,NA,NA,NA,NA,1,0,0,0
-"1150",2007,"I-AA",9,"Samford","NCAA Division I-AA",1,0,NA,NA,NA,NA,0,1,0,0
-"1151",2007,"I-AA",10,"Appalachian State","NCAA Division I-AA",1,0,NA,NA,NA,NA,0,1,0,0
-"1152",2007,"I-AA",11,"Georgia Southern","NCAA Division I-AA",1,0,NA,NA,NA,NA,1,0,0,0
-"1153",2007,"I-AA",12,"Stephen F. Austin","NCAA Division I-AA",1,0,NA,NA,NA,NA,1,0,0,0
-"1154",2007,"I-AA",13,"McNeese State","NCAA Division I-AA",1,0,NA,NA,NA,NA,1,0,0,0
-"1155",2007,"I-AA",14,"South Carolina State","NCAA Division I-AA",1,0,NA,NA,NA,NA,1,0,0,0
-"1156",2007,"I-AA",15,"Jacksonville State","NCAA Division I-AA",1,0,NA,NA,NA,NA,1,0,0,0
-"1157",2006,"I-A",1,"Kansas State","Big 12",37,1,NA,NA,NA,NA,17,20,0,0
-"1158",2006,"I-A",2,"Texas Tech","Big 12",35,0,NA,NA,NA,NA,16,19,0,0
-"1159",2006,"I-A",3,"Florida State","ACC",34,7,NA,NA,NA,NA,16,18,0,0
-"1160",2006,"I-A",4,"Mississippi","SEC",33,3,NA,NA,NA,NA,24,9,0,0
-"1161",2006,"I-A",5,"Kentucky","SEC",33,1,NA,NA,NA,NA,18,14,1,0
-"1162",2006,"I-A",6,"Oregon State","Pac-12",33,0,NA,NA,NA,NA,18,14,1,0
-"1163",2006,"I-A",7,"Iowa State","Big 12",32,0,NA,NA,NA,NA,16,16,0,0
-"1164",2006,"I-A",8,"Illinois","Big Ten",30,3,NA,NA,NA,NA,15,14,1,0
-"1165",2006,"I-A",9,"Purdue","Big Ten",30,0,NA,NA,NA,NA,12,16,2,0
-"1166",2006,"I-A",10,"Louisville","Big East",30,2,NA,NA,NA,NA,17,12,1,0
-"1167",2006,"I-A",11,"South Florida","Big East",30,0,NA,NA,NA,NA,12,17,1,0
-"1168",2006,"I-A",12,"Oklahoma State","Big 12",29,2,NA,NA,NA,NA,13,16,0,0
-"1169",2006,"I-A",13,"North Carolina","ACC",29,1,NA,NA,NA,NA,17,12,0,0
-"1170",2006,"I-A",14,"Louisiana Tech","WAC",29,0,NA,NA,NA,NA,12,17,0,0
-"1171",2006,"I-A",15,"Troy","Sun Belt",29,0,NA,NA,NA,NA,11,17,1,0
-"1172",2006,"I-A",16,"Notre Dame","IA Independents",28,10,NA,NA,NA,NA,17,10,1,0
-"1173",2006,"I-A",17,"Georgia","SEC",28,12,NA,NA,NA,NA,16,12,0,0
-"1174",2006,"I-A",18,"Nevada","Mountain West",28,0,NA,NA,NA,NA,15,13,0,0
-"1175",2006,"I-A",19,"Baylor","Big 12",28,0,NA,NA,NA,NA,16,12,0,0
-"1176",2006,"I-A",20,"Akron","Mid-American",28,0,NA,NA,NA,NA,13,14,1,0
-"1177",2006,"I-A",21,"Florida","SEC",27,14,NA,NA,NA,NA,13,14,0,0
-"1178",2006,"I-A",22,"Oklahoma","Big 12",27,6,NA,NA,NA,NA,15,12,0,0
-"1179",2006,"I-A",23,"LSU","SEC",27,6,NA,NA,NA,NA,14,13,0,0
-"1180",2006,"I-A",24,"Alabama","SEC",27,2,NA,NA,NA,NA,14,13,0,0
-"1181",2006,"I-A",25,"Pittsburgh","Big East",27,2,NA,NA,NA,NA,9,17,1,0
-"1182",2006,"I-A",26,"Utah","Pac-12",27,0,NA,NA,NA,NA,14,13,0,0
-"1183",2006,"I-A",27,"Mississippi State","SEC",27,2,NA,NA,NA,NA,15,12,0,0
-"1184",2006,"I-A",28,"Rutgers","Big East",27,0,NA,NA,NA,NA,14,13,0,0
-"1185",2006,"I-A",29,"UTEP","Conference USA",27,0,NA,NA,NA,NA,20,5,2,0
-"1186",2006,"I-A",30,"Duke","ACC",27,0,NA,NA,NA,NA,14,12,1,0
-"1187",2006,"I-A",31,"Washington State","Pac-12",27,0,NA,NA,NA,NA,18,9,0,0
-"1188",2006,"I-A",32,"San Jose State","WAC",27,0,NA,NA,NA,NA,15,12,0,0
-"1189",2006,"I-A",33,"UNLV","Mountain West",27,0,NA,NA,NA,NA,12,15,0,0
-"1190",2006,"I-A",34,"Hawaii","Mountain West",27,0,NA,NA,NA,NA,9,18,0,0
-"1191",2006,"I-A",35,"USC","Pac-12",26,13,NA,NA,NA,NA,14,11,1,0
-"1192",2006,"I-A",36,"Marshall","Conference USA",26,0,NA,NA,NA,NA,15,10,1,0
-"1193",2006,"I-A",37,"New Mexico","Mountain West",26,0,NA,NA,NA,NA,14,11,1,0
-"1194",2006,"I-A",38,"Arkansas","SEC",26,3,NA,NA,NA,NA,14,12,0,0
-"1195",2006,"I-A",39,"Brigham Young","IA Independents",26,0,NA,NA,NA,NA,12,13,1,0
-"1196",2006,"I-A",40,"Tulane","Conference USA",26,0,NA,NA,NA,NA,11,14,1,0
-"1197",2006,"I-A",41,"Temple","Big East",26,0,NA,NA,NA,NA,14,12,0,0
-"1198",2006,"I-A",42,"Toledo","Mid-American",26,0,NA,NA,NA,NA,14,11,1,0
-"1199",2006,"I-A",43,"Texas","Big 12",25,8,NA,NA,NA,NA,14,10,1,0
-"1200",2006,"I-A",44,"Texas A&M","SEC",25,1,NA,NA,NA,NA,13,12,0,0
-"1201",2006,"I-A",45,"Auburn","SEC",25,4,NA,NA,NA,NA,12,12,1,0
-"1202",2006,"I-A",46,"Michigan State","Big Ten",25,0,NA,NA,NA,NA,9,15,1,0
-"1203",2006,"I-A",47,"Arizona State","Pac-12",25,0,NA,NA,NA,NA,9,15,1,0
-"1204",2006,"I-A",48,"Arizona","Pac-12",25,2,NA,NA,NA,NA,12,13,0,0
-"1205",2006,"I-A",49,"Missouri","SEC",25,0,NA,NA,NA,NA,10,15,0,0
-"1206",2006,"I-A",50,"South Carolina","SEC",25,1,NA,NA,NA,NA,14,11,0,0
-"1207",2006,"I-A",51,"East Carolina","Conference USA",25,0,NA,NA,NA,NA,15,10,0,0
-"1208",2006,"I-A",52,"Nebraska","Big Ten",25,1,NA,NA,NA,NA,12,13,0,0
-"1209",2006,"I-A",53,"Kansas","Big 12",25,0,NA,NA,NA,NA,13,12,0,0
-"1210",2006,"I-A",54,"Central Michigan","Mid-American",25,0,NA,NA,NA,NA,12,12,1,0
-"1211",2006,"I-A",55,"Vanderbilt","SEC",25,1,NA,NA,NA,NA,17,7,1,0
-"1212",2006,"I-A",56,"Houston","Conference USA",25,0,NA,NA,NA,NA,12,13,0,0
-"1213",2006,"I-A",57,"Colorado State","Mountain West",25,0,NA,NA,NA,NA,14,11,0,0
-"1214",2006,"I-A",58,"Penn State","Big Ten",24,6,NA,NA,NA,NA,12,12,0,0
-"1215",2006,"I-A",59,"Connecticut","Big East",24,0,NA,NA,NA,NA,12,11,1,0
-"1216",2006,"I-A",60,"Oregon","Pac-12",24,0,NA,NA,NA,NA,13,11,0,0
-"1217",2006,"I-A",61,"Virginia","ACC",24,0,NA,NA,NA,NA,12,12,0,0
-"1218",2006,"I-A",62,"Southern Miss","Conference USA",24,0,NA,NA,NA,NA,13,11,0,0
-"1219",2006,"I-A",63,"Wyoming","Mountain West",24,0,NA,NA,NA,NA,15,7,2,0
-"1220",2006,"I-A",64,"Utah State","WAC",24,0,NA,NA,NA,NA,10,14,0,0
-"1221",2006,"I-A",65,"Tennessee","SEC",23,1,NA,NA,NA,NA,10,11,2,0
-"1222",2006,"I-A",66,"Ball State","Mid-American",23,0,NA,NA,NA,NA,9,14,0,0
-"1223",2006,"I-A",67,"Florida Atlantic","Sun Belt",23,0,NA,NA,NA,NA,12,11,0,0
-"1224",2006,"I-A",68,"Florida International","Sun Belt",23,0,NA,NA,NA,NA,13,9,1,0
-"1225",2006,"I-A",69,"Tulsa","Conference USA",23,0,NA,NA,NA,NA,15,8,0,0
-"1226",2006,"I-A",70,"Wisconsin","Big Ten",23,2,NA,NA,NA,NA,15,8,0,0
-"1227",2006,"I-A",71,"UAB","Conference USA",23,0,NA,NA,NA,NA,15,8,0,0
-"1228",2006,"I-A",72,"Colorado","Pac-12",23,0,NA,NA,NA,NA,12,10,0,1
-"1229",2006,"I-A",73,"Arkansas State","Sun Belt",23,0,NA,NA,NA,NA,7,15,1,0
-"1230",2006,"I-A",74,"Louisiana-Monroe","Sun Belt",23,0,NA,NA,NA,NA,14,8,1,0
-"1231",2006,"I-A",75,"Maryland","ACC",22,3,NA,NA,NA,NA,13,9,0,0
-"1232",2006,"I-A",76,"Washington","Pac-12",22,1,NA,NA,NA,NA,10,12,0,0
-"1233",2006,"I-A",77,"UCLA","Pac-12",22,1,NA,NA,NA,NA,15,6,1,0
-"1234",2006,"I-A",78,"Syracuse","Big East",22,1,NA,NA,NA,NA,15,7,0,0
-"1235",2006,"I-A",79,"UCF","Conference USA",22,0,NA,NA,NA,NA,13,9,0,0
-"1236",2006,"I-A",80,"Idaho","WAC",22,0,NA,NA,NA,NA,7,14,1,0
-"1237",2006,"I-A",81,"Miami (OH)","Mid-American",22,0,NA,NA,NA,NA,8,13,1,0
-"1238",2006,"I-A",82,"Miami (FL)","ACC",21,4,NA,NA,NA,NA,12,8,1,0
-"1239",2006,"I-A",83,"North Carolina State","ACC",21,0,NA,NA,NA,NA,11,8,2,0
-"1240",2006,"I-A",84,"Iowa","Big Ten",21,1,NA,NA,NA,NA,11,9,1,0
-"1241",2006,"I-A",85,"Virginia Tech","ACC",21,1,NA,NA,NA,NA,9,12,0,0
-"1242",2006,"I-A",86,"California","Pac-12",21,2,NA,NA,NA,NA,10,10,1,0
-"1243",2006,"I-A",87,"Cincinnati","Big East",21,0,NA,NA,NA,NA,10,11,0,0
-"1244",2006,"I-A",88,"Indiana","Big Ten",21,0,NA,NA,NA,NA,13,8,0,0
-"1245",2006,"I-A",89,"Western Michigan","Mid-American",21,0,NA,NA,NA,NA,17,4,0,0
-"1246",2006,"I-A",90,"Louisiana-Lafayette","Sun Belt",21,0,NA,NA,NA,NA,10,10,1,0
-"1247",2006,"I-A",91,"Ohio State","Big Ten",20,7,NA,NA,NA,NA,8,12,0,0
-"1248",2006,"I-A",92,"Clemson","ACC",20,5,NA,NA,NA,NA,9,10,1,0
-"1249",2006,"I-A",93,"Michigan","Big Ten",20,6,NA,NA,NA,NA,8,11,1,0
-"1250",2006,"I-A",94,"Boston College","ACC",20,0,NA,NA,NA,NA,11,9,0,0
-"1251",2006,"I-A",95,"San Diego State","Mountain West",20,0,NA,NA,NA,NA,8,12,0,0
-"1252",2006,"I-A",96,"Ohio","Mid-American",20,0,NA,NA,NA,NA,11,9,0,0
-"1253",2006,"I-A",97,"Buffalo","Mid-American",20,0,NA,NA,NA,NA,8,11,1,0
-"1254",2006,"I-A",98,"Minnesota","Big Ten",19,0,NA,NA,NA,NA,10,8,1,0
-"1255",2006,"I-A",99,"Eastern Michigan","Mid-American",19,0,NA,NA,NA,NA,10,9,0,0
-"1256",2006,"I-A",100,"Boise State","Mountain West",19,0,NA,NA,NA,NA,9,9,1,0
-"1257",2006,"I-A",101,"North Texas","Sun Belt",19,0,NA,NA,NA,NA,6,13,0,0
-"1258",2006,"I-A",102,"TCU","Big 12",18,0,NA,NA,NA,NA,12,6,0,0
-"1259",2006,"I-A",103,"Southern Methodist","Conference USA",18,0,NA,NA,NA,NA,7,10,1,0
-"1260",2006,"I-A",104,"Bowling Green","Mid-American",18,0,NA,NA,NA,NA,9,7,2,0
-"1261",2006,"I-A",105,"New Mexico State","WAC",18,0,NA,NA,NA,NA,10,8,0,0
-"1262",2006,"I-A",106,"Northwestern","Big Ten",17,0,NA,NA,NA,NA,10,6,1,0
-"1263",2006,"I-A",107,"Stanford","Pac-12",17,0,NA,NA,NA,NA,10,7,0,0
-"1264",2006,"I-A",108,"Memphis","Conference USA",17,0,NA,NA,NA,NA,6,10,1,0
-"1265",2006,"I-A",109,"Fresno State","Mountain West",17,0,NA,NA,NA,NA,6,10,1,0
-"1266",2006,"I-A",110,"Northern Illinois","Mid-American",17,0,NA,NA,NA,NA,12,5,0,0
-"1267",2006,"I-A",111,"West Virginia","Big 12",16,0,NA,NA,NA,NA,7,9,0,0
-"1268",2006,"I-A",112,"Wake Forest","ACC",16,1,NA,NA,NA,NA,8,7,1,0
-"1269",2006,"I-A",113,"Kent State","Mid-American",16,0,NA,NA,NA,NA,10,5,1,0
-"1270",2006,"I-A",114,"Georgia Tech","ACC",15,0,NA,NA,NA,NA,8,7,0,0
-"1271",2006,"I-A",115,"Rice","Conference USA",14,0,NA,NA,NA,NA,10,4,0,0
-"1272",2006,"I-A",116,"Middle Tennessee","Sun Belt",13,0,NA,NA,NA,NA,6,6,1,0
-"1273",2006,"I-A",117,"Air Force","Mountain West",2,0,NA,NA,NA,NA,1,1,0,0
-"1274",2006,"I-A",118,"Army","IA Independents",1,0,NA,NA,NA,NA,1,0,0,0
-"1275",2006,"I-AA",1,"Wofford","NCAA Division I-AA",1,0,NA,NA,NA,NA,1,0,0,0
-"1276",2006,"I-AA",2,"Princeton","NCAA Division I-AA",1,0,NA,NA,NA,NA,0,1,0,0
-"1277",2006,"I-AA",3,"Grambling State","SWAC",1,0,NA,NA,NA,NA,1,0,0,0
-"1278",2006,"I-AA",4,"Weber State","NCAA Division I-AA",1,0,NA,NA,NA,NA,0,0,1,0
-"1279",2006,"I-AA",5,"Montana","NCAA Division I-AA",1,0,NA,NA,NA,NA,1,0,0,0
+Year,Division,RK,NCAA.SCHOOL,CONFERENCE,SIGNED,ESPN.150,ESPN.300,FiveStar,FourStar,ThreeStar,OFF,DEF,SpecTeams,Athlete
+2013,I-A,1,Georgia,SEC,33,5,14,0,21,12,12,18,0,3
+2013,I-A,2,Western Kentucky,Sun Belt,33,0,0,0,1,6,15,17,1,0
+2013,I-A,3,Texas A&M,SEC,32,5,10,0,17,14,11,18,0,1
+2013,I-A,4,Florida,SEC,30,11,16,2,20,7,13,14,1,2
+2013,I-A,5,Memphis,Conference USA,30,0,0,0,0,9,14,10,2,2
+2013,I-A,6,Marshall,Conference USA,29,0,0,0,5,10,14,13,0,2
+2013,I-A,7,Mississippi,SEC,28,5,10,2,12,13,15,7,1,3
+2013,I-A,8,Boise State,Mountain West,28,0,0,0,2,20,11,14,1,2
+2013,I-A,9,Pittsburgh,Big East,28,1,2,0,2,23,11,9,2,3
+2013,I-A,10,Fresno State,Mountain West,28,1,1,0,1,9,14,12,1,1
+2013,I-A,11,LSU,SEC,27,7,15,0,20,7,10,10,0,4
+2013,I-A,12,Michigan,Big Ten,27,10,15,0,17,9,14,8,0,3
+2013,I-A,13,Southern Miss,Conference USA,27,0,0,0,1,6,13,11,1,2
+2013,I-A,14,Idaho,WAC,27,0,0,0,0,0,11,11,1,3
+2013,I-A,15,Vanderbilt,SEC,26,1,5,0,12,13,11,10,1,1
+2013,I-A,16,West Virginia,Big 12,26,0,2,0,8,16,11,11,1,2
+2013,I-A,17,Nebraska,Big Ten,26,0,2,0,10,14,9,11,0,3
+2013,I-A,18,Arizona State,Pac-12,26,0,0,0,2,20,8,14,1,2
+2013,I-A,19,Arizona,Pac-12,26,0,1,0,4,20,11,8,0,4
+2013,I-A,20,Houston,Conference USA,26,0,0,0,0,20,10,11,1,2
+2013,I-A,21,Illinois,Big Ten,26,0,1,0,3,18,10,13,0,3
+2013,I-A,22,Alabama,SEC,25,14,18,1,19,4,11,9,0,3
+2013,I-A,23,California,Pac-12,25,0,1,0,7,16,10,11,1,2
+2013,I-A,24,Oregon State,Pac-12,25,0,1,0,4,19,7,15,0,3
+2013,I-A,25,Kansas,Big 12,25,0,0,0,1,21,9,14,1,0
+2013,I-A,26,Wake Forest,ACC,25,0,0,0,1,19,9,14,1,0
+2013,I-A,27,Iowa State,Big 12,25,0,0,0,1,22,12,9,0,2
+2013,I-A,28,Hawaii,Mountain West,25,0,2,0,2,6,13,11,0,0
+2013,I-A,29,North Carolina State,ACC,25,0,0,0,1,18,14,9,0,2
+2013,I-A,30,Brigham Young,IA Independents,25,0,0,0,1,10,14,10,0,0
+2013,I-A,31,Middle Tennessee,Sun Belt,25,0,0,0,0,7,13,11,1,0
+2013,I-A,32,New Mexico,Mountain West,25,0,0,0,0,4,9,10,0,5
+2013,I-A,33,Tulane,Conference USA,25,0,1,0,1,5,8,16,0,0
+2013,I-A,34,South Alabama,Sun Belt,25,0,0,0,0,5,9,13,1,2
+2013,I-A,35,Florida Atlantic,Sun Belt,25,0,0,0,0,3,12,10,0,2
+2013,I-A,36,UTSA,WAC,25,0,0,0,0,3,7,17,0,1
+2013,I-A,37,Ohio State,Big Ten,24,12,17,1,18,5,6,15,0,1
+2013,I-A,38,Notre Dame,IA Independents,24,10,13,2,18,4,12,7,0,4
+2013,I-A,39,UCLA,Pac-12,24,6,10,0,12,11,8,11,1,2
+2013,I-A,40,Oklahoma,Big 12,24,2,7,0,9,14,8,12,1,3
+2013,I-A,41,Baylor,Big 12,24,1,3,0,6,16,8,12,0,2
+2013,I-A,42,Washington State,Pac-12,24,0,0,0,4,16,14,9,0,0
+2013,I-A,43,San Diego State,Mountain West,24,0,0,0,1,12,13,9,0,1
+2013,I-A,44,Colorado State,Mountain West,24,0,0,0,0,7,13,11,0,0
+2013,I-A,45,East Carolina,Conference USA,24,0,0,0,0,13,9,13,0,1
+2013,I-A,46,Bowling Green,Mid-American,24,0,0,0,1,4,12,9,1,1
+2013,I-A,47,Connecticut,Big East,24,0,0,0,0,13,9,11,0,1
+2013,I-A,48,Troy,Sun Belt,24,0,0,0,1,2,11,11,0,2
+2013,I-A,49,Utah State,WAC,24,0,0,0,0,1,13,9,1,0
+2013,I-A,50,Northern Illinois,Mid-American,24,0,0,0,0,2,12,9,1,1
+2013,I-A,51,Clemson,ACC,23,6,10,1,15,7,5,10,0,7
+2013,I-A,52,Auburn,SEC,23,4,7,1,14,8,9,10,1,2
+2013,I-A,53,UAB,Conference USA,23,0,0,0,1,2,10,12,0,1
+2013,I-A,54,Oklahoma State,Big 12,23,0,3,0,8,14,9,11,1,2
+2013,I-A,55,Arkansas,SEC,23,3,3,0,5,16,10,10,1,2
+2013,I-A,56,Texas Tech,Big 12,23,0,0,0,4,15,11,9,0,3
+2013,I-A,57,Texas State,WAC,23,0,1,0,2,4,11,10,0,2
+2013,I-A,58,Indiana,Big Ten,23,1,3,0,6,11,8,12,0,3
+2013,I-A,59,Utah,Pac-12,23,0,0,0,1,21,9,9,0,2
+2013,I-A,60,Kansas State,Big 12,23,0,0,0,1,16,8,11,1,2
+2013,I-A,61,South Florida,Big East,23,0,1,0,2,17,7,14,1,0
+2013,I-A,62,Colorado,Pac-12,23,0,0,0,1,18,12,9,0,1
+2013,I-A,63,Louisiana-Lafayette,Sun Belt,23,0,0,0,0,6,9,9,2,2
+2013,I-A,64,Purdue,Big Ten,23,0,2,0,3,16,8,12,0,2
+2013,I-A,65,Toledo,Mid-American,23,0,0,0,1,8,11,10,0,2
+2013,I-A,66,Temple,Big East,23,0,0,0,0,10,8,10,2,3
+2013,I-A,67,Southern Methodist,Conference USA,23,0,0,0,0,9,7,14,0,1
+2013,I-A,68,North Texas,Sun Belt,23,0,0,0,0,1,13,10,0,0
+2013,I-A,69,Massachusetts,Mid-American,23,0,0,0,0,4,16,6,0,0
+2013,I-A,70,Florida State,ACC,22,7,12,1,13,7,8,11,0,2
+2013,I-A,71,Washington,Pac-12,22,3,5,0,8,12,8,10,1,2
+2013,I-A,72,Kentucky,SEC,22,0,2,0,6,14,9,9,1,2
+2013,I-A,73,Rutgers,Big East,22,0,2,0,4,17,8,8,0,6
+2013,I-A,74,Virginia,ACC,22,1,1,0,5,16,14,8,0,0
+2013,I-A,75,TCU,Big 12,22,0,1,0,2,16,7,9,0,4
+2013,I-A,76,Maryland,ACC,22,0,0,0,5,14,9,11,0,1
+2013,I-A,77,Cincinnati,Big East,22,0,1,0,1,13,9,9,0,1
+2013,I-A,78,New Mexico State,WAC,22,0,0,0,1,1,10,12,0,0
+2013,I-A,79,Ohio,Mid-American,22,0,0,0,0,1,8,13,0,1
+2013,I-A,80,Miami (OH),Mid-American,22,0,0,0,0,1,8,10,0,3
+2013,I-A,81,Wyoming,Mountain West,22,0,0,0,0,2,9,11,0,1
+2013,I-A,82,South Carolina,SEC,21,2,4,0,11,10,9,11,0,1
+2013,I-A,83,Virginia Tech,ACC,21,2,4,0,10,11,6,9,0,5
+2013,I-A,84,Mississippi State,SEC,21,1,4,0,8,12,9,5,0,5
+2013,I-A,85,Tennessee,SEC,21,1,3,0,7,13,11,5,0,3
+2013,I-A,86,Nevada,Mountain West,21,0,0,0,0,6,7,11,0,2
+2013,I-A,87,Iowa,Big Ten,21,0,0,0,1,15,9,7,0,4
+2013,I-A,88,Tulsa,Conference USA,21,0,0,0,0,10,7,10,0,0
+2013,I-A,89,Kent State,Mid-American,21,0,0,0,0,3,4,10,0,5
+2013,I-A,90,Eastern Michigan,Mid-American,21,0,0,0,0,5,8,10,1,0
+2013,I-A,91,Central Michigan,Mid-American,21,0,0,0,0,6,8,9,1,3
+2013,I-A,92,Ball State,Mid-American,21,0,0,0,0,5,9,11,1,0
+2013,I-A,93,Missouri,SEC,20,0,2,0,4,13,7,10,0,2
+2013,I-A,94,Duke,ACC,20,0,0,0,0,18,9,8,0,2
+2013,I-A,95,Louisiana Tech,WAC,20,0,0,0,0,7,8,9,2,1
+2013,I-A,96,UNLV,Mountain West,20,0,0,0,0,4,10,8,1,1
+2013,I-A,97,Arkansas State,Sun Belt,20,0,0,0,0,4,7,12,0,0
+2013,I-A,98,San Jose State,WAC,20,0,0,0,0,0,12,8,0,0
+2013,I-A,99,Miami (FL),ACC,19,7,8,0,10,9,7,7,0,3
+2013,I-A,100,Oregon,Pac-12,19,1,5,0,8,10,11,2,1,5
+2013,I-A,101,UCF,Conference USA,19,0,0,0,1,13,6,11,0,1
+2013,I-A,102,Northwestern,Big Ten,19,0,1,0,2,15,9,4,1,2
+2013,I-A,103,Syracuse,Big East,19,0,0,0,0,15,9,9,0,0
+2013,I-A,104,Michigan State,Big Ten,18,0,2,0,6,10,6,9,1,1
+2013,I-A,105,Louisville,Big East,18,1,3,0,6,10,8,9,0,1
+2013,I-A,106,UTEP,Conference USA,18,0,0,0,0,2,7,8,0,2
+2013,I-A,107,Minnesota,Big Ten,18,0,0,0,0,17,5,9,1,2
+2013,I-A,108,Rice,Conference USA,18,0,0,0,1,6,8,7,0,0
+2013,I-A,109,Florida International,Sun Belt,18,0,0,0,0,2,9,9,0,0
+2013,I-A,110,Western Michigan,Mid-American,18,0,0,0,0,3,9,6,1,2
+2013,I-A,111,Akron,Mid-American,18,0,0,0,0,2,8,8,0,2
+2013,I-A,112,Buffalo,Mid-American,18,0,0,0,0,0,5,11,0,1
+2013,I-A,113,North Carolina,ACC,17,1,5,0,11,6,8,6,0,2
+2013,I-A,114,Wisconsin,Big Ten,17,1,1,0,5,10,6,8,0,1
+2013,I-A,115,Penn State,Big Ten,17,2,3,0,6,8,8,8,0,1
+2013,I-A,116,Boston College,ACC,17,0,0,0,0,9,6,7,0,3
+2013,I-A,117,Louisiana-Monroe,Sun Belt,16,0,0,0,0,2,8,7,0,0
+2013,I-A,118,Texas,Big 12,15,5,8,0,11,4,8,5,0,2
+2013,I-A,119,Georgia Tech,ACC,14,0,0,0,0,11,6,6,1,0
+2013,I-A,120,USC,Pac-12,13,9,12,0,13,0,6,6,0,1
+2013,I-A,121,Stanford,Pac-12,12,1,5,0,6,6,6,4,0,2
+2013,I-AA,1,Old Dominion,NCAA Division I-AA,34,0,0,0,0,3,15,16,1,0
+2013,I-AA,2,Southern University,SWAC,27,0,1,0,1,0,7,14,0,5
+2013,I-AA,3,Georgia State,NCAA Division I-AA,27,0,0,0,0,2,12,14,0,1
+2013,I-AA,4,Alabama State,SWAC,24,0,0,0,0,3,11,11,0,0
+2013,I-AA,5,Georgia Southern,NCAA Division I-AA,23,0,0,0,0,1,8,11,1,1
+2013,I-AA,6,North Dakota State,NCAA Division I-AA,21,0,0,0,0,0,8,12,0,1
+2013,I-AA,7,Sam Houston State,NCAA Division I-AA,19,0,0,0,0,1,10,7,1,1
+2013,I-AA,8,Eastern Washington,NCAA Division I-AA,17,0,0,0,0,1,9,7,1,0
+2013,I-AA,9,Appalachian State,NCAA Division I-AA,16,0,0,0,0,3,6,8,0,2
+2013,I-AA,10,McNeese State,NCAA Division I-AA,10,0,0,0,0,1,7,3,0,0
+2013,I-AA,11,South Carolina State,NCAA Division I-AA,9,0,0,0,0,2,4,5,0,0
+2013,I-AA,12,Lehigh,NCAA Division I-AA,9,0,0,0,0,1,4,4,0,0
+2013,I-AA,13,Richmond,NCAA Division I-AA,9,0,0,0,0,2,5,3,0,1
+2013,I-AA,14,Delaware,NCAA Division I-AA,9,0,0,0,0,1,2,6,0,1
+2013,I-AA,15,Southern Illinois,NCAA Division I-AA,8,0,0,0,0,2,3,4,0,0
+2013,I-AA,16,Villanova,NCAA Division I-AA,8,0,0,0,0,0,3,5,0,0
+2013,I-AA,17,Illinois State,NCAA Division I-AA,7,0,0,0,0,1,5,2,0,0
+2013,I-AA,18,Indiana State,NCAA Division I-AA,7,0,0,0,0,0,4,3,0,0
+2013,I-AA,19,Albany,NCAA Division I-AA,6,0,0,0,0,1,4,2,0,0
+2013,I-AA,20,Bryant University,NCAA Division I-AA,4,0,0,0,0,0,0,4,0,0
+2013,I-AA,21,Murray State,NCAA Division I-AA,2,0,0,0,0,0,1,1,0,0
+2013,I-AA,22,Grambling State,SWAC,2,0,0,0,0,0,0,2,0,0
+2013,I-AA,23,Tennessee State,NCAA Division I-AA,1,0,0,0,0,1,1,0,0,0
+2013,I-AA,24,Bethune-Cookman,NCAA Division I-AA,1,0,0,0,0,1,0,1,0,0
+2013,I-AA,25,Jacksonville State,NCAA Division I-AA,1,0,0,0,0,1,0,1,0,0
+2013,I-AA,26,Stony Brook,NCAA Division I-AA,1,0,0,0,0,1,0,1,0,0
+2013,I-AA,27,Youngstown State,NCAA Division I-AA,1,0,0,0,0,1,1,0,0,0
+2013,I-AA,28,Samford,NCAA Division I-AA,1,0,0,0,0,1,1,0,0,0
+2013,I-AA,29,Tennessee Tech,NCAA Division I-AA,1,0,0,0,0,0,0,0,0,1
+2013,I-AA,30,South Dakota,NCAA Division I-AA,1,0,0,0,0,0,0,0,1,0
+2013,I-AA,31,New Hampshire,NCAA Division I-AA,1,0,0,0,0,0,1,0,0,0
+2013,I-AA,32,Cal Poly,NCAA Division I-AA,1,0,0,0,0,0,1,0,0,0
+2013,I-AA,33,Sacramento State,NCAA Division I-AA,1,0,0,0,0,0,1,0,0,0
+2013,I-AA,34,Lamar,NCAA Division I-AA,1,0,0,0,0,0,1,0,0,0
+2012,I-A,1,Air Force,Mountain West,46,0,NA,0,0,24,18,22,1,4
+2012,I-A,2,Troy,Sun Belt,38,0,NA,0,0,11,12,21,2,3
+2012,I-A,3,Temple,Big East,37,0,NA,0,0,21,15,17,0,5
+2012,I-A,4,Marshall,Conference USA,34,0,NA,0,3,16,14,13,0,6
+2012,I-A,5,Miami (FL),ACC,33,6,NA,0,8,24,12,18,0,3
+2012,I-A,6,Florida Atlantic,Sun Belt,33,0,NA,0,0,9,17,14,0,2
+2012,I-A,7,Cincinnati,Big East,31,0,NA,0,0,25,14,16,0,1
+2012,I-A,8,Florida International,Sun Belt,31,0,NA,0,0,19,12,17,1,1
+2012,I-A,9,Northern Illinois,Mid-American,31,0,NA,0,0,11,16,12,1,2
+2012,I-A,10,Toledo,Mid-American,31,0,NA,0,0,14,19,9,2,1
+2012,I-A,11,Virginia Tech,ACC,30,1,NA,0,2,28,12,13,1,4
+2012,I-A,12,Arkansas State,Sun Belt,30,0,NA,0,0,12,16,13,0,1
+2012,I-A,13,Colorado,Pac-12,29,1,NA,0,1,24,14,14,0,1
+2012,I-A,14,UAB,Conference USA,29,0,NA,0,0,12,16,11,0,2
+2012,I-A,15,Akron,Mid-American,29,0,NA,0,0,8,15,14,0,0
+2012,I-A,16,Western Michigan,Mid-American,29,0,NA,0,0,10,15,13,1,0
+2012,I-A,17,Texas,Big 12,28,12,NA,0,16,10,8,16,1,3
+2012,I-A,18,Utah,Pac-12,28,0,NA,0,1,17,14,13,0,1
+2012,I-A,19,Mississippi State,SEC,28,1,NA,0,3,21,10,12,1,5
+2012,I-A,20,West Virginia,Big 12,28,1,NA,0,1,23,11,12,1,4
+2012,I-A,21,Kentucky,SEC,28,0,NA,0,1,23,9,14,1,4
+2012,I-A,22,Washington State,Pac-12,28,0,NA,0,1,17,14,11,1,2
+2012,I-A,23,Louisiana-Lafayette,Sun Belt,28,0,NA,0,0,11,10,16,0,2
+2012,I-A,24,Oklahoma,Big 12,27,5,NA,0,8,12,17,7,0,3
+2012,I-A,25,UCLA,Pac-12,27,4,NA,0,6,18,13,10,1,3
+2012,I-A,26,Southern Miss,Conference USA,27,1,NA,0,1,14,12,13,0,2
+2012,I-A,27,Minnesota,Big Ten,27,1,NA,0,3,12,12,13,0,2
+2012,I-A,28,Memphis,Conference USA,27,0,NA,0,0,10,15,11,0,1
+2012,I-A,29,Alabama,SEC,26,13,NA,0,16,8,9,14,1,2
+2012,I-A,30,Texas Tech,Big 12,26,3,NA,0,4,13,11,13,0,2
+2012,I-A,31,Virginia,ACC,26,1,NA,0,2,24,13,8,0,5
+2012,I-A,32,Kansas State,Big 12,26,0,NA,0,0,12,13,11,0,2
+2012,I-A,33,Purdue,Big Ten,26,0,NA,0,0,23,15,6,2,3
+2012,I-A,34,Connecticut,Big East,26,0,NA,0,0,15,14,10,1,1
+2012,I-A,35,South Carolina,SEC,25,3,NA,0,7,18,12,8,1,4
+2012,I-A,36,Ohio State,Big Ten,25,5,NA,0,9,16,12,11,0,2
+2012,I-A,37,Michigan,Big Ten,25,4,NA,0,10,15,12,13,0,0
+2012,I-A,38,Washington,Pac-12,25,1,NA,0,3,19,10,9,2,4
+2012,I-A,39,Maryland,ACC,25,1,NA,0,2,21,9,11,0,5
+2012,I-A,40,Boise State,Mountain West,25,0,NA,0,0,18,11,12,1,1
+2012,I-A,41,Indiana,Big Ten,25,0,NA,0,1,16,15,10,0,0
+2012,I-A,42,Houston,Conference USA,25,1,NA,0,2,11,9,9,0,7
+2012,I-A,43,North Texas,Sun Belt,25,0,NA,0,0,8,10,15,0,0
+2012,I-A,44,Miami (OH),Mid-American,25,0,NA,0,0,14,12,12,1,0
+2012,I-A,45,Louisiana-Monroe,Sun Belt,25,0,NA,0,0,6,10,15,0,0
+2012,I-A,46,Colorado State,Mountain West,25,0,NA,0,0,7,12,10,1,2
+2012,I-A,47,Kent State,Mid-American,25,0,NA,0,0,12,11,11,1,2
+2012,I-A,48,Eastern Michigan,Mid-American,25,0,NA,0,0,9,11,13,0,1
+2012,I-A,49,LSU,SEC,24,5,NA,0,8,15,9,12,0,2
+2012,I-A,50,Arkansas,SEC,24,0,NA,0,3,17,10,12,0,2
+2012,I-A,51,TCU,Big 12,24,1,NA,0,4,16,11,10,2,1
+2012,I-A,52,Baylor,Big 12,24,0,NA,0,3,15,6,13,0,5
+2012,I-A,53,Louisville,Big East,24,0,NA,0,2,18,12,11,1,0
+2012,I-A,54,Syracuse,Big East,24,0,NA,0,1,15,10,11,1,2
+2012,I-A,55,Oregon State,Pac-12,24,1,NA,0,1,17,13,8,1,2
+2012,I-A,56,Arizona,Pac-12,24,0,NA,0,0,21,11,10,0,3
+2012,I-A,57,San Diego State,Mountain West,24,0,NA,0,0,13,16,5,1,1
+2012,I-A,58,Rice,Conference USA,24,0,NA,0,0,11,13,9,1,1
+2012,I-A,59,Ball State,Mid-American,24,0,NA,0,0,16,10,12,0,2
+2012,I-A,60,Nevada,Mountain West,24,0,NA,0,0,13,11,11,0,2
+2012,I-A,61,Hawaii,Mountain West,24,0,NA,0,0,5,11,11,0,2
+2012,I-A,62,New Mexico,Mountain West,24,0,NA,0,0,9,12,11,0,1
+2012,I-A,63,Florida,SEC,23,9,NA,0,14,8,9,13,1,0
+2012,I-A,64,North Carolina,ACC,23,0,NA,0,1,21,10,10,0,3
+2012,I-A,65,Oklahoma State,Big 12,23,1,NA,0,2,15,13,9,0,1
+2012,I-A,66,Iowa,Big Ten,23,0,NA,0,1,18,10,9,1,3
+2012,I-A,67,North Carolina State,ACC,23,0,NA,0,0,20,10,13,0,0
+2012,I-A,68,Arizona State,Pac-12,23,0,NA,0,2,11,10,11,0,1
+2012,I-A,69,Middle Tennessee,Sun Belt,23,0,NA,0,0,7,11,9,0,2
+2012,I-A,70,Central Michigan,Mid-American,23,0,NA,0,0,15,12,9,1,1
+2012,I-A,71,Army,IA Independents,23,0,NA,0,0,2,7,12,2,2
+2012,I-A,72,UTEP,Conference USA,23,0,NA,0,0,10,10,12,0,1
+2012,I-A,73,Wyoming,Mountain West,23,0,NA,0,0,6,13,9,1,0
+2012,I-A,74,Auburn,SEC,22,5,NA,0,7,14,13,7,0,2
+2012,I-A,75,Stanford,Pac-12,22,6,NA,0,7,15,12,9,0,1
+2012,I-A,76,Tennessee,SEC,22,2,NA,0,5,14,8,10,1,3
+2012,I-A,77,Vanderbilt,SEC,22,1,NA,0,1,21,8,10,1,3
+2012,I-A,78,Michigan State,Big Ten,22,0,NA,0,1,17,14,7,0,1
+2012,I-A,79,Kansas,Big 12,22,0,NA,0,0,8,12,9,0,1
+2012,I-A,80,Northwestern,Big Ten,22,1,NA,0,1,18,13,7,0,1
+2012,I-A,81,Southern Methodist,Conference USA,22,0,NA,0,1,16,7,13,0,2
+2012,I-A,82,Idaho,WAC,22,0,NA,0,0,9,12,8,1,1
+2012,I-A,83,Navy,IA Independents,22,0,NA,0,0,7,9,9,1,2
+2012,I-A,84,Oregon,Pac-12,21,3,NA,0,5,12,10,9,1,1
+2012,I-A,85,Tulsa,Conference USA,21,0,NA,0,0,11,11,9,1,0
+2012,I-A,86,Iowa State,Big 12,21,0,NA,0,0,13,9,8,1,3
+2012,I-A,87,UNLV,Mountain West,21,0,NA,0,0,7,14,5,0,2
+2012,I-A,88,New Mexico State,WAC,21,0,NA,0,0,5,11,9,1,0
+2012,I-A,89,Clemson,ACC,20,6,NA,0,7,13,9,7,1,3
+2012,I-A,90,Rutgers,Big East,20,1,NA,0,3,16,11,4,1,4
+2012,I-A,91,Missouri,SEC,20,2,NA,0,3,14,9,9,0,2
+2012,I-A,92,South Florida,Big East,20,0,NA,0,1,12,8,10,0,2
+2012,I-A,93,Duke,ACC,20,0,NA,0,0,18,10,9,1,0
+2012,I-A,94,East Carolina,Conference USA,20,1,NA,0,1,8,7,9,0,4
+2012,I-A,95,UCF,Conference USA,20,0,NA,0,0,15,13,7,0,0
+2012,I-A,96,Bowling Green,Mid-American,20,0,NA,0,0,8,11,7,1,1
+2012,I-A,97,San Jose State,WAC,20,0,NA,0,0,7,12,6,1,1
+2012,I-A,98,Buffalo,Mid-American,20,0,NA,0,0,11,9,9,1,1
+2012,I-A,99,Florida State,ACC,19,10,NA,1,10,6,7,10,2,0
+2012,I-A,100,Georgia,SEC,19,6,NA,0,7,11,7,8,2,2
+2012,I-A,101,Texas A&M,SEC,19,5,NA,0,6,11,7,12,0,0
+2012,I-A,102,California,Pac-12,19,2,NA,0,3,13,10,7,1,1
+2012,I-A,103,Penn State,Big Ten,19,0,NA,0,1,15,9,8,0,2
+2012,I-A,104,Mississippi,SEC,19,2,NA,0,3,11,10,7,1,1
+2012,I-A,105,Louisiana Tech,WAC,19,0,NA,0,0,8,12,5,0,2
+2012,I-A,106,Wake Forest,ACC,19,0,NA,0,0,18,10,7,0,2
+2012,I-A,107,Illinois,Big Ten,19,0,NA,0,0,15,6,10,1,2
+2012,I-A,108,Ohio,Mid-American,19,0,NA,0,0,8,9,10,0,0
+2012,I-A,109,Notre Dame,IA Independents,18,6,NA,0,7,10,9,6,0,2
+2012,I-A,110,USC,Pac-12,18,7,NA,0,9,5,8,9,0,1
+2012,I-A,111,Brigham Young,IA Independents,18,0,NA,0,1,14,7,10,0,1
+2012,I-A,112,Nebraska,Big Ten,17,1,NA,0,2,12,6,9,0,2
+2012,I-A,113,Georgia Tech,ACC,17,0,NA,0,2,13,3,8,1,5
+2012,I-A,114,Boston College,ACC,17,0,NA,0,0,12,9,6,0,2
+2012,I-A,115,Tulane,Conference USA,17,0,NA,0,1,10,12,3,0,2
+2012,I-A,116,Pittsburgh,Big East,16,1,NA,0,3,11,6,7,0,3
+2012,I-A,117,Fresno State,Mountain West,15,0,NA,0,0,5,10,5,0,0
+2012,I-A,118,Western Kentucky,Sun Belt,15,0,NA,0,0,8,8,6,1,0
+2012,I-A,119,Utah State,WAC,15,0,NA,0,0,4,12,3,0,0
+2012,I-A,120,Wisconsin,Big Ten,12,0,NA,0,3,8,6,4,0,2
+2012,I-AA,1,Massachusetts,Mid-American,26,0,NA,0,0,7,14,11,0,1
+2012,I-AA,2,Montana,NCAA Division I-AA,25,0,NA,0,0,4,12,11,1,1
+2012,I-AA,3,Georgia Southern,NCAA Division I-AA,23,0,NA,0,0,8,13,7,0,3
+2012,I-AA,4,Appalachian State,NCAA Division I-AA,22,0,NA,0,0,7,10,10,0,2
+2012,I-AA,5,Northern Iowa,NCAA Division I-AA,22,0,NA,0,0,2,10,9,1,2
+2012,I-AA,6,South Carolina State,NCAA Division I-AA,21,0,NA,0,0,5,10,10,0,1
+2012,I-AA,7,Eastern Washington,NCAA Division I-AA,20,0,NA,0,0,3,8,10,0,2
+2012,I-AA,8,Villanova,NCAA Division I-AA,20,0,NA,0,0,5,8,11,0,1
+2012,I-AA,9,Old Dominion,NCAA Division I-AA,19,0,NA,0,0,1,7,12,0,0
+2012,I-AA,10,North Dakota State,NCAA Division I-AA,18,0,NA,0,0,3,8,10,0,0
+2012,I-AA,11,Wofford,NCAA Division I-AA,17,0,NA,0,0,2,7,9,0,1
+2012,I-AA,12,James Madison,NCAA Division I-AA,15,0,NA,0,0,5,4,8,0,3
+2012,I-AA,13,Maine,NCAA Division I-AA,14,0,NA,0,0,3,6,7,1,0
+2012,I-AA,14,Dartmouth,NCAA Division I-AA,14,0,NA,0,0,5,7,6,0,1
+2012,I-AA,15,New Hampshire,NCAA Division I-AA,13,0,NA,0,0,1,7,6,0,0
+2012,I-AA,16,Delaware,NCAA Division I-AA,12,0,NA,0,0,3,7,3,1,1
+2012,I-AA,17,Harvard,NCAA Division I-AA,11,0,NA,0,0,2,8,3,0,0
+2012,I-AA,18,Yale,NCAA Division I-AA,10,0,NA,0,0,6,8,2,0,0
+2012,I-AA,19,Brown,NCAA Division I-AA,10,0,NA,0,0,1,5,2,1,2
+2012,I-AA,20,Richmond,NCAA Division I-AA,10,0,NA,0,0,4,5,3,0,2
+2012,I-AA,21,Cornell,NCAA Division I-AA,9,0,NA,0,0,1,8,1,0,0
+2012,I-AA,22,Portland State,NCAA Division I-AA,9,0,NA,0,0,1,6,2,0,1
+2012,I-AA,23,Towson,NCAA Division I-AA,8,0,NA,0,0,1,5,2,0,1
+2012,I-AA,24,Grambling State,SWAC,7,0,NA,0,0,1,6,1,0,0
+2012,I-AA,25,Columbia,NCAA Division I-AA,7,0,NA,0,0,5,3,4,0,0
+2012,I-AA,26,Pennsylvania,NCAA Division I-AA,7,0,NA,0,0,4,4,3,0,0
+2012,I-AA,27,South Dakota,NCAA Division I-AA,7,0,NA,0,0,1,4,3,0,0
+2012,I-AA,28,Bryant University,NCAA Division I-AA,7,0,NA,0,0,1,3,3,0,1
+2012,I-AA,29,Hampton,NCAA Division I-AA,7,0,NA,0,0,0,2,3,0,2
+2012,I-AA,30,Princeton,NCAA Division I-AA,7,0,NA,0,0,0,5,1,1,0
+2012,I-AA,31,Youngstown State,NCAA Division I-AA,6,0,NA,0,0,1,4,2,0,0
+2012,I-AA,32,McNeese State,NCAA Division I-AA,5,0,NA,0,0,1,2,3,0,0
+2012,I-AA,33,Southeastern Louisiana,NCAA Division I-AA,5,0,NA,0,0,3,2,3,0,0
+2012,I-AA,34,Eastern Kentucky,NCAA Division I-AA,5,0,NA,0,0,2,3,2,0,0
+2012,I-AA,35,Southern Illinois,NCAA Division I-AA,5,0,NA,0,0,1,3,2,0,0
+2012,I-AA,36,Cal Poly,NCAA Division I-AA,5,0,NA,0,0,0,2,2,0,1
+2012,I-AA,37,Monmouth,NCAA Division I-AA,5,0,NA,0,0,0,2,3,0,0
+2012,I-AA,38,Colgate,NCAA Division I-AA,5,0,NA,0,0,0,4,1,0,0
+2012,I-AA,39,Liberty,NCAA Division I-AA,4,0,NA,0,0,2,2,1,0,1
+2012,I-AA,40,Bethune-Cookman,NCAA Division I-AA,4,0,NA,0,0,3,3,1,0,0
+2012,I-AA,41,Delaware State,NCAA Division I-AA,4,0,NA,0,0,2,2,2,0,0
+2012,I-AA,42,Central Arkansas,NCAA Division I-AA,4,0,NA,0,0,2,0,3,0,1
+2012,I-AA,43,Samford,NCAA Division I-AA,4,0,NA,0,0,2,1,3,0,0
+2012,I-AA,44,William & Mary,NCAA Division I-AA,4,0,NA,0,0,1,3,1,0,0
+2012,I-AA,45,Norfolk State,NCAA Division I-AA,4,0,NA,0,0,0,2,2,0,0
+2012,I-AA,46,Montana State,NCAA Division I-AA,3,0,NA,0,0,2,1,1,0,1
+2012,I-AA,47,Northern Arizona,NCAA Division I-AA,3,0,NA,0,0,3,0,2,1,0
+2012,I-AA,48,Citadel,NCAA Division I-AA,3,0,NA,0,0,1,1,1,0,1
+2012,I-AA,49,Gardner-Webb,NCAA Division I-AA,3,0,NA,0,0,1,2,1,0,0
+2012,I-AA,50,Western Illinois,NCAA Division I-AA,3,0,NA,0,0,2,1,2,0,0
+2012,I-AA,51,Southern Utah,NCAA Division I-AA,3,0,NA,0,0,1,2,0,0,0
+2012,I-AA,52,North Dakota,NCAA Division I-AA,3,0,NA,0,0,1,2,1,0,0
+2012,I-AA,53,Stony Brook,NCAA Division I-AA,3,0,NA,0,0,0,2,1,0,0
+2012,I-AA,54,Florida A&M,NCAA Division I-AA,3,0,NA,0,0,0,3,0,0,0
+2012,I-AA,55,Sacramento State,NCAA Division I-AA,3,0,NA,0,0,0,1,1,0,1
+2012,I-AA,56,Idaho State,NCAA Division I-AA,3,0,NA,0,0,0,2,0,0,1
+2012,I-AA,57,Elon,NCAA Division I-AA,2,0,NA,0,0,1,2,0,0,0
+2012,I-AA,58,Sam Houston State,NCAA Division I-AA,2,0,NA,0,0,1,1,1,0,0
+2012,I-AA,59,Northern Colorado,NCAA Division I-AA,2,0,NA,0,0,1,1,1,0,0
+2012,I-AA,60,Indiana State,NCAA Division I-AA,2,0,NA,0,0,0,1,1,0,0
+2012,I-AA,61,Morgan State,NCAA Division I-AA,2,0,NA,0,0,0,0,2,0,0
+2012,I-AA,62,Holy Cross,NCAA Division I-AA,2,0,NA,0,0,0,2,0,0,0
+2012,I-AA,63,Georgetown,NCAA Division I-AA,2,0,NA,0,0,0,2,0,0,0
+2012,I-AA,64,UC Davis,NCAA Division I-AA,2,0,NA,0,0,0,2,0,0,0
+2012,I-AA,65,Lafayette,NCAA Division I-AA,2,0,NA,0,0,0,2,0,0,0
+2012,I-AA,66,Furman,NCAA Division I-AA,2,0,NA,0,0,0,2,0,0,0
+2012,I-AA,67,Tennessee Tech,NCAA Division I-AA,2,0,NA,0,0,0,0,2,0,0
+2012,I-AA,68,Lamar,NCAA Division I-AA,2,0,NA,0,0,0,1,1,0,0
+2012,I-AA,69,Lehigh,NCAA Division I-AA,2,0,NA,0,0,0,1,1,0,0
+2012,I-AA,70,Morehead State,NCAA Division I-AA,2,0,NA,0,0,0,2,0,0,0
+2012,I-AA,71,Illinois State,NCAA Division I-AA,2,0,NA,0,0,0,2,0,0,0
+2012,I-AA,72,Eastern Illinois,NCAA Division I-AA,2,0,NA,0,0,0,0,2,0,0
+2012,I-AA,73,Wagner,NCAA Division I-AA,2,0,NA,0,0,0,1,1,0,0
+2012,I-AA,74,Texas Southern,SWAC,1,0,NA,0,0,1,1,0,0,0
+2012,I-AA,75,Jackson State,SWAC,1,0,NA,0,0,1,1,0,0,0
+2012,I-AA,76,South Dakota State,NCAA Division I-AA,1,0,NA,0,0,1,1,0,0,0
+2012,I-AA,77,Arkansas-Pine Bluff,SWAC,1,0,NA,0,0,1,0,1,0,0
+2012,I-AA,78,Howard,NCAA Division I-AA,1,0,NA,0,0,1,0,1,0,0
+2012,I-AA,79,Southeast Missouri State,NCAA Division I-AA,1,0,NA,0,0,1,0,1,0,0
+2012,I-AA,80,Tennessee State,NCAA Division I-AA,1,0,NA,0,0,1,1,0,0,0
+2012,I-AA,81,Weber State,NCAA Division I-AA,1,0,NA,0,0,0,1,0,0,0
+2012,I-AA,82,Fordham,NCAA Division I-AA,1,0,NA,0,0,0,1,0,0,0
+2012,I-AA,83,Murray State,NCAA Division I-AA,1,0,NA,0,0,0,1,0,0,0
+2012,I-AA,84,Butler,NCAA Division I-AA,1,0,NA,0,0,0,0,1,0,0
+2012,I-AA,85,Bucknell,NCAA Division I-AA,1,0,NA,0,0,0,1,0,0,0
+2012,I-AA,86,Coastal Carolina,NCAA Division I-AA,1,0,NA,0,0,0,1,0,0,0
+2012,I-AA,87,Chattanooga,NCAA Division I-AA,1,0,NA,0,0,0,1,0,0,0
+2012,I-AA,88,North Carolina Central,NCAA Division I-AA,1,0,NA,0,0,0,1,0,0,0
+2012,I-AA,89,Presbyterian,NCAA Division I-AA,1,0,NA,0,0,0,1,0,0,0
+2012,I-AA,90,Savannah State,NCAA Division I-AA,1,0,NA,0,0,0,0,1,0,0
+2012,I-AA,91,Missouri State,NCAA Division I-AA,1,0,NA,0,0,0,1,0,0,0
+2012,I-AA,92,Marist,NCAA Division I-AA,1,0,NA,0,0,0,1,0,0,0
+2012,I-AA,93,Dayton,NCAA Division I-AA,1,0,NA,0,0,0,0,1,0,0
+2011,I-A,1,Air Force,Mountain West,39,0,NA,0,0,4,18,17,0,4
+2011,I-A,2,Marshall,Conference USA,34,0,NA,0,3,15,18,11,0,5
+2011,I-A,3,Kansas State,Big 12,34,0,NA,0,1,9,14,15,1,4
+2011,I-A,4,Navy,IA Independents,34,0,NA,0,0,3,11,22,0,1
+2011,I-A,5,Arkansas,SEC,33,3,NA,0,9,10,17,13,0,3
+2011,I-A,6,UCF,Conference USA,33,0,NA,0,0,17,9,23,0,1
+2011,I-A,7,Colorado State,Mountain West,33,0,NA,0,0,7,17,13,1,2
+2011,I-A,8,Army,IA Independents,33,0,NA,0,0,1,17,14,0,2
+2011,I-A,9,South Carolina,SEC,32,1,NA,1,6,21,12,15,0,5
+2011,I-A,10,USC,Pac-12,31,10,NA,1,12,12,13,12,2,4
+2011,I-A,11,Texas Tech,Big 12,31,0,NA,0,3,17,14,15,0,2
+2011,I-A,12,Oregon State,Pac-12,31,0,NA,0,0,16,13,16,1,1
+2011,I-A,13,Louisiana-Lafayette,Sun Belt,31,0,NA,0,0,2,15,13,1,2
+2011,I-A,14,Utah State,WAC,30,0,NA,0,0,1,10,18,1,1
+2011,I-A,15,Florida State,ACC,29,12,NA,1,17,7,14,13,0,2
+2011,I-A,16,Clemson,ACC,29,7,NA,2,7,16,16,11,1,1
+2011,I-A,17,Illinois,Big Ten,29,1,NA,0,3,18,12,11,1,5
+2011,I-A,18,Memphis,Conference USA,29,0,NA,0,0,4,12,13,0,4
+2011,I-A,19,Troy,Sun Belt,29,0,NA,0,0,3,15,12,1,1
+2011,I-A,20,Mississippi,SEC,28,1,NA,0,4,15,14,12,0,2
+2011,I-A,21,Oklahoma State,Big 12,28,1,NA,0,3,16,7,16,1,4
+2011,I-A,22,Kansas,Big 12,28,0,NA,0,2,19,13,13,1,1
+2011,I-A,23,Southern Methodist,Conference USA,28,0,NA,0,0,11,11,14,0,3
+2011,I-A,24,Tennessee,SEC,27,6,NA,0,9,12,12,11,0,4
+2011,I-A,25,Kentucky,SEC,27,0,NA,0,1,16,14,10,0,3
+2011,I-A,26,Minnesota,Big Ten,27,0,NA,0,1,9,14,12,1,0
+2011,I-A,27,Syracuse,Big East,27,0,NA,0,0,13,14,9,1,3
+2011,I-A,28,Western Kentucky,Sun Belt,27,0,NA,0,0,8,15,11,0,1
+2011,I-A,29,Florida International,Sun Belt,27,0,NA,0,0,5,13,11,0,3
+2011,I-A,30,East Carolina,Conference USA,27,0,NA,0,0,6,13,13,0,1
+2011,I-A,31,Toledo,Mid-American,27,0,NA,0,0,5,11,15,1,0
+2011,I-A,32,Washington State,Pac-12,27,0,NA,0,0,3,12,11,0,4
+2011,I-A,33,Nevada,Mountain West,27,0,NA,0,0,5,10,16,0,1
+2011,I-A,34,Central Michigan,Mid-American,27,0,NA,0,0,3,14,10,1,2
+2011,I-A,35,Alabama,SEC,26,11,NA,1,15,6,12,12,0,2
+2011,I-A,36,Georgia,SEC,26,6,NA,2,15,7,14,11,0,1
+2011,I-A,37,Auburn,SEC,26,8,NA,1,15,9,11,11,0,4
+2011,I-A,38,Virginia,ACC,26,5,NA,0,6,16,7,14,0,5
+2011,I-A,39,Southern Miss,Conference USA,26,0,NA,0,0,8,13,12,0,1
+2011,I-A,40,Hawaii,Mountain West,26,0,NA,0,0,3,8,14,0,4
+2011,I-A,41,UAB,Conference USA,26,0,NA,0,0,1,8,13,2,3
+2011,I-A,42,Arkansas State,Sun Belt,26,0,NA,0,0,1,16,7,0,3
+2011,I-A,43,Ball State,Mid-American,26,0,NA,0,0,4,14,10,0,2
+2011,I-A,44,North Carolina,ACC,25,3,NA,0,10,12,8,13,1,3
+2011,I-A,45,Iowa,Big Ten,25,0,NA,0,3,14,12,10,0,3
+2011,I-A,46,TCU,Big 12,25,1,NA,0,3,17,11,13,0,1
+2011,I-A,47,Cincinnati,Big East,25,0,NA,0,0,13,13,9,0,3
+2011,I-A,48,San Diego State,Mountain West,25,0,NA,0,0,7,16,7,0,2
+2011,I-A,49,Wyoming,Mountain West,25,0,NA,0,0,2,11,10,1,3
+2011,I-A,50,Louisiana Tech,WAC,25,0,NA,0,0,1,11,12,0,2
+2011,I-A,51,Notre Dame,IA Independents,24,7,NA,0,9,14,9,11,1,3
+2011,I-A,52,LSU,SEC,24,6,NA,2,6,15,11,8,1,4
+2011,I-A,53,Washington,Pac-12,24,2,NA,0,2,15,10,10,0,4
+2011,I-A,54,Rutgers,Big East,24,1,NA,0,3,15,9,10,1,4
+2011,I-A,55,Iowa State,Big 12,24,0,NA,0,0,7,13,9,0,2
+2011,I-A,56,Colorado,Pac-12,24,0,NA,0,0,10,13,9,1,1
+2011,I-A,57,Florida Atlantic,Sun Belt,24,0,NA,0,0,1,13,10,1,0
+2011,I-A,58,North Texas,Sun Belt,24,0,NA,0,0,2,11,12,0,1
+2011,I-A,59,Ohio,Mid-American,24,0,NA,0,0,2,10,12,0,2
+2011,I-A,60,Akron,Mid-American,24,0,NA,0,0,1,12,11,1,0
+2011,I-A,61,Ohio State,Big Ten,23,7,NA,0,13,9,11,11,0,1
+2011,I-A,62,Oregon,Pac-12,23,5,NA,0,9,9,10,9,0,4
+2011,I-A,63,Louisville,Big East,23,3,NA,0,5,14,11,10,1,1
+2011,I-A,64,Texas A&M,SEC,23,0,NA,0,1,16,8,12,2,1
+2011,I-A,65,Arizona,Pac-12,23,0,NA,0,2,9,11,9,2,1
+2011,I-A,66,Boston College,ACC,23,0,NA,0,1,14,9,11,1,2
+2011,I-A,67,Virginia Tech,ACC,23,1,NA,0,2,12,9,12,1,1
+2011,I-A,68,West Virginia,Big 12,23,0,NA,0,0,17,12,9,0,2
+2011,I-A,69,Georgia Tech,ACC,23,1,NA,0,1,13,7,8,0,8
+2011,I-A,70,Mississippi State,SEC,23,0,NA,0,0,14,12,7,0,4
+2011,I-A,71,Indiana,Big Ten,23,0,NA,0,0,10,11,10,0,2
+2011,I-A,72,Boise State,Mountain West,23,0,NA,0,0,9,10,10,1,2
+2011,I-A,73,Houston,Conference USA,23,0,NA,0,0,7,9,12,0,2
+2011,I-A,74,Tulsa,Conference USA,23,0,NA,0,0,6,11,9,0,3
+2011,I-A,75,Western Michigan,Mid-American,23,0,NA,0,0,2,13,9,0,1
+2011,I-A,76,San Jose State,WAC,23,0,NA,0,0,2,10,9,0,4
+2011,I-A,77,UNLV,Mountain West,23,0,NA,0,0,2,10,10,1,2
+2011,I-A,78,UTEP,Conference USA,23,0,NA,0,0,2,12,10,0,1
+2011,I-A,79,New Mexico State,WAC,23,0,NA,0,0,0,12,8,0,3
+2011,I-A,80,Idaho,WAC,23,0,NA,0,0,1,11,10,0,2
+2011,I-A,81,Texas,Big 12,22,7,NA,1,13,8,11,9,0,2
+2011,I-A,82,California,Pac-12,22,5,NA,0,8,11,9,12,0,1
+2011,I-A,83,Wisconsin,Big Ten,22,0,NA,0,1,16,10,9,0,3
+2011,I-A,84,Vanderbilt,SEC,22,0,NA,0,0,13,11,9,0,2
+2011,I-A,85,South Florida,Big East,22,0,NA,0,0,12,12,10,0,0
+2011,I-A,86,Middle Tennessee,Sun Belt,22,0,NA,0,0,5,8,8,0,6
+2011,I-A,87,Bowling Green,Mid-American,22,0,NA,0,0,3,10,8,1,3
+2011,I-A,88,Tulane,Conference USA,22,0,NA,0,0,3,14,7,0,1
+2011,I-A,89,Northern Illinois,Mid-American,22,0,NA,0,0,3,10,11,1,0
+2011,I-A,90,Michigan State,Big Ten,21,1,NA,0,2,17,7,11,0,3
+2011,I-A,91,Maryland,ACC,21,0,NA,0,0,15,11,8,1,1
+2011,I-A,92,Baylor,Big 12,21,0,NA,0,1,12,10,10,1,0
+2011,I-A,93,Pittsburgh,Big East,21,0,NA,0,1,11,11,9,0,1
+2011,I-A,94,New Mexico,Mountain West,21,0,NA,0,0,7,10,9,0,2
+2011,I-A,95,Buffalo,Mid-American,21,0,NA,0,0,3,12,8,1,0
+2011,I-A,96,Eastern Michigan,Mid-American,21,0,NA,0,0,2,7,14,0,0
+2011,I-A,97,Temple,Big East,21,0,NA,0,0,1,13,7,0,1
+2011,I-A,98,Louisiana-Monroe,Sun Belt,21,0,NA,0,0,1,12,6,2,1
+2011,I-A,99,Nebraska,Big Ten,20,4,NA,1,6,9,10,7,1,2
+2011,I-A,100,Duke,ACC,20,0,NA,0,1,13,10,8,1,1
+2011,I-A,101,North Carolina State,ACC,20,0,NA,0,1,8,6,8,2,4
+2011,I-A,102,Florida,SEC,19,7,NA,1,10,6,8,6,1,4
+2011,I-A,103,Oklahoma,Big 12,19,6,NA,0,9,10,10,8,0,1
+2011,I-A,104,Stanford,Pac-12,19,2,NA,0,4,14,8,10,0,1
+2011,I-A,105,Michigan,Big Ten,19,0,NA,0,4,13,6,10,1,2
+2011,I-A,106,Utah,Pac-12,19,0,NA,0,1,11,12,7,0,0
+2011,I-A,107,Rice,Conference USA,19,0,NA,0,0,5,8,9,0,2
+2011,I-A,108,Brigham Young,IA Independents,19,0,NA,0,0,6,7,11,1,0
+2011,I-A,109,Miami (FL),ACC,18,3,NA,0,4,10,4,11,2,1
+2011,I-A,110,Arizona State,Pac-12,18,0,NA,0,0,10,8,6,1,3
+2011,I-A,111,Fresno State,Mountain West,18,0,NA,0,0,2,7,11,0,0
+2011,I-A,112,Miami (OH),Mid-American,18,0,NA,0,0,2,10,7,0,1
+2011,I-A,113,Kent State,Mid-American,18,0,NA,0,0,1,9,6,0,3
+2011,I-A,114,Wake Forest,ACC,17,0,NA,0,0,11,5,7,2,3
+2011,I-A,115,Northwestern,Big Ten,17,1,NA,0,1,14,11,6,0,0
+2011,I-A,116,UCLA,Pac-12,17,1,NA,0,2,7,10,6,0,1
+2011,I-A,117,Purdue,Big Ten,17,0,NA,0,0,8,8,6,0,3
+2011,I-A,118,Missouri,SEC,17,0,NA,0,0,8,7,10,0,0
+2011,I-A,119,Penn State,Big Ten,16,2,NA,0,4,8,8,5,1,2
+2011,I-A,120,Connecticut,Big East,16,0,NA,0,0,4,6,8,0,2
+2011,I-AA,1,Bethune-Cookman,NCAA Division I-AA,28,0,NA,0,0,1,8,15,1,4
+2011,I-AA,2,Stephen F. Austin,NCAA Division I-AA,27,0,NA,0,0,4,11,13,1,2
+2011,I-AA,3,Georgia Southern,NCAA Division I-AA,26,0,NA,0,0,2,13,8,0,5
+2011,I-AA,4,Central Arkansas,NCAA Division I-AA,26,0,NA,0,0,1,13,10,1,2
+2011,I-AA,5,Massachusetts,Mid-American,25,0,NA,0,0,1,17,6,1,1
+2011,I-AA,6,South Carolina State,NCAA Division I-AA,23,0,NA,0,0,2,13,8,0,2
+2011,I-AA,7,Florida A&M,NCAA Division I-AA,23,0,NA,0,0,0,17,5,0,1
+2011,I-AA,8,Montana,NCAA Division I-AA,21,0,NA,0,0,0,9,9,2,1
+2011,I-AA,9,Eastern Washington,NCAA Division I-AA,20,0,NA,0,0,0,15,5,0,0
+2011,I-AA,10,Villanova,NCAA Division I-AA,19,0,NA,0,0,4,8,11,0,0
+2011,I-AA,11,Wofford,NCAA Division I-AA,19,0,NA,0,0,0,9,10,0,0
+2011,I-AA,12,Weber State,NCAA Division I-AA,18,0,NA,0,0,2,9,8,0,1
+2011,I-AA,13,Jacksonville State,NCAA Division I-AA,16,0,NA,0,0,2,7,7,0,2
+2011,I-AA,14,Elon,NCAA Division I-AA,16,0,NA,0,0,1,8,7,0,1
+2011,I-AA,15,Illinois State,NCAA Division I-AA,16,0,NA,0,0,0,7,6,0,3
+2011,I-AA,16,Northern Iowa,NCAA Division I-AA,15,0,NA,0,0,1,7,7,1,0
+2011,I-AA,17,William & Mary,NCAA Division I-AA,15,0,NA,0,0,1,8,6,0,1
+2011,I-AA,18,Harvard,NCAA Division I-AA,15,0,NA,0,0,3,7,6,2,0
+2011,I-AA,19,Delaware,NCAA Division I-AA,15,0,NA,0,0,0,8,6,0,1
+2011,I-AA,20,New Hampshire,NCAA Division I-AA,15,0,NA,0,0,0,4,10,0,1
+2011,I-AA,21,James Madison,NCAA Division I-AA,14,0,NA,0,0,1,7,6,0,1
+2011,I-AA,22,Richmond,NCAA Division I-AA,14,0,NA,0,0,1,6,6,0,2
+2011,I-AA,23,Northwestern State,NCAA Division I-AA,13,0,NA,0,0,2,7,3,1,2
+2011,I-AA,24,Grambling State,SWAC,12,0,NA,0,0,0,6,6,0,0
+2011,I-AA,25,Texas State,WAC,11,0,NA,0,0,4,6,4,1,0
+2011,I-AA,26,Appalachian State,NCAA Division I-AA,10,0,NA,0,0,0,4,5,0,1
+2011,I-AA,27,Liberty,NCAA Division I-AA,10,0,NA,0,0,1,5,4,0,1
+2011,I-AA,28,Tennessee State,NCAA Division I-AA,8,0,NA,0,0,2,4,3,0,1
+2011,I-AA,29,Pennsylvania,NCAA Division I-AA,8,0,NA,0,0,3,4,3,1,0
+2011,I-AA,30,Youngstown State,NCAA Division I-AA,8,0,NA,0,0,0,4,2,1,1
+2011,I-AA,31,Montana State,NCAA Division I-AA,6,0,NA,0,0,0,4,2,0,0
+2011,I-AA,32,Western Illinois,NCAA Division I-AA,6,0,NA,0,0,0,2,4,0,0
+2011,I-AA,33,North Dakota State,NCAA Division I-AA,6,0,NA,0,0,0,4,1,1,0
+2011,I-AA,34,Indiana State,NCAA Division I-AA,5,0,NA,0,0,1,3,2,0,0
+2011,I-AA,35,UC Davis,NCAA Division I-AA,5,0,NA,0,0,1,3,2,0,0
+2011,I-AA,36,Southern Illinois,NCAA Division I-AA,5,0,NA,0,0,0,2,2,1,0
+2011,I-AA,37,Bryant University,NCAA Division I-AA,4,0,NA,0,0,0,4,0,0,0
+2011,I-AA,38,Southeast Missouri State,NCAA Division I-AA,3,0,NA,0,0,1,2,0,0,1
+2011,I-AA,39,Princeton,NCAA Division I-AA,3,0,NA,0,0,1,3,0,0,0
+2011,I-AA,40,Jackson State,SWAC,3,0,NA,0,0,0,2,0,1,0
+2011,I-AA,41,Brown,NCAA Division I-AA,3,0,NA,0,0,0,1,2,0,0
+2011,I-AA,42,Southern University,SWAC,3,0,NA,0,0,0,1,2,0,0
+2011,I-AA,43,Fordham,NCAA Division I-AA,3,0,NA,0,0,0,2,1,0,0
+2011,I-AA,44,McNeese State,NCAA Division I-AA,3,0,NA,0,0,0,2,1,0,0
+2011,I-AA,45,Idaho State,NCAA Division I-AA,2,0,NA,0,0,1,1,1,0,0
+2011,I-AA,46,South Dakota State,NCAA Division I-AA,2,0,NA,0,0,0,2,0,0,0
+2011,I-AA,47,North Carolina Central,NCAA Division I-AA,2,0,NA,0,1,0,0,1,0,1
+2011,I-AA,48,Holy Cross,NCAA Division I-AA,2,0,NA,0,0,0,1,1,0,0
+2011,I-AA,49,Sacramento State,NCAA Division I-AA,2,0,NA,0,0,0,2,0,0,0
+2011,I-AA,50,Eastern Illinois,NCAA Division I-AA,2,0,NA,0,0,0,1,0,1,0
+2011,I-AA,51,North Dakota,NCAA Division I-AA,2,0,NA,0,0,0,0,2,0,0
+2011,I-AA,52,Portland State,NCAA Division I-AA,2,0,NA,0,0,0,0,2,0,0
+2011,I-AA,53,Colgate,NCAA Division I-AA,2,0,NA,0,0,0,1,1,0,0
+2011,I-AA,54,Chattanooga,NCAA Division I-AA,2,0,NA,0,0,0,1,1,0,0
+2011,I-AA,55,Morgan State,NCAA Division I-AA,2,0,NA,0,0,0,2,0,0,0
+2011,I-AA,56,Maine,NCAA Division I-AA,2,0,NA,0,0,0,1,1,0,0
+2011,I-AA,57,Howard,NCAA Division I-AA,1,0,NA,0,0,1,1,0,0,0
+2011,I-AA,58,Citadel,NCAA Division I-AA,1,0,NA,0,0,0,1,0,0,0
+2011,I-AA,59,Southeastern Louisiana,NCAA Division I-AA,1,0,NA,0,0,0,1,0,0,0
+2011,I-AA,60,Prairie View A&M,SWAC,1,0,NA,0,0,0,0,1,0,0
+2011,I-AA,61,Rhode Island,NCAA Division I-AA,1,0,NA,0,0,0,1,0,0,0
+2011,I-AA,62,Sam Houston State,NCAA Division I-AA,1,0,NA,0,0,0,0,0,0,1
+2011,I-AA,63,Towson,NCAA Division I-AA,1,0,NA,0,0,0,1,0,0,0
+2011,I-AA,64,Cal Poly,NCAA Division I-AA,1,0,NA,0,0,0,1,0,0,0
+2011,I-AA,65,Western Carolina,NCAA Division I-AA,1,0,NA,0,0,0,1,0,0,0
+2011,I-AA,66,Virginia Military,NCAA Division I-AA,1,0,NA,0,0,0,0,1,0,0
+2011,I-AA,67,Norfolk State,NCAA Division I-AA,1,0,NA,0,0,0,1,0,0,0
+2011,I-AA,68,Hampton,NCAA Division I-AA,1,0,NA,0,0,0,0,1,0,0
+2011,I-AA,69,Lamar,NCAA Division I-AA,1,0,NA,0,0,0,1,0,0,0
+2011,I-AA,70,Lehigh,NCAA Division I-AA,1,0,NA,0,0,0,1,0,0,0
+2011,I-AA,71,Monmouth,NCAA Division I-AA,1,0,NA,0,0,0,0,1,0,0
+2011,I-AA,72,Yale,NCAA Division I-AA,1,0,NA,0,0,0,1,0,0,0
+2011,I-AA,73,Murray State,NCAA Division I-AA,1,0,NA,0,0,0,1,0,0,0
+2011,I-AA,74,Dartmouth,NCAA Division I-AA,1,0,NA,0,0,0,1,0,0,0
+2011,I-AA,75,Columbia,NCAA Division I-AA,1,0,NA,0,0,0,1,0,0,0
+2011,I-AA,76,South Dakota,NCAA Division I-AA,1,0,NA,0,0,0,1,0,0,0
+2011,I-AA,77,Delaware State,NCAA Division I-AA,1,0,NA,0,0,0,0,0,0,1
+2011,I-AA,78,Duquesne,NCAA Division I-AA,1,0,NA,0,0,0,0,1,0,0
+2011,I-AA,79,Eastern Kentucky,NCAA Division I-AA,1,0,NA,0,0,0,1,0,0,0
+2011,I-AA,80,Bucknell,NCAA Division I-AA,1,0,NA,0,0,0,1,0,0,0
+2011,I-AA,81,Butler,NCAA Division I-AA,1,0,NA,0,0,0,0,0,1,0
+2011,I-AA,82,Coastal Carolina,NCAA Division I-AA,1,0,NA,0,0,0,0,1,0,0
+2011,I-AA,83,Alabama A&M,SWAC,1,0,NA,0,0,0,1,0,0,0
+2011,I-AA,84,Arkansas-Pine Bluff,SWAC,1,0,NA,0,0,0,0,1,0,0
+2010,I-A,1,Syracuse,Big East,33,0,NA,0,0,0,16,14,1,2
+2010,I-A,2,Auburn,SEC,32,7,NA,0,0,0,12,11,2,7
+2010,I-A,3,Washington,Pac-12,31,1,NA,0,0,0,14,15,0,2
+2010,I-A,4,Tennessee,SEC,30,6,NA,0,0,0,16,11,2,1
+2010,I-A,5,Nevada,Mountain West,30,0,NA,0,0,0,13,17,0,0
+2010,I-A,6,Colorado State,Mountain West,30,0,NA,0,0,0,16,13,0,1
+2010,I-A,7,Oklahoma,Big 12,29,7,NA,0,0,0,12,11,0,6
+2010,I-A,8,Troy,Sun Belt,29,0,NA,0,0,0,13,12,0,4
+2010,I-A,9,Temple,Big East,29,0,NA,0,0,0,14,12,1,2
+2010,I-A,10,Alabama,SEC,28,8,NA,0,0,0,11,13,2,2
+2010,I-A,11,Miami (FL),ACC,28,4,NA,0,0,0,16,11,0,1
+2010,I-A,12,Memphis,Conference USA,28,0,NA,0,0,0,13,11,0,4
+2010,I-A,13,Kansas State,Big 12,28,0,NA,0,0,0,13,13,0,2
+2010,I-A,14,Iowa State,Big 12,28,0,NA,0,0,0,13,11,1,3
+2010,I-A,15,San Diego State,Mountain West,28,0,NA,0,0,0,13,9,1,5
+2010,I-A,16,UAB,Conference USA,28,0,NA,0,0,0,15,11,0,2
+2010,I-A,17,Utah State,WAC,28,0,NA,0,0,0,17,8,1,2
+2010,I-A,18,UTEP,Conference USA,28,0,NA,0,0,0,14,12,1,1
+2010,I-A,19,Florida,SEC,27,17,NA,0,0,0,8,15,0,4
+2010,I-A,20,Oklahoma State,Big 12,27,1,NA,0,0,0,8,16,0,3
+2010,I-A,21,Marshall,Conference USA,27,0,NA,0,0,0,10,11,1,5
+2010,I-A,22,Kentucky,SEC,27,0,NA,0,0,0,8,16,1,2
+2010,I-A,23,Southern Miss,Conference USA,27,0,NA,0,0,0,17,8,1,1
+2010,I-A,24,Brigham Young,IA Independents,27,0,NA,0,0,0,11,13,0,3
+2010,I-A,25,Minnesota,Big Ten,27,0,NA,0,0,0,11,14,0,2
+2010,I-A,26,Houston,Conference USA,27,0,NA,0,0,0,12,12,1,2
+2010,I-A,27,Arkansas State,Sun Belt,27,0,NA,0,0,0,10,12,2,3
+2010,I-A,28,Toledo,Mid-American,27,0,NA,0,0,0,10,14,0,3
+2010,I-A,29,San Jose State,WAC,27,0,NA,0,0,0,15,10,0,2
+2010,I-A,30,LSU,SEC,26,7,NA,0,0,0,13,9,1,3
+2010,I-A,31,Michigan,Big Ten,26,1,NA,0,0,0,8,14,1,3
+2010,I-A,32,Baylor,Big 12,26,1,NA,0,0,0,13,12,0,1
+2010,I-A,33,Mississippi,SEC,26,0,NA,0,0,0,9,12,0,5
+2010,I-A,34,Texas Tech,Big 12,26,0,NA,0,0,0,6,20,0,0
+2010,I-A,35,Southern Methodist,Conference USA,26,0,NA,0,0,0,11,11,0,4
+2010,I-A,36,Arizona State,Pac-12,26,0,NA,0,0,0,18,6,0,2
+2010,I-A,37,Tulsa,Conference USA,26,0,NA,0,0,0,10,12,1,3
+2010,I-A,38,Hawaii,Mountain West,26,0,NA,0,0,0,11,15,0,0
+2010,I-A,39,Northern Illinois,Mid-American,26,0,NA,0,0,0,9,14,2,1
+2010,I-A,40,Western Michigan,Mid-American,26,0,NA,0,0,0,11,14,0,1
+2010,I-A,41,Idaho,WAC,26,0,NA,0,0,0,14,11,0,1
+2010,I-A,42,Texas,Big 12,25,15,NA,0,0,0,10,12,1,2
+2010,I-A,43,Florida State,ACC,25,8,NA,0,0,0,7,16,0,2
+2010,I-A,44,Mississippi State,SEC,25,1,NA,0,0,0,11,9,0,5
+2010,I-A,45,Louisville,Big East,25,0,NA,0,0,0,11,11,0,3
+2010,I-A,46,Arizona,Pac-12,25,0,NA,0,0,0,10,12,0,3
+2010,I-A,47,Arkansas,SEC,25,1,NA,0,0,0,10,10,2,3
+2010,I-A,48,Purdue,Big Ten,25,0,NA,0,0,0,8,11,2,4
+2010,I-A,49,Utah,Pac-12,25,0,NA,0,0,0,11,14,0,0
+2010,I-A,50,Rutgers,Big East,25,0,NA,0,0,0,12,10,0,3
+2010,I-A,51,Vanderbilt,SEC,25,0,NA,0,0,0,9,13,1,2
+2010,I-A,52,Colorado,Pac-12,25,0,NA,0,0,0,15,7,1,2
+2010,I-A,53,Indiana,Big Ten,25,0,NA,0,0,0,10,13,0,2
+2010,I-A,54,Washington State,Pac-12,25,0,NA,0,0,0,15,9,0,1
+2010,I-A,55,UNLV,Mountain West,25,0,NA,0,0,0,12,11,1,1
+2010,I-A,56,Tulane,Conference USA,25,0,NA,0,0,0,10,12,2,1
+2010,I-A,57,Louisiana-Lafayette,Sun Belt,25,0,NA,0,0,0,10,14,0,1
+2010,I-A,58,Texas A&M,SEC,24,3,NA,0,0,0,14,9,0,1
+2010,I-A,59,South Carolina,SEC,24,3,NA,0,0,0,11,9,1,3
+2010,I-A,60,Pittsburgh,Big East,24,0,NA,0,0,0,13,6,0,5
+2010,I-A,61,Wisconsin,Big Ten,24,0,NA,0,0,0,9,12,0,3
+2010,I-A,62,Cincinnati,Big East,24,0,NA,0,0,0,9,11,2,2
+2010,I-A,63,Bowling Green,Mid-American,24,0,NA,0,0,0,13,10,0,1
+2010,I-A,64,Wyoming,Mountain West,24,0,NA,0,0,0,13,10,0,1
+2010,I-A,65,Clemson,ACC,23,2,NA,0,0,0,8,11,0,4
+2010,I-A,66,Oregon,Pac-12,23,4,NA,0,0,0,8,10,1,4
+2010,I-A,67,Notre Dame,IA Independents,23,2,NA,0,0,0,12,9,0,2
+2010,I-A,68,Missouri,SEC,23,0,NA,0,0,0,11,10,0,2
+2010,I-A,69,North Carolina State,ACC,23,1,NA,0,0,0,8,12,1,2
+2010,I-A,70,UCF,Conference USA,23,0,NA,0,0,0,13,7,0,3
+2010,I-A,71,Illinois,Big Ten,23,0,NA,0,0,0,15,7,0,1
+2010,I-A,72,Florida International,Sun Belt,23,1,NA,0,0,0,8,13,1,1
+2010,I-A,73,Connecticut,Big East,23,0,NA,0,0,0,9,10,0,4
+2010,I-A,74,Akron,Mid-American,23,0,NA,0,0,0,14,6,0,3
+2010,I-A,75,Miami (OH),Mid-American,23,0,NA,0,0,0,11,9,1,2
+2010,I-A,76,Eastern Michigan,Mid-American,23,0,NA,0,0,0,11,12,0,0
+2010,I-A,77,UCLA,Pac-12,22,7,NA,0,0,0,8,12,1,1
+2010,I-A,78,Stanford,Pac-12,22,3,NA,0,0,0,9,10,1,2
+2010,I-A,79,Nebraska,Big Ten,22,1,NA,0,0,0,9,11,0,2
+2010,I-A,80,Maryland,ACC,22,1,NA,0,0,0,6,13,0,3
+2010,I-A,81,Iowa,Big Ten,22,1,NA,0,0,0,7,10,1,4
+2010,I-A,82,North Texas,Sun Belt,22,0,NA,0,0,0,9,12,1,0
+2010,I-A,83,Louisiana-Monroe,Sun Belt,22,0,NA,0,0,0,11,11,0,0
+2010,I-A,84,Virginia Tech,ACC,21,1,NA,0,0,0,10,10,0,1
+2010,I-A,85,Michigan State,Big Ten,21,1,NA,0,0,0,11,8,1,1
+2010,I-A,86,Boston College,ACC,21,0,NA,0,0,0,15,5,0,1
+2010,I-A,87,East Carolina,Conference USA,21,0,NA,0,0,0,9,8,0,4
+2010,I-A,88,Wake Forest,ACC,21,0,NA,0,0,0,14,6,0,1
+2010,I-A,89,Ball State,Mid-American,21,0,NA,0,0,0,9,11,1,0
+2010,I-A,90,Kent State,Mid-American,21,0,NA,0,0,0,4,16,0,1
+2010,I-A,91,Georgia,SEC,20,6,NA,0,0,0,7,12,0,1
+2010,I-A,92,Penn State,Big Ten,20,6,NA,0,0,0,12,7,0,1
+2010,I-A,93,North Carolina,ACC,20,1,NA,0,0,0,8,8,0,4
+2010,I-A,94,South Florida,Big East,20,2,NA,0,0,0,9,8,1,2
+2010,I-A,95,Duke,ACC,20,0,NA,0,0,0,9,9,0,2
+2010,I-A,96,Fresno State,Mountain West,20,0,NA,0,0,0,10,4,0,6
+2010,I-A,97,Louisiana Tech,WAC,20,0,NA,0,0,0,8,10,0,2
+2010,I-A,98,Buffalo,Mid-American,20,0,NA,0,0,0,11,7,1,1
+2010,I-A,99,Middle Tennessee,Sun Belt,20,0,NA,0,0,0,7,11,0,2
+2010,I-A,100,USC,Pac-12,19,10,NA,0,0,0,10,4,0,5
+2010,I-A,101,California,Pac-12,19,2,NA,0,0,0,11,7,0,1
+2010,I-A,102,Ohio State,Big Ten,19,4,NA,0,0,0,8,8,1,2
+2010,I-A,103,West Virginia,Big 12,19,1,NA,0,0,0,8,6,0,5
+2010,I-A,104,Kansas,Big 12,19,0,NA,0,0,0,8,9,0,2
+2010,I-A,105,Central Michigan,Mid-American,19,0,NA,0,0,0,7,11,1,0
+2010,I-A,106,TCU,Big 12,18,0,NA,0,0,0,5,8,0,5
+2010,I-A,107,Georgia Tech,ACC,18,0,NA,0,0,0,5,10,1,2
+2010,I-A,108,New Mexico,Mountain West,18,0,NA,0,0,0,9,8,0,1
+2010,I-A,109,Virginia,ACC,17,0,NA,0,0,0,11,5,0,1
+2010,I-A,110,Northwestern,Big Ten,17,0,NA,0,0,0,7,7,0,3
+2010,I-A,111,Oregon State,Pac-12,17,0,NA,0,0,0,6,10,1,0
+2010,I-A,112,New Mexico State,WAC,17,0,NA,0,0,0,9,7,1,0
+2010,I-A,113,Ohio,Mid-American,17,0,NA,0,0,0,7,8,0,2
+2010,I-A,114,Western Kentucky,Sun Belt,16,0,NA,0,0,0,9,7,0,0
+2010,I-A,115,Rice,Conference USA,16,0,NA,0,0,0,6,7,0,3
+2010,I-A,116,Florida Atlantic,Sun Belt,12,0,NA,0,0,0,6,6,0,0
+2010,I-A,117,Boise State,Mountain West,10,0,NA,0,0,0,4,5,0,1
+2010,I-A,118,Navy,IA Independents,1,0,NA,0,0,0,1,0,0,0
+2010,I-AA,1,Lafayette,NCAA Division I-AA,32,0,NA,0,0,0,16,14,0,2
+2010,I-AA,2,Northwestern State,NCAA Division I-AA,31,0,NA,0,0,0,13,12,0,6
+2010,I-AA,3,Harvard,NCAA Division I-AA,30,0,NA,0,0,0,14,12,1,3
+2010,I-AA,4,Stephen F. Austin,NCAA Division I-AA,25,0,NA,0,0,0,12,11,1,1
+2010,I-AA,5,Georgia Southern,NCAA Division I-AA,24,0,NA,0,0,0,14,10,0,0
+2010,I-AA,6,South Carolina State,NCAA Division I-AA,22,0,NA,0,0,0,9,10,0,3
+2010,I-AA,7,Southern Illinois,NCAA Division I-AA,22,0,NA,0,0,0,11,10,1,0
+2010,I-AA,8,Weber State,NCAA Division I-AA,22,0,NA,0,0,0,14,5,1,2
+2010,I-AA,9,Northern Iowa,NCAA Division I-AA,21,0,NA,0,0,0,10,7,1,3
+2010,I-AA,10,South Dakota State,NCAA Division I-AA,21,0,NA,0,0,0,12,7,2,0
+2010,I-AA,11,Montana,NCAA Division I-AA,20,0,NA,0,0,0,11,9,0,0
+2010,I-AA,12,Prairie View A&M,SWAC,20,0,NA,0,0,0,7,9,1,3
+2010,I-AA,13,James Madison,NCAA Division I-AA,19,0,NA,0,0,0,7,8,1,3
+2010,I-AA,14,Western Carolina,NCAA Division I-AA,19,0,NA,0,0,0,10,8,0,1
+2010,I-AA,15,Eastern Illinois,NCAA Division I-AA,19,0,NA,0,0,0,7,9,1,2
+2010,I-AA,16,Delaware,NCAA Division I-AA,19,0,NA,0,0,0,10,9,0,0
+2010,I-AA,17,Liberty,NCAA Division I-AA,19,0,NA,0,0,0,9,9,0,1
+2010,I-AA,18,Jacksonville State,NCAA Division I-AA,19,0,NA,0,0,0,12,5,1,1
+2010,I-AA,19,Richmond,NCAA Division I-AA,19,0,NA,0,0,0,9,7,0,3
+2010,I-AA,20,New Hampshire,NCAA Division I-AA,17,0,NA,0,0,0,8,7,0,2
+2010,I-AA,21,Massachusetts,Mid-American,17,0,NA,0,0,0,10,6,0,1
+2010,I-AA,22,Eastern Washington,NCAA Division I-AA,16,0,NA,0,0,0,13,2,0,1
+2010,I-AA,23,Appalachian State,NCAA Division I-AA,15,0,NA,0,0,0,10,5,0,0
+2010,I-AA,24,Villanova,NCAA Division I-AA,15,0,NA,0,0,0,8,6,0,1
+2010,I-AA,25,McNeese State,NCAA Division I-AA,15,0,NA,0,0,0,7,6,1,1
+2010,I-AA,26,Texas State,WAC,14,0,NA,0,0,0,9,5,0,0
+2010,I-AA,27,Elon,NCAA Division I-AA,14,0,NA,0,0,0,5,9,0,0
+2010,I-AA,28,William & Mary,NCAA Division I-AA,14,0,NA,0,0,0,8,5,1,0
+2010,I-AA,29,Alabama State,SWAC,2,0,NA,0,0,0,1,1,0,0
+2010,I-AA,30,Nicholls State,NCAA Division I-AA,2,0,NA,0,0,0,2,0,0,0
+2010,I-AA,31,Murray State,NCAA Division I-AA,1,0,NA,0,0,0,1,0,0,0
+2010,I-AA,32,Youngstown State,NCAA Division I-AA,1,0,NA,0,0,0,1,0,0,0
+2010,I-AA,33,Hampton,NCAA Division I-AA,1,0,NA,0,0,0,1,0,0,0
+2010,I-AA,34,Stony Brook,NCAA Division I-AA,1,0,NA,0,0,0,1,0,0,0
+2010,I-AA,35,Sam Houston State,NCAA Division I-AA,1,0,NA,0,0,0,0,1,0,0
+2010,I-AA,36,Georgetown,NCAA Division I-AA,1,0,NA,0,0,0,0,1,0,0
+2010,I-AA,37,Southeastern Louisiana,NCAA Division I-AA,1,0,NA,0,0,0,1,0,0,0
+2010,I-AA,38,Sacred Heart,NCAA Division I-AA,1,0,NA,0,0,0,0,1,0,0
+2010,I-AA,39,Delaware State,NCAA Division I-AA,1,0,NA,0,0,0,1,0,0,0
+2010,I-AA,40,Drake,NCAA Division I-AA,1,0,NA,0,0,0,0,0,1,0
+2010,I-AA,41,Texas Southern,SWAC,1,0,NA,0,0,0,0,1,0,0
+2009,I-A,1,Troy,Sun Belt,39,0,NA,0,0,0,19,19,0,1
+2009,I-A,2,Mississippi,SEC,37,3,NA,0,0,0,16,16,2,3
+2009,I-A,3,Arkansas,SEC,33,1,NA,0,0,0,15,14,1,3
+2009,I-A,4,Kansas State,Big 12,32,0,NA,0,0,0,14,13,1,4
+2009,I-A,5,Alabama,SEC,30,9,NA,0,0,0,14,15,0,0
+2009,I-A,6,Central Michigan,Mid-American,30,0,NA,0,0,0,14,14,0,2
+2009,I-A,7,Hawaii,Mountain West,30,0,NA,0,0,0,13,14,1,2
+2009,I-A,8,South Florida,Big East,29,1,NA,0,0,0,10,15,0,4
+2009,I-A,9,Auburn,SEC,29,0,NA,0,0,0,13,11,0,5
+2009,I-A,10,Baylor,Big 12,29,1,NA,0,0,0,17,9,0,3
+2009,I-A,11,South Carolina,SEC,28,6,NA,0,0,0,11,15,0,2
+2009,I-A,12,North Carolina,ACC,28,4,NA,0,0,0,11,12,1,4
+2009,I-A,13,Texas A&M,SEC,28,1,NA,0,0,0,8,15,1,4
+2009,I-A,14,Kentucky,SEC,28,1,NA,0,0,0,13,14,0,1
+2009,I-A,15,North Carolina State,ACC,28,0,NA,0,0,0,9,15,1,3
+2009,I-A,16,Southern Methodist,Conference USA,28,0,NA,0,0,0,12,13,1,2
+2009,I-A,17,Temple,Big East,28,0,NA,0,0,0,11,15,1,1
+2009,I-A,18,Mississippi State,SEC,27,2,NA,0,0,0,12,8,2,5
+2009,I-A,19,Duke,ACC,27,0,NA,0,0,0,10,13,0,4
+2009,I-A,20,Louisiana-Monroe,Sun Belt,27,0,NA,0,0,0,15,10,0,2
+2009,I-A,21,Ohio State,Big Ten,26,7,NA,0,0,0,14,10,0,2
+2009,I-A,22,Penn State,Big Ten,26,1,NA,0,0,0,11,10,1,4
+2009,I-A,23,Oklahoma State,Big 12,26,1,NA,0,0,0,10,14,0,2
+2009,I-A,24,Maryland,ACC,26,1,NA,0,0,0,10,14,1,1
+2009,I-A,25,Marshall,Conference USA,26,0,NA,0,0,0,11,12,0,3
+2009,I-A,26,Louisville,Big East,26,0,NA,0,0,0,9,16,0,1
+2009,I-A,27,Cincinnati,Big East,26,0,NA,0,0,0,10,11,1,4
+2009,I-A,28,Florida Atlantic,Sun Belt,26,0,NA,0,0,0,11,13,1,1
+2009,I-A,29,Tulane,Conference USA,26,0,NA,0,0,0,12,12,1,1
+2009,I-A,30,Louisiana Tech,WAC,26,0,NA,0,0,0,14,11,1,0
+2009,I-A,31,Utah State,WAC,26,0,NA,0,0,0,14,12,0,0
+2009,I-A,32,Western Kentucky,Sun Belt,26,0,NA,0,0,0,11,11,1,3
+2009,I-A,33,LSU,SEC,25,10,NA,0,0,0,8,13,1,3
+2009,I-A,34,West Virginia,Big 12,25,1,NA,0,0,0,13,11,0,1
+2009,I-A,35,Virginia,ACC,25,1,NA,0,0,0,13,10,0,2
+2009,I-A,36,Texas Tech,Big 12,25,0,NA,0,0,0,11,12,0,2
+2009,I-A,37,Oregon,Pac-12,25,1,NA,0,0,0,9,13,2,1
+2009,I-A,38,Missouri,SEC,25,1,NA,0,0,0,11,13,0,1
+2009,I-A,39,Kansas,Big 12,25,0,NA,0,0,0,9,14,0,2
+2009,I-A,40,Arizona,Pac-12,25,0,NA,0,0,0,14,10,0,1
+2009,I-A,41,Iowa State,Big 12,25,0,NA,0,0,0,9,12,0,4
+2009,I-A,42,Tulsa,Conference USA,25,0,NA,0,0,0,12,11,0,2
+2009,I-A,43,Oregon State,Pac-12,25,0,NA,0,0,0,13,7,0,5
+2009,I-A,44,Houston,Conference USA,25,0,NA,0,0,0,11,11,0,3
+2009,I-A,45,Miami (OH),Mid-American,25,0,NA,0,0,0,11,14,0,0
+2009,I-A,46,Rice,Conference USA,25,0,NA,0,0,0,11,11,1,2
+2009,I-A,47,Tennessee,SEC,24,6,NA,0,0,0,9,13,0,2
+2009,I-A,48,Oklahoma,Big 12,24,6,NA,0,0,0,10,14,0,0
+2009,I-A,49,UCLA,Pac-12,24,4,NA,0,0,0,12,10,0,2
+2009,I-A,50,Rutgers,Big East,24,3,NA,0,0,0,8,12,0,4
+2009,I-A,51,Arizona State,Pac-12,24,2,NA,0,0,0,13,7,0,4
+2009,I-A,52,UAB,Conference USA,24,0,NA,0,0,0,10,14,0,0
+2009,I-A,53,Utah,Pac-12,24,0,NA,0,0,0,11,13,0,0
+2009,I-A,54,Memphis,Conference USA,24,0,NA,0,0,0,15,8,1,0
+2009,I-A,55,Western Michigan,Mid-American,24,0,NA,0,0,0,16,8,0,0
+2009,I-A,56,Akron,Mid-American,24,0,NA,0,0,0,12,10,1,1
+2009,I-A,57,Wyoming,Mountain West,24,0,NA,0,0,0,11,13,0,0
+2009,I-A,58,Northern Illinois,Mid-American,24,0,NA,0,0,0,8,13,2,1
+2009,I-A,59,Michigan State,Big Ten,23,2,NA,0,0,0,12,10,1,0
+2009,I-A,60,Florida International,Sun Belt,23,0,NA,0,0,0,10,11,1,1
+2009,I-A,61,UCF,Conference USA,23,0,NA,0,0,0,8,13,0,2
+2009,I-A,62,Middle Tennessee,Sun Belt,23,0,NA,0,0,0,7,12,0,4
+2009,I-A,63,Colorado State,Mountain West,23,0,NA,0,0,0,11,11,1,0
+2009,I-A,64,Eastern Michigan,Mid-American,23,0,NA,0,0,0,8,14,0,1
+2009,I-A,65,Buffalo,Mid-American,23,0,NA,0,0,0,12,11,0,0
+2009,I-A,66,Kent State,Mid-American,23,0,NA,0,0,0,10,11,1,1
+2009,I-A,67,Michigan,Big Ten,22,7,NA,0,0,0,9,7,1,5
+2009,I-A,68,Stanford,Pac-12,22,2,NA,0,0,0,14,8,0,0
+2009,I-A,69,TCU,Big 12,22,0,NA,0,0,0,10,10,0,2
+2009,I-A,70,Southern Miss,Conference USA,22,0,NA,0,0,0,13,8,0,1
+2009,I-A,71,Washington State,Pac-12,22,0,NA,0,0,0,7,13,0,2
+2009,I-A,72,Ball State,Mid-American,22,0,NA,0,0,0,12,8,0,2
+2009,I-A,73,New Mexico State,WAC,22,0,NA,0,0,0,11,9,0,2
+2009,I-A,74,Bowling Green,Mid-American,22,0,NA,0,0,0,10,10,0,2
+2009,I-A,75,UNLV,Mountain West,22,0,NA,0,0,0,10,11,0,1
+2009,I-A,76,Ohio,Mid-American,22,0,NA,0,0,0,14,7,0,1
+2009,I-A,77,Georgia,SEC,21,8,NA,0,0,0,10,8,1,2
+2009,I-A,78,Virginia Tech,ACC,21,2,NA,0,0,0,6,10,1,4
+2009,I-A,79,Georgia Tech,ACC,21,0,NA,0,0,0,9,11,0,1
+2009,I-A,80,Wisconsin,Big Ten,21,1,NA,0,0,0,11,8,0,2
+2009,I-A,81,Arkansas State,Sun Belt,21,0,NA,0,0,0,10,9,0,2
+2009,I-A,82,Wake Forest,ACC,21,0,NA,0,0,0,7,10,1,3
+2009,I-A,83,Nebraska,Big Ten,21,0,NA,0,0,0,9,9,0,3
+2009,I-A,84,Purdue,Big Ten,21,0,NA,0,0,0,8,10,0,3
+2009,I-A,85,Boise State,Mountain West,21,0,NA,0,0,0,10,10,0,1
+2009,I-A,86,San Diego State,Mountain West,21,0,NA,0,0,0,11,8,0,2
+2009,I-A,87,UTEP,Conference USA,21,0,NA,0,0,0,10,9,0,2
+2009,I-A,88,Connecticut,Big East,21,0,NA,0,0,0,9,9,1,2
+2009,I-A,89,Brigham Young,IA Independents,21,0,NA,0,0,0,14,6,0,1
+2009,I-A,90,North Texas,Sun Belt,21,0,NA,0,0,0,9,11,1,0
+2009,I-A,91,Toledo,Mid-American,21,0,NA,0,0,0,8,11,1,1
+2009,I-A,92,Texas,Big 12,20,9,NA,0,0,0,9,11,0,0
+2009,I-A,93,Florida State,ACC,20,5,NA,0,0,0,10,8,1,1
+2009,I-A,94,Minnesota,Big Ten,20,1,NA,0,0,0,11,6,1,2
+2009,I-A,95,Illinois,Big Ten,20,1,NA,0,0,0,10,8,0,2
+2009,I-A,96,Pittsburgh,Big East,20,0,NA,0,0,0,12,6,0,2
+2009,I-A,97,New Mexico,Mountain West,20,0,NA,0,0,0,11,6,1,2
+2009,I-A,98,Idaho,WAC,20,0,NA,0,0,0,10,9,0,1
+2009,I-A,99,Miami (FL),ACC,19,6,NA,0,0,0,9,8,0,2
+2009,I-A,100,Colorado,Pac-12,19,0,NA,0,0,0,10,8,1,0
+2009,I-A,101,East Carolina,Conference USA,19,0,NA,0,0,0,8,10,0,1
+2009,I-A,102,Indiana,Big Ten,19,0,NA,0,0,0,11,5,1,2
+2009,I-A,103,Iowa,Big Ten,19,1,NA,0,0,0,15,4,0,0
+2009,I-A,104,Washington,Pac-12,19,0,NA,0,0,0,3,12,1,3
+2009,I-A,105,USC,Pac-12,18,9,NA,0,0,0,5,9,1,3
+2009,I-A,106,Notre Dame,IA Independents,18,7,NA,0,0,0,7,5,2,4
+2009,I-A,107,California,Pac-12,18,1,NA,0,0,0,8,9,1,0
+2009,I-A,108,Boston College,ACC,18,0,NA,0,0,0,9,8,1,0
+2009,I-A,109,Northwestern,Big Ten,18,0,NA,0,0,0,8,9,1,0
+2009,I-A,110,Louisiana-Lafayette,Sun Belt,18,0,NA,0,0,0,9,7,0,2
+2009,I-A,111,Nevada,Mountain West,18,0,NA,0,0,0,9,8,1,0
+2009,I-A,112,Florida,SEC,17,8,NA,0,0,0,10,6,0,1
+2009,I-A,113,Vanderbilt,SEC,17,0,NA,0,0,0,11,6,0,0
+2009,I-A,114,Fresno State,Mountain West,17,0,NA,0,0,0,3,13,0,1
+2009,I-A,115,Syracuse,Big East,17,0,NA,0,0,0,6,10,1,0
+2009,I-A,116,San Jose State,WAC,17,0,NA,0,0,0,9,7,1,0
+2009,I-A,117,Clemson,ACC,12,4,NA,0,0,0,7,5,0,0
+2009,I-AA,1,Eastern Washington,NCAA Division I-AA,32,0,NA,0,0,0,0,0,0,0
+2009,I-AA,2,Stephen F. Austin,NCAA Division I-AA,24,0,NA,0,0,0,0,0,0,0
+2009,I-AA,3,Delaware,NCAA Division I-AA,21,0,NA,0,0,0,0,0,0,0
+2009,I-AA,4,Massachusetts,Mid-American,19,0,NA,0,0,0,0,0,0,0
+2009,I-AA,5,James Madison,NCAA Division I-AA,18,0,NA,0,0,0,0,0,0,0
+2009,I-AA,6,Appalachian State,NCAA Division I-AA,15,0,NA,0,0,0,0,0,0,0
+2009,I-AA,7,Richmond,NCAA Division I-AA,14,0,NA,0,0,0,0,0,0,0
+2009,I-AA,8,Villanova,NCAA Division I-AA,12,0,NA,0,0,0,0,0,0,0
+2009,I-AA,9,New Hampshire,NCAA Division I-AA,10,0,NA,0,0,0,0,0,0,0
+2009,I-AA,10,William & Mary,NCAA Division I-AA,10,0,NA,0,0,0,0,0,0,0
+2009,I-AA,11,North Dakota State,NCAA Division I-AA,8,0,NA,0,0,0,5,3,0,0
+2009,I-AA,12,Georgia Southern,NCAA Division I-AA,2,0,NA,0,0,0,0,0,0,0
+2009,I-AA,13,Idaho State,NCAA Division I-AA,1,0,NA,0,0,0,0,0,0,0
+2009,I-AA,14,Samford,NCAA Division I-AA,1,0,NA,0,0,0,0,1,0,0
+2009,I-AA,15,Bethune-Cookman,NCAA Division I-AA,1,0,NA,0,0,0,0,1,0,0
+2009,I-AA,16,Georgetown,NCAA Division I-AA,1,0,NA,0,0,0,0,1,0,0
+2009,I-AA,17,Jacksonville State,NCAA Division I-AA,1,0,NA,0,0,0,1,0,0,0
+2009,I-AA,18,Alabama State,SWAC,1,0,NA,0,0,0,1,0,0,0
+2009,I-AA,19,Western Carolina,NCAA Division I-AA,1,0,NA,0,0,0,0,1,0,0
+2009,I-AA,20,Northeastern,CAA,0,0,NA,0,0,0,0,0,0,0
+2009,I-AA,21,Stony Brook,NCAA Division I-AA,0,0,NA,0,0,0,0,1,0,0
+2008,I-A,1,Troy,Sun Belt,36,0,NA,NA,NA,NA,14,20,0,2
+2008,I-A,2,Kansas State,Big 12,33,0,NA,NA,NA,NA,14,15,1,3
+2008,I-A,3,Alabama,SEC,32,7,NA,NA,NA,NA,12,16,1,3
+2008,I-A,4,Miami (FL),ACC,32,12,NA,NA,NA,NA,14,17,1,0
+2008,I-A,5,Florida State,ACC,31,5,NA,NA,NA,NA,17,12,0,2
+2008,I-A,6,Virginia Tech,ACC,31,1,NA,NA,NA,NA,10,14,0,7
+2008,I-A,7,Minnesota,Big Ten,31,1,NA,NA,NA,NA,9,14,0,8
+2008,I-A,8,Mississippi,SEC,30,0,NA,NA,NA,NA,17,10,0,2
+2008,I-A,9,Wisconsin,Big Ten,29,1,NA,NA,NA,NA,14,14,1,0
+2008,I-A,10,Auburn,SEC,28,2,NA,NA,NA,NA,13,14,0,1
+2008,I-A,11,Arizona State,Pac-12,28,1,NA,NA,NA,NA,11,13,0,4
+2008,I-A,12,Illinois,Big Ten,28,1,NA,NA,NA,NA,16,11,0,1
+2008,I-A,13,Boston College,ACC,28,0,NA,NA,NA,NA,13,11,1,3
+2008,I-A,14,Southern Methodist,Conference USA,28,0,NA,NA,NA,NA,20,8,0,0
+2008,I-A,15,Nebraska,Big Ten,27,1,NA,NA,NA,NA,13,10,0,4
+2008,I-A,16,North Carolina State,ACC,27,2,NA,NA,NA,NA,9,14,0,4
+2008,I-A,17,West Virginia,Big 12,27,0,NA,NA,NA,NA,11,13,1,2
+2008,I-A,18,Oklahoma State,Big 12,27,1,NA,NA,NA,NA,13,13,1,0
+2008,I-A,19,Mississippi State,SEC,27,1,NA,NA,NA,NA,9,14,1,3
+2008,I-A,20,Temple,Big East,27,0,NA,NA,NA,NA,11,12,0,4
+2008,I-A,21,Tulsa,Conference USA,27,0,NA,NA,NA,NA,13,13,1,0
+2008,I-A,22,LSU,SEC,26,4,NA,NA,NA,NA,14,11,0,1
+2008,I-A,23,Arkansas,SEC,26,3,NA,NA,NA,NA,15,7,0,4
+2008,I-A,24,Washington,Pac-12,26,1,NA,NA,NA,NA,17,8,0,1
+2008,I-A,25,Purdue,Big Ten,26,0,NA,NA,NA,NA,11,14,1,0
+2008,I-A,26,Iowa,Big Ten,26,0,NA,NA,NA,NA,14,11,1,0
+2008,I-A,27,Akron,Mid-American,26,1,NA,NA,NA,NA,12,13,0,1
+2008,I-A,28,Syracuse,Big East,26,0,NA,NA,NA,NA,14,11,1,0
+2008,I-A,29,Washington State,Pac-12,26,0,NA,NA,NA,NA,14,10,0,2
+2008,I-A,30,UTEP,Conference USA,26,0,NA,NA,NA,NA,10,16,0,0
+2008,I-A,31,Clemson,ACC,25,10,NA,NA,NA,NA,13,10,2,0
+2008,I-A,32,Arizona,Pac-12,25,0,NA,NA,NA,NA,14,11,0,0
+2008,I-A,33,North Texas,Sun Belt,25,0,NA,NA,NA,NA,10,11,0,4
+2008,I-A,34,Cincinnati,Big East,25,0,NA,NA,NA,NA,13,9,1,2
+2008,I-A,35,Arkansas State,Sun Belt,25,0,NA,NA,NA,NA,13,9,1,2
+2008,I-A,36,Western Michigan,Mid-American,25,0,NA,NA,NA,NA,11,13,1,0
+2008,I-A,37,Georgia,SEC,24,8,NA,NA,NA,NA,11,9,1,3
+2008,I-A,38,Michigan,Big Ten,24,4,NA,NA,NA,NA,14,5,0,5
+2008,I-A,39,Texas A&M,SEC,24,3,NA,NA,NA,NA,10,13,0,1
+2008,I-A,40,Southern Miss,Conference USA,24,1,NA,NA,NA,NA,12,10,0,2
+2008,I-A,41,Missouri,SEC,24,1,NA,NA,NA,NA,12,11,0,1
+2008,I-A,42,Florida International,Sun Belt,24,0,NA,NA,NA,NA,8,16,0,0
+2008,I-A,43,Louisville,Big East,24,0,NA,NA,NA,NA,12,11,1,0
+2008,I-A,44,Iowa State,Big 12,24,0,NA,NA,NA,NA,9,10,2,3
+2008,I-A,45,UAB,Conference USA,24,0,NA,NA,NA,NA,9,12,0,3
+2008,I-A,46,Middle Tennessee,Sun Belt,24,0,NA,NA,NA,NA,13,9,1,1
+2008,I-A,47,Colorado State,Mountain West,24,0,NA,NA,NA,NA,9,12,1,2
+2008,I-A,48,Toledo,Mid-American,24,0,NA,NA,NA,NA,10,14,0,0
+2008,I-A,49,Florida,SEC,23,11,NA,NA,NA,NA,9,12,1,1
+2008,I-A,50,Notre Dame,IA Independents,23,10,NA,NA,NA,NA,11,11,0,1
+2008,I-A,51,UCLA,Pac-12,23,4,NA,NA,NA,NA,13,9,1,0
+2008,I-A,52,South Florida,Big East,23,0,NA,NA,NA,NA,10,9,2,2
+2008,I-A,53,South Carolina,SEC,23,1,NA,NA,NA,NA,7,13,1,2
+2008,I-A,54,Connecticut,Big East,23,0,NA,NA,NA,NA,11,11,0,1
+2008,I-A,55,Houston,Conference USA,23,0,NA,NA,NA,NA,8,13,1,1
+2008,I-A,56,Fresno State,Mountain West,23,0,NA,NA,NA,NA,13,8,0,2
+2008,I-A,57,Louisiana-Lafayette,Sun Belt,23,0,NA,NA,NA,NA,8,11,1,3
+2008,I-A,58,Wyoming,Mountain West,23,0,NA,NA,NA,NA,13,9,1,0
+2008,I-A,59,California,Pac-12,22,0,NA,NA,NA,NA,8,12,0,2
+2008,I-A,60,Rutgers,Big East,22,0,NA,NA,NA,NA,9,11,0,2
+2008,I-A,61,Baylor,Big 12,22,1,NA,NA,NA,NA,12,7,1,2
+2008,I-A,62,San Diego State,Mountain West,22,0,NA,NA,NA,NA,13,7,1,1
+2008,I-A,63,New Mexico,Mountain West,22,0,NA,NA,NA,NA,12,8,0,2
+2008,I-A,64,UNLV,Mountain West,22,0,NA,NA,NA,NA,11,8,0,3
+2008,I-A,65,Central Michigan,Mid-American,22,0,NA,NA,NA,NA,12,10,0,0
+2008,I-A,66,Eastern Michigan,Mid-American,22,0,NA,NA,NA,NA,11,9,0,2
+2008,I-A,67,Oklahoma,Big 12,21,8,NA,NA,NA,NA,11,9,1,0
+2008,I-A,68,Colorado,Pac-12,21,3,NA,NA,NA,NA,10,9,1,1
+2008,I-A,69,Marshall,Conference USA,21,0,NA,NA,NA,NA,11,9,1,0
+2008,I-A,70,Vanderbilt,SEC,21,0,NA,NA,NA,NA,5,13,1,2
+2008,I-A,71,Kent State,Mid-American,21,0,NA,NA,NA,NA,11,8,1,1
+2008,I-A,72,Brigham Young,IA Independents,21,0,NA,NA,NA,NA,10,10,1,0
+2008,I-A,73,Louisiana-Monroe,Sun Belt,21,0,NA,NA,NA,NA,12,8,0,1
+2008,I-A,74,Ball State,Mid-American,21,0,NA,NA,NA,NA,9,9,2,1
+2008,I-A,75,Boise State,Mountain West,21,0,NA,NA,NA,NA,12,8,0,1
+2008,I-A,76,Utah State,WAC,21,0,NA,NA,NA,NA,12,8,0,1
+2008,I-A,77,USC,Pac-12,20,10,NA,NA,NA,NA,8,9,0,3
+2008,I-A,78,Ohio State,Big Ten,20,8,NA,NA,NA,NA,9,9,1,1
+2008,I-A,79,Georgia Tech,ACC,20,0,NA,NA,NA,NA,11,8,0,1
+2008,I-A,80,Oregon,Pac-12,20,1,NA,NA,NA,NA,11,6,0,3
+2008,I-A,81,Maryland,ACC,20,2,NA,NA,NA,NA,12,7,0,1
+2008,I-A,82,Kansas,Big 12,20,0,NA,NA,NA,NA,11,7,1,1
+2008,I-A,83,Memphis,Conference USA,20,0,NA,NA,NA,NA,11,8,0,1
+2008,I-A,84,Michigan State,Big Ten,20,0,NA,NA,NA,NA,9,8,0,3
+2008,I-A,85,UCF,Conference USA,20,0,NA,NA,NA,NA,12,7,0,1
+2008,I-A,86,Northwestern,Big Ten,20,0,NA,NA,NA,NA,10,9,0,1
+2008,I-A,87,Indiana,Big Ten,20,0,NA,NA,NA,NA,15,5,0,0
+2008,I-A,88,Kentucky,SEC,20,0,NA,NA,NA,NA,8,9,0,3
+2008,I-A,89,Nevada,Mountain West,20,0,NA,NA,NA,NA,8,12,0,0
+2008,I-A,90,Ohio,Mid-American,20,0,NA,NA,NA,NA,9,10,1,0
+2008,I-A,91,Idaho,WAC,20,0,NA,NA,NA,NA,9,9,1,1
+2008,I-A,92,Texas,Big 12,19,8,NA,NA,NA,NA,8,9,1,1
+2008,I-A,93,Tennessee,SEC,19,1,NA,NA,NA,NA,8,11,0,0
+2008,I-A,94,Pittsburgh,Big East,19,4,NA,NA,NA,NA,11,4,1,3
+2008,I-A,95,East Carolina,Conference USA,19,0,NA,NA,NA,NA,10,8,0,1
+2008,I-A,96,Tulane,Conference USA,19,0,NA,NA,NA,NA,9,9,0,1
+2008,I-A,97,North Carolina,ACC,18,1,NA,NA,NA,NA,6,12,0,0
+2008,I-A,98,Stanford,Pac-12,18,1,NA,NA,NA,NA,7,6,1,4
+2008,I-A,99,Louisiana Tech,WAC,18,0,NA,NA,NA,NA,7,10,0,1
+2008,I-A,100,Virginia,ACC,18,0,NA,NA,NA,NA,10,6,1,1
+2008,I-A,101,Oregon State,Pac-12,18,0,NA,NA,NA,NA,11,6,0,1
+2008,I-A,102,Hawaii,Mountain West,18,0,NA,NA,NA,NA,10,7,0,1
+2008,I-A,103,Miami (OH),Mid-American,18,0,NA,NA,NA,NA,11,6,1,0
+2008,I-A,104,San Jose State,WAC,18,0,NA,NA,NA,NA,7,8,1,2
+2008,I-A,105,New Mexico State,WAC,18,0,NA,NA,NA,NA,10,7,1,0
+2008,I-A,106,Wake Forest,ACC,17,0,NA,NA,NA,NA,9,7,0,1
+2008,I-A,107,Duke,ACC,17,0,NA,NA,NA,NA,9,5,1,2
+2008,I-A,108,TCU,Big 12,17,1,NA,NA,NA,NA,10,4,1,2
+2008,I-A,109,Rice,Conference USA,17,0,NA,NA,NA,NA,10,4,1,2
+2008,I-A,110,Buffalo,Mid-American,17,0,NA,NA,NA,NA,7,9,0,1
+2008,I-A,111,Utah,Pac-12,16,0,NA,NA,NA,NA,10,4,0,2
+2008,I-A,112,Western Kentucky,Sun Belt,16,0,NA,NA,NA,NA,6,9,0,1
+2008,I-A,113,Bowling Green,Mid-American,16,0,NA,NA,NA,NA,7,7,1,1
+2008,I-A,114,Texas Tech,Big 12,15,0,NA,NA,NA,NA,5,8,1,1
+2008,I-A,115,Penn State,Big Ten,14,1,NA,NA,NA,NA,6,8,0,0
+2008,I-A,116,Northern Illinois,Mid-American,13,0,NA,NA,NA,NA,6,6,0,1
+2008,I-A,117,Florida Atlantic,Sun Belt,6,0,NA,NA,NA,NA,4,2,0,0
+2008,I-AA,1,Georgia Southern,NCAA Division I-AA,36,0,NA,NA,NA,NA,19,15,0,2
+2008,I-AA,2,Montana,NCAA Division I-AA,31,0,NA,NA,NA,NA,16,13,2,0
+2008,I-AA,3,Delaware State,NCAA Division I-AA,26,0,NA,NA,NA,NA,13,13,0,0
+2008,I-AA,4,Northern Iowa,NCAA Division I-AA,23,0,NA,NA,NA,NA,11,10,0,2
+2008,I-AA,5,Grambling State,SWAC,21,0,NA,NA,NA,NA,14,6,0,1
+2008,I-AA,6,Eastern Illinois,NCAA Division I-AA,21,0,NA,NA,NA,NA,13,8,0,0
+2008,I-AA,7,McNeese State,NCAA Division I-AA,19,0,NA,NA,NA,NA,9,10,0,0
+2008,I-AA,8,Southern Illinois,NCAA Division I-AA,19,0,NA,NA,NA,NA,10,8,1,0
+2008,I-AA,9,South Dakota State,NCAA Division I-AA,19,0,NA,NA,NA,NA,10,8,1,0
+2008,I-AA,10,Eastern Kentucky,NCAA Division I-AA,19,0,NA,NA,NA,NA,13,5,1,0
+2008,I-AA,11,Youngstown State,NCAA Division I-AA,17,0,NA,NA,NA,NA,8,9,0,0
+2008,I-AA,12,Wofford,NCAA Division I-AA,17,0,NA,NA,NA,NA,9,8,0,0
+2008,I-AA,13,Villanova,NCAA Division I-AA,16,0,NA,NA,NA,NA,0,0,0,0
+2008,I-AA,14,North Dakota State,NCAA Division I-AA,16,0,NA,NA,NA,NA,7,8,1,0
+2008,I-AA,15,Cal Poly,NCAA Division I-AA,16,0,NA,NA,NA,NA,14,1,0,1
+2008,I-AA,16,Liberty,NCAA Division I-AA,16,0,NA,NA,NA,NA,7,8,1,0
+2008,I-AA,17,Massachusetts,Mid-American,16,0,NA,NA,NA,NA,7,9,0,0
+2008,I-AA,18,Appalachian State,NCAA Division I-AA,15,0,NA,NA,NA,NA,3,9,1,2
+2008,I-AA,19,Elon,NCAA Division I-AA,14,0,NA,NA,NA,NA,8,5,1,0
+2008,I-AA,20,New Hampshire,NCAA Division I-AA,14,0,NA,NA,NA,NA,10,4,0,0
+2008,I-AA,21,Richmond,NCAA Division I-AA,12,0,NA,NA,NA,NA,7,5,0,0
+2008,I-AA,22,James Madison,NCAA Division I-AA,12,0,NA,NA,NA,NA,7,5,0,0
+2008,I-AA,23,Delaware,NCAA Division I-AA,5,0,NA,NA,NA,NA,4,1,0,0
+2008,I-AA,24,Montana State,NCAA Division I-AA,1,0,NA,NA,NA,NA,0,0,0,0
+2008,I-AA,25,Winston-Salem,NCAA Football,1,0,NA,NA,NA,NA,0,1,0,0
+2008,I-AA,26,Prairie View A&M,SWAC,1,0,NA,NA,NA,NA,1,0,0,0
+2008,I-AA,27,Arkansas-Pine Bluff,SWAC,1,0,NA,NA,NA,NA,0,0,0,1
+2008,I-AA,28,Yale,NCAA Division I-AA,1,0,NA,NA,NA,NA,0,1,0,0
+2008,I-AA,29,Alabama A&M,SWAC,1,0,NA,NA,NA,NA,1,0,0,0
+2008,I-AA,30,Portland State,NCAA Division I-AA,1,0,NA,NA,NA,NA,0,1,0,0
+2008,I-AA,31,Maine,NCAA Division I-AA,1,0,NA,NA,NA,NA,1,0,0,0
+2008,I-AA,32,Towson,NCAA Division I-AA,1,0,NA,NA,NA,NA,1,0,0,0
+2008,I-AA,33,Wagner,NCAA Division I-AA,1,0,NA,NA,NA,NA,1,0,0,0
+2008,I-AA,34,Weber State,NCAA Division I-AA,1,0,NA,NA,NA,NA,0,1,0,0
+2008,I-AA,35,Gardner-Webb,NCAA Division I-AA,1,0,NA,NA,NA,NA,0,0,1,0
+2008,I-AA,36,Hofstra,CAA,1,0,NA,NA,NA,NA,0,1,0,0
+2008,I-AA,37,Northeastern,CAA,1,0,NA,NA,NA,NA,1,0,0,0
+2008,I-AA,38,Columbia,NCAA Division I-AA,1,0,NA,NA,NA,NA,1,0,0,0
+2007,I-A,1,Mississippi State,SEC,35,0,NA,NA,NA,NA,15,19,1,0
+2007,I-A,2,Oregon State,Pac-12,35,0,NA,NA,NA,NA,16,19,0,0
+2007,I-A,3,Troy,Sun Belt,34,0,NA,NA,NA,NA,16,16,2,0
+2007,I-A,4,South Carolina,SEC,32,8,NA,NA,NA,NA,14,18,0,0
+2007,I-A,5,Kansas State,Big 12,32,0,NA,NA,NA,NA,17,14,1,0
+2007,I-A,6,Tennessee,SEC,31,7,NA,NA,NA,NA,14,17,0,0
+2007,I-A,7,Auburn,SEC,30,5,NA,NA,NA,NA,14,14,1,1
+2007,I-A,8,Baylor,Big 12,30,0,NA,NA,NA,NA,15,13,2,0
+2007,I-A,9,Oregon,Pac-12,29,1,NA,NA,NA,NA,14,14,1,0
+2007,I-A,10,UCF,Conference USA,29,1,NA,NA,NA,NA,18,10,1,0
+2007,I-A,11,Connecticut,Big East,29,0,NA,NA,NA,NA,15,13,1,0
+2007,I-A,12,West Virginia,Big 12,28,1,NA,NA,NA,NA,12,15,0,1
+2007,I-A,13,Nebraska,Big Ten,28,0,NA,NA,NA,NA,12,15,1,0
+2007,I-A,14,Kentucky,SEC,28,1,NA,NA,NA,NA,14,13,1,0
+2007,I-A,15,Colorado,Pac-12,28,2,NA,NA,NA,NA,18,10,0,0
+2007,I-A,16,Texas Tech,Big 12,28,0,NA,NA,NA,NA,17,10,1,0
+2007,I-A,17,Temple,Big East,28,0,NA,NA,NA,NA,12,16,0,0
+2007,I-A,18,Florida,SEC,27,14,NA,NA,NA,NA,11,15,1,0
+2007,I-A,19,LSU,SEC,27,7,NA,NA,NA,NA,14,11,2,0
+2007,I-A,20,California,Pac-12,27,0,NA,NA,NA,NA,14,12,1,0
+2007,I-A,21,Maryland,ACC,27,1,NA,NA,NA,NA,18,8,1,0
+2007,I-A,22,Missouri,SEC,27,1,NA,NA,NA,NA,11,15,1,0
+2007,I-A,23,Arkansas,SEC,27,0,NA,NA,NA,NA,14,11,1,1
+2007,I-A,24,Washington,Pac-12,27,0,NA,NA,NA,NA,13,12,2,0
+2007,I-A,25,Houston,Conference USA,27,0,NA,NA,NA,NA,14,12,0,1
+2007,I-A,26,Kent State,Mid-American,27,0,NA,NA,NA,NA,11,16,0,0
+2007,I-A,27,East Carolina,Conference USA,26,0,NA,NA,NA,NA,16,10,0,0
+2007,I-A,28,Louisiana-Monroe,Sun Belt,26,0,NA,NA,NA,NA,9,11,1,5
+2007,I-A,29,Marshall,Conference USA,26,0,NA,NA,NA,NA,15,11,0,0
+2007,I-A,30,Brigham Young,IA Independents,26,0,NA,NA,NA,NA,18,8,0,0
+2007,I-A,31,Washington State,Pac-12,26,0,NA,NA,NA,NA,11,15,0,0
+2007,I-A,32,Fresno State,Mountain West,26,0,NA,NA,NA,NA,11,13,1,1
+2007,I-A,33,Texas,Big 12,25,12,NA,NA,NA,NA,14,11,0,0
+2007,I-A,34,Southern Miss,Conference USA,25,1,NA,NA,NA,NA,11,13,0,1
+2007,I-A,35,Mississippi,SEC,25,3,NA,NA,NA,NA,11,13,1,0
+2007,I-A,36,South Florida,Big East,25,0,NA,NA,NA,NA,13,12,0,0
+2007,I-A,37,Middle Tennessee,Sun Belt,25,0,NA,NA,NA,NA,12,12,0,1
+2007,I-A,38,Syracuse,Big East,25,0,NA,NA,NA,NA,10,14,1,0
+2007,I-A,39,Utah,Pac-12,25,0,NA,NA,NA,NA,9,16,0,0
+2007,I-A,40,UTEP,Conference USA,25,0,NA,NA,NA,NA,11,14,0,0
+2007,I-A,41,UAB,Conference USA,25,0,NA,NA,NA,NA,13,11,1,0
+2007,I-A,42,Tulsa,Conference USA,25,0,NA,NA,NA,NA,10,15,0,0
+2007,I-A,43,Boise State,Mountain West,25,0,NA,NA,NA,NA,14,10,1,0
+2007,I-A,44,North Carolina,ACC,24,7,NA,NA,NA,NA,12,10,1,1
+2007,I-A,45,Alabama,SEC,24,3,NA,NA,NA,NA,10,14,0,0
+2007,I-A,46,Minnesota,Big Ten,24,1,NA,NA,NA,NA,14,9,0,1
+2007,I-A,47,Arkansas State,Sun Belt,24,0,NA,NA,NA,NA,15,8,0,1
+2007,I-A,48,Virginia Tech,ACC,24,1,NA,NA,NA,NA,15,9,0,0
+2007,I-A,49,Virginia,ACC,24,0,NA,NA,NA,NA,15,8,1,0
+2007,I-A,50,Pittsburgh,Big East,24,1,NA,NA,NA,NA,13,11,0,0
+2007,I-A,51,Colorado State,Mountain West,24,0,NA,NA,NA,NA,8,15,0,1
+2007,I-A,52,Oklahoma State,Big 12,24,2,NA,NA,NA,NA,13,11,0,0
+2007,I-A,53,Arizona State,Pac-12,24,0,NA,NA,NA,NA,11,13,0,0
+2007,I-A,54,Wyoming,Mountain West,24,0,NA,NA,NA,NA,15,9,0,0
+2007,I-A,55,Iowa State,Big 12,24,0,NA,NA,NA,NA,13,11,0,0
+2007,I-A,56,Utah State,WAC,24,0,NA,NA,NA,NA,10,13,1,0
+2007,I-A,57,Eastern Michigan,Mid-American,24,0,NA,NA,NA,NA,14,10,0,0
+2007,I-A,58,Ball State,Mid-American,24,0,NA,NA,NA,NA,9,13,1,1
+2007,I-A,59,Rice,Conference USA,24,0,NA,NA,NA,NA,12,11,0,1
+2007,I-A,60,Hawaii,Mountain West,24,0,NA,NA,NA,NA,13,11,0,0
+2007,I-A,61,Georgia,SEC,23,6,NA,NA,NA,NA,13,9,1,0
+2007,I-A,62,TCU,Big 12,23,0,NA,NA,NA,NA,8,13,1,1
+2007,I-A,63,Clemson,ACC,23,3,NA,NA,NA,NA,9,14,0,0
+2007,I-A,64,Miami (OH),Mid-American,23,0,NA,NA,NA,NA,10,13,0,0
+2007,I-A,65,North Carolina State,ACC,23,0,NA,NA,NA,NA,13,9,1,0
+2007,I-A,66,Kansas,Big 12,23,0,NA,NA,NA,NA,13,9,1,0
+2007,I-A,67,Ohio,Mid-American,23,0,NA,NA,NA,NA,15,7,1,0
+2007,I-A,68,New Mexico,Mountain West,23,0,NA,NA,NA,NA,14,9,0,0
+2007,I-A,69,Memphis,Conference USA,22,0,NA,NA,NA,NA,13,8,1,0
+2007,I-A,70,Illinois,Big Ten,22,3,NA,NA,NA,NA,10,12,0,0
+2007,I-A,71,Iowa,Big Ten,22,2,NA,NA,NA,NA,11,11,0,0
+2007,I-A,72,Michigan State,Big Ten,22,1,NA,NA,NA,NA,14,7,1,0
+2007,I-A,73,Southern Methodist,Conference USA,22,1,NA,NA,NA,NA,13,7,0,2
+2007,I-A,74,Tulane,Conference USA,22,0,NA,NA,NA,NA,12,9,1,0
+2007,I-A,75,San Diego State,Mountain West,22,0,NA,NA,NA,NA,11,11,0,0
+2007,I-A,76,Idaho,WAC,22,0,NA,NA,NA,NA,11,11,0,0
+2007,I-A,77,Duke,ACC,22,0,NA,NA,NA,NA,12,9,1,0
+2007,I-A,78,Cincinnati,Big East,22,0,NA,NA,NA,NA,15,6,0,1
+2007,I-A,79,Akron,Mid-American,22,0,NA,NA,NA,NA,10,12,0,0
+2007,I-A,80,Penn State,Big Ten,21,3,NA,NA,NA,NA,12,8,1,0
+2007,I-A,81,Oklahoma,Big 12,21,1,NA,NA,NA,NA,12,8,1,0
+2007,I-A,82,Rutgers,Big East,21,2,NA,NA,NA,NA,8,12,1,0
+2007,I-A,83,Louisiana Tech,WAC,21,0,NA,NA,NA,NA,7,14,0,0
+2007,I-A,84,Western Michigan,Mid-American,21,0,NA,NA,NA,NA,9,11,1,0
+2007,I-A,85,Wake Forest,ACC,21,0,NA,NA,NA,NA,11,10,0,0
+2007,I-A,86,New Mexico State,WAC,21,0,NA,NA,NA,NA,10,10,1,0
+2007,I-A,87,USC,Pac-12,20,10,NA,NA,NA,NA,11,9,0,0
+2007,I-A,88,Miami (FL),ACC,20,6,NA,NA,NA,NA,12,8,0,0
+2007,I-A,89,Michigan,Big Ten,20,4,NA,NA,NA,NA,13,7,0,0
+2007,I-A,90,Wisconsin,Big Ten,20,2,NA,NA,NA,NA,12,7,1,0
+2007,I-A,91,Georgia Tech,ACC,20,3,NA,NA,NA,NA,10,10,0,0
+2007,I-A,92,Indiana,Big Ten,20,0,NA,NA,NA,NA,11,9,0,0
+2007,I-A,93,North Texas,Sun Belt,20,0,NA,NA,NA,NA,12,8,0,0
+2007,I-A,94,UNLV,Mountain West,20,0,NA,NA,NA,NA,7,12,0,1
+2007,I-A,95,Buffalo,Mid-American,20,0,NA,NA,NA,NA,11,9,0,0
+2007,I-A,96,Florida State,ACC,19,2,NA,NA,NA,NA,11,7,1,0
+2007,I-A,97,Texas A&M,SEC,19,3,NA,NA,NA,NA,11,8,0,0
+2007,I-A,98,Northwestern,Big Ten,19,0,NA,NA,NA,NA,10,9,0,0
+2007,I-A,99,Stanford,Pac-12,19,0,NA,NA,NA,NA,11,7,1,0
+2007,I-A,100,Toledo,Mid-American,19,0,NA,NA,NA,NA,14,4,1,0
+2007,I-A,101,Purdue,Big Ten,19,0,NA,NA,NA,NA,8,11,0,0
+2007,I-A,102,Northern Illinois,Mid-American,19,0,NA,NA,NA,NA,11,8,0,0
+2007,I-A,103,Notre Dame,IA Independents,18,10,NA,NA,NA,NA,11,6,1,0
+2007,I-A,104,Boston College,ACC,18,0,NA,NA,NA,NA,11,5,1,1
+2007,I-A,105,Louisiana-Lafayette,Sun Belt,18,0,NA,NA,NA,NA,9,8,0,1
+2007,I-A,106,Bowling Green,Mid-American,18,0,NA,NA,NA,NA,7,8,1,2
+2007,I-A,107,Arizona,Pac-12,17,2,NA,NA,NA,NA,7,9,1,0
+2007,I-A,108,Nevada,Mountain West,17,0,NA,NA,NA,NA,8,9,0,0
+2007,I-A,109,Florida Atlantic,Sun Belt,16,0,NA,NA,NA,NA,11,4,1,0
+2007,I-A,110,Central Michigan,Mid-American,16,0,NA,NA,NA,NA,9,7,0,0
+2007,I-A,111,Ohio State,Big Ten,15,2,NA,NA,NA,NA,7,8,0,0
+2007,I-A,112,Louisville,Big East,15,0,NA,NA,NA,NA,10,5,0,0
+2007,I-A,113,Vanderbilt,SEC,15,0,NA,NA,NA,NA,9,6,0,0
+2007,I-A,114,Florida International,Sun Belt,14,0,NA,NA,NA,NA,9,5,0,0
+2007,I-A,115,San Jose State,WAC,13,0,NA,NA,NA,NA,7,6,0,0
+2007,I-A,116,UCLA,Pac-12,11,2,NA,NA,NA,NA,4,7,0,0
+2007,I-A,117,Air Force,Mountain West,1,0,NA,NA,NA,NA,1,0,0,0
+2007,I-AA,1,Western Kentucky,Sun Belt,5,0,NA,NA,NA,NA,2,3,0,0
+2007,I-AA,2,Hampton,NCAA Division I-AA,2,0,NA,NA,NA,NA,1,0,0,1
+2007,I-AA,3,Southern Illinois,NCAA Division I-AA,1,0,NA,NA,NA,NA,0,1,0,0
+2007,I-AA,4,Jackson State,SWAC,1,0,NA,NA,NA,NA,1,0,0,0
+2007,I-AA,5,Harvard,NCAA Division I-AA,1,0,NA,NA,NA,NA,1,0,0,0
+2007,I-AA,6,Chattanooga,NCAA Division I-AA,1,0,NA,NA,NA,NA,0,1,0,0
+2007,I-AA,7,Eastern Illinois,NCAA Division I-AA,1,0,NA,NA,NA,NA,1,0,0,0
+2007,I-AA,8,Liberty,NCAA Division I-AA,1,0,NA,NA,NA,NA,1,0,0,0
+2007,I-AA,9,Samford,NCAA Division I-AA,1,0,NA,NA,NA,NA,0,1,0,0
+2007,I-AA,10,Appalachian State,NCAA Division I-AA,1,0,NA,NA,NA,NA,0,1,0,0
+2007,I-AA,11,Georgia Southern,NCAA Division I-AA,1,0,NA,NA,NA,NA,1,0,0,0
+2007,I-AA,12,Stephen F. Austin,NCAA Division I-AA,1,0,NA,NA,NA,NA,1,0,0,0
+2007,I-AA,13,McNeese State,NCAA Division I-AA,1,0,NA,NA,NA,NA,1,0,0,0
+2007,I-AA,14,South Carolina State,NCAA Division I-AA,1,0,NA,NA,NA,NA,1,0,0,0
+2007,I-AA,15,Jacksonville State,NCAA Division I-AA,1,0,NA,NA,NA,NA,1,0,0,0
+2006,I-A,1,Kansas State,Big 12,37,1,NA,NA,NA,NA,17,20,0,0
+2006,I-A,2,Texas Tech,Big 12,35,0,NA,NA,NA,NA,16,19,0,0
+2006,I-A,3,Florida State,ACC,34,7,NA,NA,NA,NA,16,18,0,0
+2006,I-A,4,Mississippi,SEC,33,3,NA,NA,NA,NA,24,9,0,0
+2006,I-A,5,Kentucky,SEC,33,1,NA,NA,NA,NA,18,14,1,0
+2006,I-A,6,Oregon State,Pac-12,33,0,NA,NA,NA,NA,18,14,1,0
+2006,I-A,7,Iowa State,Big 12,32,0,NA,NA,NA,NA,16,16,0,0
+2006,I-A,8,Illinois,Big Ten,30,3,NA,NA,NA,NA,15,14,1,0
+2006,I-A,9,Purdue,Big Ten,30,0,NA,NA,NA,NA,12,16,2,0
+2006,I-A,10,Louisville,Big East,30,2,NA,NA,NA,NA,17,12,1,0
+2006,I-A,11,South Florida,Big East,30,0,NA,NA,NA,NA,12,17,1,0
+2006,I-A,12,Oklahoma State,Big 12,29,2,NA,NA,NA,NA,13,16,0,0
+2006,I-A,13,North Carolina,ACC,29,1,NA,NA,NA,NA,17,12,0,0
+2006,I-A,14,Louisiana Tech,WAC,29,0,NA,NA,NA,NA,12,17,0,0
+2006,I-A,15,Troy,Sun Belt,29,0,NA,NA,NA,NA,11,17,1,0
+2006,I-A,16,Notre Dame,IA Independents,28,10,NA,NA,NA,NA,17,10,1,0
+2006,I-A,17,Georgia,SEC,28,12,NA,NA,NA,NA,16,12,0,0
+2006,I-A,18,Nevada,Mountain West,28,0,NA,NA,NA,NA,15,13,0,0
+2006,I-A,19,Baylor,Big 12,28,0,NA,NA,NA,NA,16,12,0,0
+2006,I-A,20,Akron,Mid-American,28,0,NA,NA,NA,NA,13,14,1,0
+2006,I-A,21,Florida,SEC,27,14,NA,NA,NA,NA,13,14,0,0
+2006,I-A,22,Oklahoma,Big 12,27,6,NA,NA,NA,NA,15,12,0,0
+2006,I-A,23,LSU,SEC,27,6,NA,NA,NA,NA,14,13,0,0
+2006,I-A,24,Alabama,SEC,27,2,NA,NA,NA,NA,14,13,0,0
+2006,I-A,25,Pittsburgh,Big East,27,2,NA,NA,NA,NA,9,17,1,0
+2006,I-A,26,Utah,Pac-12,27,0,NA,NA,NA,NA,14,13,0,0
+2006,I-A,27,Mississippi State,SEC,27,2,NA,NA,NA,NA,15,12,0,0
+2006,I-A,28,Rutgers,Big East,27,0,NA,NA,NA,NA,14,13,0,0
+2006,I-A,29,UTEP,Conference USA,27,0,NA,NA,NA,NA,20,5,2,0
+2006,I-A,30,Duke,ACC,27,0,NA,NA,NA,NA,14,12,1,0
+2006,I-A,31,Washington State,Pac-12,27,0,NA,NA,NA,NA,18,9,0,0
+2006,I-A,32,San Jose State,WAC,27,0,NA,NA,NA,NA,15,12,0,0
+2006,I-A,33,UNLV,Mountain West,27,0,NA,NA,NA,NA,12,15,0,0
+2006,I-A,34,Hawaii,Mountain West,27,0,NA,NA,NA,NA,9,18,0,0
+2006,I-A,35,USC,Pac-12,26,13,NA,NA,NA,NA,14,11,1,0
+2006,I-A,36,Marshall,Conference USA,26,0,NA,NA,NA,NA,15,10,1,0
+2006,I-A,37,New Mexico,Mountain West,26,0,NA,NA,NA,NA,14,11,1,0
+2006,I-A,38,Arkansas,SEC,26,3,NA,NA,NA,NA,14,12,0,0
+2006,I-A,39,Brigham Young,IA Independents,26,0,NA,NA,NA,NA,12,13,1,0
+2006,I-A,40,Tulane,Conference USA,26,0,NA,NA,NA,NA,11,14,1,0
+2006,I-A,41,Temple,Big East,26,0,NA,NA,NA,NA,14,12,0,0
+2006,I-A,42,Toledo,Mid-American,26,0,NA,NA,NA,NA,14,11,1,0
+2006,I-A,43,Texas,Big 12,25,8,NA,NA,NA,NA,14,10,1,0
+2006,I-A,44,Texas A&M,SEC,25,1,NA,NA,NA,NA,13,12,0,0
+2006,I-A,45,Auburn,SEC,25,4,NA,NA,NA,NA,12,12,1,0
+2006,I-A,46,Michigan State,Big Ten,25,0,NA,NA,NA,NA,9,15,1,0
+2006,I-A,47,Arizona State,Pac-12,25,0,NA,NA,NA,NA,9,15,1,0
+2006,I-A,48,Arizona,Pac-12,25,2,NA,NA,NA,NA,12,13,0,0
+2006,I-A,49,Missouri,SEC,25,0,NA,NA,NA,NA,10,15,0,0
+2006,I-A,50,South Carolina,SEC,25,1,NA,NA,NA,NA,14,11,0,0
+2006,I-A,51,East Carolina,Conference USA,25,0,NA,NA,NA,NA,15,10,0,0
+2006,I-A,52,Nebraska,Big Ten,25,1,NA,NA,NA,NA,12,13,0,0
+2006,I-A,53,Kansas,Big 12,25,0,NA,NA,NA,NA,13,12,0,0
+2006,I-A,54,Central Michigan,Mid-American,25,0,NA,NA,NA,NA,12,12,1,0
+2006,I-A,55,Vanderbilt,SEC,25,1,NA,NA,NA,NA,17,7,1,0
+2006,I-A,56,Houston,Conference USA,25,0,NA,NA,NA,NA,12,13,0,0
+2006,I-A,57,Colorado State,Mountain West,25,0,NA,NA,NA,NA,14,11,0,0
+2006,I-A,58,Penn State,Big Ten,24,6,NA,NA,NA,NA,12,12,0,0
+2006,I-A,59,Connecticut,Big East,24,0,NA,NA,NA,NA,12,11,1,0
+2006,I-A,60,Oregon,Pac-12,24,0,NA,NA,NA,NA,13,11,0,0
+2006,I-A,61,Virginia,ACC,24,0,NA,NA,NA,NA,12,12,0,0
+2006,I-A,62,Southern Miss,Conference USA,24,0,NA,NA,NA,NA,13,11,0,0
+2006,I-A,63,Wyoming,Mountain West,24,0,NA,NA,NA,NA,15,7,2,0
+2006,I-A,64,Utah State,WAC,24,0,NA,NA,NA,NA,10,14,0,0
+2006,I-A,65,Tennessee,SEC,23,1,NA,NA,NA,NA,10,11,2,0
+2006,I-A,66,Ball State,Mid-American,23,0,NA,NA,NA,NA,9,14,0,0
+2006,I-A,67,Florida Atlantic,Sun Belt,23,0,NA,NA,NA,NA,12,11,0,0
+2006,I-A,68,Florida International,Sun Belt,23,0,NA,NA,NA,NA,13,9,1,0
+2006,I-A,69,Tulsa,Conference USA,23,0,NA,NA,NA,NA,15,8,0,0
+2006,I-A,70,Wisconsin,Big Ten,23,2,NA,NA,NA,NA,15,8,0,0
+2006,I-A,71,UAB,Conference USA,23,0,NA,NA,NA,NA,15,8,0,0
+2006,I-A,72,Colorado,Pac-12,23,0,NA,NA,NA,NA,12,10,0,1
+2006,I-A,73,Arkansas State,Sun Belt,23,0,NA,NA,NA,NA,7,15,1,0
+2006,I-A,74,Louisiana-Monroe,Sun Belt,23,0,NA,NA,NA,NA,14,8,1,0
+2006,I-A,75,Maryland,ACC,22,3,NA,NA,NA,NA,13,9,0,0
+2006,I-A,76,Washington,Pac-12,22,1,NA,NA,NA,NA,10,12,0,0
+2006,I-A,77,UCLA,Pac-12,22,1,NA,NA,NA,NA,15,6,1,0
+2006,I-A,78,Syracuse,Big East,22,1,NA,NA,NA,NA,15,7,0,0
+2006,I-A,79,UCF,Conference USA,22,0,NA,NA,NA,NA,13,9,0,0
+2006,I-A,80,Idaho,WAC,22,0,NA,NA,NA,NA,7,14,1,0
+2006,I-A,81,Miami (OH),Mid-American,22,0,NA,NA,NA,NA,8,13,1,0
+2006,I-A,82,Miami (FL),ACC,21,4,NA,NA,NA,NA,12,8,1,0
+2006,I-A,83,North Carolina State,ACC,21,0,NA,NA,NA,NA,11,8,2,0
+2006,I-A,84,Iowa,Big Ten,21,1,NA,NA,NA,NA,11,9,1,0
+2006,I-A,85,Virginia Tech,ACC,21,1,NA,NA,NA,NA,9,12,0,0
+2006,I-A,86,California,Pac-12,21,2,NA,NA,NA,NA,10,10,1,0
+2006,I-A,87,Cincinnati,Big East,21,0,NA,NA,NA,NA,10,11,0,0
+2006,I-A,88,Indiana,Big Ten,21,0,NA,NA,NA,NA,13,8,0,0
+2006,I-A,89,Western Michigan,Mid-American,21,0,NA,NA,NA,NA,17,4,0,0
+2006,I-A,90,Louisiana-Lafayette,Sun Belt,21,0,NA,NA,NA,NA,10,10,1,0
+2006,I-A,91,Ohio State,Big Ten,20,7,NA,NA,NA,NA,8,12,0,0
+2006,I-A,92,Clemson,ACC,20,5,NA,NA,NA,NA,9,10,1,0
+2006,I-A,93,Michigan,Big Ten,20,6,NA,NA,NA,NA,8,11,1,0
+2006,I-A,94,Boston College,ACC,20,0,NA,NA,NA,NA,11,9,0,0
+2006,I-A,95,San Diego State,Mountain West,20,0,NA,NA,NA,NA,8,12,0,0
+2006,I-A,96,Ohio,Mid-American,20,0,NA,NA,NA,NA,11,9,0,0
+2006,I-A,97,Buffalo,Mid-American,20,0,NA,NA,NA,NA,8,11,1,0
+2006,I-A,98,Minnesota,Big Ten,19,0,NA,NA,NA,NA,10,8,1,0
+2006,I-A,99,Eastern Michigan,Mid-American,19,0,NA,NA,NA,NA,10,9,0,0
+2006,I-A,100,Boise State,Mountain West,19,0,NA,NA,NA,NA,9,9,1,0
+2006,I-A,101,North Texas,Sun Belt,19,0,NA,NA,NA,NA,6,13,0,0
+2006,I-A,102,TCU,Big 12,18,0,NA,NA,NA,NA,12,6,0,0
+2006,I-A,103,Southern Methodist,Conference USA,18,0,NA,NA,NA,NA,7,10,1,0
+2006,I-A,104,Bowling Green,Mid-American,18,0,NA,NA,NA,NA,9,7,2,0
+2006,I-A,105,New Mexico State,WAC,18,0,NA,NA,NA,NA,10,8,0,0
+2006,I-A,106,Northwestern,Big Ten,17,0,NA,NA,NA,NA,10,6,1,0
+2006,I-A,107,Stanford,Pac-12,17,0,NA,NA,NA,NA,10,7,0,0
+2006,I-A,108,Memphis,Conference USA,17,0,NA,NA,NA,NA,6,10,1,0
+2006,I-A,109,Fresno State,Mountain West,17,0,NA,NA,NA,NA,6,10,1,0
+2006,I-A,110,Northern Illinois,Mid-American,17,0,NA,NA,NA,NA,12,5,0,0
+2006,I-A,111,West Virginia,Big 12,16,0,NA,NA,NA,NA,7,9,0,0
+2006,I-A,112,Wake Forest,ACC,16,1,NA,NA,NA,NA,8,7,1,0
+2006,I-A,113,Kent State,Mid-American,16,0,NA,NA,NA,NA,10,5,1,0
+2006,I-A,114,Georgia Tech,ACC,15,0,NA,NA,NA,NA,8,7,0,0
+2006,I-A,115,Rice,Conference USA,14,0,NA,NA,NA,NA,10,4,0,0
+2006,I-A,116,Middle Tennessee,Sun Belt,13,0,NA,NA,NA,NA,6,6,1,0
+2006,I-A,117,Air Force,Mountain West,2,0,NA,NA,NA,NA,1,1,0,0
+2006,I-A,118,Army,IA Independents,1,0,NA,NA,NA,NA,1,0,0,0
+2006,I-AA,1,Wofford,NCAA Division I-AA,1,0,NA,NA,NA,NA,1,0,0,0
+2006,I-AA,2,Princeton,NCAA Division I-AA,1,0,NA,NA,NA,NA,0,1,0,0
+2006,I-AA,3,Grambling State,SWAC,1,0,NA,NA,NA,NA,1,0,0,0
+2006,I-AA,4,Weber State,NCAA Division I-AA,1,0,NA,NA,NA,NA,0,0,1,0
+2006,I-AA,5,Montana,NCAA Division I-AA,1,0,NA,NA,NA,NA,1,0,0,0

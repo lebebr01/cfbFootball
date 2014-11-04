@@ -17,11 +17,11 @@ The data consist of 246 NCAA football teams.
 
 VARIABLES
 
-officialName:         Official team name
+team:                 Common team name
 
-shortName:            Common team name
+official:             Official team name
 
-longName:             Common team name and mascot		
+nickname:             Team nickname		
 
 color1:               Primary team color (http://dynasties.operationsports.com/team-colors.php?sport=ncaa)
 

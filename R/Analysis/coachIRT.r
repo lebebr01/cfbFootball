@@ -126,11 +126,72 @@ mod.pred <- lmer(beta.i ~ 1 + Year2 + overWinmc + Year2:overWinmc +
                         numGamesmc + numGamesmc:Year2 + power5conf + Year2:power5conf + 
                         (1 + Year2|coach2), data = raschValC2)
 
-HistsucCoach <- c("Bobby Bowden", "Paul W Bear Bryant", "Joe Paterno", 
-                     "LaVell Edwards", "Tom Osborne", 
+library(xtable)
+coef.xt <- xtable(summary(mod.pred)$coefficients, caption = "Model estimates", digits = 3)
+
+HistsucCoach <- c("Bobby Bowden", "Paul W Bear Bryant", "Tom Osborne", 
                      "Lou Holtz", "Mack Brown", "Hayden Fry", "Glenn Bo Schembechler")
 cursucCoach <- c("Frank Beamer", "Steve Spurrier", "Urban Meyer", "Bob Stoops",
                  "Nick L Saban", "Brian Kelly", "Gary Patterson")
 Upcoming <- c("David Shaw", "Jimbo Fisher", "David Cutcliffe", "Pat Fitzgerald",
               "Jerry Kill", "Todd Graham", "Kevin Sumlin", "Al Golden")
+
+#################
+# Extract random effects
+mod.coef <- summary(mod.pred)$coefficients
+re <- data.frame(ranef(mod.pred)[[1]], coach = rownames(ranef(mod.pred)[[1]]))
+library(data.table)
+setnames(re, c("Intercept", "Year2", "coach"))
+
+re$indInt <- mod.coef[1,1] + re$Intercept
+re$indSlope <- mod.coef[2,1] + re$Year2
+
+# simp.coef <- summary(simp.mod)$coefficients
+# re <- data.frame(ranef(simp.mod)[[1]], coach = rownames(ranef(simp.mod)[[1]]))
+# setnames(re, c("Intercept", "Year2", "coach"))
+# 
+# re$indInt <- simp.coef[1,1] + re$Intercept
+# re$indSlope <- simp.coef[2,1] + re$Year2
+
+hsc <- subset(re, coach %in% HistsucCoach)
+csc <- subset(re, coach %in% cursucCoach)
+uc <- subset(re, coach %in% Upcoming)
+
+# growth curves ignoring covariates for now
+library(ggplot2)
+library(RColorBrewer)
+library(tikzDevice)
+g <- ggplot(hsc, aes(x = Intercept, y = Year2)) + theme_bw()
+tikz(file = "paper/pastSCoach.tex")
+g + geom_blank() + geom_abline(intercept = mod.coef[1,1], slope = mod.coef[2,1], size = 1) + 
+  scale_x_continuous("Years Coaching", limits = c(0, 30)) + 
+  scale_y_continuous("Ability", limits = c(-2.5, 2.5)) + 
+  geom_abline(data = hsc, aes(intercept = indInt, slope = indSlope, color = coach),
+              size = 1, show_guide = TRUE) +
+  scale_color_brewer("Coach", palette = "Dark2")
+dev.off()
+
+# current successful coaches
+g <- ggplot(hsc, aes(x = Intercept, y = Year2)) + theme_bw()
+tikz(file = "paper/curScoach.tex")
+g + geom_blank() + geom_abline(intercept = mod.coef[1,1], slope = mod.coef[2,1], size = 1) + 
+  scale_x_continuous("Years Coaching", limits = c(0, 30)) + 
+  scale_y_continuous("Ability", limits = c(-2.5, 2.5)) + 
+  geom_abline(data = csc, aes(intercept = indInt, slope = indSlope, color = coach),
+              size = 1, show_guide = TRUE) +
+  scale_color_brewer("Coach", palette = "Dark2")
+dev.off()
+
+# upcoming coaches
+g <- ggplot(hsc, aes(x = Intercept, y = Year2)) + theme_bw()
+tikz(file = 'paper/upcomingCoach.tex')
+g + geom_blank() + geom_abline(intercept = mod.coef[1,1], slope = mod.coef[2,1], size = 1) + 
+  scale_x_continuous("Years Coaching", limits = c(0, 30)) + 
+  scale_y_continuous("Ability", limits = c(-2.5, 2.5)) + 
+  geom_abline(data = uc, aes(intercept = indInt, slope = indSlope, color = coach),
+              size = 1, show_guide = TRUE) +
+  scale_color_brewer("Coach", palette = "Dark2")
+dev.off()
+  
+
 

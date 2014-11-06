@@ -16,10 +16,10 @@
 			}
 		},
 		{
-			"file": "R/mergeCoach.R",
+			"file": "R/Analysis/coachDataMatrix.r",
 			"settings":
 			{
-				"buffer_size": 3412,
+				"buffer_size": 4136,
 				"line_ending": "Windows"
 			}
 		}
@@ -52,10 +52,12 @@
 	"expanded_folders":
 	[
 		"/C/Users/bleb/Dropbox/cfbFootball",
-		"/C/Users/bleb/Dropbox/cfbFootball/R"
+		"/C/Users/bleb/Dropbox/cfbFootball/R",
+		"/C/Users/bleb/Dropbox/cfbFootball/R/Analysis"
 	],
 	"file_history":
 	[
+		"/C/Users/bleb/Dropbox/cfbFootball/R/Analysis/coachDataMatrix.r",
 		"/C/Users/bleb/Desktop/cfaArticles/norwalkcfa2factor.out",
 		"/C/Users/bleb/Desktop/cfaArticles/norwalkcfa1factor.out",
 		"/C/Users/bleb/Desktop/cfaArticles/norwalkcfa2fcorrresid.out"
@@ -115,6 +117,7 @@
 						],
 						"settings":
 						{
+							"WordCountShouldRun": true,
 							"WordCountSyntax": "r extended",
 							"syntax": "Packages/R-Box/syntax/R Extended.tmLanguage"
 						},
@@ -127,25 +130,29 @@
 				},
 				{
 					"buffer": 1,
-					"file": "R/mergeCoach.R",
-					"semi_transient": true,
+					"file": "R/Analysis/coachDataMatrix.r",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3412,
+						"buffer_size": 4136,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								268,
+								268
 							]
 						],
 						"settings":
 						{
+							"WordCountShouldRun": true,
 							"WordCountSyntax": "r extended",
-							"syntax": "Packages/R-Box/syntax/R Extended.tmLanguage"
+							"r_box_status": false,
+							"syntax": "Packages/R-Box/syntax/R Extended.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,

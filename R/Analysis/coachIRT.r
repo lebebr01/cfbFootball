@@ -47,7 +47,7 @@ ybyCoach$numAA <- ifelse(is.na(ybyCoach$numAA), 0, ybyCoach$numAA)
 ybyCoach$bowlElig <- ifelse(ybyCoach$Win >= 6, 1, 0)
 
 # merge in yby data
-ybyCoach <- left_join(ybyCoach, yby, by = c("Year", "Team"))
+ybyCoach <- left_join(ybyCoach, data.table(yby), by = c("Year", "Team"))
 
 # convert W/L/T into 1/0 variable
 ybyCoach$wingbg <- ifelse(ybyCoach$WL == 'W', 1, 0)
@@ -56,6 +56,23 @@ ybyCoach$wingbg <- ifelse(ybyCoach$WL == 'W', 1, 0)
 ybyCoach$ID <- id(ybyCoach[c("Year", "Team", "coach")])
 ybyCoach <- data.table(ybyCoach)
 ybyCoach$wID <- ybyCoach[, wID := 1:length(wingbg), by = list(ID)]
+
+##########################################
+# Creating a coach matrix
+temp <- subset(ybyCoach, Year == 2013)
+temp2 <- subset(temp, select = c(coach, Opponent, WL))
+tempMerge <- subset(temp, select = c(Team, coach))
+library(data.table)
+setnames(tempMerge, c('Opponent', 'opp.coach'))
+library(dplyr)
+tempMerge <- tempMerge[!duplicated(tempMerge), ]
+temp2 <- left_join(temp2, tempMerge, by = 'Opponent')
+temp2$win <- ifelse(temp2$WL == 'W', 1, 0)
+temp2 <- subset(temp2, opp.coach != '<NA>')
+library(reshape2)
+coachMatrix <- acast(data.frame(temp2), coach ~ opp.coach, value.var = "win")
+
+
 
 # loop through years creating and fit rasch model within each year to coaches
 year <- subset(unique(ybyCoach$Year), unique(ybyCoach$Year) > 1930)
@@ -66,7 +83,7 @@ for(i in 1:length(unique(ybyCoach$Year))) {
   xw <- data.frame(reshape(subset(x, select = c(wID, coach, wingbg)), timevar = "coach", 
                                    idvar = "wID", direction = "wide"))
   raschVal[[i]] <- data.frame(rasch(subset(xw, select = -wID),
-                                    constraint = cbind(ncol(xw), 1), control = list(GHk = 15))$coefficients,
+                                    constraint = cbind(ncol(xw) + 1, 1), control = list(GHk = 15))$coefficients,
                               year = year[i],
                               Team = unique(x, by = c('Team', 'coach'))$Team)
 }
@@ -115,18 +132,22 @@ library(lme4)
 simp.mod <- lmer(beta.i ~ 1 + Year2 + (1 + Year2|coach2), data = raschValC2)
 quad.mod <- lmer(beta.i ~ 1 + Year2 + I(Year2^2) + (1 + Year2|coach2), data = raschValC2)
 
-
+# scaling variables
 raschValC2$overWinmc <- scale(raschValC2$overWin, center = TRUE, scale = FALSE)
 raschValC2$alltimemc <- scale(raschValC2$alltime, center = TRUE, scale = TRUE)
 raschValC2$numGamesmc <- scale(raschValC2$numGames, center = TRUE, scale = FALSE)
+
+# final model
 mod.pred <- lmer(beta.i ~ 1 + Year2 + overWinmc + Year2:overWinmc + 
                         alltimemc + Year2:alltimemc + numAA + Year2:numAA + 
                         numGamesmc + numGamesmc:Year2 + power5conf + Year2:power5conf + 
                         (1 + Year2|coach2), data = raschValC2)
 
+# printing coefficients for latex file
 library(xtable)
 coef.xt <- xtable(summary(mod.pred)$coefficients, caption = "Model estimates", digits = 3)
 
+# Coach names to extract to plot growth curves.
 HistsucCoach <- c("Bobby Bowden", "Paul W Bear Bryant", "Tom Osborne", 
                      "Lou Holtz", "Mack Brown", "Hayden Fry", "Glenn Bo Schembechler")
 cursucCoach <- c("Frank Beamer", "Steve Spurrier", "Urban Meyer", "Bob Stoops",
@@ -190,6 +211,38 @@ g + geom_blank() + geom_abline(intercept = mod.coef[1,1], slope = mod.coef[2,1],
               size = 1, show_guide = TRUE) +
   scale_color_brewer("Coach", palette = "Dark2")
 dev.off()
-  
+
+#################################
+# Spaghetti plots of coaches actual ability estimates
+library(ggplot2)
+library(RColorBrewer)
+library(tikzDevice)
+
+
+HistsucCoach <- c("Bobby Bowden", "Paul W Bear Bryant", "Tom Osborne", 
+                  "Lou Holtz", "Mack Brown", "Hayden Fry", "Glenn Bo Schembechler")
+cursucCoach <- c("Frank Beamer", "Steve Spurrier", "Urban Meyer", "Bob Stoops",
+                 "Nick L Saban", "Brian Kelly", "Gary Patterson")
+Upcoming <- c("David Shaw", "Jimbo Fisher", "David Cutcliffe", "Pat Fitzgerald",
+              "Jerry Kill", "Todd Graham", "Kevin Sumlin", "Al Golden")
+
+
+l <- ggplot(subset(raschValC2, coach2 %in% HistsucCoach), 
+            aes(x = Year2, y = beta.i)) + theme_bw()
+tikz(file = "paper/histSpaghetti.tex")
+l + geom_line(aes(group = coach2)) + facet_grid(.~coach2)
+dev.off()
+
+l <- ggplot(subset(raschValC2, coach2 %in% cursucCoach), 
+            aes(x = Year2, y = beta.i)) + theme_bw()
+tikz(file = "paper/cursSpaghetti.tex")
+l + geom_line(aes(group = coach2)) + facet_grid(.~coach2)
+dev.off()
+
+l <- ggplot(subset(raschValC2, coach2 %in% Upcoming), 
+            aes(x = Year2, y = beta.i)) + theme_bw()
+tikz(file = "paper/upcSpaghetti.tex")
+l + geom_line(aes(group = coach2)) + facet_grid(.~coach2)
+dev.off()
 
 

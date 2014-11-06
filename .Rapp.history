@@ -1,0 +1,250 @@
+tuition = 20000,
+public = 1
+)
+predict(lm.1, newdata = myData)
+predict(lm.1, newdata = myData, interval = "prediction")
+myData = expand.grid(
+tuition = c(20000, 30000),
+public = c(0, 1)
+)
+predict(lm.1, newdata = myData)
+myData = cbind(myData, yhat)
+myData = cbind(myData, yhat)
+myData
+myData = expand.grid(
+tuition = c(20000, 30000),
+public = c(0, 1)
+)
+myData
+yhat = predict(lm.1, newdata = myData)
+yhat
+myData = cbind(myData, yhat)
+myData
+predict(lm.1, newdata = myData, interval = "prediction")
+x = predict(lm.1, newdata = myData, interval = "prediction")
+x$upr - x$fit
+x
+x[3]
+x[,3]
+x[,3] - x[,1]
+plot(gradRate ~ tutition, data = mn, main="100 Estimated Regression Lines", type = "n")
+plot(gradRate ~ tuition, data = mn, main="100 Estimated Regression Lines", type = "n")
+sampleInt = c()
+sampleSlope = c()
+for(i in 1:10){
+mySRS = mn[sample(1:nrow(mn), nrow(mn), replace = TRUE), ]
+model = lm(gradRate ~ tuition, data = mySRS)
+lines(abline(model))
+sampleInt[i] = coef(model)[[1]]
+sampleSlope[i] = coef(model)[[2]]
+ani.pause()
+}
+library(animation)
+## pause for 1 seconds
+oopt = ani.options(interval = 1)
+sampleInt = c()
+sampleSlope = c()
+plot(gradRate ~ tuition, data = mn, main="100 Estimated Regression Lines", type = "n")
+for(i in 1:10){
+mySRS = mn[sample(1:nrow(mn), nrow(mn), replace = TRUE), ]
+model = lm(gradRate ~ tuition, data = mySRS)
+lines(abline(model))
+sampleInt[i] = coef(model)[[1]]
+sampleSlope[i] = coef(model)[[2]]
+ani.pause()
+}
+mods = data.frame(intercept = sampleInt, slope = sampleSlope, R2 = sampleR2)
+mods
+mods = data.frame(intercept = sampleInt, slope = sampleSlope)
+mods
+oopt = ani.options(interval = 0.1)
+sampleInt = c()
+sampleSlope = c()
+plot(math ~ homework, data = nels, main="100 Estimated Regression Lines", type = "n")
+for(i in 1:1000){
+mySRS = nels[sample(1:10000, 100, replace = TRUE),]
+model = lm(math ~ homework, data = mySRS)
+lines(abline(model))
+sampleInt[i] = coef(model)[[1]]
+sampleSlope[i] = coef(model)[[2]]
+ani.pause()
+}
+plot(math ~ homework, data = nels, main="100 Estimated Regression Lines", type = "n")
+for(i in 1:1000){
+mySRS = mn[sample(1:nrow(mn), nrow(mn), replace = TRUE), ]
+model = lm(gradRate ~ tuition, data = mySRS)
+lines(abline(model))
+sampleInt[i] = coef(model)[[1]]
+sampleSlope[i] = coef(model)[[2]]
+ani.pause()
+}
+oopt = ani.options(interval = 0.1)
+sampleInt = c()
+sampleSlope = c()
+plot(math ~ homework, data = nels, main="100 Estimated Regression Lines", type = "n", xlim = c(0, 60000))
+for(i in 1:1000){
+mySRS = mn[sample(1:nrow(mn), nrow(mn), replace = TRUE), ]
+model = lm(gradRate ~ tuition, data = mySRS)
+lines(abline(model))
+sampleInt[i] = coef(model)[[1]]
+sampleSlope[i] = coef(model)[[2]]
+ani.pause()
+}
+plot(gradRate ~ tuition, data = nels, main="100 Estimated Regression Lines", type = "n", xlim = c(0, 60000))
+for(i in 1:1000){
+mySRS = mn[sample(1:nrow(mn), nrow(mn), replace = TRUE), ]
+model = lm(gradRate ~ tuition, data = mySRS)
+lines(abline(model))
+sampleInt[i] = coef(model)[[1]]
+sampleSlope[i] = coef(model)[[2]]
+ani.pause()
+}
+plot(gradRate ~ tuition, data = nels, main="100 Estimated Regression Lines", type = "n", xlim = c(0, 60000))
+plot(gradRate ~ tuition, data = nels, main="100 Estimated Regression Lines", type = "n", xlim = c(0, 60000))
+plot(gradRate ~ tuition, data = mn, main="100 Estimated Regression Lines", type = "n", xlim = c(0, 60000))
+oopt = ani.options(interval = 0.1)
+sampleInt = c()
+sampleSlope = c()
+plot(gradRate ~ tuition, data = mn, main="100 Estimated Regression Lines", type = "n", xlim = c(0, 60000))
+for(i in 1:1000){
+mySRS = mn[sample(1:nrow(mn), nrow(mn), replace = TRUE), ]
+model = lm(gradRate ~ tuition, data = mySRS)
+lines(abline(model))
+sampleInt[i] = coef(model)[[1]]
+sampleSlope[i] = coef(model)[[2]]
+ani.pause()
+}
+plot(gradRate ~ tuition, data = mn, main="100 Estimated Regression Lines", type = "n", xlim = c(-10000, 60000))
+for(i in 1:1000){
+mySRS = mn[sample(1:nrow(mn), nrow(mn), replace = TRUE), ]
+model = lm(gradRate ~ tuition, data = mySRS)
+lines(abline(model))
+sampleInt[i] = coef(model)[[1]]
+sampleSlope[i] = coef(model)[[2]]
+ani.pause()
+}
+plot(gradRate ~ tuition, data = mn, main="100 Estimated Regression Lines", type = "n", xlim = c(-10000, 60000), ylim = c(0, 100))
+for(i in 1:1000){
+mySRS = mn[sample(1:nrow(mn), nrow(mn), replace = TRUE), ]
+model = lm(gradRate ~ tuition, data = mySRS)
+lines(abline(model))
+sampleInt[i] = coef(model)[[1]]
+sampleSlope[i] = coef(model)[[2]]
+ani.pause()
+}
+plot(gradRate ~ tuition, data = mn, main="200 Estimated Regression Lines", type = "n", xlim = c(0, 60000), ylim = c(0, 100))
+for(i in 1:200){
+mySRS = mn[sample(1:nrow(mn), nrow(mn), replace = TRUE), ]
+model = lm(gradRate ~ tuition, data = mySRS)
+lines(abline(model))
+sampleInt[i] = coef(model)[[1]]
+sampleSlope[i] = coef(model)[[2]]
+ani.pause()
+}
+mn = read.csv(file = "~/Documents/GitHub/EPsy-8251/data/mnSchoolsClean.csv")
+head(mn)
+sm.density(mn$gradRate)
+describe(mn$gradRate)
+sm.density(mn$tuition)
+describe(mn$tuition)
+ggplot(data = mn, aes(x = tuition, y = gradRate)) +
+geom_point() +
+theme_bw()
+ggplot(data = mn, aes(x = tuition, y = gradRate, color = sector)) +
+geom_point() +
+theme_bw()
+lm.1 = lm(gradRate ~ tutition, data = mn)
+summary(lm.1)
+lm.1 = lm(gradRate ~ tuition, data = mn)
+summary(lm.1)
+out1 = fortify(lm.1)
+sm.density(out1$.stdresid, model = "normal")
+ggplot(data = out1, aes(x = .fitted, y = .stdresid)) +
+geom_point() +
+geom_hline(yintercept = 0) +
+geom_hline(yintercept = c(-2, 2), lty = "dashed") +
+theme_bw()
+ggplot(data = out1, aes(x = .fitted, y = .stdresid)) +
+geom_point() +
+geom_hline(yintercept = 0) +
+geom_hline(yintercept = c(-2, 2), lty = "dashed") +
+theme_bw() +
+geom_smooth(se = FALSE)
+sampleInt = c()
+sampleSlope = c()
+tail(mn)
+summary(lm.1)
+confint(lm.1)
+plot(gradRate ~ tuition, data = mn, main="10 Estimated Regression Lines", type = "n")
+for(i in 1:10){
+mySRS = mn[sample(1:nrow(mn), nrow(mn), replace = TRUE), ]
+model = lm(gradRate ~ tuition, data = mySRS)
+lines(abline(model))
+sampleInt[i] = coef(model)[[1]]
+sampleSlope[i] = coef(model)[[2]]
+ani.pause()
+}
+oopt = ani.options(interval = 0.1)
+sampleInt = c()
+sampleSlope = c()
+plot(gradRate ~ tuition, data = mn, main="100 Estimated Regression Lines", type = "n", xlim = c(0, 60000), ylim = c(0, 100))
+for(i in 1:100){
+mySRS = mn[sample(1:nrow(mn), nrow(mn), replace = TRUE), ]
+model = lm(gradRate ~ tuition, data = mySRS)
+lines(abline(model))
+sampleInt[i] = coef(model)[[1]]
+sampleSlope[i] = coef(model)[[2]]
+ani.pause()
+}
+mn$public = ifelse(mn$sector == "Public", 1, 0)
+head(mn)
+cor(mn[c("gradRate", "tuition", "public")])
+lm.1 = lm(gradRate ~ tuition + public, data = mn)
+summary(lm.1)
+summary(lm(gradRate ~ public, data = mn))
+out1 = fortify(lm.1)
+sm.density(out1$.stdresid, model = "normal")
+ggplot(data = out1, aes(x = .fitted, y = .stdresid)) +
+geom_point() +
+geom_hline(yintercept = 0) +
+geom_hline(yintercept = c(-2, 2), lty = "dashed") +
+theme_bw()
+ggplot(data = out1, aes(x = .fitted, y = .stdresid)) +
+geom_point() +
+geom_hline(yintercept = 0) +
+geom_hline(yintercept = c(-2, 2), lty = "dashed") +
+theme_bw()
+out1$id = mn$id
+ggplot(data = out1, aes(x = .fitted, y = .stdresid)) +
+geom_text(aes(label = id)) +
+geom_hline(yintercept = 0) +
+geom_hline(yintercept = c(-2, 2), lty = "dashed") +
+theme_bw()
+mn[14, ]
+lm.1 = lm(gradRate ~ tuition + public, data = mn, subset = -c(14))
+summary(lm.1)
+out1 = fortify(lm.1)
+sm.density(out1$.stdresid, model = "normal")
+ggplot(data = out1, aes(x = .fitted, y = .stdresid)) +
+geom_point() +
+geom_hline(yintercept = 0) +
+geom_hline(yintercept = c(-2, 2), lty = "dashed") +
+theme_bw()
+out1$id = mn$id
+out1$id = mn$id[-c(14)]
+ggplot(data = out1, aes(x = .fitted, y = .stdresid)) +
+geom_text(aes(label = id)) +
+geom_hline(yintercept = 0) +
+geom_hline(yintercept = c(-2, 2), lty = "dashed") +
+theme_bw()
+mn[8, ]
+summary(lm.1)
+myData = data.frame(
+tuition = 20000,
+public = 1
+)
+myData
+predict(lm.1, newdata = myData)
+predict(lm.1, newdata = myData, interval = "confidence")
+predict(lm.1, newdata = myData, interval = "prediction")
+summary(lm.1)

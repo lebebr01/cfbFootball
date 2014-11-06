@@ -1,0 +1,43 @@
+Teams.csv
+Codebook
+
+-------------------------------
+
+BACKGROUND
+
+Data on team's coach by year.
+
+LeBeau, B., & Zieffler, A. (2014). NCAA football data. Available at https://github.com/lebebr01/cfbFootball
+-------------------------------
+DATA
+
+The data consist of 15,187 rows.
+
+-------------------------------
+
+VARIABLES
+
+coach:                Coach
+
+year:                 Year
+
+team:                 Common team name	
+
+win:                  Number of wins
+
+loss:                 Number of losses
+
+tie:                  Number of ties
+
+winPct:               Winning percentage (wins/total games played)
+
+PF:                   Points scored by the team (Points For)
+
+PA:                   Points scored against the team (Points Against)
+
+delta:                Difference in points scored by the team and points scored against the team (PF - PA)
+
+-------------------------------
+Note. Teams with multiple coaches within a year have multiple rows in the data.
+
+

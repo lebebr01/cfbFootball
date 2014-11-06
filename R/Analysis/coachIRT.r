@@ -4,8 +4,10 @@ library(data.table)
 library(lavaan)
 library(semPlot)
 
+#setwd("/Users/andrewz/Documents/GitHub/cfbFootball")
 # loading relevant file - must be in root of cfbFootball directory
 source(paste(getwd(), '/R/mergeCoach.R', sep = ''))
+
 
 # removing duplicates due to merging
 ybyCoach <- data.table(ybyCoach)

@@ -124,10 +124,85 @@ for(i in 1:length(coaches)) {
 
 coachAbility$Year2 <- do.call("c", year2)
 
+save(coachAbility, file = 'Data/Analysis/coachAbility.rda')
+
+########################
+# load data
+load('Data/Analysis/coachAbility.rda')
+
 # plot 
 library(ggplot2)
 g <- ggplot(coachAbility, aes(x = Year2, y = diff)) + theme_bw()
 g + geom_line(aes(group = coach), alpha = .1) + geom_smooth()
+
+# LMM to coach ability data
+library(lme4)
+simp.mod <- lmer(diff ~ 1 + Year2 + (1 + Year2|coach), data = coachAbility)
+quad.mod <- lmer(diff ~ 1 + Year2 + I(Year2^2) + (1 + Year2|coach), data = coachAbility)
+
+# merge in covariates for modeling
+# make fb distinct, year, coach, team
+fb <- fb %>%
+  group_by(Year, Team, coach) %>% 
+  distinct(Year, Team, coach) %>% 
+  dplyr::select(Year, Team, coach, numAA, power5conf, ovrWin, numGames)
+
+# load rankings
+library(tidyr)
+rankings <- read.csv(paste(getwd(), "/Data/rankings.csv", sep = ''))
+rankings <- rankings %>%
+  filter(Period %in% c("All-Time", 'last10')) %>%
+  dplyr::select(Team, Period, TotalPoints) %>%
+  spread(Period, TotalPoints) 
+library(data.table)
+setnames(rankings, "All-Time", 'alltime')
+  
+# join fb and rankings
+fb <- left_join(fb, rankings, by = "Team")
+
+# merge fb to coachAbility - by Team, Year, coach
+coachAbility <- rename(coachAbility, Year = year)
+coachAbility <- left_join(coachAbility, fb, by = c('Year', 'coach'))
+
+# scaling variables
+coachAbility$ovrWinmc <- scale(coachAbility$ovrWin, center = TRUE, scale = TRUE)
+coachAbility$alltimemc <- scale(coachAbility$alltime, center = TRUE, scale = TRUE)
+coachAbility$numGamesmc <- scale(coachAbility$numGames, center = TRUE, scale = FALSE)
+coachAbility$last10mc <- scale(coachAbility$last10, center = TRUE, scale = TRUE)
+
+# conditional model
+cond.mod <- lmer(diff ~ 1 + Year2 + ovrWinmc + Year2:ovrWinmc + 
+                   alltimemc + Year2:alltimemc + numAA + Year2:numAA + 
+                   numGamesmc + numGamesmc:Year2 + power5conf + Year2:power5conf +
+                   (1 + Year2|coach), data = coachAbility)
+
+#################################
+# modeling current college coaches
+#library(rvest)
+#currCoach <- html("http://en.wikipedia.org/wiki/List_of_current_NCAA_Division_I_FBS_football_coaches")
+
+#currCoachNames <- currCoach %>%
+#  html_nodes("td:nth-child(3) a") %>%
+#  html_text()
+
+# subsetting for current coaches only
+fb13 <- fb %>%
+  filter(Year == 2013) %>%
+  ungroup() %>%
+  dplyr::select(coach)
+
+coachAbility13 <- subset(coachAbility, coach %in% fb13$coach)
+
+# spaghetti plot for these coaches
+library(ggplot2)
+g <- ggplot(coachAbility13, aes(x = Year2, y = diff)) + theme_bw()
+g + geom_line(aes(group = coach), alpha = .3) + geom_smooth()
+
+# conditional model
+cond.mod.13 <- lmer(diff ~ 1 + Year2 + I(Year2^2) + ovrWinmc + Year2:ovrWinmc + 
+                   last10mc + Year2:last10mc + numAA + Year2:numAA + 
+                   numGamesmc + numGamesmc:Year2 + power5conf + Year2:power5conf +
+                   (1 + Year2|coach), data = coachAbility13)
 
 ##########################
 # Combining years - each cell will represent number of wins against each other coach

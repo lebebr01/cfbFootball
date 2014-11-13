@@ -1,0 +1,139 @@
+
+```{r allyears}
+setwd("C:/Users/bleb/Dropbox/cfbFootball")
+# load data
+load(paste0(getwd(), '/Data/Analysis/coachAbility.rda'))
+
+# plot 
+library(ggplot2)
+g <- ggplot(coachAbility, aes(x = Year2, y = diff)) + theme_bw()
+g + geom_line(aes(group = coach), alpha = .1) + geom_smooth()
+```
+
+```{r modelAllyears}
+# LMM to coach ability data
+library(lme4)
+simp.mod <- lmer(diff ~ 1 + Year2 + (1 + Year2|coach), data = coachAbility)
+summary(simp.mod)
+quad.mod <- lmer(diff ~ 1 + Year2 + I(Year2^2) + (1 + Year2|coach), data = coachAbility)
+summary(quad.mod)
+```
+
+
+```{r misc, echo=FALSE}
+setwd("C:/Users/bleb/Dropbox/cfbFootball")
+ybyCoach <- read.csv(paste0(getwd(), "/Data/College-Football-2014-11-04.csv"))
+yby <- read.csv(paste(getwd(), "/Data/YearByYearD1.csv", sep = ''))
+
+library(dplyr)
+
+# create distinct records in ybyCoach by year, Team, coach
+fb <- ybyCoach %>% 
+  group_by(Year, Team, coach) %>% 
+  distinct(Year, Team, coach) %>% 
+  mutate(numGames = Win + Loss + Tie) %>% 
+  filter(numGames > 2)
+
+# removing cases with NA for conference
+fb <- fb[complete.cases(fb$Conference),]
+
+# dichotomizing conference variable into dummy variables
+fb$aaConf <- ifelse(fb$Conference == "American Athletic Conference", 1, 0)
+fb$acConf <- ifelse(fb$Conference == "Atlantic Coast Conference", 1, 0)
+fb$b12Conf <- ifelse(fb$Conference == "Big 12 Conference", 1, 0)
+fb$b10Conf <- ifelse(fb$Conference == "Big Ten Conference", 1, 0)
+fb$cusaConf <- ifelse(fb$Conference == "Conference USA", 1, 0)
+fb$maConf <- ifelse(fb$Conference == "Mid-American Conference", 1, 0)
+fb$mwConf <- ifelse(fb$Conference == "Mountain West Conference", 1, 0)
+fb$p12Conf <- ifelse(fb$Conference == "Pacific-12 Conference", 1, 0)
+fb$secConf <- ifelse(fb$Conference == "Southeastern Conference", 1, 0)
+fb$sbConf <- ifelse(fb$Conference == "Sun Belt Conference", 1, 0)
+
+# power 5 conference indicator
+fb$power5conf <- ifelse(fb$Conference %in% 
+                                c('Atlantic Coast Conference', 
+                                  'Big 12 Conference', 'Big Ten Conference',
+                                  'Pacific-12 Conference', 'Southeastern Conference'),
+                              1, 0)
+
+# number of all americans - if missing put 0
+fb$numAA <- ifelse(is.na(fb$numAA), 0, fb$numAA)
+
+# create bowl eligible variable
+fb$bowlElig <- ifelse(fb$Win >= 6, 1, 0)
+
+# merge in yby data
+fb <- left_join(fb, yby, by = c("Year", "Team"))
+
+# convert W/L/T into 1/0 variable
+fb$wingbg <- ifelse(fb$WL == 'W', 1, 0)
+
+library(dplyr)
+# merge in covariates for modeling
+# make fb distinct, year, coach, team
+fb <- fb %>%
+  group_by(Year, Team, coach) %>% 
+  distinct(Year, Team, coach) %>% 
+  dplyr::select(Year, Team, coach, numAA, power5conf, ovrWin, numGames)
+
+# load rankings
+library(tidyr)
+rankings <- read.csv(paste(getwd(), "/Data/rankings.csv", sep = ''))
+rankings <- rankings %>%
+  filter(Period %in% c("All-Time", 'last10')) %>%
+  dplyr::select(Team, Period, TotalPoints) %>%
+  spread(Period, TotalPoints) 
+library(data.table)
+setnames(rankings, "All-Time", 'alltime')
+
+# join fb and rankings
+fb <- left_join(fb, rankings, by = "Team")
+
+# merge fb to coachAbility - by Team, Year, coach
+coachAbility <- rename(coachAbility, Year = year)
+coachAbility <- left_join(coachAbility, fb, by = c('Year', 'coach'))
+
+# scaling variables
+coachAbility$ovrWinmc <- scale(coachAbility$ovrWin, center = TRUE, scale = TRUE)
+coachAbility$alltimemc <- scale(coachAbility$alltime, center = TRUE, scale = TRUE)
+coachAbility$numGamesmc <- scale(coachAbility$numGames, center = TRUE, scale = FALSE)
+coachAbility$last10mc <- scale(coachAbility$last10, center = TRUE, scale = TRUE)
+
+```
+
+```{r condmodallyear}
+# conditional model
+cond.mod <- lmer(diff ~ 1 + Year2 + ovrWinmc + Year2:ovrWinmc + 
+                   alltimemc + Year2:alltimemc + numAA + Year2:numAA + 
+                   numGamesmc + numGamesmc:Year2 + power5conf + Year2:power5conf +
+                   (1 + Year2|coach), data = coachAbility)
+summary(cond.mod)
+```
+
+
+
+
+```{r just2013}
+# subsetting for current coaches only
+fb13 <- fb %>%
+  filter(Year == 2013) %>%
+  ungroup() %>%
+  dplyr::select(coach)
+
+coachAbility13 <- subset(coachAbility, coach %in% fb13$coach)
+
+# spaghetti plot for these coaches
+library(ggplot2)
+g <- ggplot(coachAbility13, aes(x = Year2, y = diff)) + theme_bw()
+g + geom_line(aes(group = coach), alpha = .3) + geom_smooth()
+```
+
+```{r condmod2013}
+# conditional model
+cond.mod.13 <- lmer(diff ~ 1 + Year2 + I(Year2^2) + ovrWinmc + Year2:ovrWinmc + 
+                      last10mc + Year2:last10mc + numAA + Year2:numAA + 
+                      numGamesmc + numGamesmc:Year2 + power5conf + Year2:power5conf +
+                      (1 + Year2|coach), data = coachAbility13)
+summary(cond.mod.13)
+```
+

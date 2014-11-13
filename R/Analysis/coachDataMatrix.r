@@ -92,11 +92,42 @@ library(ltm)
 # library(mirt)
 
 # mirt(coachMatrix[[84]][, -1], 1, itemtype = "Rasch")
+library(foreach)
 
-lapply(1:length(coachMatrix), function(ii) 
-	rasch(coachMatrix[[ii]][, -1], 
-		constraint = cbind(ncol(coachMatrix[[ii]]), 1)))
+coachAbility <- foreach(ii = 1:length(coachMatrix), .combine = "rbind", .packages = "ltm",
+   .errorhandling = "remove") %do% {
+  data.frame(diff = summary(rasch(coachMatrix[[ii]][, -1], 
+    constraint = cbind(ncol(coachMatrix[[ii]]), 1)))$coefficients[, 1], year = years[ii])
+}
 
+# remove discrimination parameter from dataframe
+coachAbility <- coachAbility[grepl("Dscrmn*", rownames(coachAbility)) == FALSE ,]
+
+# truncate large and small ability estimates - currently larger than 10 in absolute value
+coachAbility$diff <- with(coachAbility, ifelse(diff > 10, 10, ifelse(diff < -10, -10, diff)))
+
+# extract coach information from rownames
+coachAbility$coach <- gsub('^Dffclt.', '', rownames(coachAbility))
+# remove number from end of coach names
+coachAbility$coach <- gsub('[0-9]+$', '', coachAbility$coach)
+
+# arrange by coach and year
+coachAbility <- coachAbility %>%
+  arrange(coach, year)
+
+# adjusting year to start at 0
+coaches <- unique(coachAbility$coach)
+year2 <- vector("list", length(coaches))
+for(i in 1:length(coaches)) {
+  year2[[i]] <- subset(coachAbility, coach == coaches[i])$year - min(subset(coachAbility, coach == coaches[i])$year)
+}
+
+coachAbility$Year2 <- do.call("c", year2)
+
+# plot 
+library(ggplot2)
+g <- ggplot(coachAbility, aes(x = Year2, y = diff)) + theme_bw()
+g + geom_line(aes(group = coach), alpha = .1) + geom_smooth()
 
 ##########################
 # Combining years - each cell will represent number of wins against each other coach

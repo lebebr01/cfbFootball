@@ -19,7 +19,23 @@
 			"file": "R/Analysis/coachDataMatrix.r",
 			"settings":
 			{
-				"buffer_size": 4136,
+				"buffer_size": 5382,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "R/Analysis/coachIRT.r",
+			"settings":
+			{
+				"buffer_size": 10340,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/bleb/Copy/JournalArticlesInProgress/IRTcompare/irtCompare.R",
+			"settings":
+			{
+				"buffer_size": 11099,
 				"line_ending": "Windows"
 			}
 		}
@@ -95,7 +111,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -117,7 +133,6 @@
 						],
 						"settings":
 						{
-							"WordCountShouldRun": true,
 							"WordCountSyntax": "r extended",
 							"syntax": "Packages/R-Box/syntax/R Extended.tmLanguage"
 						},
@@ -125,7 +140,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
@@ -134,15 +149,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4136,
+						"buffer_size": 5382,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								268,
-								268
+								4492,
+								4492
 							]
 						],
 						"settings":
@@ -155,7 +170,72 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1731.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "R/Analysis/coachIRT.r",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10340,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4495,
+								4791
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "r extended",
+							"r_box_status": false,
+							"syntax": "Packages/R-Box/syntax/R Extended.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 1440.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/bleb/Copy/JournalArticlesInProgress/IRTcompare/irtCompare.R",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11099,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "r extended",
+							"syntax": "Packages/R-Box/syntax/R Extended.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1350.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,

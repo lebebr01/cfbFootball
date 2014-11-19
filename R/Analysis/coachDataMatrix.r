@@ -89,7 +89,7 @@ for(i in 1:length(years)) {
 # Rasch models for all years
 
 library(ltm)
-# library(mirt)
+library(mirt)
 
 # mirt(coachMatrix[[84]][, -1], 1, itemtype = "Rasch")
 library(foreach)
@@ -204,37 +204,5 @@ cond.mod.13 <- lmer(diff ~ 1 + Year2 + I(Year2^2) + ovrWinmc + Year2:ovrWinmc +
                    numGamesmc + numGamesmc:Year2 + power5conf + Year2:power5conf +
                    (1 + Year2|coach), data = coachAbility13)
 
-##########################
-# Combining years - each cell will represent number of wins against each other coach
-
-coach <- fb %>%
-  select(Year, Team, coach, Opponent, wingbg)
-
-opp.coach <- fb %>%
-  distinct(Year, Team, coach) %>%
-  group_by(Team, coach) %>% 
-  select(Year, Opponent = Team, opp.coach = coach)
-
-# Join two together
-coach <- left_join(coach, opp.coach, by = c('Year', 'Opponent'))
-
-library(tidyr)
-
-aggCoach <- coach %>%
-  filter(Year > 1950) %>%
-  group_by(coach, opp.coach) %>%
-  filter(is.na(opp.coach) == FALSE) %>%
-  mutate(numWins = sum(wingbg)) %>%
-  distinct(coach, opp.coach) %>%
-  select(coach, opp.coach, numWins) %>%
-  ungroup() %>%
-  spread(coach, numWins)
-
-library(ltm)
-library(mirt)
-
-# attempting graded response model
-grade.mod <- mirt(aggCoach[, -1], 1, itemtype = "gpcm") # error due to gaps in scores 
-grm.mod <- grm(aggCoach[, -1], constrained = TRUE)
 
 

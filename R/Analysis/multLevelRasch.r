@@ -74,5 +74,8 @@ ybyCoach <- ybyCoach %>%
   filter(Year > 1950)
 
 library(lme4)
-fm1 <- glmer(wingbg ~ 1 + (1|coachID) + (1|teamID), data = ybyCoach,
+fm1 <- glmer(wingbg ~ 1 + (1|coach) + (1|Team), data = ybyCoach,
 	family = binomial)
+
+# Estimates of ability for coaches and teams
+ranef(fm1)

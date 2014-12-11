@@ -74,8 +74,23 @@ ybyCoach <- ybyCoach %>%
   filter(Year > 1950)
 
 library(lme4)
-fm1 <- glmer(wingbg ~ 1 + (1|coach) + (1|Team), data = ybyCoach,
+# Model since 1950
+fm1 <- glmer(wingbg ~ 1  + (1|coach) + (1|Team), data = ybyCoach,
 	family = binomial)
 
 # Estimates of ability for coaches and teams
 ranef(fm1)
+
+# Model for all time
+fm1a <- glmer(wingbg ~ 1  + (1|coach) + (1|Team), data = ybyCoach2,
+	family = binomial)
+
+# compare team random effects side by side
+t1950 <- ranef(fm1)$Team
+tAll <- ranef(fm1a)$Team
+names(t1950) <- "1950"
+names(tAll) <- "All"
+t1950$Team <- rownames(t1950)
+tAll$Team <- rownames(tAll)
+
+tAll <- left_join(tAll, t1950, by = "Team")

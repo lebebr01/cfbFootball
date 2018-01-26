@@ -1,0 +1,727 @@
+Team,Year,Coach,Win,Loss,Tie,Pct,PF,PA,Delta,Job_End_Category,Job_End_Performance,num_games,years_coached
+Alabama,2007,Nick L. Saban,2,6,0,0.25,352,286,66,0,NA,8,9
+Alabama,2008,Nick L. Saban,12,2,0,0.85714,422,200,222,0,NA,14,10
+Alabama,2009,Nick L. Saban,14,0,0,1,449,164,285,0,NA,14,11
+Alabama,2010,Nick L. Saban,10,3,0,0.76923,464,176,288,0,NA,13,12
+Alabama,2011,Nick L. Saban,12,1,0,0.92308,453,106,347,0,NA,13,13
+Alabama,2012,Nick L. Saban,13,1,0,0.92857,542,153,389,0,NA,14,14
+Alabama,2013,Nick L. Saban,11,2,0,0.84615,496,181,315,0,NA,13,15
+Alabama,2014,Nick L. Saban,12,2,0,0.85714,517,258,259,0,NA,14,16
+Alabama,2015,Nick L. Saban,14,1,0,0.93333,526,227,299,0,NA,15,17
+Appalachian St. (NC),1998,Jerry Moore,10,3,0,0.76923,356,222,134,4,1,13,0
+Appalachian St. (NC),1999,Jerry Moore,9,3,0,0.75,369,219,150,4,1,12,1
+Appalachian St. (NC),2000,Jerry Moore,10,4,0,0.71429,441,278,163,4,1,14,2
+Appalachian St. (NC),2001,Jerry Moore,9,4,0,0.69231,411,278,133,4,1,13,3
+Appalachian St. (NC),2002,Jerry Moore,8,4,0,0.66667,314,273,41,4,1,12,4
+Appalachian St. (NC),2003,Jerry Moore,7,4,0,0.63636,252,219,33,4,1,11,5
+Appalachian St. (NC),2004,Jerry Moore,6,5,0,0.54545,366,358,8,4,1,11,6
+Appalachian St. (NC),2005,Jerry Moore,12,3,0,0.8,455,282,173,4,1,15,7
+Appalachian St. (NC),2006,Jerry Moore,14,1,0,0.93333,528,223,305,4,1,15,8
+Appalachian St. (NC),2007,Jerry Moore,13,2,0,0.86667,641,400,241,4,1,15,9
+Appalachian St. (NC),2008,Jerry Moore,11,3,0,0.78571,522,303,219,4,1,14,10
+Appalachian St. (NC),2009,Jerry Moore,11,3,0,0.78571,465,313,152,4,1,14,11
+Appalachian St. (NC),2010,Jerry Moore,10,3,0,0.76923,446,307,139,4,1,13,12
+Appalachian St. (NC),2011,Jerry Moore,8,4,0,0.66667,344,286,58,4,1,12,13
+Appalachian St. (NC),2012,Jerry Moore,8,4,0,0.66667,395,352,43,4,1,12,14
+Arizona St.,2007,Dennis Erickson,10,3,0,0.76923,420,293,127,5,1,13,8
+Arizona St.,2008,Dennis Erickson,5,7,0,0.41667,274,272,2,5,1,12,9
+Arizona St.,2009,Dennis Erickson,4,8,0,0.33333,268,253,15,5,1,12,10
+Arizona St.,2010,Dennis Erickson,6,6,0,0.5,387,300,87,5,1,12,11
+Arizona St.,2011,Dennis Erickson,6,7,0,0.46154,431,372,59,5,1,13,12
+Arkansas,1998,Houston Nutt,9,3,0,0.75,390,227,163,4,0,12,0
+Arkansas,1999,Houston Nutt,8,4,0,0.66667,353,214,139,4,0,12,1
+Arkansas,2000,Houston Nutt,6,6,0,0.5,278,289,-11,4,0,12,2
+Arkansas,2001,Houston Nutt,7,5,0,0.58333,294,279,15,4,0,12,3
+Arkansas,2002,Houston Nutt,9,5,0,0.64286,370,277,93,4,0,14,4
+Arkansas,2003,Houston Nutt,9,4,0,0.69231,436,305,131,4,0,13,5
+Arkansas,2004,Houston Nutt,5,6,0,0.45455,328,270,58,4,0,11,6
+Arkansas,2005,Houston Nutt,4,7,0,0.36364,283,271,12,4,0,11,7
+Arkansas,2006,Houston Nutt,10,4,0,0.71429,404,256,148,4,0,14,8
+Arkansas,2007,Houston Nutt,8,4,0,0.66667,478,307,171,4,0,12,9
+Arkansas,2008,"Bobby ""Bob"" Petrino",5,7,0,0.41667,263,374,-111,5,0,12,5
+Arkansas,2009,"Bobby ""Bob"" Petrino",8,5,0,0.61538,468,326,142,5,0,13,6
+Arkansas,2010,"Bobby ""Bob"" Petrino",10,3,0,0.76923,474,304,170,5,0,13,7
+Arkansas,2011,"Bobby ""Bob"" Petrino",11,2,0,0.84615,478,289,189,5,0,13,8
+Arkansas,2012,John L. Smith,4,8,0,0.33333,282,365,-83,6,0,12,14
+Arkansas St.,2012,Gus Malzahn,9,3,0,0.75,437,305,132,2,0,12,0
+Arkansas St.,2013,Bryan Harsin,7,5,0,0.58333,356,320,36,2,0,12,0
+Army (NY),1998,Bob Sutton,3,8,0,0.27273,257,325,-68,5,1,11,0
+Army (NY),1999,Bob Sutton,3,8,0,0.27273,225,317,-92,5,1,11,1
+Army (NY),2000,Todd Berry,1,10,0,0.09091,224,372,-148,5,1,11,0
+Army (NY),2001,Todd Berry,3,8,0,0.27273,229,365,-136,5,1,11,1
+Army (NY),2002,Todd Berry,1,11,0,0.08333,226,491,-265,5,1,12,2
+Army (NY),2003,Todd Berry,0,6,0,0,85,223,-138,5,1,6,3
+Army (NY),2009,Rich Ellerson,5,7,0,0.41667,184,263,-79,5,1,12,0
+Army (NY),2010,Rich Ellerson,7,6,0,0.53846,346,316,30,5,1,13,1
+Army (NY),2011,Rich Ellerson,3,9,0,0.25,298,339,-41,5,1,12,2
+Army (NY),2012,Rich Ellerson,2,10,0,0.16667,291,424,-133,5,1,12,3
+Army (NY),2013,Rich Ellerson,3,9,0,0.25,293,379,-86,5,1,12,4
+Auburn (AL),2013,Gus Malzahn,12,2,0,0.85714,553,346,207,0,NA,14,1
+Auburn (AL),2014,Gus Malzahn,8,5,0,0.61538,461,347,114,0,NA,13,2
+Auburn (AL),2015,Gus Malzahn,7,6,0,0.53846,357,338,19,0,NA,13,3
+Ball St. (IN),2009,Stan Parrish,2,10,0,0.16667,230,338,-108,5,1,12,0
+Ball St. (IN),2010,Stan Parrish,4,8,0,0.33333,264,365,-101,5,1,12,1
+Boise St. (ID),2001,Dan Hawkins,8,4,0,0.66667,411,280,131,2,0,12,0
+Boise St. (ID),2002,Dan Hawkins,12,1,0,0.92308,593,240,353,2,0,13,1
+Boise St. (ID),2003,Dan Hawkins,13,1,0,0.92857,602,239,363,2,0,14,2
+Boise St. (ID),2004,Dan Hawkins,11,1,0,0.91667,587,308,279,2,0,12,3
+Boise St. (ID),2005,Dan Hawkins,9,4,0,0.69231,469,317,152,2,0,13,4
+Boise St. (ID),2014,Bryan Harsin,12,2,0,0.85714,556,375,181,0,NA,14,1
+Boise St. (ID),2015,Bryan Harsin,9,4,0,0.69231,508,263,245,0,NA,13,2
+Boston College (MA),2009,Frank Spaziani,8,5,0,0.61538,322,257,65,5,1,13,0
+Boston College (MA),2010,Frank Spaziani,7,6,0,0.53846,240,254,-14,5,1,13,1
+Boston College (MA),2011,Frank Spaziani,4,8,0,0.33333,218,282,-64,5,1,12,2
+Boston College (MA),2012,Frank Spaziani,2,10,0,0.16667,238,356,-118,5,1,12,3
+Bowling Green (OH),2009,Dave Clawson,7,6,0,0.53846,370,357,13,2,0,13,0
+Bowling Green (OH),2010,Dave Clawson,2,10,0,0.16667,255,403,-148,2,0,12,1
+Bowling Green (OH),2011,Dave Clawson,5,7,0,0.41667,318,346,-28,2,0,12,2
+Bowling Green (OH),2012,Dave Clawson,8,5,0,0.61538,298,218,80,2,0,13,3
+Bowling Green (OH),2013,Dave Clawson,10,3,0,0.76923,460,192,268,2,0,13,4
+Bowling Green (OH),2014,Dino Babers,8,6,0,0.57143,420,469,-49,2,0,14,0
+Bowling Green (OH),2015,Dino Babers,10,4,0,0.71429,591,405,186,2,0,14,1
+Brigham Young (UT),2005,Bronco Mendenhall,6,6,0,0.5,396,351,45,2,0,12,0
+Brigham Young (UT),2006,Bronco Mendenhall,11,2,0,0.84615,478,191,287,2,0,13,1
+Brigham Young (UT),2007,Bronco Mendenhall,11,2,0,0.84615,391,241,150,2,0,13,2
+Brigham Young (UT),2008,Bronco Mendenhall,10,3,0,0.76923,445,285,160,2,0,13,3
+Brigham Young (UT),2009,Bronco Mendenhall,11,2,0,0.84615,461,280,181,2,0,13,4
+Brigham Young (UT),2010,Bronco Mendenhall,7,6,0,0.53846,340,281,59,2,0,13,5
+Brigham Young (UT),2011,Bronco Mendenhall,10,3,0,0.76923,391,265,126,2,0,13,6
+Brigham Young (UT),2012,Bronco Mendenhall,8,5,0,0.61538,373,182,191,2,0,13,7
+Brigham Young (UT),2013,Bronco Mendenhall,8,5,0,0.61538,392,287,105,2,0,13,8
+Brigham Young (UT),2014,Bronco Mendenhall,8,5,0,0.61538,482,358,124,2,0,13,9
+Brigham Young (UT),2015,Bronco Mendenhall,9,4,0,0.69231,438,297,141,2,0,13,10
+Buffalo (NY),2010,Jeff Quinn,2,10,0,0.16667,170,334,-164,5,1,12,0
+Buffalo (NY),2011,Jeff Quinn,3,9,0,0.25,266,353,-87,5,1,12,1
+Buffalo (NY),2012,Jeff Quinn,4,8,0,0.33333,255,342,-87,5,1,12,2
+Buffalo (NY),2013,Jeff Quinn,8,5,0,0.61538,394,317,77,5,1,13,3
+Buffalo (NY),2014,Jeff Quinn,3,4,0,0.42857,231,245,-14,5,1,7,4
+Central Florida,1998,Mike Kruczek,9,2,0,0.81818,393,209,184,5,1,11,0
+Central Florida,1999,Mike Kruczek,4,7,0,0.36364,277,318,-41,5,1,11,1
+Central Florida,2000,Mike Kruczek,7,4,0,0.63636,333,221,112,5,1,11,2
+Central Florida,2001,Mike Kruczek,6,5,0,0.54545,333,204,129,5,1,11,3
+Central Florida,2002,Mike Kruczek,7,5,0,0.58333,391,315,76,5,1,12,4
+Central Florida,2003,Mike Kruczek,3,7,0,0.3,196,296,-100,5,1,10,5
+Central Michigan,2007,Butch Jones,8,6,0,0.57143,487,517,-30,2,0,14,0
+Central Michigan,2008,Butch Jones,8,5,0,0.61538,384,393,-9,2,0,13,1
+Central Michigan,2009,Butch Jones,11,2,0,0.84615,431,224,207,2,0,13,2
+Central Michigan,2010,Dan Enos,3,9,0,0.25,293,312,-19,2,0,12,0
+Central Michigan,2011,Dan Enos,3,9,0,0.25,271,400,-129,2,0,12,1
+Central Michigan,2012,Dan Enos,7,6,0,0.53846,375,421,-46,2,0,13,2
+Central Michigan,2013,Dan Enos,6,6,0,0.5,279,343,-64,2,0,12,3
+Central Michigan,2014,Dan Enos,7,6,0,0.53846,350,327,23,2,0,13,4
+Cincinnati (OH),2004,Mark Dantonio,7,5,0,0.58333,344,320,24,2,0,12,0
+Cincinnati (OH),2005,Mark Dantonio,4,7,0,0.36364,192,345,-153,2,0,11,1
+Cincinnati (OH),2006,Mark Dantonio,7,5,0,0.58333,247,231,16,2,0,12,2
+Cincinnati (OH),2010,Butch Jones,4,8,0,0.33333,325,336,-11,2,0,12,3
+Cincinnati (OH),2011,Butch Jones,10,3,0,0.76923,433,264,169,2,0,13,4
+Cincinnati (OH),2012,Butch Jones,9,3,0,0.75,372,206,166,2,0,12,5
+Colorado,1999,Gary Barnett,7,5,0,0.58333,405,311,94,4,1,12,1
+Colorado,2000,Gary Barnett,3,8,0,0.27273,252,284,-32,4,1,11,2
+Colorado,2001,Gary Barnett,10,3,0,0.76923,412,318,94,4,1,13,3
+Colorado,2002,Gary Barnett,9,5,0,0.64286,398,325,73,4,1,14,4
+Colorado,2003,Gary Barnett,5,7,0,0.41667,319,398,-79,4,1,12,5
+Colorado,2004,Gary Barnett,8,5,0,0.61538,304,332,-28,4,1,13,6
+Colorado,2005,Gary Barnett,7,5,0,0.58333,295,288,7,4,1,12,7
+Colorado,2006,Dan Hawkins,2,10,0,0.16667,196,267,-71,5,1,12,5
+Colorado,2007,Dan Hawkins,6,7,0,0.46154,355,383,-28,5,1,13,6
+Colorado,2008,Dan Hawkins,5,7,0,0.41667,242,351,-109,5,1,12,7
+Colorado,2009,Dan Hawkins,3,9,0,0.25,267,346,-79,5,1,12,8
+Colorado,2010,Dan Hawkins,3,6,0,0.33333,195,274,-79,5,1,9,9
+Colorado St.,1998,Sonny Lubick,8,4,0,0.66667,345,263,82,4,1,12,0
+Colorado St.,1999,Sonny Lubick,8,4,0,0.66667,345,269,76,4,1,12,1
+Colorado St.,2000,Sonny Lubick,10,2,0,0.83333,363,225,138,4,1,12,2
+Colorado St.,2001,Sonny Lubick,7,5,0,0.58333,298,274,24,4,1,12,3
+Colorado St.,2002,Sonny Lubick,10,4,0,0.71429,418,332,86,4,1,14,4
+Colorado St.,2003,Sonny Lubick,7,6,0,0.53846,381,318,63,4,1,13,5
+Colorado St.,2004,Sonny Lubick,4,7,0,0.36364,261,325,-64,4,1,11,6
+Colorado St.,2005,Sonny Lubick,6,6,0,0.5,321,369,-48,4,1,12,7
+Colorado St.,2006,Sonny Lubick,4,8,0,0.33333,202,263,-61,4,1,12,8
+Colorado St.,2007,Sonny Lubick,3,9,0,0.25,304,369,-65,4,1,12,9
+Duke (NC),1999,Carl Franks,3,8,0,0.27273,217,363,-146,5,1,11,0
+Duke (NC),2000,Carl Franks,0,11,0,0,155,430,-275,5,1,11,1
+Duke (NC),2001,Carl Franks,0,11,0,0,212,491,-279,5,1,11,2
+Duke (NC),2002,Carl Franks,2,10,0,0.16667,227,353,-126,5,1,12,3
+Duke (NC),2003,Carl Franks,2,5,0,0.28571,106,213,-107,5,1,7,4
+East Carolina (NC),2003,John Thompson,1,11,0,0.08333,217,428,-211,4,1,12,0
+East Carolina (NC),2004,John Thompson,2,9,0,0.18182,231,439,-208,4,1,11,1
+East Carolina (NC),2010,Ruffin McNeill,6,7,0,0.46154,478,572,-94,5,1,13,0
+East Carolina (NC),2011,Ruffin McNeill,5,7,0,0.41667,315,387,-72,5,1,12,1
+East Carolina (NC),2012,Ruffin McNeill,8,5,0,0.61538,409,411,-2,5,1,13,2
+East Carolina (NC),2013,Ruffin McNeill,10,3,0,0.76923,522,322,200,5,1,13,3
+East Carolina (NC),2014,Ruffin McNeill,8,5,0,0.61538,466,336,130,5,1,13,4
+East Carolina (NC),2015,Ruffin McNeill,5,7,0,0.41667,329,312,17,5,1,12,5
+Eastern Michigan,2000,Jeff Woodruff,3,8,0,0.27273,209,350,-141,5,1,11,0
+Eastern Michigan,2001,Jeff Woodruff,2,9,0,0.18182,197,356,-159,5,1,11,1
+Eastern Michigan,2002,Jeff Woodruff,3,9,0,0.25,286,566,-280,5,1,12,2
+Eastern Michigan,2003,Jeff Woodruff,1,8,0,0.11111,124,306,-182,5,1,9,3
+Florida,1998,Steve Spurrier,10,2,0,0.83333,380,165,215,2,0,12,0
+Florida,1999,Steve Spurrier,9,4,0,0.69231,403,272,131,2,0,13,1
+Florida,2000,Steve Spurrier,10,3,0,0.76923,468,273,195,2,0,13,2
+Florida,2001,Steve Spurrier,10,2,0,0.83333,538,178,360,2,0,12,3
+Florida Atlantic,2001,Howard Schnellenberger,4,6,0,0.4,177,245,-68,1,0,10,0
+Florida Atlantic,2002,Howard Schnellenberger,2,9,0,0.18182,176,339,-163,1,0,11,1
+Florida Atlantic,2003,Howard Schnellenberger,11,3,0,0.78571,404,306,98,1,0,14,2
+Florida Atlantic,2004,Howard Schnellenberger,9,3,0,0.75,299,207,92,1,0,12,3
+Florida Atlantic,2005,Howard Schnellenberger,2,9,0,0.18182,148,339,-191,1,0,11,4
+Florida Atlantic,2006,Howard Schnellenberger,5,7,0,0.41667,181,299,-118,1,0,12,5
+Florida Atlantic,2007,Howard Schnellenberger,8,5,0,0.61538,405,432,-27,1,0,13,6
+Florida Atlantic,2008,Howard Schnellenberger,7,6,0,0.53846,326,373,-47,1,0,13,7
+Florida Atlantic,2009,Howard Schnellenberger,5,7,0,0.41667,329,405,-76,1,0,12,8
+Florida Atlantic,2010,Howard Schnellenberger,4,8,0,0.33333,202,351,-149,1,0,12,9
+Florida Atlantic,2011,Howard Schnellenberger,1,11,0,0.08333,155,416,-261,1,0,12,10
+Florida International,2002,Don Strock,5,6,0,0.45455,241,228,13,4,1,11,0
+Florida International,2003,Don Strock,2,10,0,0.16667,270,341,-71,4,1,12,1
+Florida International,2004,Don Strock,3,7,0,0.3,261,325,-64,4,1,10,2
+Florida International,2005,Don Strock,5,6,0,0.45455,257,323,-66,4,1,11,3
+Florida International,2006,Don Strock,0,12,0,0,115,313,-198,4,1,12,4
+Florida St.,1998,Bobby Bowden,11,2,0,0.84615,401,161,240,4,1,13,0
+Florida St.,1999,Bobby Bowden,12,0,0,1,458,203,255,4,1,12,1
+Florida St.,2000,Bobby Bowden,11,2,0,0.84615,511,136,375,4,1,13,2
+Florida St.,2001,Bobby Bowden,8,4,0,0.66667,403,304,99,4,1,12,3
+Florida St.,2002,Bobby Bowden,9,5,0,0.64286,428,301,127,4,1,14,4
+Florida St.,2003,Bobby Bowden,10,3,0,0.76923,419,217,202,4,1,13,5
+Florida St.,2004,Bobby Bowden,9,3,0,0.75,302,169,133,4,1,12,6
+Florida St.,2005,Bobby Bowden,8,5,0,0.61538,376,286,90,4,1,13,7
+Florida St.,2006,Bobby Bowden,2,6,0,0.25,345,258,87,4,1,8,8
+Florida St.,2007,Bobby Bowden,0,6,0,0,303,298,5,4,1,6,9
+Florida St.,2008,Bobby Bowden,9,4,0,0.69231,434,262,172,4,1,13,10
+Florida St.,2009,Bobby Bowden,7,6,0,0.53846,391,390,1,4,1,13,11
+Fresno St. (CA),1998,Pat Hill,5,6,0,0.45455,265,225,40,5,1,11,0
+Fresno St. (CA),1999,Pat Hill,8,5,0,0.61538,413,282,131,5,1,13,1
+Fresno St. (CA),2000,Pat Hill,7,5,0,0.58333,317,251,66,5,1,12,2
+Fresno St. (CA),2001,Pat Hill,11,3,0,0.78571,560,344,216,5,1,14,3
+Fresno St. (CA),2002,Pat Hill,9,5,0,0.64286,378,379,-1,5,1,14,4
+Fresno St. (CA),2003,Pat Hill,9,5,0,0.64286,322,317,5,5,1,14,5
+Fresno St. (CA),2004,Pat Hill,9,3,0,0.75,482,253,229,5,1,12,6
+Fresno St. (CA),2005,Pat Hill,8,5,0,0.61538,491,292,199,5,1,13,7
+Fresno St. (CA),2006,Pat Hill,4,8,0,0.33333,276,339,-63,5,1,12,8
+Fresno St. (CA),2007,Pat Hill,9,4,0,0.69231,427,351,76,5,1,13,9
+Fresno St. (CA),2008,Pat Hill,7,6,0,0.53846,385,404,-19,5,1,13,10
+Fresno St. (CA),2009,Pat Hill,8,5,0,0.61538,440,369,71,5,1,13,11
+Fresno St. (CA),2010,Pat Hill,8,5,0,0.61538,377,390,-13,5,1,13,12
+Fresno St. (CA),2011,Pat Hill,4,9,0,0.30769,371,457,-86,5,1,13,13
+Georgia Southern,1998,Paul Johnson,14,1,0,0.93333,654,363,291,2,0,15,0
+Georgia Southern,1999,Paul Johnson,13,2,0,0.86667,747,262,485,2,0,15,1
+Georgia Southern,2000,Paul Johnson,13,2,0,0.86667,506,274,232,2,0,15,2
+Georgia Southern,2001,Paul Johnson,12,2,0,0.85714,525,215,310,2,0,14,3
+Georgia Tech,2008,Paul Johnson,9,4,0,0.69231,317,264,53,0,NA,13,10
+Georgia Tech,2009,Paul Johnson,10,3,0,0.76923,473,347,126,0,NA,13,11
+Georgia Tech,2010,Paul Johnson,6,7,0,0.46154,338,328,10,0,NA,13,12
+Georgia Tech,2011,Paul Johnson,8,5,0,0.61538,446,339,107,0,NA,13,13
+Georgia Tech,2012,Paul Johnson,7,7,0,0.5,470,396,74,0,NA,14,14
+Georgia Tech,2013,Paul Johnson,7,6,0,0.53846,456,297,159,0,NA,13,15
+Georgia Tech,2014,Paul Johnson,11,3,0,0.78571,530,360,170,0,NA,14,16
+Georgia Tech,2015,Paul Johnson,3,9,0,0.25,351,309,42,0,NA,12,17
+Houston (TX),2000,Dana Dimel,3,8,0,0.27273,211,370,-159,5,1,11,2
+Houston (TX),2001,Dana Dimel,0,11,0,0,190,432,-242,5,1,11,3
+Houston (TX),2002,Dana Dimel,5,7,0,0.41667,320,393,-73,5,1,12,4
+Idaho,1998,Chris Tormey,9,3,0,0.75,392,317,75,2,0,12,0
+Idaho,1999,Chris Tormey,7,4,0,0.63636,304,283,21,2,0,11,1
+Idaho,2004,Nick Holt,3,9,0,0.25,245,473,-228,2,0,12,0
+Idaho,2005,Nick Holt,2,9,0,0.18182,243,419,-176,2,0,11,1
+Idaho,2006,Dennis Erickson,4,8,0,0.33333,203,417,-214,2,0,12,7
+Illinois,2015,Bill Cubit,5,7,0,0.41667,272,279,-7,5,0,12,10
+Indiana,1998,Cam Cameron,4,7,0,0.36364,245,305,-60,5,1,11,0
+Indiana,1999,Cam Cameron,4,7,0,0.36364,291,386,-95,5,1,11,1
+Indiana,2000,Cam Cameron,3,8,0,0.27273,337,427,-90,5,1,11,2
+Indiana,2001,Cam Cameron,5,6,0,0.45455,305,298,7,5,1,11,3
+Indiana,2011,Kevin Wilson,1,11,0,0.08333,257,448,-191,0,NA,12,0
+Indiana,2012,Kevin Wilson,4,8,0,0.33333,369,423,-54,0,NA,12,1
+Indiana,2013,Kevin Wilson,5,7,0,0.41667,461,466,-5,0,NA,12,2
+Indiana,2014,Kevin Wilson,4,8,0,0.33333,301,394,-93,0,NA,12,3
+Indiana,2015,Kevin Wilson,6,7,0,0.46154,475,489,-14,0,NA,13,4
+Iowa,1999,Kirk Ferentz,1,10,0,0.09091,162,347,-185,0,NA,11,0
+Iowa,2000,Kirk Ferentz,3,9,0,0.25,203,330,-127,0,NA,12,1
+Iowa,2001,Kirk Ferentz,7,5,0,0.58333,391,258,133,0,NA,12,2
+Iowa,2002,Kirk Ferentz,11,2,0,0.84615,484,256,228,0,NA,13,3
+Iowa,2003,Kirk Ferentz,10,3,0,0.76923,373,210,163,0,NA,13,4
+Iowa,2004,Kirk Ferentz,10,2,0,0.83333,292,211,81,0,NA,12,5
+Iowa,2005,Kirk Ferentz,7,5,0,0.58333,360,240,120,0,NA,12,6
+Iowa,2006,Kirk Ferentz,6,7,0,0.46154,310,269,41,0,NA,13,7
+Iowa,2007,Kirk Ferentz,6,6,0,0.5,222,225,-3,0,NA,12,8
+Iowa,2008,Kirk Ferentz,9,4,0,0.69231,394,169,225,0,NA,13,9
+Iowa,2009,Kirk Ferentz,11,2,0,0.84615,301,200,101,0,NA,13,10
+Iowa,2010,Kirk Ferentz,8,5,0,0.61538,376,221,155,0,NA,13,11
+Iowa,2011,Kirk Ferentz,7,6,0,0.53846,358,310,48,0,NA,13,12
+Iowa,2012,Kirk Ferentz,4,8,0,0.33333,232,275,-43,0,NA,12,13
+Iowa,2013,Kirk Ferentz,8,5,0,0.61538,342,246,96,0,NA,13,14
+Iowa,2014,Kirk Ferentz,7,6,0,0.53846,367,333,34,0,NA,13,15
+Iowa,2015,Kirk Ferentz,12,2,0,0.85714,433,285,148,0,NA,14,16
+Kansas,1998,Terry Allen,4,7,0,0.36364,280,341,-61,5,1,11,0
+Kansas,1999,Terry Allen,5,7,0,0.41667,294,354,-60,5,1,12,1
+Kansas,2000,Terry Allen,4,7,0,0.36364,261,359,-98,5,1,11,2
+Kansas,2001,Terry Allen,3,8,0,0.27273,182,398,-216,5,1,11,3
+Kansas,2002,Mark Mangino,2,10,0,0.16667,248,507,-259,4,1,12,0
+Kansas,2003,Mark Mangino,6,7,0,0.46154,384,396,-12,4,1,13,1
+Kansas,2004,Mark Mangino,4,7,0,0.36364,262,235,27,4,1,11,2
+Kansas,2005,Mark Mangino,7,5,0,0.58333,269,264,5,4,1,12,3
+Kansas,2006,Mark Mangino,6,6,0,0.5,348,306,42,4,1,12,4
+Kansas,2007,Mark Mangino,12,1,0,0.92308,556,213,343,4,1,13,5
+Kansas,2008,Mark Mangino,8,5,0,0.61538,434,375,59,4,1,13,6
+Kansas,2009,Mark Mangino,5,7,0,0.41667,353,341,12,4,1,12,7
+Kansas St.,1998,Bill Snyder,11,2,0,0.84615,610,197,413,1,0,13,0
+Kansas St.,1999,Bill Snyder,11,1,0,0.91667,457,164,293,1,0,12,1
+Kansas St.,2000,Bill Snyder,11,3,0,0.78571,549,261,288,1,0,14,2
+Kansas St.,2001,Bill Snyder,6,6,0,0.5,330,205,125,1,0,12,3
+Kansas St.,2002,Bill Snyder,11,2,0,0.84615,582,154,428,1,0,13,4
+Kansas St.,2003,Bill Snyder,11,4,0,0.73333,549,244,305,1,0,15,5
+Kansas St.,2004,Bill Snyder,4,7,0,0.36364,326,337,-11,1,0,11,6
+Kansas St.,2005,Bill Snyder,5,6,0,0.45455,289,305,-16,1,0,11,7
+Kansas St.,2009,Bill Snyder,6,6,0,0.5,276,280,-4,1,0,12,11
+Kansas St.,2010,Bill Snyder,7,6,0,0.53846,437,378,59,1,0,13,12
+Kansas St.,2011,Bill Snyder,10,3,0,0.76923,413,363,50,1,0,13,13
+Kansas St.,2012,Bill Snyder,11,2,0,0.84615,505,288,217,1,0,13,14
+Kansas St.,2013,Bill Snyder,8,5,0,0.61538,432,298,134,1,0,13,15
+Kansas St.,2014,Bill Snyder,9,4,0,0.69231,465,301,164,1,0,13,16
+Kansas St.,2015,Bill Snyder,6,7,0,0.46154,389,409,-20,1,0,13,17
+Kent St. (OH),2004,Doug Martin,5,6,0,0.45455,335,264,71,4,1,11,0
+Kent St. (OH),2005,Doug Martin,1,10,0,0.09091,180,331,-151,4,1,11,1
+Kent St. (OH),2006,Doug Martin,6,6,0,0.5,214,241,-27,4,1,12,2
+Kent St. (OH),2007,Doug Martin,3,9,0,0.25,259,350,-91,4,1,12,3
+Kent St. (OH),2008,Doug Martin,4,8,0,0.33333,308,380,-72,4,1,12,4
+Kent St. (OH),2009,Doug Martin,5,7,0,0.41667,231,269,-38,4,1,12,5
+Kent St. (OH),2010,Doug Martin,5,7,0,0.41667,256,275,-19,4,1,12,6
+Kent St. (OH),2013,Paul Haynes,4,8,0,0.33333,249,323,-74,0,NA,12,0
+Kent St. (OH),2014,Paul Haynes,2,9,0,0.18182,180,319,-139,0,NA,11,1
+Kent St. (OH),2015,Paul Haynes,3,9,0,0.25,157,313,-156,0,NA,12,2
+Kentucky,2013,Mark Stoops,2,10,0,0.16667,246,374,-128,0,NA,12,0
+Kentucky,2014,Mark Stoops,5,7,0,0.41667,350,375,-25,0,NA,12,1
+Kentucky,2015,Mark Stoops,5,7,0,0.41667,296,329,-33,0,NA,12,2
+Louisiana St.,2000,Nick L. Saban,8,4,0,0.66667,320,235,85,2,0,12,2
+Louisiana St.,2001,Nick L. Saban,10,3,0,0.76923,418,302,116,2,0,13,3
+Louisiana St.,2002,Nick L. Saban,8,5,0,0.61538,323,238,85,2,0,13,4
+Louisiana St.,2003,Nick L. Saban,13,1,0,0.92857,475,154,321,2,0,14,5
+Louisiana St.,2004,Nick L. Saban,9,3,0,0.75,344,205,139,2,0,12,6
+Louisiana Tech,2007,Derek Dooley,5,7,0,0.41667,249,368,-119,2,0,12,0
+Louisiana Tech,2008,Derek Dooley,8,5,0,0.61538,320,308,12,2,0,13,1
+Louisiana Tech,2009,Derek Dooley,4,8,0,0.33333,350,309,41,2,0,12,2
+Louisiana-Monroe,1999,Bobby Keasler,5,6,0,0.45455,186,322,-136,4,1,11,0
+Louisiana-Monroe,2000,Bobby Keasler,1,10,0,0.09091,96,415,-319,4,1,11,1
+Louisiana-Monroe,2001,Bobby Keasler,2,9,0,0.18182,148,351,-203,4,1,11,2
+Louisiana-Monroe,2010,Todd Berry,5,7,0,0.41667,250,389,-139,5,1,12,10
+Louisiana-Monroe,2011,Todd Berry,4,8,0,0.33333,295,305,-10,5,1,12,11
+Louisiana-Monroe,2012,Todd Berry,8,5,0,0.61538,440,379,61,5,1,13,12
+Louisiana-Monroe,2013,Todd Berry,6,6,0,0.5,267,362,-95,5,1,12,13
+Louisiana-Monroe,2014,Todd Berry,4,8,0,0.33333,241,315,-74,5,1,12,14
+Louisiana-Monroe,2015,Todd Berry,1,9,0,0.1,202,396,-194,5,1,10,15
+Louisville (KY),1998,John L. Smith,7,5,0,0.58333,473,435,38,2,0,12,0
+Louisville (KY),1999,John L. Smith,7,5,0,0.58333,443,365,78,2,0,12,1
+Louisville (KY),2000,John L. Smith,9,3,0,0.75,405,268,137,2,0,12,2
+Louisville (KY),2001,John L. Smith,11,2,0,0.84615,394,223,171,2,0,13,3
+Louisville (KY),2002,John L. Smith,7,6,0,0.53846,374,319,55,2,0,13,4
+Louisville (KY),2003,"Bobby ""Bob"" Petrino",9,4,0,0.69231,450,361,89,2,0,13,0
+Louisville (KY),2004,"Bobby ""Bob"" Petrino",11,1,0,0.91667,597,236,361,2,0,12,1
+Louisville (KY),2005,"Bobby ""Bob"" Petrino",9,3,0,0.75,521,285,236,2,0,12,2
+Louisville (KY),2006,"Bobby ""Bob"" Petrino",12,1,0,0.92308,491,212,279,2,0,13,3
+Louisville (KY),2014,"Bobby ""Bob"" Petrino",9,4,0,0.69231,405,283,122,2,0,13,11
+Louisville (KY),2015,"Bobby ""Bob"" Petrino",8,5,0,0.61538,373,313,60,2,0,13,12
+Massachusetts,2004,Don Brown,6,5,0,0.54545,279,256,23,2,0,11,0
+Massachusetts,2005,Don Brown,7,4,0,0.63636,259,146,113,2,0,11,1
+Massachusetts,2006,Don Brown,13,2,0,0.86667,413,200,213,2,0,15,2
+Massachusetts,2007,Don Brown,10,3,0,0.76923,403,249,154,2,0,13,3
+Massachusetts,2008,Don Brown,7,5,0,0.58333,345,321,24,2,0,12,4
+Massachusetts,2012,Charley Molnar,1,11,0,0.08333,152,482,-330,5,1,12,0
+Massachusetts,2013,Charley Molnar,1,11,0,0.08333,140,396,-256,5,1,12,1
+Memphis (TN),2010,Larry Porter,1,11,0,0.08333,173,478,-305,5,1,12,0
+Memphis (TN),2011,Larry Porter,2,10,0,0.16667,195,421,-226,5,1,12,1
+Miami (FL),2001,Larry Coker,12,0,0,1,512,117,395,5,1,12,0
+Miami (FL),2002,Larry Coker,12,1,0,0.92308,527,248,279,5,1,13,1
+Miami (FL),2003,Larry Coker,11,2,0,0.84615,361,196,165,5,1,13,2
+Miami (FL),2004,Larry Coker,9,3,0,0.75,380,204,176,5,1,12,3
+Miami (FL),2005,Larry Coker,9,3,0,0.75,325,171,154,5,1,12,4
+Miami (FL),2006,Larry Coker,7,6,0,0.53846,255,201,54,5,1,13,5
+Miami (OH),2005,Shane Montgomery,7,4,0,0.63636,371,258,113,4,1,11,0
+Miami (OH),2006,Shane Montgomery,2,10,0,0.16667,222,304,-82,4,1,12,1
+Miami (OH),2007,Shane Montgomery,6,7,0,0.46154,250,333,-83,4,1,13,2
+Miami (OH),2008,Shane Montgomery,2,10,0,0.16667,221,392,-171,4,1,12,3
+Miami (OH),2011,Don Treadwell,4,8,0,0.33333,256,275,-19,5,1,12,0
+Miami (OH),2012,Don Treadwell,4,8,0,0.33333,280,419,-139,5,1,12,1
+Miami (OH),2014,Chuck Martin,2,10,0,0.16667,268,382,-114,0,NA,12,0
+Miami (OH),2015,Chuck Martin,3,9,0,0.25,215,384,-169,0,NA,12,1
+Michigan,1998,Lloyd Carr,10,3,0,0.76923,359,235,124,1,0,13,0
+Michigan,1999,Lloyd Carr,10,2,0,0.83333,361,247,114,1,0,12,1
+Michigan,2000,Lloyd Carr,9,3,0,0.75,404,229,175,1,0,12,2
+Michigan,2001,Lloyd Carr,8,4,0,0.66667,320,237,83,1,0,12,3
+Michigan,2002,Lloyd Carr,10,3,0,0.76923,361,265,96,1,0,13,4
+Michigan,2003,Lloyd Carr,10,3,0,0.76923,460,219,241,1,0,13,5
+Michigan,2004,Lloyd Carr,9,3,0,0.75,370,279,91,1,0,12,6
+Michigan,2005,Lloyd Carr,7,5,0,0.58333,345,244,101,1,0,12,7
+Michigan,2006,Lloyd Carr,11,2,0,0.84615,380,207,173,1,0,13,8
+Michigan,2007,Lloyd Carr,9,4,0,0.69231,354,278,76,1,0,13,9
+Michigan St.,1998,Nick L. Saban,6,6,0,0.5,336,294,42,2,0,12,0
+Michigan St.,1999,Nick L. Saban,9,2,0,0.81818,341,211,130,2,0,11,1
+Michigan St.,2000,Bobby Williams,5,6,0,0.45455,197,233,-36,5,1,11,0
+Michigan St.,2001,Bobby Williams,7,5,0,0.58333,374,311,63,5,1,12,1
+Michigan St.,2002,Bobby Williams,3,6,0,0.33333,211,271,-60,5,1,9,2
+Michigan St.,2003,John L. Smith,8,5,0,0.61538,363,293,70,5,1,13,5
+Michigan St.,2004,John L. Smith,5,7,0,0.41667,353,326,27,5,1,12,6
+Michigan St.,2005,John L. Smith,5,6,0,0.45455,372,316,56,5,1,11,7
+Michigan St.,2006,John L. Smith,4,8,0,0.33333,302,341,-39,5,1,12,8
+Michigan St.,2007,Mark Dantonio,7,6,0,0.53846,430,346,84,0,NA,13,3
+Michigan St.,2008,Mark Dantonio,9,4,0,0.69231,326,287,39,0,NA,13,4
+Michigan St.,2009,Mark Dantonio,6,7,0,0.46154,386,342,44,0,NA,13,5
+Michigan St.,2010,Mark Dantonio,11,2,0,0.84615,383,290,93,0,NA,13,6
+Michigan St.,2011,Mark Dantonio,11,3,0,0.78571,434,257,177,0,NA,14,7
+Michigan St.,2012,Mark Dantonio,7,6,0,0.53846,260,212,48,0,NA,13,8
+Michigan St.,2013,Mark Dantonio,13,1,0,0.92857,411,185,226,0,NA,14,9
+Michigan St.,2014,Mark Dantonio,11,2,0,0.84615,559,280,279,0,NA,13,10
+Michigan St.,2015,Mark Dantonio,12,2,0,0.85714,417,304,113,0,NA,14,11
+Minnesota,2007,Tim Brewster,1,11,0,0.08333,315,440,-125,5,1,12,0
+Minnesota,2008,Tim Brewster,7,6,0,0.53846,302,322,-20,5,1,13,1
+Minnesota,2009,Tim Brewster,6,7,0,0.46154,272,309,-37,5,1,13,2
+Minnesota,2010,Tim Brewster,1,6,0,0.14286,174,222,-48,5,1,7,3
+Mississippi,2008,Houston Nutt,9,4,0,0.69231,417,247,170,4,1,13,10
+Mississippi,2009,Houston Nutt,9,4,0,0.69231,384,230,154,4,1,13,11
+Mississippi,2010,Houston Nutt,4,8,0,0.33333,367,422,-55,4,1,12,12
+Mississippi,2011,Houston Nutt,2,10,0,0.16667,193,385,-192,4,1,12,13
+Mississippi St.,2009,Dan Mullen,5,7,0,0.41667,307,321,-14,0,NA,12,0
+Mississippi St.,2010,Dan Mullen,9,4,0,0.69231,377,258,119,0,NA,13,1
+Mississippi St.,2011,Dan Mullen,7,6,0,0.53846,329,256,73,0,NA,13,2
+Mississippi St.,2012,Dan Mullen,8,5,0,0.61538,383,303,80,0,NA,13,3
+Mississippi St.,2013,Dan Mullen,7,6,0,0.53846,360,299,61,0,NA,13,4
+Mississippi St.,2014,Dan Mullen,10,3,0,0.76923,480,282,198,0,NA,13,5
+Mississippi St.,2015,Dan Mullen,9,4,0,0.69231,447,302,145,0,NA,13,6
+Navy (MD),2002,Paul Johnson,2,10,0,0.16667,290,436,-146,2,0,12,4
+Navy (MD),2003,Paul Johnson,8,5,0,0.61538,396,283,113,2,0,13,5
+Navy (MD),2004,Paul Johnson,10,2,0,0.83333,334,238,96,2,0,12,6
+Navy (MD),2005,Paul Johnson,8,4,0,0.66667,410,313,97,2,0,12,7
+Navy (MD),2006,Paul Johnson,9,4,0,0.69231,367,261,106,2,0,13,8
+Navy (MD),2007,Paul Johnson,8,4,0,0.66667,479,438,41,2,0,12,9
+Nebraska,2004,Bill Callahan,5,6,0,0.45455,275,298,-23,5,1,11,0
+Nebraska,2005,Bill Callahan,8,4,0,0.66667,296,252,44,5,1,12,1
+Nebraska,2006,Bill Callahan,9,5,0,0.64286,428,256,172,5,1,14,2
+Nebraska,2007,Bill Callahan,5,7,0,0.41667,401,455,-54,5,1,12,3
+Nevada,2000,Chris Tormey,2,10,0,0.16667,207,464,-257,5,1,12,2
+Nevada,2001,Chris Tormey,3,8,0,0.27273,286,431,-145,5,1,11,3
+Nevada,2002,Chris Tormey,5,7,0,0.41667,331,371,-40,5,1,12,4
+Nevada,2003,Chris Tormey,6,6,0,0.5,282,338,-56,5,1,12,5
+New Mexico,1998,Rocky Long,3,9,0,0.25,274,397,-123,4,1,12,0
+New Mexico,1999,Rocky Long,4,7,0,0.36364,240,298,-58,4,1,11,1
+New Mexico,2000,Rocky Long,5,7,0,0.41667,229,249,-20,4,1,12,2
+New Mexico,2001,Rocky Long,6,5,0,0.54545,304,243,61,4,1,11,3
+New Mexico,2002,Rocky Long,7,7,0,0.5,341,358,-17,4,1,14,4
+New Mexico,2003,Rocky Long,8,5,0,0.61538,391,290,101,4,1,13,5
+New Mexico,2004,Rocky Long,7,5,0,0.58333,244,224,20,4,1,12,6
+New Mexico,2005,Rocky Long,6,5,0,0.54545,326,327,-1,4,1,11,7
+New Mexico,2006,Rocky Long,6,7,0,0.46154,284,312,-28,4,1,13,8
+New Mexico,2007,Rocky Long,9,4,0,0.69231,321,247,74,4,1,13,9
+New Mexico,2008,Rocky Long,4,8,0,0.33333,253,273,-20,4,1,12,10
+New Mexico St.,2013,Doug Martin,2,10,0,0.16667,251,535,-284,0,NA,12,9
+New Mexico St.,2014,Doug Martin,2,10,0,0.16667,294,469,-175,0,NA,12,10
+New Mexico St.,2015,Doug Martin,3,9,0,0.25,343,540,-197,0,NA,12,11
+North Carolina,2012,Larry Fedora,8,4,0,0.66667,487,308,179,0,NA,12,4
+North Carolina,2013,Larry Fedora,7,6,0,0.53846,425,318,107,0,NA,13,5
+North Carolina,2014,Larry Fedora,6,7,0,0.46154,432,507,-75,0,NA,13,6
+North Carolina,2015,Larry Fedora,11,3,0,0.78571,570,343,227,0,NA,14,7
+North Carolina St.,1998,Mike O'Cain,7,5,0,0.58333,366,352,14,5,1,12,0
+North Carolina St.,1999,Mike O'Cain,6,6,0,0.5,244,302,-58,5,1,12,1
+North Texas,1998,Darrell Dickey,3,8,0,0.27273,173,297,-124,5,1,11,0
+North Texas,1999,Darrell Dickey,2,9,0,0.18182,118,291,-173,5,1,11,1
+North Texas,2000,Darrell Dickey,3,8,0,0.27273,162,300,-138,5,1,11,2
+North Texas,2001,Darrell Dickey,5,7,0,0.41667,275,293,-18,5,1,12,3
+North Texas,2002,Darrell Dickey,8,5,0,0.61538,249,192,57,5,1,13,4
+North Texas,2003,Darrell Dickey,9,4,0,0.69231,358,285,73,5,1,13,5
+North Texas,2004,Darrell Dickey,7,5,0,0.58333,309,358,-49,5,1,12,6
+North Texas,2005,Darrell Dickey,2,9,0,0.18182,157,346,-189,5,1,11,7
+North Texas,2006,Darrell Dickey,3,9,0,0.25,154,304,-150,5,1,12,8
+Northwestern (IL),1998,Gary Barnett,3,9,0,0.25,214,337,-123,2,0,12,0
+Northwestern (IL),2006,Pat Fitzgerald,4,8,0,0.33333,198,314,-116,0,NA,12,0
+Northwestern (IL),2007,Pat Fitzgerald,6,6,0,0.5,310,372,-62,0,NA,12,1
+Northwestern (IL),2008,Pat Fitzgerald,9,4,0,0.69231,317,262,55,0,NA,13,2
+Northwestern (IL),2009,Pat Fitzgerald,8,5,0,0.61538,337,318,19,0,NA,13,3
+Northwestern (IL),2010,Pat Fitzgerald,7,6,0,0.53846,343,377,-34,0,NA,13,4
+Northwestern (IL),2011,Pat Fitzgerald,6,7,0,0.46154,376,360,16,0,NA,13,5
+Northwestern (IL),2012,Pat Fitzgerald,10,3,0,0.76923,412,293,119,0,NA,13,6
+Northwestern (IL),2013,Pat Fitzgerald,5,7,0,0.41667,314,325,-11,0,NA,12,7
+Northwestern (IL),2014,Pat Fitzgerald,5,7,0,0.41667,276,302,-26,0,NA,12,8
+Northwestern (IL),2015,Pat Fitzgerald,10,3,0,0.76923,254,242,12,0,NA,13,9
+Ohio,1998,Jim Grobe,5,6,0,0.45455,269,303,-34,2,0,11,0
+Ohio,1999,Jim Grobe,5,6,0,0.45455,271,287,-16,2,0,11,1
+Ohio,2000,Jim Grobe,7,4,0,0.63636,343,208,135,2,0,11,2
+Oklahoma,1999,Bob Stoops,7,5,0,0.58333,430,229,201,0,NA,12,0
+Oklahoma,2000,Bob Stoops,13,0,0,1,481,194,287,0,NA,13,1
+Oklahoma,2001,Bob Stoops,11,2,0,0.84615,397,169,228,0,NA,13,2
+Oklahoma,2002,Bob Stoops,12,2,0,0.85714,541,216,325,0,NA,14,3
+Oklahoma,2003,Bob Stoops,12,2,0,0.85714,601,214,387,0,NA,14,4
+Oklahoma,2004,Bob Stoops,12,1,0,0.92308,452,219,233,0,NA,13,5
+Oklahoma,2005,Bob Stoops,8,4,0,0.66667,323,277,46,0,NA,12,6
+Oklahoma,2006,Bob Stoops,11,3,0,0.78571,424,242,182,0,NA,14,7
+Oklahoma,2007,Bob Stoops,11,3,0,0.78571,592,284,308,0,NA,14,8
+Oklahoma,2008,Bob Stoops,12,2,0,0.85714,716,343,373,0,NA,14,9
+Oklahoma,2009,Bob Stoops,8,5,0,0.61538,404,189,215,0,NA,13,10
+Oklahoma,2010,Bob Stoops,12,2,0,0.85714,521,305,216,0,NA,14,11
+Oklahoma,2011,Bob Stoops,10,3,0,0.76923,514,287,227,0,NA,13,12
+Oklahoma,2012,Bob Stoops,10,3,0,0.76923,496,331,165,0,NA,13,13
+Oklahoma,2013,Bob Stoops,11,2,0,0.84615,427,287,140,0,NA,13,14
+Oklahoma,2014,Bob Stoops,8,5,0,0.61538,473,337,136,0,NA,13,15
+Oklahoma,2015,Bob Stoops,11,2,0,0.84615,566,286,280,0,NA,13,16
+Oklahoma St.,1998,Bob Simmons,5,6,0,0.45455,303,296,7,4,1,11,0
+Oklahoma St.,1999,Bob Simmons,5,6,0,0.45455,267,274,-7,4,1,11,1
+Oklahoma St.,2000,Bob Simmons,3,8,0,0.27273,202,303,-101,4,1,11,2
+Oregon,2013,Mark Helfrich,11,2,0,0.84615,591,266,325,0,NA,13,0
+Oregon,2014,Mark Helfrich,13,2,0,0.86667,681,354,327,0,NA,15,1
+Oregon,2015,Mark Helfrich,9,4,0,0.69231,559,488,71,0,NA,13,2
+Oregon St.,1999,Dennis Erickson,7,5,0,0.58333,347,277,70,2,0,12,0
+Oregon St.,2000,Dennis Erickson,11,1,0,0.91667,400,212,188,2,0,12,1
+Oregon St.,2001,Dennis Erickson,5,6,0,0.45455,287,259,28,2,0,11,2
+Oregon St.,2002,Dennis Erickson,8,5,0,0.61538,414,267,147,2,0,13,3
+Oregon St.,2015,Gary Andersen,2,10,0,0.16667,228,444,-216,0,NA,12,6
+Penn St.,2012,Bill O'Brien,8,4,0,0.66667,349,229,120,2,0,12,0
+Penn St.,2013,Bill O'Brien,7,5,0,0.58333,344,314,30,2,0,12,1
+Pittsburgh (PA),1998,Walt Harris,2,9,0,0.18182,234,334,-100,4,1,11,0
+Pittsburgh (PA),1999,Walt Harris,5,6,0,0.45455,281,278,3,4,1,11,1
+Pittsburgh (PA),2000,Walt Harris,7,5,0,0.58333,296,247,49,4,1,12,2
+Pittsburgh (PA),2001,Walt Harris,7,5,0,0.58333,296,245,51,4,1,12,3
+Pittsburgh (PA),2002,Walt Harris,9,4,0,0.69231,331,232,99,4,1,13,4
+Pittsburgh (PA),2003,Walt Harris,8,5,0,0.61538,389,311,78,4,1,13,5
+Pittsburgh (PA),2004,Walt Harris,8,4,0,0.66667,325,288,37,4,1,12,6
+Pittsburgh (PA),2005,Dave Wannstedt,5,6,0,0.45455,267,243,24,4,1,11,0
+Pittsburgh (PA),2006,Dave Wannstedt,6,6,0,0.5,381,274,107,4,1,12,1
+Pittsburgh (PA),2007,Dave Wannstedt,5,7,0,0.41667,274,291,-17,4,1,12,2
+Pittsburgh (PA),2008,Dave Wannstedt,9,4,0,0.69231,352,279,73,4,1,13,3
+Pittsburgh (PA),2009,Dave Wannstedt,10,3,0,0.76923,417,257,160,4,1,13,4
+Pittsburgh (PA),2010,Dave Wannstedt,7,5,0,0.58333,315,237,78,4,1,12,5
+Pittsburgh (PA),2012,Paul Chryst,6,7,0,0.46154,346,274,72,2,0,13,0
+Pittsburgh (PA),2013,Paul Chryst,7,6,0,0.53846,342,353,-11,2,0,13,1
+Pittsburgh (PA),2014,Paul Chryst,6,7,0,0.46154,414,342,72,2,0,13,2
+San Diego St. (CA),2011,Rocky Long,8,5,0,0.61538,387,325,62,0,NA,13,13
+San Diego St. (CA),2012,Rocky Long,9,4,0,0.69231,427,317,110,0,NA,13,14
+San Diego St. (CA),2013,Rocky Long,8,5,0,0.61538,387,412,-25,0,NA,13,15
+San Diego St. (CA),2014,Rocky Long,7,6,0,0.53846,325,258,67,0,NA,13,16
+San Diego St. (CA),2015,Rocky Long,11,3,0,0.78571,450,230,220,0,NA,14,17
+San Jose St. (CA),2001,Fitz Hill,3,9,0,0.25,295,461,-166,5,1,12,0
+San Jose St. (CA),2002,Fitz Hill,6,7,0,0.46154,376,467,-91,5,1,13,1
+San Jose St. (CA),2003,Fitz Hill,3,8,0,0.27273,259,386,-127,5,1,11,2
+San Jose St. (CA),2004,Fitz Hill,2,9,0,0.18182,312,469,-157,5,1,11,3
+South Carolina,1999,Lou Holtz,0,11,0,0,87,278,-191,1,0,11,0
+South Carolina,2000,Lou Holtz,8,4,0,0.66667,283,181,102,1,0,12,1
+South Carolina,2001,Lou Holtz,9,3,0,0.75,310,230,80,1,0,12,2
+South Carolina,2002,Lou Holtz,5,7,0,0.41667,225,262,-37,1,0,12,3
+South Carolina,2003,Lou Holtz,5,7,0,0.41667,268,314,-46,1,0,12,4
+South Carolina,2004,Lou Holtz,6,5,0,0.54545,243,229,14,1,0,11,5
+South Carolina,2005,Steve Spurrier,7,5,0,0.58333,284,279,5,1,0,12,7
+South Carolina,2006,Steve Spurrier,8,5,0,0.61538,346,243,103,1,0,13,8
+South Carolina,2007,Steve Spurrier,6,6,0,0.5,313,282,31,1,0,12,9
+South Carolina,2008,Steve Spurrier,7,6,0,0.53846,270,274,-4,1,0,13,10
+South Carolina,2009,Steve Spurrier,7,6,0,0.53846,268,265,3,1,0,13,11
+South Carolina,2010,Steve Spurrier,9,5,0,0.64286,433,324,109,1,0,14,12
+South Carolina,2011,Steve Spurrier,11,2,0,0.84615,391,239,152,1,0,13,13
+South Carolina,2012,Steve Spurrier,11,2,0,0.84615,410,237,173,1,0,13,14
+South Carolina,2013,Steve Spurrier,11,2,0,0.84615,443,264,179,1,0,13,15
+South Carolina,2014,Steve Spurrier,7,6,0,0.53846,424,395,29,1,0,13,16
+South Carolina,2015,Steve Spurrier,2,4,0,0.33333,124,174,-50,1,0,6,17
+Southern California,1998,Paul Hackett,8,5,0,0.61538,346,241,105,5,1,13,0
+Southern California,1999,Paul Hackett,7,5,0,0.58333,348,278,70,5,1,12,1
+Southern California,2000,Paul Hackett,5,7,0,0.41667,309,337,-28,5,1,12,2
+Southern California,2001,Pete Carroll,6,6,0,0.5,298,207,91,2,0,12,0
+Southern California,2002,Pete Carroll,11,2,0,0.84615,465,240,225,2,0,13,1
+Southern California,2003,Pete Carroll,12,1,0,0.92308,534,239,295,2,0,13,2
+Southern California,2004,Pete Carroll,11,0,0,1,496,169,327,2,0,11,3
+Southern California,2006,Pete Carroll,11,2,0,0.84615,396,197,199,2,0,13,5
+Southern California,2007,Pete Carroll,11,2,0,0.84615,424,208,216,2,0,13,6
+Southern California,2008,Pete Carroll,12,1,0,0.92308,488,117,371,2,0,13,7
+Southern California,2009,Pete Carroll,9,4,0,0.69231,344,258,86,2,0,13,8
+Southern Methodist (TX),1998,Mike Cavan,5,7,0,0.41667,225,248,-23,5,1,12,0
+Southern Methodist (TX),1999,Mike Cavan,4,6,0,0.4,193,235,-42,5,1,10,1
+Southern Methodist (TX),2000,Mike Cavan,3,9,0,0.25,181,352,-171,5,1,12,2
+Southern Methodist (TX),2001,Mike Cavan,4,7,0,0.36364,226,295,-69,5,1,11,3
+Southern Mississippi,2008,Larry Fedora,7,6,0,0.53846,398,313,85,2,0,13,0
+Southern Mississippi,2009,Larry Fedora,7,6,0,0.53846,428,336,92,2,0,13,1
+Southern Mississippi,2010,Larry Fedora,8,5,0,0.61538,479,384,95,2,0,13,2
+Southern Mississippi,2011,Larry Fedora,12,2,0,0.85714,516,291,225,2,0,14,3
+Stanford (CA),2005,Walt Harris,5,6,0,0.45455,269,337,-68,5,1,11,7
+Stanford (CA),2006,Walt Harris,1,11,0,0.08333,127,377,-250,5,1,12,8
+Syracuse (NY),2005,Greg Robinson,1,10,0,0.09091,152,295,-143,5,1,11,0
+Syracuse (NY),2006,Greg Robinson,4,8,0,0.33333,209,295,-86,5,1,12,1
+Syracuse (NY),2007,Greg Robinson,2,10,0,0.16667,197,418,-221,5,1,12,2
+Syracuse (NY),2008,Greg Robinson,3,9,0,0.25,217,392,-175,5,1,12,3
+Temple (PA),1998,Bobby Wallace,2,9,0,0.18182,198,360,-162,5,1,11,0
+Temple (PA),1999,Bobby Wallace,2,9,0,0.18182,153,366,-213,5,1,11,1
+Temple (PA),2000,Bobby Wallace,4,7,0,0.36364,224,269,-45,5,1,11,2
+Temple (PA),2001,Bobby Wallace,4,7,0,0.36364,198,311,-113,5,1,11,3
+Temple (PA),2002,Bobby Wallace,4,8,0,0.33333,242,351,-109,5,1,12,4
+Temple (PA),2003,Bobby Wallace,1,11,0,0.08333,235,393,-158,5,1,12,5
+Temple (PA),2004,Bobby Wallace,2,9,0,0.18182,238,399,-161,5,1,11,6
+Temple (PA),2005,Bobby Wallace,0,11,0,0,107,498,-391,5,1,11,7
+Tennessee,1998,Phillip Fulmer,13,0,0,1,431,189,242,4,1,13,0
+Tennessee,1999,Phillip Fulmer,9,3,0,0.75,369,194,175,4,1,12,1
+Tennessee,2000,Phillip Fulmer,8,4,0,0.66667,380,247,133,4,1,12,2
+Tennessee,2001,Phillip Fulmer,11,2,0,0.84615,400,251,149,4,1,13,3
+Tennessee,2002,Phillip Fulmer,8,5,0,0.61538,296,227,69,4,1,13,4
+Tennessee,2003,Phillip Fulmer,10,3,0,0.76923,365,239,126,4,1,13,5
+Tennessee,2004,Phillip Fulmer,10,3,0,0.76923,378,295,83,4,1,13,6
+Tennessee,2005,Phillip Fulmer,5,6,0,0.45455,205,205,0,4,1,11,7
+Tennessee,2006,Phillip Fulmer,9,4,0,0.69231,362,254,108,4,1,13,8
+Tennessee,2007,Phillip Fulmer,10,4,0,0.71429,455,382,73,4,1,14,9
+Tennessee,2008,Phillip Fulmer,5,7,0,0.41667,208,201,7,4,1,12,10
+Tennessee,2010,Derek Dooley,6,7,0,0.46154,351,326,25,5,1,13,3
+Tennessee,2011,Derek Dooley,5,7,0,0.41667,244,271,-27,5,1,12,4
+Tennessee,2012,Derek Dooley,4,7,0,0.36364,397,411,-14,5,1,11,5
+Tennessee,2013,Butch Jones,5,7,0,0.41667,286,348,-62,0,NA,12,6
+Tennessee,2014,Butch Jones,7,6,0,0.53846,376,315,61,0,NA,13,7
+Tennessee,2015,Butch Jones,9,4,0,0.69231,457,260,197,0,NA,13,8
+Texas,1998,Mack Brown,9,3,0,0.75,437,337,100,4,1,12,0
+Texas,1999,Mack Brown,9,5,0,0.64286,450,295,155,4,1,14,1
+Texas,2000,Mack Brown,9,3,0,0.75,455,232,223,4,1,12,2
+Texas,2001,Mack Brown,11,2,0,0.84615,517,207,310,4,1,13,3
+Texas,2002,Mack Brown,11,2,0,0.84615,439,212,227,4,1,13,4
+Texas,2003,Mack Brown,10,3,0,0.76923,533,280,253,4,1,13,5
+Texas,2004,Mack Brown,11,1,0,0.91667,423,215,208,4,1,12,6
+Texas,2005,Mack Brown,13,0,0,1,652,213,439,4,1,13,7
+Texas,2006,Mack Brown,10,3,0,0.76923,467,238,229,4,1,13,8
+Texas,2007,Mack Brown,10,3,0,0.76923,484,329,155,4,1,13,9
+Texas,2008,Mack Brown,12,1,0,0.92308,551,244,307,4,1,13,10
+Texas,2009,Mack Brown,13,1,0,0.92857,550,234,316,4,1,14,11
+Texas,2010,Mack Brown,5,7,0,0.41667,285,284,1,4,1,12,12
+Texas,2011,Mack Brown,8,5,0,0.61538,365,289,76,4,1,13,13
+Texas,2012,Mack Brown,9,4,0,0.69231,464,380,84,4,1,13,14
+Texas,2013,Mack Brown,8,5,0,0.61538,381,336,45,4,1,13,15
+Texas Christian,2001,Gary Patterson,6,6,0,0.5,289,285,4,0,NA,12,0
+Texas Christian,2002,Gary Patterson,10,2,0,0.83333,361,222,139,0,NA,12,1
+Texas Christian,2003,Gary Patterson,11,2,0,0.84615,380,276,104,0,NA,13,2
+Texas Christian,2004,Gary Patterson,5,6,0,0.45455,362,373,-11,0,NA,11,3
+Texas Christian,2005,Gary Patterson,11,1,0,0.91667,398,223,175,0,NA,12,4
+Texas Christian,2006,Gary Patterson,11,2,0,0.84615,380,160,220,0,NA,13,5
+Texas Christian,2007,Gary Patterson,8,5,0,0.61538,339,243,96,0,NA,13,6
+Texas Christian,2008,Gary Patterson,11,2,0,0.84615,437,147,290,0,NA,13,7
+Texas Christian,2009,Gary Patterson,12,1,0,0.92308,498,166,332,0,NA,13,8
+Texas Christian,2010,Gary Patterson,13,0,0,1,541,156,385,0,NA,13,9
+Texas Christian,2011,Gary Patterson,11,2,0,0.84615,531,279,252,0,NA,13,10
+Texas Christian,2012,Gary Patterson,7,6,0,0.53846,368,294,74,0,NA,13,11
+Texas Christian,2013,Gary Patterson,4,8,0,0.33333,301,303,-2,0,NA,12,12
+Texas Christian,2014,Gary Patterson,12,1,0,0.92308,604,247,357,0,NA,13,13
+Texas Christian,2015,Gary Patterson,11,2,0,0.84615,547,354,193,0,NA,13,14
+Texas St.,1998,Bob DeBesse,4,7,0,0.36364,186,269,-83,5,1,11,0
+Texas St.,1999,Bob DeBesse,3,8,0,0.27273,217,210,7,5,1,11,1
+Texas St.,2000,Bob DeBesse,7,4,0,0.63636,220,183,37,5,1,11,2
+Texas St.,2001,Bob DeBesse,4,7,0,0.36364,188,258,-70,5,1,11,3
+Texas St.,2002,Bob DeBesse,4,7,0,0.36364,211,290,-79,5,1,11,4
+Texas Tech,1998,Spike Dykes,7,5,0,0.58333,315,255,60,1,0,12,0
+Texas Tech,1999,Spike Dykes,6,5,0,0.54545,253,282,-29,1,0,11,1
+Texas Tech,2000,Mike Leach,7,6,0,0.53846,330,278,52,5,0,13,0
+Texas Tech,2001,Mike Leach,7,5,0,0.58333,402,281,121,5,0,12,1
+Texas Tech,2002,Mike Leach,9,5,0,0.64286,537,439,98,5,0,14,2
+Texas Tech,2003,Mike Leach,8,5,0,0.61538,552,442,110,5,0,13,3
+Texas Tech,2004,Mike Leach,8,4,0,0.66667,434,314,120,5,0,12,4
+Texas Tech,2005,Mike Leach,9,3,0,0.75,473,226,247,5,0,12,5
+Texas Tech,2006,Mike Leach,8,5,0,0.61538,422,326,96,5,0,13,6
+Texas Tech,2007,Mike Leach,9,4,0,0.69231,532,337,195,5,0,13,7
+Texas Tech,2008,Mike Leach,11,2,0,0.84615,569,362,207,5,0,13,8
+Texas Tech,2009,Mike Leach,8,4,0,0.66667,440,261,179,5,0,12,9
+Texas-San Antonio,2011,Larry Coker,4,6,0,0.4,266,214,52,4,1,10,10
+Texas-San Antonio,2012,Larry Coker,8,4,0,0.66667,374,345,29,4,1,12,11
+Texas-San Antonio,2013,Larry Coker,7,5,0,0.58333,307,316,-9,4,1,12,12
+Texas-San Antonio,2014,Larry Coker,4,8,0,0.33333,205,311,-106,4,1,12,13
+Texas-San Antonio,2015,Larry Coker,3,9,0,0.25,271,405,-134,4,1,12,14
+Toledo (OH),2001,Tom Amstutz,10,2,0,0.83333,407,297,110,2,0,12,0
+Toledo (OH),2002,Tom Amstutz,9,5,0,0.64286,495,378,117,2,0,14,1
+Toledo (OH),2003,Tom Amstutz,8,4,0,0.66667,389,285,104,2,0,12,2
+Toledo (OH),2004,Tom Amstutz,9,4,0,0.69231,432,404,28,2,0,13,3
+Toledo (OH),2005,Tom Amstutz,9,3,0,0.75,429,261,168,2,0,12,4
+Toledo (OH),2006,Tom Amstutz,5,7,0,0.41667,281,332,-51,2,0,12,5
+Toledo (OH),2007,Tom Amstutz,5,7,0,0.41667,395,470,-75,2,0,12,6
+Toledo (OH),2008,Tom Amstutz,3,9,0,0.25,269,377,-108,2,0,12,7
+Tulane (LA),1999,Chris Scelfo,3,8,0,0.27273,279,399,-120,5,1,11,0
+Tulane (LA),2000,Chris Scelfo,6,5,0,0.54545,329,346,-17,5,1,11,1
+Tulane (LA),2001,Chris Scelfo,3,9,0,0.25,344,495,-151,5,1,12,2
+Tulane (LA),2002,Chris Scelfo,8,5,0,0.61538,361,282,79,5,1,13,3
+Tulane (LA),2003,Chris Scelfo,5,7,0,0.41667,337,424,-87,5,1,12,4
+Tulane (LA),2004,Chris Scelfo,5,6,0,0.45455,300,361,-61,5,1,11,5
+Tulane (LA),2005,Chris Scelfo,2,9,0,0.18182,234,348,-114,5,1,11,6
+Tulane (LA),2006,Chris Scelfo,4,8,0,0.33333,224,400,-176,5,1,12,7
+Tulane (LA),2007,Bob Toledo,4,8,0,0.33333,293,375,-82,4,1,12,9
+Tulane (LA),2008,Bob Toledo,2,10,0,0.16667,200,414,-214,4,1,12,10
+Tulane (LA),2009,Bob Toledo,3,9,0,0.25,193,440,-247,4,1,12,11
+Tulane (LA),2010,Bob Toledo,4,8,0,0.33333,299,446,-147,4,1,12,12
+Tulane (LA),2011,Bob Toledo,2,5,0,0.28571,173,248,-75,4,1,7,13
+Tulsa (OK),2011,Bill Blankenship,8,5,0,0.61538,430,355,75,5,1,13,0
+Tulsa (OK),2012,Bill Blankenship,11,3,0,0.78571,486,331,155,5,1,14,1
+Tulsa (OK),2013,Bill Blankenship,3,9,0,0.25,253,407,-154,5,1,12,2
+Tulsa (OK),2014,Bill Blankenship,2,10,0,0.16667,296,471,-175,5,1,12,3
+UCLA,1998,Bob Toledo,10,2,0,0.83333,476,340,136,5,1,12,0
+UCLA,1999,Bob Toledo,5,6,0,0.45455,230,311,-81,5,1,11,1
+UCLA,2000,Bob Toledo,6,6,0,0.5,353,368,-15,5,1,12,2
+UCLA,2001,Bob Toledo,7,4,0,0.63636,317,225,92,5,1,11,3
+UCLA,2002,Bob Toledo,7,5,0,0.58333,360,313,47,5,1,12,4
+Utah,2005,Kyle Whittingham,7,5,0,0.58333,360,289,71,0,NA,12,0
+Utah,2006,Kyle Whittingham,8,5,0,0.61538,363,258,105,0,NA,13,1
+Utah,2007,Kyle Whittingham,9,4,0,0.69231,341,219,122,0,NA,13,2
+Utah,2008,Kyle Whittingham,13,0,0,1,480,224,256,0,NA,13,3
+Utah,2009,Kyle Whittingham,10,3,0,0.76923,388,263,125,0,NA,13,4
+Utah,2010,Kyle Whittingham,10,3,0,0.76923,430,264,166,0,NA,13,5
+Utah,2011,Kyle Whittingham,8,5,0,0.61538,325,263,62,0,NA,13,6
+Utah,2012,Kyle Whittingham,5,7,0,0.41667,320,301,19,0,NA,12,7
+Utah,2013,Kyle Whittingham,5,7,0,0.41667,350,336,14,0,NA,12,8
+Utah,2014,Kyle Whittingham,9,4,0,0.69231,407,324,83,0,NA,13,9
+Utah,2015,Kyle Whittingham,10,3,0,0.76923,398,290,108,0,NA,13,10
+Utah St.,2000,Mick Dennehy,5,6,0,0.45455,292,356,-64,5,1,11,0
+Utah St.,2001,Mick Dennehy,4,7,0,0.36364,316,421,-105,5,1,11,1
+Utah St.,2002,Mick Dennehy,4,7,0,0.36364,305,432,-127,5,1,11,2
+Utah St.,2003,Mick Dennehy,3,9,0,0.25,264,315,-51,5,1,12,3
+Utah St.,2004,Mick Dennehy,3,8,0,0.27273,184,333,-149,5,1,11,4
+Utah St.,2009,Gary Andersen,4,8,0,0.33333,349,408,-59,2,0,12,0
+Utah St.,2010,Gary Andersen,4,8,0,0.33333,264,405,-141,2,0,12,1
+Utah St.,2011,Gary Andersen,7,6,0,0.53846,437,363,74,2,0,13,2
+Utah St.,2012,Gary Andersen,11,2,0,0.84615,454,200,254,2,0,13,3
+Vanderbilt (TN),1998,Woody Widenhofer,2,9,0,0.18182,142,369,-227,4,1,11,0
+Vanderbilt (TN),1999,Woody Widenhofer,5,6,0,0.45455,252,256,-4,4,1,11,1
+Vanderbilt (TN),2000,Woody Widenhofer,3,8,0,0.27273,193,273,-80,4,1,11,2
+Vanderbilt (TN),2001,Woody Widenhofer,2,9,0,0.18182,226,402,-176,4,1,11,3
+Wake Forest (NC),2001,Jim Grobe,6,5,0,0.54545,292,311,-19,1,0,11,3
+Wake Forest (NC),2002,Jim Grobe,7,6,0,0.53846,356,327,29,1,0,13,4
+Wake Forest (NC),2003,Jim Grobe,5,7,0,0.41667,335,347,-12,1,0,12,5
+Wake Forest (NC),2004,Jim Grobe,4,7,0,0.36364,230,253,-23,1,0,11,6
+Wake Forest (NC),2005,Jim Grobe,4,7,0,0.36364,269,316,-47,1,0,11,7
+Wake Forest (NC),2006,Jim Grobe,11,3,0,0.78571,302,215,87,1,0,14,8
+Wake Forest (NC),2007,Jim Grobe,9,4,0,0.69231,362,289,73,1,0,13,9
+Wake Forest (NC),2008,Jim Grobe,8,5,0,0.61538,273,238,35,1,0,13,10
+Wake Forest (NC),2009,Jim Grobe,5,7,0,0.41667,316,315,1,1,0,12,11
+Wake Forest (NC),2010,Jim Grobe,3,9,0,0.25,273,430,-157,1,0,12,12
+Wake Forest (NC),2011,Jim Grobe,6,7,0,0.46154,338,356,-18,1,0,13,13
+Wake Forest (NC),2012,Jim Grobe,5,7,0,0.41667,222,382,-160,1,0,12,14
+Wake Forest (NC),2013,Jim Grobe,4,8,0,0.33333,220,289,-69,1,0,12,15
+Wake Forest (NC),2014,Dave Clawson,3,9,0,0.25,178,317,-139,0,NA,12,5
+Wake Forest (NC),2015,Dave Clawson,3,9,0,0.25,209,295,-86,0,NA,12,6
+Washington St.,2012,Mike Leach,3,9,0,0.25,245,404,-159,0,NA,12,12
+Washington St.,2013,Mike Leach,6,7,0,0.46154,403,423,-20,0,NA,13,13
+Washington St.,2014,Mike Leach,3,9,0,0.25,382,463,-81,0,NA,12,14
+Washington St.,2015,Mike Leach,9,4,0,0.69231,409,360,49,0,NA,13,15
+West Virginia,1998,Don Nehlen,8,4,0,0.66667,410,267,143,1,0,12,0
+West Virginia,1999,Don Nehlen,4,7,0,0.36364,292,289,3,1,0,11,1
+West Virginia,2000,Don Nehlen,7,5,0,0.58333,356,363,-7,1,0,12,2
+West Virginia,2008,Bill Stewart,9,4,0,0.69231,319,221,98,4,0,13,0
+West Virginia,2009,Bill Stewart,9,4,0,0.69231,340,282,58,4,0,13,1
+West Virginia,2010,Bill Stewart,9,4,0,0.69231,327,176,151,4,0,13,2
+Western Kentucky,2003,David Elson,9,4,0,0.69231,427,219,208,5,1,13,0
+Western Kentucky,2004,David Elson,9,3,0,0.75,350,227,123,5,1,12,1
+Western Kentucky,2005,David Elson,6,5,0,0.54545,339,292,47,5,1,11,2
+Western Kentucky,2006,David Elson,6,5,0,0.54545,258,263,-5,5,1,11,3
+Western Kentucky,2007,David Elson,7,5,0,0.58333,398,250,148,5,1,12,4
+Western Kentucky,2008,David Elson,2,10,0,0.16667,210,326,-116,5,1,12,5
+Western Kentucky,2009,David Elson,0,12,0,0,245,475,-230,5,1,12,6
+Western Kentucky,2013,"Bobby ""Bob"" Petrino",8,4,0,0.66667,370,295,75,2,0,12,10
+Western Michigan,1998,Gary Darnell,7,4,0,0.63636,360,312,48,5,1,11,0
+Western Michigan,1999,Gary Darnell,7,5,0,0.58333,373,342,31,5,1,12,1
+Western Michigan,2000,Gary Darnell,9,3,0,0.75,359,139,220,5,1,12,2
+Western Michigan,2001,Gary Darnell,5,6,0,0.45455,277,266,11,5,1,11,3
+Western Michigan,2002,Gary Darnell,4,8,0,0.33333,303,330,-27,5,1,12,4
+Western Michigan,2003,Gary Darnell,5,7,0,0.41667,331,370,-39,5,1,12,5
+Western Michigan,2004,Gary Darnell,1,10,0,0.09091,248,436,-188,5,1,11,6
+Western Michigan,2005,Bill Cubit,7,4,0,0.63636,354,342,12,5,1,11,0
+Western Michigan,2006,Bill Cubit,8,5,0,0.61538,299,259,40,5,1,13,1
+Western Michigan,2007,Bill Cubit,5,7,0,0.41667,323,347,-24,5,1,12,2
+Western Michigan,2008,Bill Cubit,9,4,0,0.69231,372,324,48,5,1,13,3
+Western Michigan,2009,Bill Cubit,5,7,0,0.41667,296,330,-34,5,1,12,4
+Western Michigan,2010,Bill Cubit,6,6,0,0.5,388,286,102,5,1,12,5
+Western Michigan,2011,Bill Cubit,7,6,0,0.53846,459,373,86,5,1,13,6
+Western Michigan,2012,Bill Cubit,4,8,0,0.33333,352,356,-4,5,1,12,7
+Wisconsin,2013,Gary Andersen,9,4,0,0.69231,453,212,241,2,0,13,4
+Wisconsin,2014,Gary Andersen,10,3,0,0.76923,450,260,190,2,0,13,5
+Wisconsin,2015,Paul Chryst,10,3,0,0.76923,348,178,170,0,NA,13,3
+Wyoming,1998,Dana Dimel,8,3,0,0.72727,222,215,7,2,0,11,0
+Wyoming,1999,Dana Dimel,7,4,0,0.63636,302,270,32,2,0,11,1
+Wyoming,2009,Dave Christensen,7,6,0,0.53846,238,355,-117,5,1,13,0
+Wyoming,2010,Dave Christensen,3,9,0,0.25,230,364,-134,5,1,12,1
+Wyoming,2011,Dave Christensen,8,5,0,0.61538,339,361,-22,5,1,13,2
+Wyoming,2012,Dave Christensen,4,7,0,0.36364,308,356,-48,5,1,11,3
+Wyoming,2013,Dave Christensen,5,7,0,0.41667,375,440,-65,5,1,12,4
